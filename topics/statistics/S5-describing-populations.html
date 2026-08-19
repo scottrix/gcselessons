@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>S5: Describing Populations - GCSE Mathematics Lessons</title>
+<meta name="description" content="S5 Describing Populations - Detailed GCSE Mathematics lesson plan for homeschooling">
+<meta name="keywords" content="GCSE Mathematics, homeschool, lesson plan, population, parameters, statistics, inference, confidence intervals, capture-recapture">
+<meta property="og:title" content="Describing Populations - GCSE Mathematics Lessons">
+<meta property="og:description" content="S5 Describing Populations - Detailed GCSE Mathematics lesson plan">
+<meta property="og:type" content="article">
+<link rel="canonical" href="https://scottrix.github.io/gcselessons/topics/statistics/S5-describing-populations.html">
+<meta property="og:site_name" content="GCSE Lessons">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="S5: Describing Populations">
+<link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+<header class="site-header">
+<div class="header-content">
+<a href="../../" class="logo">📖 GCSE Lessons</a>
+<nav class="nav"><a href="../../#subjects">Subjects</a> <a href="../../mathematics.html">Mathematics</a></nav>
+<button id="theme-toggle" class="theme-btn">🌙</button>
+</div>
+</header>
+<main class="topic-content">
+<div class="disclaimer-banner"><strong>Homeschool Guide:</strong> These lesson plans are a guide for parents. Content may contain errors — always cross-reference with official exam board specifications.</div>
+
+<nav class="breadcrumb"><a href="../../">Home</a> <span>›</span> <a href="../../mathematics.html">Mathematics</a> <span>›</span> <span>Describing Populations</span></nav>
+
+<article class="topic-header">
+<h1>S5: Describing Populations</h1>
+<div class="topic-meta">
+<span class="badge foundation">Foundation</span>
+<span class="badge higher">Higher</span>
+<span class="badge">All Boards</span>
+</div>
+<p class="topic-desc">Understand the difference between populations and samples, parameters and statistics. Use sample statistics to estimate population parameters. Introduction to capture-recapture method and limitations of inference.</p>
+</article>
+<a class="fastmail-topbar" data-banner="fastmail" href="https://join.fastmail.com/0d63b2d52105" target="_blank" rel="noopener"><img src="../../images/assets/FM Billboard 970x250.png" alt="Fastmail" loading="lazy"></a>
+<a class="fastmail-topbar" data-banner="dynadot" href="https://www.dynadot.com/?ref=scottrix" target="_blank" rel="nofollow noopener" hidden><img src="../../images/assets/dynadot-banner.jpg" alt="Dynadot — register a new domain, web hosting, SSL" loading="lazy" onerror="this.parentElement.style.display='none';document.querySelector('[data-banner=fastmail]').hidden=false"></a>
+<script>(function(){var fm=document.querySelector('[data-banner=fastmail]');var dd=document.querySelector('[data-banner=dynadot]');if(Math.random()<0.5){fm.hidden=true;dd.hidden=false}})();</script>
+
+<section class="section">
+<h2>Lesson Overview</h2>
+<div class="key-point">
+<strong>Estimated Lessons:</strong> 3<br>
+<strong>Tier:</strong> Foundation and Higher<br>
+<strong>Duration:</strong> 50 minutes per lesson<br>
+<strong>Exam Boards:</strong> AQA, Edexcel, OCR, Eduqas, CCEA
+</div>
+</section>
+
+<section class="section">
+<h2>Learning Objectives</h2>
+<ul>
+<li>Distinguish between population and sample, parameter and statistic</li>
+<li>Understand that sample statistics estimate population parameters</li>
+<li>Calculate and interpret the capture-recapture estimate for population size</li>
+<li>Understand assumptions and limitations of capture-recapture</li>
+<li>Recognise that different samples give different estimates (sampling variability)</li>
+<li>Identify when inference is appropriate and when it is not</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Prerequisites</h2>
+<ul>
+<li>Understanding of sampling methods (from S1)</li>
+<li>Proportional reasoning (fractions, percentages)</li>
+<li>Basic algebra for capture-recapture formula</li>
+<li>Understanding of bias and representativeness</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Materials & Equipment</h2>
+<ul>
+<li>Coloured counters/beans (two colours) for capture-recapture simulation</li>
+<li>Opaque bags or containers</li>
+<li>Calculators</li>
+<li>Spreadsheets for simulation</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Lesson 1: Populations, Samples, Parameters, Statistics</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example">
+<div class="example-title">What Do We Know?</div>
+<p>"The average height of all 14-year-olds in the UK is 162 cm." Ask: "How do we know this? Did someone measure every 14-year-old? What's the difference between 'all 14-year-olds' and 'the 500 we measured'?"</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+<strong>Key definitions:</strong><br>
+• <strong>Population</strong> — the entire group of interest (all individuals, items, events)<br>
+• <strong>Sample</strong> — a subset of the population selected for study<br>
+• <strong>Parameter</strong> — a numerical characteristic of a population (e.g. population mean μ, population proportion p, population standard deviation σ)<br>
+• <strong>Statistic</strong> — a numerical characteristic of a sample (e.g. sample mean x̄, sample proportion p̂, sample standard deviation s)<br><br>
+<strong>Notation:</strong> Population: μ, σ, p, N. Sample: x̄, s, p̂, n.<br>
+<strong>Inference:</strong> Using sample statistics to estimate population parameters. The sample mean x̄ estimates μ. The sample proportion p̂ estimates p.<br><br>
+<strong>Sampling variability:</strong> Different samples give different statistics. The sample mean varies from sample to sample. This is why we need sampling distributions (beyond GCSE) and confidence intervals (Higher extension).
+</div>
+
+<div class="example">
+<div class="example-title">Identify Parameter vs Statistic</div>
+<p>1. "The mean height of all Year 9 students in England is 162.3 cm" → Parameter (μ)<br>
+2. "In a sample of 200 Year 9 students, the mean height was 161.8 cm" → Statistic (x̄)<br>
+3. "60% of voters support Party X" → Parameter (p)<br>
+4. "In a poll of 1000 voters, 58% supported Party X" → Statistic (p̂)</p>
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example: Sample Proportion</div>
+<p>A sample of 400 students: 120 walk to school.<br>
+Sample proportion p̂ = 120/400 = 0.3 = 30%.<br>
+This estimates the population proportion p of all students who walk to school.<br>
+We don't know p exactly, but 0.3 is our best estimate from this sample.</p>
+</div>
+
+<div class="formula-box">
+Sample proportion: p̂ = (number with characteristic) / (sample size)<br>
+Sample mean: x̄ = Σx / n<br>
+Population parameter estimated by corresponding sample statistic
+</div>
+
+<div class="misconception">
+<h3>Common Misconception</h3>
+<p><span class="wrong">"The sample statistic equals the population parameter."</span></p>
+<p><span class="right">The statistic is an <em>estimate</em> of the parameter. They are rarely exactly equal. The parameter is fixed (but unknown); the statistic varies from sample to sample.</span></p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point"><strong>Support:</strong><br>Use physical population (bag of 100 coloured counters). Take samples of 10, calculate proportion of red. Repeat 5 times. Show variability. Vocabulary cards: population/sample, parameter/statistic.</div>
+<div class="key-point"><strong>Stretch:</strong><br>Simulate sampling distribution: take 100 samples of size 30 from a known population (spreadsheet). Plot sample means. Discuss shape, centre, spread. Introduction to standard error.</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example"><div class="example-title">News Headlines</div>
+<p>"Poll shows 52% support for policy." Students identify: population (all voters), sample (polled voters), parameter (true support p), statistic (52% = p̂).</p></div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Correctly identifies population/sample, parameter/statistic in contexts. Uses notation correctly.</li>
+<li><strong>Getting there:</strong> Understands concepts but mixes up notation (e.g. uses μ for sample mean).</li>
+<li><strong>Not yet:</strong> Thinks sample statistic is the true parameter. Reteach with physical simulation.</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Lesson 2: Capture-Recapture Method</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example">
+<div class="example-title">How Many Fish?</div>
+<p>"A lake has an unknown number of fish. How could you estimate it without catching them all?" Discuss ideas. Introduce: tag some, release, recapture, count tagged.</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+<strong>Capture-recapture (Lincoln-Petersen method):</strong><br>
+1. Capture a sample, mark/tag them, release (M = number marked)<br>
+2. Wait for mixing<br>
+3. Recapture a second sample (n = second sample size)<br>
+4. Count how many in second sample are marked (m)<br>
+5. Assume proportion marked in second sample = proportion marked in population<br>
+m / n = M / N  →  N = (M × n) / m<br><br>
+<strong>Assumptions:</strong><br>
+• Population is closed (no births, deaths, immigration, emigration)<br>
+• Marks don't fall off or affect survival/behaviour<br>
+• Complete mixing between capture and recapture<br>
+• All individuals equally likely to be caught<br>
+• No trap-shyness or trap-happiness<br><br>
+<strong>Limitations:</strong> Violations cause bias. E.g. if marked animals avoid traps, m is too small → N overestimated.
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example: Capture-Recapture</div>
+<p>Ecologist estimates woodlice population in a garden.<br>
+1. Captures 50 woodlice, marks with paint, releases. M = 50.<br>
+2. Waits 24 hours.<br>
+3. Captures 40 woodlice. n = 40.<br>
+4. Finds 8 are marked. m = 8.<br>
+Estimate N = (50 × 40) / 8 = 2000 / 8 = 250 woodlice.</p>
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example: Assumption Check</div>
+<p>Same scenario. What if paint makes woodlice more visible to predators? Marked woodlice die → fewer marked in recapture → m smaller → N overestimated.<br>
+What if woodlice learn to avoid traps? Trap-shy → m smaller → N overestimated.<br>
+What if new woodlice born between captures? Population not closed → N overestimated.</p>
+</div>
+
+<div class="formula-box">
+Capture-recapture estimate: N = (M × n) / m<br>
+M = number marked and released<br>
+n = size of second sample<br>
+m = number of marked individuals in second sample
+</div>
+
+<div class="misconception">
+<h3>Common Misconception</h3>
+<p><span class="wrong">"Capture-recapture gives the exact population size."</span></p>
+<p><span class="right">It gives an <em>estimate</em>. The true population size is unknown. The estimate has uncertainty (confidence intervals not covered at GCSE).</span></p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point"><strong>Support:</strong><br>Physical simulation: bag with 100 beans (population). Student takes 20 (M), marks with pen, returns. Shakes. Takes 15 (n), counts marked (m). Calculates N. Repeat. Compare estimates.</div>
+<div class="key-point"><strong>Stretch:</strong><br>Derive formula from proportion equality. Research Schnabel index (multiple recaptures). Discuss: why might N not be integer? What does rounding mean?</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example"><div class="example-title">Design a Study</div>
+<p>"Estimate the number of daisies on the school field." Students design capture-recapture: what to mark, how many, how to mix, assumptions to check.</p></div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Applies formula correctly, states assumptions, identifies violations and direction of bias.</li>
+<li><strong>Getting there:</strong> Uses formula but forgets assumptions, or cannot explain why bias occurs.</li>
+<li><strong>Not yet:</strong> Confuses M, n, m. Reteach with colour-coded example: first sample = blue, second sample = green, overlap = marked in both.</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Lesson 3: Inference and Limitations</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example">
+<div class="example-title">Can We Generalise?</div>
+<p>Scenarios: 1. Survey 50 Year 7s about bedtime → infer for all Year 7s? 2. Survey 50 Year 7s → infer for all secondary students? 3. Test 10 lightbulbs from factory → infer for all bulbs? 4. Ask friends about favourite game → infer for UK teens? Discuss representativeness.</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+<strong>When can we infer?</strong><br>
+• Sample must be representative (random, stratified, no bias)<br>
+• Sample size must be adequate (larger = more precise, but diminishing returns)<br>
+• Population must be well-defined<br><br>
+<strong>Sampling variability:</strong> Even with perfect random sample, statistic ≠ parameter. Different samples → different estimates.<br>
+<strong>Margin of error (intuitive):</strong> Sample proportion ± margin. For n=100, margin ≈ 10%. For n=1000, margin ≈ 3%. Formula: 1/√n (rough rule).<br>
+<strong>Confidence (Higher):</strong> "We are 95% confident the true proportion is between 45% and 55%." Not covered in detail at GCSE but conceptually important.<br><br>
+<strong>Inappropriate inference:</strong><br>
+• Convenience sample → generalise to population<br>
+• Small sample → precise claims<br>
+• Different population → apply results (e.g. adult drug trial → children)<br>
+• Correlation → causation (leads to S6)
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example: Margin of Error</div>
+<p>Survey of 100 people: 60% support policy.<br>
+Rough margin of error ≈ 1/√100 = 1/10 = 10%.<br>
+Estimate: 50% to 70%.<br>
+Same survey, 1000 people: 60% support.<br>
+Margin ≈ 1/√1000 ≈ 3%.<br>
+Estimate: 57% to 63%. More precise.</p>
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example: Bad Inference</div>
+<p>"A study of 20 marathon runners found they eat 3000 calories/day. Therefore all adults should eat 3000 calories/day."<br>
+Problems: Sample not representative (marathon runners ≠ general population). Small sample. Different population. Causation implied.</p>
+</div>
+
+<div class="misconception">
+<h3>Common Misconception</h3>
+<p><span class="wrong">"A larger sample is always representative."</span></p>
+<p><span class="right">A large biased sample (e.g. 10,000 self-selected online respondents) is worse than a small random sample (e.g. 100 randomly selected). Method matters more than size.</span></p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point"><strong>Support:</strong><br>Checklist for valid inference: Random? Representative? Adequate size? Same population? Use traffic light cards (green/amber/red) for scenarios.</div>
+<div class="key-point"><strong>Stretch:</strong><br>Calculate approximate margin of error for different sample sizes. Research "confidence interval for a proportion" formula: p̂ ± 1.96√(p̂(1−p̂)/n). Discuss why 1.96.</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example"><div class="example-title">Critique the Claim</div>
+<p>"A shampoo company surveys 500 customers at a hair salon. 90% say their hair is healthier. Ad claims '90% of women have healthier hair.'" Students list flaws.</p></div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Evaluates whether inference is valid, identifies sampling bias, understands variability.</li>
+<li><strong>Getting there:</strong> Spots obvious bias but misses subtle issues (e.g. population mismatch).</li>
+<li><strong>Not yet:</strong> Accepts any sample statistic as true for population. Reteach: sample ≠ population.</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Homework Suggestions</h2>
+<ul>
+<li>Capture-recapture simulation: use a bag of 200 counters, sample 30, mark, recapture 25, estimate. Repeat 5 times. Calculate mean estimate.</li>
+<li>Find a news article with a statistic (e.g. "40% of Britons think..."). Identify population, sample, parameter, statistic. Critique the sampling method.</li>
+<li>Design a capture-recapture study for a local population (birds, insects, pets). List assumptions and how you'd check them.</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Resources</h2>
+<ul>
+<li><a href="https://www.bbc.co.uk/bitesize/gcse/maths/statistics" target="_blank" rel="noopener">BBC Bitesize - Statistics</a></li>
+<li><a href="https://www.nuffieldfoundation.org/resources/fsmq/estimating-population-size" target="_blank" rel="noopener">Nuffield Foundation - Estimating Population Size</a></li>
+</ul>
+</section>
+
+</main>
+<footer class="site-footer">
+<p>GCSE Lessons - Free lesson plans for homeschooling</p>
+<p>Content for educational purposes only. Always cross-reference with official specifications.</p>
+<p>© 2025 | <a href="../../privacy.html">Privacy Policy</a> | <a href="mailto:gcselessons@scott.scottrix.co.uk">Contact</a></p>
+</footer>
+<script>
+document.getElementById('theme-toggle').addEventListener('click', function() {
+const root = document.documentElement;
+if (root.classList.contains('light-mode')) {
+root.classList.remove('light-mode');
+this.textContent = '🌙';
+localStorage.setItem('gcselessons-theme', 'dark');
+} else {
+root.classList.add('light-mode');
+this.textContent = '☀️';
+localStorage.setItem('gcselessons-theme', 'light');
+}
+});
+if (localStorage.getItem('gcselessons-theme') === 'light') {
+document.documentElement.classList.add('light-mode');
+document.getElementById('theme-toggle').textContent = '☀️';
+}
+</script>
+<script src="../../sidebar.js"></script>
+<script src="../../affiliate-images.js"></script>
+</body>
+</html>

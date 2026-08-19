@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>N16: Upper and Lower Bounds - GCSE Mathematics Lessons</title>
+<meta name="description" content="N16 Upper Lower Bounds - Detailed GCSE Mathematics lesson plan for homeschooling (Higher tier only)">
+<meta name="keywords" content="GCSE Maths, homeschool, lesson plan, upper bounds, lower bounds, calculations with bounds, error propagation, Higher tier">
+<meta property="og:title" content="Upper and Lower Bounds - GCSE Mathematics Lessons">
+<meta property="og:description" content="N16 Upper Lower Bounds - Detailed GCSE Mathematics lesson plan (Higher tier)">
+<meta property="og:type" content="article">
+<link rel="canonical" href="https://scottrix.github.io/gcselessons/topics/number/N16-upper-lower-bounds.html">
+<meta property="og:site_name" content="GCSE Lessons">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="N16: Upper and Lower Bounds (Higher)">
+<link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+<header class="site-header">
+<div class="header-content">
+<a href="../../" class="logo">📖 GCSE Lessons</a>
+<nav class="nav"><a href="../../#subjects">Subjects</a> <a href="../../mathematics.html">Mathematics</a></nav>
+<button id="theme-toggle" class="theme-btn">🌙</button>
+</div>
+</header>
+<main class="topic-content">
+<div class="disclaimer-banner"><strong>Homeschool Guide:</strong> These lesson plans are a guide for parents. Content may contain errors — always cross-reference with official exam board specifications.</div>
+
+<nav class="breadcrumb"><a href="../../">Home</a> <span>›</span> <a href="../../mathematics.html">Mathematics</a> <span>›</span> <span>Upper and Lower Bounds</span></nav>
+
+<article class="topic-header">
+<h1>N16: Upper and Lower Bounds</h1>
+<div class="topic-meta">
+<span class="badge higher">Higher</span>
+<span class="badge">All Boards</span>
+</div>
+<p class="topic-desc">Higher tier only. Calculate with upper and lower bounds. Find bounds of compound measures (speed, density, pressure). Determine suitable degree of accuracy for answers.</p>
+</article>
+<a class="fastmail-topbar" data-banner="fastmail" href="https://join.fastmail.com/0d63b2d52105" target="_blank" rel="noopener"><img src="../../images/assets/FM Billboard 970x250.png" alt="Fastmail" loading="lazy"></a>
+<a class="fastmail-topbar" data-banner="dynadot" href="https://www.dynadot.com/?ref=scottrix" target="_blank" rel="nofollow noopener" hidden><img src="../../images/assets/dynadot-banner.jpg" alt="Dynadot — register a new domain, web hosting, SSL" loading="lazy" onerror="this.parentElement.style.display='none';document.querySelector('[data-banner=fastmail]').hidden=false"></a>
+<script>(function(){var fm=document.querySelector('[data-banner=fastmail]');var dd=document.querySelector('[data-banner=dynadot]');if(Math.random()<0.5){fm.hidden=true;dd.hidden=false}})();</script>
+
+<section class="section">
+<h2>Lesson Overview</h2>
+<div class="key-point">
+<strong>Estimated Lessons:</strong> 3<br>
+<strong>Tier:</strong> Higher only<br>
+<strong>Duration:</strong> 50 minutes per lesson<br>
+<strong>Exam Boards:</strong> AQA, Edexcel, OCR, Eduqas, CCEA
+</div>
+</section>
+
+<section class="section">
+<h2>Learning Objectives</h2>
+<ul>
+<li>Find upper and lower bounds of rounded values</li>
+<li>Calculate bounds for addition, subtraction, multiplication, division</li>
+<li>Find bounds of compound measures (speed, density, pressure)</li>
+<li>Determine maximum/minimum possible values</li>
+<li>Express answers to appropriate degree of accuracy using bounds</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Prerequisites</h2>
+<ul>
+<li>Error intervals and rounding (N15)</li>
+<li>Inequality notation and number lines</li>
+<li>Compound measures: speed = d/t, density = m/v, pressure = F/A</li>
+<li>Rearranging formulae</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Materials & Equipment</h2>
+<ul>
+<li>Scientific calculator</li>
+<li>Bounds calculation templates</li>
+<li>Compound measure formula triangles</li>
+<li>Practical measuring equipment for context</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Lesson 1: Calculating with Bounds</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example">
+<div class="example-title">Bounds Recap</div>
+<p>x = 5.3 (1 dp). Write error interval. LB = ?, UB = ?</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+<strong>Bounds Terminology:</strong> Lower Bound (LB) = minimum possible value. Upper Bound (UB) = maximum possible value (exclusive).<br><br>
+<strong>Rules for Calculations (to find overall LB/UB):</strong><br>
+ADDITION: LB = LB₁ + LB₂, UB = UB₁ + UB₂<br>
+SUBTRACTION: LB = LB₁ - UB₂, UB = UB₁ - LB₂ (subtract largest from smallest for LB)<br>
+MULTIPLICATION: LB = LB₁ × LB₂, UB = UB₁ × UB₂ (all positive)<br>
+DIVISION: LB = LB₁ ÷ UB₂, UB = UB₁ ÷ LB₂ (divide by largest for LB)<br><br>
+<strong>Key Principle:</strong> For LB make result as small as possible. For UB make result as large as possible.
+</div>
+
+<div class="example>
+<div class="example-title">Worked Example 1: Addition and Subtraction</div>
+<p>x = 4.2 (1 dp), y = 1.8 (1 dp).<br>
+LBₓ = 4.15, UBₓ = 4.25<br>
+LBy = 1.75, UBy = 1.85<br><br>
+x + y: LB = 4.15 + 1.75 = 5.90, UB = 4.25 + 1.85 = 6.10<br>
+x - y: LB = 4.15 - 1.85 = 2.30, UB = 4.25 - 1.75 = 2.50</p>
+</div>
+
+<div class="example>
+<div class="example-title">Worked Example 2: Multiplication and Division</div>
+<p>x = 4.2 (1 dp), y = 1.8 (1 dp). All positive.<br>
+LBₓ = 4.15, UBₓ = 4.25<br>
+LBy = 1.75, UBy = 1.85<br><br>
+x × y: LB = 4.15 × 1.75 = 7.2625, UB = 4.25 × 1.85 = 7.8625<br>
+x ÷ y: LB = 4.15 ÷ 1.85 = 2.243..., UB = 4.25 ÷ 1.75 = 2.428...</p>
+</div>
+
+<div class="example>
+<div class="example-title">Worked Example 3: Negative Bounds (Subtraction)</div>
+<p>a = 8.3 (1 dp), b = 5.7 (1 dp). Find bounds of a - b.<br>
+LBa = 8.25, UBa = 8.35<br>
+LBb = 5.65, UBb = 5.75<br>
+LB(a-b) = LBa - UBb = 8.25 - 5.75 = 2.50<br>
+UB(a-b) = UBa - LBb = 8.35 - 5.65 = 2.70<br><br>
+Check: actual range of a-b = [8.25-5.75, 8.35-5.65] = [2.50, 2.70] ✓</p>
+</div>
+
+<div class="formula-box">
+Bounds Calculation Rules (positive values):<br>
++ : LB = LB₁+LB₂, UB = UB₁+UB₂<br>
+- : LB = LB₁-UB₂, UB = UB₁-LB₂<br>
+× : LB = LB₁×LB₂, UB = UB₁×UB₂<br>
+÷ : LB = LB₁÷UB₂, UB = UB₁÷LB₂<br><br>
+Memory: For LB, make result SMALLEST. For UB, make result LARGEST.<br>
+Subtraction: LB₁ - UB₂ (smallest minus largest)<br>
+Division: LB₁ ÷ UB₂ (smallest divided by largest)
+</div>
+
+<div class="misconception">
+<h3>Common Misconception</h3>
+<p><span class="wrong">UB - LB for subtraction</span></p>
+<p><span class="right">LB = LB₁ - UB₂ (subtract LARGEST possible second from SMALLEST possible first). UB = UB₁ - LB₂.</span></p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point"><strong>Support:</strong><br>"Smallest possible" / "Largest possible" language. Visual number lines for each operation. Fill-in tables for each operation.</div>
+<div class="key-point"><strong>Stretch:</strong><br>Bounds with negative numbers. Bounds for powers/roots: (LB)², (UB)². Multiple operations: (x+y)×z. Bounds of bounds.</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example>
+<div class="example-title">Quick Bounds</div>
+<p>x = 3.4 (1 dp), y = 2.1 (1 dp).<br>
+LB(x+y) = 3.35+2.05 = 5.40<br>
+UB(x+y) = 3.45+2.15 = 5.60<br>
+LB(x-y) = 3.35-2.15 = 1.20<br>
+UB(x-y) = 3.45-2.05 = 1.40<br>
+LB(x×y) = 3.35×2.05 = 6.8675<br>
+UB(x×y) = 3.45×2.15 = 7.4175<br>
+LB(x÷y) = 3.35÷2.15 = 1.558<br>
+UB(x÷y) = 3.45÷2.05 = 1.683</p>
+</div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Applies all four operations bounds correctly; explains reasoning for subtraction/division</li>
+<li><strong>Getting there:</strong> Addition/multiplication correct; subtraction/division rules reversed; sign confusion</li>
+<li><strong>Not yet:</strong> No bounds concept; uses rounded values instead of bounds; wrong inequality direction</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Lesson 2: Bounds of Compound Measures</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example>
+<div class="example-title">Speed Bounds Intuition</div>
+<p>Distance = 100m (nearest m), Time = 12.0s (1 dp). Is speed definitely > 8 m/s? < 9 m/s?</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+<strong>Speed = Distance / Time</strong><br>
+LB(speed) = LB(distance) / UB(time)  (smallest distance, largest time → slowest)<br>
+UB(speed) = UB(distance) / LB(time)  (largest distance, smallest time → fastest)<br><br>
+<strong>Density = Mass / Volume</strong><br>
+LB(density) = LB(mass) / UB(volume)<br>
+UB(density) = UB(mass) / LB(volume)<br><br>
+<strong>Pressure = Force / Area</strong><br>
+LB(pressure) = LB(force) / UB(area)<br>
+UB(pressure) = UB(force) / LB(area)<br><br>
+<strong>Multiplication types:</strong> Distance = Speed × Time<br>
+LB(distance) = LB(speed) × LB(time)<br>
+UB(distance) = UB(speed) × UB(time)
+</div>
+
+<div class="example>
+<div class="example-title">Worked Example 1: Speed Bounds</div>
+<p>Car travels 120 miles (nearest 10 miles) in 2.5 hours (1 dp).<br>
+Distance: LB = 115, UB = 125<br>
+Time: LB = 2.45, UB = 2.55<br><br>
+Speed LB = 115 / 2.55 = 45.098... mph<br>
+Speed UB = 125 / 2.45 = 51.020... mph<br>
+Speed between 45.1 and 51.0 mph (to 1 dp)<br>
+Can we say speed = 48 mph (1 dp)? Both bounds round to 45 and 51... no common 1 dp.</p>
+</div>
+
+<div class="example>
+<div class="example-title">Worked Example 2: Density Bounds</div>
+<p>Mass = 500g (nearest 10g). Volume = 45 cm³ (nearest cm³).<br>
+Mass: LB = 495, UB = 505<br>
+Volume: LB = 44.5, UB = 45.5<br><br>
+Density LB = 495 / 45.5 = 10.879... g/cm³<br>
+Density UB = 505 / 44.5 = 11.348... g/cm³<br>
+Density between 10.9 and 11.3 g/cm³ (1 dp)</p>
+</div>
+
+<div class="example>
+<div class="example-title">Worked Example 3: Distance from Speed/Time</div>
+<p>Speed = 60 mph (nearest 10 mph). Time = 1.5 hours (1 dp).<br>
+Speed: LB = 55, UB = 65<br>
+Time: LB = 1.45, UB = 1.55<br><br>
+Distance LB = 55 × 1.45 = 79.75 miles<br>
+Distance UB = 65 × 1.55 = 100.75 miles<br>
+Distance between 80 and 101 miles (nearest mile)</p>
+</div>
+
+<div class="formula-box">
+Compound Measure Bounds:<br>
+Speed = Distance / Time<br>
+LB = LB_dist ÷ UB_time, UB = UB_dist ÷ LB_time<br><br>
+Density = Mass / Volume<br>
+LB = LB_mass ÷ UB_vol, UB = UB_mass ÷ LB_vol<br><br>
+Pressure = Force / Area<br>
+LB = LB_force ÷ UB_area, UB = UB_force ÷ LB_area<br><br>
+Distance = Speed × Time (multiplication rules)<br>
+Area = Force / Pressure (division rules)<br>Volume = Mass / Density (division rules)
+</div>
+
+<div class="misconception">
+<h3>Common Misconception</h3>
+<p><span class="wrong">For speed, use LB distance and LB time for LB speed</span></p>
+<p><span class="right">LB speed = SLOWEST possible = shortest distance / longest time = LB_dist / UB_time.</span></p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point"><strong>Support:</strong><br>Formula triangles with LB/UB labels. "Slowest = min distance, max time" mnemonic. Colour-code LB (blue) UB (red).</div>
+<div class="key-point"><strong>Stretch:</strong><b>Bounds with standard form. Bounds of acceleration (v-u)/t. Bounds of area/volume from length bounds. Multi-step: speed from distance/time, then distance from speed/time.</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example>
+<div class="example-title">Speed Check</div>
+<p>d = 45m (nearest m), t = 5.0s (1 dp).<br>
+LB speed = 44.5/5.05 = 8.81 m/s<br>
+UB speed = 45.5/4.95 = 9.19 m/s<br>
+Speed = 9 m/s (nearest integer)? Both bounds round to 9? LB=8.81→9, UB=9.19→9. Yes!</p>
+</div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Correctly applies bounds to all compound measures; identifies min/max combinations</li>
+<li><strong>Getting there:</strong> Knows formulae; sometimes reverses LB/UB for division; calculation errors</li>
+<li><strong>Not yet:</strong> Uses rounded values; no min/max reasoning; confuses multiplication/division rules</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Lesson 3: Degree of Accuracy and Problem Solving</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example>
+<div class="example-title">Appropriate Accuracy</div>
+<p>LB = 4.123, UB = 4.127. What accuracy can we give? Both round to 4.12 (2 dp) or 4.1 (1 dp). Best = 2 dp.</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+<strong>Appropriate Degree of Accuracy:</strong> Find LB and UB. Round both to same decimal places/significant figures. If they round to SAME value, that's the appropriate accuracy.<br><br>
+<strong>Example:</strong> LB = 12.345, UB = 12.355<br>
+1 dp: 12.3 vs 12.4 → DIFFERENT → not 1 dp<br>
+2 dp: 12.35 vs 12.36 → DIFFERENT → not 2 dp<br>
+3 dp: 12.345 vs 12.355 → DIFFERENT → not 3 dp<br>
+Wait... 12.345 rounds to 12.345 (3 dp), 12.355 rounds to 12.355. Different.<br>
+Actually: need to check where they FIRST agree.<br>
+Better example: LB = 7.212, UB = 7.218<br>
+3 dp: 7.212, 7.218 → different<br>
+2 dp: 7.21, 7.22 → different<br>
+1 dp: 7.2, 7.2 → SAME! Answer: 7.2 (1 dp)<br><br>
+<strong>Maximum/Minimum Problems:</strong> "Maximum possible area" = UB × UB. "Minimum possible perimeter" = 2(LB+LB).
+</div>
+
+<div class="example>
+<div class="example-title">Worked Example 1: Degree of Accuracy</div>
+<p>Rectangle: length = 12.4 cm (1 dp), width = 8.7 cm (1 dp).<br>
+LBl = 12.35, UBl = 12.45<br>
+LBw = 8.65, UBw = 8.75<br><br>
+Area LB = 12.35 × 8.65 = 106.8275 cm²<br>
+Area UB = 12.45 × 8.75 = 108.9375 cm²<br><br>
+1 dp: 106.8 vs 108.9 → different<br>
+Integer: 107 vs 109 → different<br>
+10s: 110 vs 110 → SAME!<br>
+Area = 110 cm² (nearest 10 cm²) or 1.1×10² cm²</p>
+</div>
+
+<div class="example>
+<div class="example-title">Worked Example 2: Max/Min Problems</div>
+<p>Field: 50m × 30m (nearest metre).<br>
+Max area = 50.5 × 30.5 = 1540.25 m²<br>
+Min area = 49.5 × 29.5 = 1460.25 m²<br>
+Max perimeter = 2(50.5 + 30.5) = 162 m<br>
+Min perimeter = 2(49.5 + 29.5) = 158 m</p>
+</div>
+
+<div class="example>
+<div class="example-title">Worked Example 3: Complex Problem</div>
+<p>A cylindrical can: radius = 3.5 cm (1 dp), height = 12.0 cm (1 dp).<br>
+Find bounds for volume. V = πr²h<br>
+LB: r = 3.45, h = 11.95 → V = π × 3.45² × 11.95 = 447.5... cm³<br>
+UB: r = 3.55, h = 12.05 → V = π × 3.55² × 12.05 = 477.2... cm³<br>
+Volume between 448 and 477 cm³ (nearest cm³)<br>
+Check 2 sf: 450 vs 480 → different. 1 sf: 400 vs 500 → different. Nearest 10: 450 vs 480 → different. Nearest 50? 450 vs 450 → SAME! V = 450 cm³ (nearest 50 cm³)</p>
+</div>
+
+<div class="formula-box">
+Appropriate Degree of Accuracy:<br>
+1. Find LB and UB of result<br>
+2. Round both to 1 dp, 2 dp, 3 dp... until they match<br>
+3. That decimal place is the appropriate accuracy<br><br>
+Maximum/Minimum:<br>
+Max sum/product: UB + UB, UB × UB<br>
+Min sum/product: LB + LB, LB × LB<br>
+Max quotient: UB ÷ LB<br>
+Min quotient: LB ÷ UB<br>Max difference: UB - LB<br>Min difference: LB - UB
+</div>
+
+<div class="misconception">
+<h3>Common Misconception</h3>
+<p><span class="wrong">LB = 4.24, UB = 4.26 → answer 4.3 (1 dp) because both round to 4.3? Wait: 4.24→4.2, 4.26→4.3. Different!</span></p>
+<p><span class="right">Must round BOTH to same accuracy. 4.24→4.2, 4.26→4.3 (1 dp: different). 4.24→4.24, 4.26→4.26 (2 dp: different). Integer: 4 vs 4 (same!). So integer accuracy.</span></p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point"><strong>Support:</strong><br>Step-by-step table: LB | UB | 1dp | 2dp | 3dp... Highlight first matching column. Template for max/min problems.</div>
+<div class="key-point"><strong>Stretch:</strong><b>Given answer to appropriate accuracy, find possible original bounds. Bounds with standard form. Optimisation: "largest possible volume given perimeter bounds".</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example>
+<div class="example-title">Accuracy Check</div>
+<p>LB = 15.24, UB = 15.26 → 2 dp: 15.24, 15.26 (diff). 1 dp: 15.2, 15.3 (diff). Integer: 15, 15 (SAME). Answer: 15<br>
+LB = 0.0445, UB = 0.0455 → 3 dp: 0.045, 0.046 (diff). 2 dp: 0.04, 0.05 (diff). 1 sf: 0.04, 0.05 (diff). 0.04 and 0.05... wait. Actually: 0.0445 (2sf=0.045), 0.0455 (2sf=0.046). Need 1sf: 0.04 vs 0.05. Different. So NO common accuracy? Actually bounds method: if no common, state bounds.</span></p>
+</div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Finds appropriate accuracy by matching bounds; solves max/min problems; explains reasoning</li>
+<li><strong>Getting there:</strong> Calculates bounds correctly; finds appropriate accuracy with guidance; max/min OK</li>
+<li><strong>Not yet:</strong> Uses rounded values; cannot find matching accuracy; max/min reversed</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Homework Suggestions</h2>
+<ul>
+<li>Bounds calculation worksheet (+, -, ×, ÷, compound measures)</li>
+<li>"Appropriate degree of accuracy" problems (find LB/UB, match rounding)</li>
+<li>Max/min area, perimeter, volume, speed problems</li>
+<li>Past paper questions on bounds (Edexcel/AQA Higher)</li>
+<li>CorbettMaths "Upper and Lower Bounds" Higher practice</li>
+</ul>
+</section>
+</main>
+<footer class="site-footer">
+<p>GCSE Lessons - Free lesson plans for homeschooling</p>
+<p>Content for educational purposes only. Always cross-reference with official specifications.</p>
+<p>© 2025 | <a href="privacy.html">Privacy Policy</a> | <a href="mailto:gcselessons@scott.scottrix.co.uk">Contact</a></p>
+</footer>
+<script>
+document.getElementById('theme-toggle').addEventListener('click', function() {
+const root = document.documentElement;
+if (root.classList.contains('light-mode')) {
+root.classList.remove('light-mode');
+this.textContent = '🌙';
+localStorage.setItem('gcselessons-theme', 'dark');
+} else {
+root.classList.add('light-mode');
+this.textContent = '☀️';
+localStorage.setItem('gcselessons-theme', 'light');
+}
+});
+if (localStorage.getItem('gcselessons-theme') === 'light') {
+document.documentElement.classList.add('light-mode');
+document.getElementById('theme-toggle').textContent = '☀️';
+}
+</script>
+<script src="../../sidebar.js"></script>
+<script src="../../affiliate-images.js"></script>
+</body>
+</html>

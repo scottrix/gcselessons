@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GCSE Lessons - Homeschool Lesson Plans for All Subjects</title>
+<meta name="description" content="Detailed GCSE lesson plans for homeschooling. 50-minute structured lessons for all subjects and exam boards.">
+<meta name="keywords" content="GCSE lessons, homeschool GCSE, lesson plans, GCSE Maths, GCSE English, GCSE Science, homeschool UK, AQA, Edexcel, OCR, Eduqas, CCEA">
+<link rel="canonical" href="https://scottrix.github.io/gcselessons/">
+<meta property="og:title" content="GCSE Lessons - Homeschool Lesson Plans for All Subjects">
+<meta property="og:description" content="Detailed GCSE lesson plans for homeschooling. 50-minute structured lessons for all subjects and exam boards.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://scottrix.github.io/gcselessons/">
+<meta property="og:site_name" content="GCSE Lessons">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="GCSE Lessons - Homeschool Lesson Plans">
+<meta name="twitter:description" content="Detailed GCSE lesson plans for homeschooling. 50-minute structured lessons for all subjects.">
+<link rel="stylesheet" href="style.css">
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "GCSE Lessons",
+    "url": "https://scottrix.github.io/gcselessons/",
+    "description": "Detailed GCSE lesson plans for homeschooling all subjects"
+}
+</script>
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-content">
+            <a href="/" class="logo">📖 GCSE Lessons</a>
+      <nav class="nav">
+        <a href="#subjects">Subjects</a>
+        <a href="#about">About</a>
+      </nav>
+            <div class="header-actions">
+                <button id="theme-toggle" class="theme-btn" title="Toggle theme">🌙</button>
+                <button id="mobile-menu-btn" class="mobile-menu-btn">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <div class="mobile-nav" id="mobile-nav">
+        <div class="mobile-nav-header">
+            <span class="logo">📖 GCSE Lessons</span>
+            <button id="close-mobile" class="close-btn">✕</button>
+        </div>
+      <nav class="mobile-nav-links">
+        <a href="#subjects">Subjects</a>
+        <a href="#about">About</a>
+      </nav>
+    </div>
+    <div class="overlay" id="overlay"></div>
+
+    <main>
+<div class="disclaimer-banner"><strong>Homeschool Guide:</strong> These lesson plans are designed as a guide for parents homeschooling their children. Content may contain errors — always cross-reference with official exam board specifications. For personalised advice, consult a qualified teacher.</div>
+
+        <section class="hero">
+            <h1>GCSE Lesson Plans for Homeschooling</h1>
+            <p class="hero-subtitle">Structured 50-minute lessons for all subjects and exam boards</p>
+            <div class="search-box">
+                <input type="search" id="search" placeholder="Search for a subject or topic..." autocomplete="off" role="combobox" aria-expanded="false" aria-controls="search-autocomplete" aria-autocomplete="list">
+                <button onclick="handleSearch()">Search</button>
+                <div id="search-autocomplete" class="autocomplete" role="listbox" hidden></div>
+            </div>
+            <div class="quick-stats">
+                <div class="stat">
+                    <span class="stat-number">37</span>
+                    <span class="stat-label">Subjects</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">5</span>
+                    <span class="stat-label">Exam Boards</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">50 min</span>
+                    <span class="stat-label">Per Lesson</span>
+                </div>
+            </div>
+        </section>
+
+<a class="fastmail-topbar" data-banner="fastmail" href="https://join.fastmail.com/0d63b2d52105" target="_blank" rel="noopener"><img src="images/assets/FM Billboard 970x250.png" alt="Fastmail" loading="lazy"></a>
+<a class="fastmail-topbar" data-banner="dynadot" href="https://www.dynadot.com/?ref=scottrix" target="_blank" rel="nofollow noopener" hidden><img src="images/assets/dynadot-banner.jpg" alt="Dynadot — register a new domain, web hosting, SSL" loading="lazy" onerror="this.parentElement.style.display='none';document.querySelector('[data-banner=fastmail]').hidden=false"></a>
+<script>(function(){var fm=document.querySelector('[data-banner=fastmail]');var dd=document.querySelector('[data-banner=dynadot]');if(Math.random()<0.5){fm.hidden=true;dd.hidden=false}})();</script>
+
+        <section id="subjects" class="subjects">
+            <h2>Browse by Subject</h2>
+            <div class="category-tabs">
+                <button class="category-tab active" data-category="all">All</button>
+                <button class="category-tab" data-category="Core">Core</button>
+                <button class="category-tab" data-category="Science">Science</button>
+                <button class="category-tab" data-category="Humanities">Humanities</button>
+                <button class="category-tab" data-category="Languages">Languages</button>
+                <button class="category-tab" data-category="Creative">Creative</button>
+                <button class="category-tab" data-category="Technical">Technical</button>
+                <button class="category-tab" data-category="Other">Other</button>
+            </div>
+      <div id="subjects-grid" class="subjects-grid">
+      </div>
+        </section>
+
+        <section id="about" class="about">
+            <h2>About GCSE Lessons</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>GCSE Lessons provides detailed, structured lesson plans for parents homeschooling their children through GCSEs. Each lesson is designed as a 50-minute class.</p>
+                    <p>Every lesson plan includes:</p>
+                    <ul>
+                        <li>Clear learning objectives</li>
+                        <li>Prerequisites and prior knowledge</li>
+                        <li>Materials and equipment needed</li>
+                        <li>Step-by-step teaching content</li>
+                        <li>Worked examples</li>
+                        <li>Differentiation for support and stretch</li>
+                        <li>Starter and plenary activities</li>
+                        <li>Assessment criteria</li>
+                        <li>Homework suggestions</li>
+                    </ul>
+                </div>
+                <div class="about-features">
+                    <div class="feature">
+                        <span class="feature-icon">📱</span>
+                        <h4>Mobile Friendly</h4>
+                        <p>Teach anywhere on any device</p>
+                    </div>
+                    <div class="feature">
+                        <span class="feature-icon">🌙</span>
+                        <h4>Dark Mode</h4>
+                        <p>Easy on the eyes for evening planning</p>
+                    </div>
+                    <div class="feature">
+                        <span class="feature-icon">🎯</span>
+                        <h4>Both Tiers</h4>
+                        <p>Foundation and Higher tier content</p>
+                    </div>
+                    <div class="feature">
+                        <span class="feature-icon">£</span>
+                        <h4>100% Free</h4>
+                        <p>All lesson plans available at no cost</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section affiliate-section">
+            <h2>Recommended Resources</h2>
+            <div class="affiliate-cards">
+                <a href="https://www.amazon.co.uk/s?k=scientific+calculator+GCSE&tag=scottrix-21" class="affiliate-card" target="_blank" rel="nofollow noopener">
+                    <div class="affiliate-card-title">Scientific Calculators</div>
+                    <div class="affiliate-card-desc">Essential for GCSE Maths and Science exams</div>
+                    <div class="affiliate-card-store"><img src="images/assets/amazon-smile.svg" alt="Amazon"> amazon.co.uk</div>
+                </a>
+                <a href="https://www.amazon.co.uk/s?k=graph+paper+a4+pad&tag=scottrix-21" class="affiliate-card" target="_blank" rel="nofollow noopener">
+                    <div class="affiliate-card-title">Graph Paper Pads</div>
+                    <div class="affiliate-card-desc">A4 squared paper for maths and science</div>
+                    <div class="affiliate-card-store"><img src="images/assets/amazon-smile.svg" alt="Amazon"> amazon.co.uk</div>
+                </a>
+                <a href="https://www.amazon.co.uk/s?k=GCSE+revision+guides&tag=scottrix-21" class="affiliate-card" target="_blank" rel="nofollow noopener">
+                    <div class="affiliate-card-title">GCSE Revision Guides</div>
+                    <div class="affiliate-card-desc">Browse subject-specific revision guides</div>
+                    <div class="affiliate-card-store"><img src="images/assets/amazon-smile.svg" alt="Amazon"> amazon.co.uk</div>
+                </a>
+                <a href="https://www.dynadot.com/?ref=scottrix" class="affiliate-card" target="_blank" rel="nofollow noopener">
+                    <div class="affiliate-card-title">Dynadot — Domain Registration</div>
+                    <div class="affiliate-card-desc">Register or transfer domains with free SSL</div>
+                    <div class="affiliate-card-store">dynadot.com</div>
+                </a>
+                <a href="https://zen.mention-me.com/m/ol/yv3qsjix-scott-harrison" class="affiliate-card" target="_blank" rel="nofollow noopener">
+                    <div class="affiliate-card-title">Zen Internet — UK Broadband</div>
+                    <div class="affiliate-card-desc">Award-winning UK broadband with no data caps</div>
+                    <div class="affiliate-card-store">zen.co.uk</div>
+                </a>
+            </div>
+            <div class="affiliate-disclaimer">We may earn a commission if you purchase through these links.</div>
+        </section>
+
+    <section class="section share-section">
+<h2>Share this page</h2>
+<div class="share-buttons">
+<a class="share-btn share-twitter" href="https://twitter.com/intent/tweet?url=https://scottrix.github.io/gcselessons/&text=GCSE Lessons" target="_blank" rel="noopener" title="Share on Twitter">Twitter</a>
+<a class="share-btn share-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://scottrix.github.io/gcselessons/" target="_blank" rel="noopener" title="Share on Facebook">Facebook</a>
+<a class="share-btn share-linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://scottrix.github.io/gcselessons/" target="_blank" rel="noopener" title="Share on LinkedIn">LinkedIn</a>
+<a class="share-btn share-whatsapp" href="https://wa.me/?text=GCSE Lessons%20https://scottrix.github.io/gcselessons/" target="_blank" rel="noopener" title="Share on WhatsApp">WhatsApp</a>
+<a class="share-btn share-copy" href="#" data-url="https://scottrix.github.io/gcselessons/" title="Copy link">Copy Link</a>
+</div>
+</section>
+</main>
+
+    <footer class="site-footer">
+        <p>GCSE Lessons - Free lesson plans for homeschooling all subjects</p>
+        <p>Content for educational purposes only. Always cross-reference with official specifications.</p>
+<p>This site contains affiliate links. We may earn a commission if you purchase through these links.</p>
+<p>© 2025 | <a href="privacy.html">Privacy Policy</a> | <a href="mailto:gcselessons@scott.scottrix.co.uk">Contact</a></p>
+</footer>
+
+    <script src="subjects.json" type="application/json"></script>
+    <script src="app.js"></script>
+<script src="sidebar.js"></script>
+<script src="affiliate-images.js"></script>
+</body>
+</html>

@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CS1.1: Searching Algorithms - GCSE Computer Science Lessons</title>
+<meta name="description" content="CS1.1 Searching Algorithms - Detailed GCSE Computer Science lesson plan for homeschooling">
+<meta name="keywords" content="GCSE Computer Science, homeschool, lesson plan, searching algorithms, linear search, binary search">
+<meta property="og:title" content="Searching Algorithms - GCSE Computer Science Lessons">
+<meta property="og:description" content="CS1.1 Searching Algorithms - Detailed GCSE Computer Science lesson plan">
+<meta property="og:type" content="article">
+<link rel="canonical" href="https://scottrix.github.io/gcselessons/topics/algorithms/cs1-1.html">
+<meta property="og:site_name" content="GCSE Lessons">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="CS1.1: Searching Algorithms">
+<link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+<header class="site-header">
+<div class="header-content">
+<a href="../../" class="logo">📖 GCSE Lessons</a>
+<nav class="nav"><a href="../../#subjects">Subjects</a> <a href="../../computer-science.html">Computer Science</a></nav>
+<button id="theme-toggle" class="theme-btn">🌙</button>
+</div>
+</header>
+<main class="topic-content">
+<div class="disclaimer-banner"><strong>Homeschool Guide:</strong> These lesson plans are a guide for parents. Content may contain errors — always cross-reference with official exam board specifications.</div>
+
+<nav class="breadcrumb"><a href="../../">Home</a> <span>›</span> <a href="../../computer-science.html">Computer Science</a> <span>›</span> <span>Searching Algorithms</span></nav>
+
+<article class="topic-header">
+<h1>CS1.1: Searching Algorithms</h1>
+<div class="topic-meta">
+<span class="badge foundation">Foundation</span>
+<span class="badge higher">Higher</span>
+<span class="badge">All Boards</span>
+</div>
+<p class="topic-desc">Linear search, binary search, algorithm design, pseudocode, Python implementation, time complexity comparison</p>
+</article>
+<a class="fastmail-topbar" data-banner="fastmail" href="https://join.fastmail.com/0d63b2d52105" target="_blank" rel="noopener"><img src="../../images/assets/FM Billboard 970x250.png" alt="Fastmail" loading="lazy"></a>
+<a class="fastmail-topbar" data-banner="dynadot" href="https://www.dynadot.com/?ref=scottrix" target="_blank" rel="nofollow noopener" hidden><img src="../../images/assets/dynadot-banner.jpg" alt="Dynadot — register a new domain, web hosting, SSL" loading="lazy" onerror="this.parentElement.style.display='none';document.querySelector('[data-banner=fastmail]').hidden=false"></a>
+<script>(function(){var fm=document.querySelector('[data-banner=fastmail]');var dd=document.querySelector('[data-banner=dynadot]');if(Math.random()<0.5){fm.hidden=true;dd.hidden=false}})();</script>
+
+<section class="section">
+<h2>Lesson Overview</h2>
+<div class="key-point">
+<strong>Estimated Lessons:</strong> 3<br>
+<strong>Tier:</strong> Foundation and Higher<br>
+<strong>Duration:</strong> 50 minutes per lesson<br>
+<strong>Exam Boards:</strong> AQA, Edexcel, OCR, WJEC
+</div>
+</section>
+
+<section class="section">
+<h2>Lesson 1: Linear Search & Algorithm Design</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example">
+<div class="example-title">Finding a Book</div>
+<p>Ask: "How would you find a specific book on an unsorted shelf vs a sorted shelf?" Discuss: unsorted = check each book (linear), sorted = check middle, eliminate half (binary).</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+Cover linear search algorithm for unsorted data:
+<ul>
+<li>Sequential checking from first element</li>
+<li>Best case: O(1) - found at first position</li>
+<li>Worst case: O(n) - found at last or not found</li>
+<li>Average case: O(n/2) ≈ O(n)</li>
+<li>Works on ANY data (sorted or unsorted)</li>
+</ul>
+Use concrete examples with arrays/lists of numbers and strings.
+</div>
+
+<div class="formula-box">
+<strong>Linear Search Pseudocode:</strong><br>
+<pre>
+FUNCTION linearSearch(array, target):
+    FOR i FROM 0 TO length(array) - 1:
+        IF array[i] == target:
+            RETURN i
+    RETURN -1
+END FUNCTION
+</pre>
+</div>
+
+<div class="key-point">
+<strong>Python Implementation:</strong><br>
+<pre>
+def linear_search(arr, target):
+    for i in range(len(arr)):
+        if arr[i] == target:
+            return i
+    return -1
+
+# Test
+numbers = [64, 34, 25, 12, 22, 11, 90]
+print(linear_search(numbers, 22))  # Output: 4
+print(linear_search(numbers, 100)) # Output: -1
+</pre>
+</div>
+
+<div class="misconception">
+<h3>Common Misconception</h3>
+<p><span class="wrong">"Linear search is always slow"</span></p>
+<p><span class="right">For small datasets (<50 items) or unsorted data, linear search is perfectly efficient and simpler to implement. Binary search requires sorted data which takes O(n log n) to sort first.</span></p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point">
+<strong>Support (SEN/Lower Ability):</strong><br>
+Provide trace table template. Use small arrays (5-6 elements). Step through manually with highlighter. Focus on understanding the loop structure.
+</div>
+<div class="key-point">
+<strong>Stretch (Higher/Gifted):</strong><br>
+Implement linear search for 2D arrays. Compare with Python's built-in <code>list.index()</code> and <code>in</code> operator. Discuss sentinel linear search variant.
+</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example">
+<div class="example-title">Trace Table Practice</div>
+<p>Given array [12, 7, 9, 3, 15], trace linear search for target 9. Show index, value, comparison, result at each step.</p>
+</div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Can trace linear search, write pseudocode, explain time complexity</li>
+<li><strong>Getting there:</strong> Can describe linear search but struggles with pseudocode or trace tables</li>
+<li><strong>Not yet:</strong> Cannot explain how linear search works or confuses with binary search</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Lesson 2: Binary Search & Efficiency</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example">
+<div class="example-title">Guess the Number</div>
+<p>Play "Guess my number 1-100" using binary search strategy. Show how 7 guesses max vs up to 100 for linear. Connect to log₂(100) ≈ 7.</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+Cover binary search for SORTED data only:
+<ul>
+<li>Divide and conquer: check middle, eliminate half</li>
+<li>Precondition: data MUST be sorted</li>
+<li>Best case: O(1) - found at middle</li>
+<li>Worst case: O(log n)</li>
+<li>Average case: O(log n)</li>
+</ul>
+Show visual representation of search space halving.
+</div>
+
+<div class="formula-box">
+<strong>Binary Search Pseudocode (Iterative):</strong><br>
+<pre>
+FUNCTION binarySearch(array, target):
+    low = 0
+    high = length(array) - 1
+    WHILE low <= high:
+        mid = (low + high) // 2
+        IF array[mid] == target:
+            RETURN mid
+        ELSE IF array[mid] < target:
+            low = mid + 1
+        ELSE:
+            high = mid - 1
+    RETURN -1
+END FUNCTION
+</pre>
+</div>
+
+<div class="key-point">
+<strong>Python Implementation:</strong><br>
+<pre>
+def binary_search(arr, target):
+    low, high = 0, len(arr) - 1
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            low = mid + 1
+        else:
+            high = mid - 1
+    return -1
+
+# Test (array MUST be sorted)
+numbers = [11, 12, 22, 25, 34, 64, 90]
+print(binary_search(numbers, 22))  # Output: 2
+print(binary_search(numbers, 100)) # Output: -1
+</pre>
+</div>
+
+<div class="example">
+<div class="example-title">Trace Table: Binary Search</div>
+<p>Array: [2, 5, 8, 12, 16, 23, 38, 56, 72, 91], Target: 23<br>
+Step 1: low=0, high=9, mid=4, arr[4]=16 < 23, low=5<br>
+Step 2: low=5, high=9, mid=7, arr[7]=56 > 23, high=6<br>
+Step 3: low=5, high=6, mid=5, arr[5]=23 == target, RETURN 5</p>
+</div>
+
+<div class="extended-question">
+<h3>Extended Evaluation Question</h3>
+<p><strong>12-mark style question:</strong> "Compare linear search and binary search. Discuss time complexity, preconditions, and when each is appropriate. Include Big O notation in your answer."</p>
+<p>Guide students through: AO1 (knowledge of both algorithms), AO2 (application to scenarios), AO3 (analysis of trade-offs). Use PEEL structure.</p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point">
+<strong>Support (SEN/Lower Ability):</strong><br>
+Provide pre-drawn search trees. Use number line visual. Focus on iterative version first. Give partially completed trace tables.
+</div>
+<div class="key-point">
+<strong>Stretch (Higher/Gifted):</strong><br>
+Implement recursive binary search. Discuss mid = low + (high - low) // 2 to prevent overflow. Compare with <code>bisect</code> module. Analyse binary search on rotated sorted array.
+</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example">
+<div class="example-title">Algorithm Choice</div>
+<p>Scenario cards: (a) Find student ID in unsorted list of 30, (b) Find word in dictionary of 50,000 words, (c) Find highest score in unsorted array. Students choose algorithm and justify.</p>
+</div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Can trace binary search, write pseudocode, explain O(log n), identify when to use each</li>
+<li><strong>Getting there:</strong> Understands concept but trace table errors or confusion with preconditions</li>
+<li><strong>Not yet:</strong> Cannot explain binary search or attempts on unsorted data</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Lesson 3: Comparison, Big O & Exam Practice</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example">
+<div class="example-title">Big O Matching</div>
+<p>Match algorithms to complexities: Linear Search O(n), Binary Search O(log n), Bubble Sort O(n²), Merge Sort O(n log n). Discuss what n represents.</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+Compare both algorithms comprehensively:
+<ul>
+<li>Time complexity comparison table</li>
+<li>Space complexity: both O(1) iterative</li>
+<li>Preconditions: linear = none, binary = sorted</li>
+<li>Real-world: databases use binary search trees (B-trees)</li>
+<li>Hybrid approaches: interpolation search, exponential search</li>
+</ul>
+</div>
+
+<div class="key-point">
+<strong>Comparison Table:</strong><br>
+<table class="comparison-table">
+<tr><th>Aspect</th><th>Linear Search</th><th>Binary Search</th></tr>
+<tr><td>Precondition</td><td>None</td><td>Data must be sorted</td></tr>
+<tr><td>Best Case</td><td>O(1)</td><td>O(1)</td></tr>
+<tr><td>Average Case</td><td>O(n)</td><td>O(log n)</td></tr>
+<tr><td>Worst Case</td><td>O(n)</td><td>O(log n)</td></tr>
+<tr><td>Space (Iterative)</td><td>O(1)</td><td>O(1)</td></tr>
+<tr><td>Implementation</td><td>Simple</td><td>Moderate</td></tr>
+</table>
+</div>
+
+<div class="example">
+<div class="example-title">Exam-Style Question</div>
+<p>"A programmer needs to search a list of 1000 sorted integers. Explain why binary search is more appropriate than linear search. Calculate the maximum number of comparisons for binary search."<br>
+Answer: log₂(1000) ≈ 10 comparisons max vs 1000 for linear.</p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point">
+<strong>Support (SEN/Lower Ability):</strong><br>
+Provide comparison table pre-filled. Use smaller numbers (n=16, log₂(16)=4). Focus on practical examples not theory.
+</div>
+<div class="key-point">
+<strong>Stretch (Higher/Gifted):</strong><br>
+Derive O(log n) mathematically. Discuss space complexity of recursive binary search (O(log n) call stack). Research lower bound proof for comparison-based search.
+</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example">
+<div class="example-title">One-Minute Paper</div>
+<p>Write: (1) When would you use linear search over binary? (2) What is the maximum comparisons for binary search on 1,000,000 items?</p>
+</div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Compares algorithms accurately, calculates log₂(n), chooses appropriately</li>
+<li><strong>Getting there:</strong> Knows binary is faster but cannot explain why or calculate comparisons</li>
+<li><strong>Not yet:</strong> Confuses time complexities or preconditions</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Homework Suggestions</h2>
+<ul>
+<li>Implement both searches in Python with a menu-driven interface</li>
+<li>Create a visual animation of binary search using turtle graphics</li>
+<li>Complete past paper questions on searching algorithms</li>
+<li>Research: How do real databases (SQL) implement searching? (B-trees)</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Resources</h2>
+<ul>
+<li><a href="https://www.bbc.co.uk/bitesize/guides/z8xc4wx/revision/1" target="_blank" rel="noopener">BBC Bitesize - Searching Algorithms</a></li>
+<li><a href="https://visualgo.net/en/search" target="_blank" rel="noopener">Visualgo - Search Algorithm Visualisation</a></li>
+<li><a href="https://www.geeksforgeeks.org/searching-algorithms/" target="_blank" rel="noopener">GeeksforGeeks - Searching Algorithms</a></li>
+</ul>
+</section>
+
+</main>
+<footer class="site-footer">
+<p>GCSE Lessons - Free lesson plans for homeschooling</p>
+<p>Content for educational purposes only. Always cross-reference with official specifications.</p>
+<p>© 2025 | <a href="privacy.html">Privacy Policy</a> | <a href="mailto:gcselessons@scott.scottrix.co.uk">Contact</a></p>
+</footer>
+<script>
+document.getElementById('theme-toggle').addEventListener('click', function() {
+const root = document.documentElement;
+if (root.classList.contains('light-mode')) {
+root.classList.remove('light-mode'); this.textContent = '🌙'; localStorage.setItem('gcselessons-theme', 'dark');
+} else {
+root.classList.add('light-mode'); this.textContent = '☀️'; localStorage.setItem('gcselessons-theme', 'light');
+}
+});
+if (localStorage.getItem('gcselessons-theme') === 'light') {
+document.documentElement.classList.add('light-mode'); document.getElementById('theme-toggle').textContent = '☀️';
+}
+</script>
+<script src="../../sidebar.js"></script>
+<script src="../../affiliate-images.js"></script>
+</body>
+</html>

@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>N15: Rounding and Error Intervals - GCSE Mathematics Lessons</title>
+<meta name="description" content="N15 Rounding Error Intervals - Detailed GCSE Mathematics lesson plan for homeschooling">
+<meta name="keywords" content="GCSE Maths, homeschool, lesson plan, rounding, decimal places, significant figures, error intervals, bounds, truncation">
+<meta property="og:title" content="Rounding and Error Intervals - GCSE Mathematics Lessons">
+<meta property="og:description" content="N15 Rounding Error Intervals - Detailed GCSE Mathematics lesson plan">
+<meta property="og:type" content="article">
+<link rel="canonical" href="https://scottrix.github.io/gcselessons/topics/number/N15-rounding-error-intervals.html">
+<meta property="og:site_name" content="GCSE Lessons">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="N15: Rounding and Error Intervals">
+<link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+<header class="site-header">
+<div class="header-content">
+<a href="../../" class="logo">📖 GCSE Lessons</a>
+<nav class="nav"><a href="../../#subjects">Subjects</a> <a href="../../mathematics.html">Mathematics</a></nav>
+<button id="theme-toggle" class="theme-btn">🌙</button>
+</div>
+</header>
+<main class="topic-content">
+<div class="disclaimer-banner"><strong>Homeschool Guide:</strong> These lesson plans are a guide for parents. Content may contain errors — always cross-reference with official exam board specifications.</div>
+
+<nav class="breadcrumb"><a href="../../">Home</a> <span>›</span> <a href="../../mathematics.html">Mathematics</a> <span>›</span> <span>Rounding and Error Intervals</span></nav>
+
+<article class="topic-header">
+<h1>N15: Rounding and Error Intervals</h1>
+<div class="topic-meta">
+<span class="badge foundation">Foundation</span>
+<span class="badge higher">Higher</span>
+<span class="badge">All Boards</span>
+</div>
+<p class="topic-desc">Round to decimal places and significant figures. Write error intervals for rounded numbers. Understand truncation vs rounding. Use inequality notation for bounds.</p>
+</article>
+<a class="fastmail-topbar" data-banner="fastmail" href="https://join.fastmail.com/0d63b2d52105" target="_blank" rel="noopener"><img src="../../images/assets/FM Billboard 970x250.png" alt="Fastmail" loading="lazy"></a>
+<a class="fastmail-topbar" data-banner="dynadot" href="https://www.dynadot.com/?ref=scottrix" target="_blank" rel="nofollow noopener" hidden><img src="../../images/assets/dynadot-banner.jpg" alt="Dynadot — register a new domain, web hosting, SSL" loading="lazy" onerror="this.parentElement.style.display='none';document.querySelector('[data-banner=fastmail]').hidden=false"></a>
+<script>(function(){var fm=document.querySelector('[data-banner=fastmail]');var dd=document.querySelector('[data-banner=dynadot]');if(Math.random()<0.5){fm.hidden=true;dd.hidden=false}})();</script>
+
+<section class="section">
+<h2>Lesson Overview</h2>
+<div class="key-point">
+<strong>Estimated Lessons:</strong> 2<br>
+<strong>Tier:</strong> Foundation and Higher<br>
+<strong>Duration:</strong> 50 minutes per lesson<br>
+<strong>Exam Boards:</strong> AQA, Edexcel, OCR, Eduqas, CCEA
+</div>
+</section>
+
+<section class="section">
+<h2>Learning Objectives</h2>
+<ul>
+<li>Round numbers to given decimal places (dp) and significant figures (sf)</li>
+<li>Write error intervals using inequality notation: a ≤ x < b</li>
+<li>Find lower and upper bounds for rounded values</li>
+<li>Distinguish between rounding and truncation</li>
+<li>Apply rounding/error intervals to measurement contexts</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Prerequisites</h2>
+<ul>
+<li>Place value (decimal places, significant figures)</li>
+<li>Inequality symbols (<, >, ≤, ≥)</li>
+<li>Number line understanding</li>
+<li>Rounding to nearest 10, 100, 1000 (N1)</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Materials & Equipment</h2>
+<ul>
+<li>Number lines (for visualising rounding)</li>
+<li>Rounding rule cards (dp vs sf)</li>
+<li>Error interval templates</li>
+<li>Measuring tools (rulers, scales) for practical context</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Lesson 1: Rounding to dp and sf</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example">
+<div class="example-title">Round to Nearest...</div>
+<p>Round 47.638 to: nearest 10, nearest whole, 1 dp, 2 dp, 1 sf, 2 sf, 3 sf</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+<strong>Decimal Places (dp):</strong> Count digits AFTER decimal point.<br>
+Round to 2 dp: 3.14159 → 3.14 (3rd dp is 1 < 5)<br>
+Round to 3 dp: 3.14159 → 3.142 (4th dp is 5 ≥ 5)<br><br>
+<strong>Significant Figures (sf):</strong> Count from FIRST non-zero digit.<br>
+Round to 3 sf: 0.004567 → 0.00457 (4th sf is 7 ≥ 5)<br>
+Round to 2 sf: 4567 → 4600 (3rd sf is 6 ≥ 5)<br>
+Round to 1 sf: 0.0504 → 0.05 (2nd sf is 0 < 5)<br><br>
+<strong>Key Difference:</strong> dp counts from decimal point. sf counts from first non-zero digit.<br>
+Trailing zeros after decimal COUNT for sf: 2.50 has 3 sf. 2500 has 2 sf (unless decimal shown: 2500.)
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example 1: Rounding to dp</div>
+<p>Round 27.4368 to: (a) 1 dp (b) 2 dp (c) 3 dp<br><br>
+(a) 1 dp: 27.4 (next digit 3 < 5)<br>
+(b) 2 dp: 27.44 (next digit 6 ≥ 5, round up 3→4)<br>
+(c) 3 dp: 27.437 (next digit 8 ≥ 5, round up 6→7)</p>
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example 2: Rounding to sf</div>
+<p>Round to 2 significant figures:<br>
+(a) 347 → 350 (3rd digit 7 ≥ 5)<br>
+(b) 0.00483 → 0.0048 (3rd sf 3 < 5)<br>
+(c) 5.06 → 5.1 (3rd sf 6 ≥ 5)<br>
+(d) 0.0504 → 0.050 (3rd sf 4 < 5, keep trailing zero for 2 sf)<br>
+(e) 999 → 1000 (write as 1.0×10³ or 1000 with understanding)</p>
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example 3: Truncation</div>
+<p>Truncate 3.14159 to 3 dp: 3.141 (chop off, don't round)<br>
+Truncate 4.678 to 2 sf: 4.6 (chop off after 2nd sf)<br><br>
+Rounding: 3.14159 to 3 dp = 3.142<br>
+Truncation: 3.14159 to 3 dp = 3.141</p>
+</div>
+
+<div class="formula-box">
+Rounding Rules:<br>
+• Identify cut-off digit (last one to keep)<br>
+• Look at NEXT digit<br>
+• Next digit 0-4: keep cut-off digit (round down)<br>
+• Next digit 5-9: increase cut-off digit by 1 (round up)<br><br>
+Decimal Places: Count from decimal point →<br>
+Significant Figures: Count from first non-zero digit →<br><br>
+Truncation: Simply cut off after required digits (no rounding)
+</div>
+
+<div class="misconception">
+<h3>Common Misconception</h3>
+<p><span class="wrong">0.0045 to 1 sf = 0.005 (correct) but to 2 sf = 0.0045 (incorrect - should be 0.0045)</span></p>
+<p><span class="right">0.0045 to 2 sf: first non-zero is 4 (1st sf), 5 is 2nd sf. No more digits, so 0.0045 is already 2 sf. To 1 sf: look at 2nd sf (5) → round up 4→5 = 0.005.</span></p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point"><strong>Support:</strong><br>Colour-code: decimal point red, first non-zero green. "5 or more, raise the score; 4 or less, let it rest." Number line visual.</div>
+<div class="key-point"><strong>Stretch:</strong><br>Round to n sf where n varies. Standard form rounding: 4.56×10⁴ to 2 sf. Truncation vs rounding difference analysis.</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example">
+<div class="example-title">Quick Round</div>
+<p>2.746 to 2 dp = 2.75<br>
+2.746 to 2 sf = 2.7<br>
+0.0473 to 2 dp = 0.05<br>
+0.0473 to 2 sf = 0.047<br>
+4500 to 2 sf = 4500 (ambiguous) or 4.5×10³</p>
+</div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Rounds to any dp/sf correctly; distinguishes dp vs sf; handles truncation</li>
+<li><strong>Getting there:</strong> dp rounding secure; sf with leading zeros tricky; truncation confused with rounding</li>
+<li><strong>Not yet:</strong> Counts from wrong place; rounds 5 down; trailing zero confusion</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Lesson 2: Error Intervals and Bounds</h2>
+<div class="key-point"><strong>Duration:</strong> 50 minutes</div>
+
+<h3>Starter Activity (5 minutes)</h3>
+<div class="example">
+<div class="example-title">What Could It Be?</div>
+<p>Number rounded to nearest 10 is 50. What values could it have been? 45 to 54.999... = 45 ≤ x < 55</p>
+</div>
+
+<h3>Main Content (35 minutes)</h3>
+<div class="key-point">
+<strong>Teaching Notes:</strong><br>
+<strong>Error Interval:</strong> Range of values that round to a given value.<br>
+If x rounded to 1 dp = 3.4, then 3.35 ≤ x < 3.45<br>
+Lower bound = 3.35, Upper bound = 3.45<br><br>
+<strong>General Rule:</strong> Half the rounding unit below and above.<br>
+Rounded to nearest 10: ±5 → 45 ≤ x < 55<br>
+Rounded to 1 dp: ±0.05 → 3.35 ≤ x < 3.45<br>
+Rounded to 2 sf: depends on value. 450 (2 sf) → 445 ≤ x < 455<br>0.045 (2 sf) → 0.0445 ≤ x < 0.0455<br><br>
+<strong>Truncation Bounds:</strong> Different!<br>
+Truncated to 1 dp = 3.4 means 3.4 ≤ x < 3.5<br>
+Lower bound = 3.4, Upper bound = 3.5
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example 1: Error Intervals (Rounding)</div>
+<p>Write error interval for x rounded to given degree:<br>
+(a) 7.3 (1 dp): 7.25 ≤ x < 7.35<br>
+(b) 0.045 (2 sf): 0.0445 ≤ x < 0.0455<br>
+(c) 4500 (2 sf): 4450 ≤ x < 4550<br>
+(d) 100 (1 sf): 95 ≤ x < 150<br>
+(e) 0.0080 (2 dp): 0.00795 ≤ x < 0.00805</p>
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example 2: Error Intervals (Truncation)</div>
+<p>y truncated to 2 dp = 3.14. Error interval?<br>
+Truncation means chopped, not rounded.<br>
+Smallest: 3.14 exactly<br>
+Largest: just below 3.15<br>
+Interval: 3.14 ≤ y < 3.15</p>
+</div>
+
+<div class="example">
+<div class="example-title">Worked Example 3: Measurement Context</div>
+<p>Length measured as 15 cm (nearest cm). Error interval?<br>
+Rounding unit = 1 cm. Half = 0.5 cm<br>
+14.5 ≤ length < 15.5 cm<br><br>
+Mass = 2.4 kg (1 dp). 2.35 ≤ mass < 2.45 kg<br>
+Time = 40 s (nearest 10 s). 35 ≤ time < 45 s</p>
+</div>
+
+<div class="formula-box">
+Error Interval for Rounded Value:<br>
+Rounding unit = place value of last digit<br>
+Half unit = rounding unit / 2<br>Lower bound = rounded value - half unit<br>Upper bound = rounded value + half unit<br>Inequality: lower ≤ x < upper<br><br>
+Truncation Error Interval:<br>
+Lower bound = truncated value<br>Upper bound = truncated value + rounding unit<br>Inequality: lower ≤ x < upper<br><br>
+Examples:<br>
+Rounded to 1 dp (0.1): ±0.05<br>
+Rounded to 2 sf: depends on magnitude
+</div>
+
+<div class="misconception">
+<h3>Common Misconception</h3>
+<p><span class="wrong">Upper bound is the largest possible value (e.g., 3.44 for 3.4 to 1 dp)</span></p>
+<p><span class="right">Upper bound is the CUT-OFF value: 3.45. The actual value is strictly LESS than upper bound. x < 3.45, not x ≤ 3.44.</span></p>
+</div>
+
+<h3>Differentiation</h3>
+<div class="key-point"><strong>Support:</strong><br>Number line with bounds marked. "Halfway between" concept. Fill-in templates: ___ ≤ x < ___.</div>
+<div class="key-point"><strong>Stretch:</strong><br>Error intervals for standard form. Truncation vs rounding comparison. "Write the error interval for x if x² rounded to 1 sf = 20".</div>
+
+<h3>Plenary (5 minutes)</h3>
+<div class="example">
+<div class="example-title">Bounds Check</div>
+<p>x = 6.3 (1 dp) → 6.25 ≤ x < 6.35<br>
+y = 6.3 (truncated 1 dp) → 6.3 ≤ y < 6.4<br>
+z = 400 (1 sf) → 350 ≤ z < 450<br>
+w = 400 (truncated 1 sf) → 400 ≤ w < 500</p>
+</div>
+
+<h3>Assessment Criteria</h3>
+<ul>
+<li><strong>Got it:</strong> Writes error intervals for rounding and truncation; uses correct inequality notation; identifies bounds</li>
+<li><strong>Getting there:</strong> Rounding error intervals OK; truncation intervals confused; inequality direction errors</li>
+<li><strong>Not yet:</strong> No concept of range; uses ≤ for upper bound; rounding unit wrong</li>
+</ul>
+</section>
+
+<section class="section">
+<h2>Homework Suggestions</h2>
+<ul>
+<li>Rounding worksheet (mixed dp, sf, truncation)</li>
+<li>Error interval worksheet: write interval for given rounded values</li>
+<li>Measurement task: measure 5 objects, record with error intervals</li>
+<li>CorbettMaths "Error Intervals" and "Rounding" exercises</li>
+</ul>
+</section>
+</main>
+<footer class="site-footer">
+<p>GCSE Lessons - Free lesson plans for homeschooling</p>
+<p>Content for educational purposes only. Always cross-reference with official specifications.</p>
+<p>© 2025 | <a href="privacy.html">Privacy Policy</a> | <a href="mailto:gcselessons@scott.scottrix.co.uk">Contact</a></p>
+</footer>
+<script>
+document.getElementById('theme-toggle').addEventListener('click', function() {
+const root = document.documentElement;
+if (root.classList.contains('light-mode')) {
+root.classList.remove('light-mode');
+this.textContent = '🌙';
+localStorage.setItem('gcselessons-theme', 'dark');
+} else {
+root.classList.add('light-mode');
+this.textContent = '☀️';
+localStorage.setItem('gcselessons-theme', 'light');
+}
+});
+if (localStorage.getItem('gcselessons-theme') === 'light') {
+document.documentElement.classList.add('light-mode');
+document.getElementById('theme-toggle').textContent = '☀️';
+}
+</script>
+<script src="../../sidebar.js"></script>
+<script src="../../affiliate-images.js"></script>
+</body>
+</html>
