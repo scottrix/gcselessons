@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "R16-growth-decay",
+ "topicName": "growth and decay",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16growthdecay-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Growth: When a quantity increases by a fixed percentage each time period (e.g., compound interest, population growth). | Decay: When a quantity decreases by a fixed percentage each time period (e.g., depreciation, radioactive decay)."
+  },
+  {
+   "id": "16growthdecay-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "£5000 at 4.5% compound interest for 8 years. Find the final amount. | A laptop costs £1200 and depreciates at 20% per year. Find its value after 3 years. | £3000 grows to £3646.52 at 5% compound interest. How many years?"
+  },
+  {
+   "id": "16growthdecay-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A car is bought for £25,000. It depreciates at 15% per year. (a) Find its value after 5 years. (b) After how many years is it worth less than £5000? (c) The owner says \"After 7 years it will be worthless.\" Show this is incorrect and find its actual value after 7 years. <div class=\""
+  },
+  {
+   "id": "16growthdecay-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Growth, Decay, and one past-paper question."
+  }
+ ]
+}

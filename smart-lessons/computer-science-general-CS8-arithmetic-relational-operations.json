@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS8-arithmetic-relational-operations",
+ "topicName": "arithmetic and relational operations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8arithmeticrelationaloperation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Arithmetic operators: perform mathematical calculations on numeric values. At GCSE, you need to know seven operators including DIV and MOD. | DIV: gives the whole number result of division (quotient). MOD gives the remainder. Together they describe any division completely: for a / b, the quotient is a DIV b and the remainder is a MOD b. | Relational operators: compare two values and return a Boolean result (TRUE or FALSE). They are used in IF conditions and WHILE loop conditions. | Exam Warning: In pseudo-code, = means \"equal to\" (comparison), NOT assignment. Assignment uses the left-arrow (←). This is different from languages like Python where = is assignment and == is comparison."
+  },
+  {
+   "id": "8arithmeticrelationaloperation-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Evaluate: 17 DIV 5 and 17 MOD 5 | Write pseudo-code that checks if a number is divisible by 3. | Evaluate step by step: 3 + 4 * 2 - 1"
+  },
+  {
+   "id": "8arithmeticrelationaloperation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Write pseudo-code that inputs a number and determines whether it is divisible by both 3 and 5, divisible by 3 only, divisible by 5 only, or neither. Output an appropriate message for each case. [4 marks] <div class=\""
+  },
+  {
+   "id": "8arithmeticrelationaloperation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Arithmetic operators, DIV, Relational operators, and one past-paper question."
+  }
+ ]
+}

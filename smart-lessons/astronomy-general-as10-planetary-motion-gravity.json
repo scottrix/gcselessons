@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as10-planetary-motion-gravity",
+ "topicName": "planetary motion &amp; gravity",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as10planetarymotiongravity-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Kepler's first law: planets orbit in ellipses with the Sun at one focus | Key Fact: Kepler's second law: a line joining a planet and the Sun sweeps equal areas in equal times (planets move faster at perihelion, slower at aphelion) | Key Fact: Kepler's third law: T² ∝ a³ — the square of the orbital period is proportional to the cube of the semi-major axis | Key Fact: Newton's law of gravitation: F = GMm/r² — gravitational force is proportional to the product of masses and inversely proportional to the square of the distance"
+  },
+  {
+   "id": "as10planetarymotiongravity-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from planetary motion &amp;amp; gravity, and one past-paper question."
+  }
+ ]
+}

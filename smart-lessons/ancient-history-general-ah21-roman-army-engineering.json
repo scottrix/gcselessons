@@ -1,0 +1,20 @@
+{
+ "subject": "ancient-history",
+ "topic": "ah21-roman-army-engineering",
+ "topicName": "the roman army &amp; engineering",
+ "version": 1,
+ "steps": [
+  {
+   "id": "ah21romanarmyengineering-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Roman legion was the basic military unit of about 5,000 men, divided into 10 cohorts of 6 centuries of 80 men each | Key Fact: Legionaries carried a pilum (javelin) and gladius (short sword); the pilum's soft iron shank bent on impact, making shields unusable | Key Fact: Roman engineering: roads (over 400,000 km of roads connecting the empire), aqueducts (gravity-fed water supply), and fortifications like Hadrian's Wall | Key Fact: Hadrian's Wall (122 AD) was a 117 km defensive wall across northern Britain, marking the northwest frontier of the empire"
+  },
+  {
+   "id": "ah21romanarmyengineering-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the roman army &amp;amp; engineering, and one past-paper question."
+  }
+ ]
+}

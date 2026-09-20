@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "capacitors-inductors",
+ "topicName": "capacitors &amp; inductors",
+ "version": 1,
+ "steps": [
+  {
+   "id": "capacitorsinductors-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Capacitance C = Q/V, measured in farads (F); a capacitor stores charge on parallel plates separated by a dielectric. | Key Fact: The energy stored in a capacitor is E = ½CV² = ½QV. | Key Fact: In an RC charging circuit, V_C rises exponentially: V_C = V_supply(1 − e^(−t/RC)). | Key Fact: The time constant τ = RC is the time for the capacitor to reach 63.2% of its final voltage when charging."
+  },
+  {
+   "id": "capacitorsinductors-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe how a capacitor charges and discharges in an RC circuit, explaining the significance of the time constant. <div class=\""
+  },
+  {
+   "id": "capacitorsinductors-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from capacitors &amp;amp; inductors, and one past-paper question."
+  }
+ ]
+}

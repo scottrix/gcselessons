@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as26-astronomy-exam-technique",
+ "topicName": "astronomy exam technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as26astronomyexamtechnique-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: AO1: Recall knowledge and understanding (e.g. define, state, name) | Key Fact: AO2: Apply knowledge and understanding to familiar and unfamiliar contexts (e.g. explain, describe) | Key Fact: AO3: Analyse, evaluate and make judgements (e.g. discuss, evaluate, compare) | Key Fact: Mathematical skills: using standard form, unit conversions, ratios, percentages and algebra"
+  },
+  {
+   "id": "as26astronomyexamtechnique-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from astronomy exam technique, and one past-paper question."
+  }
+ ]
+}

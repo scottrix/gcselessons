@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU24-performance-preparation-and-assessment",
+ "topicName": "performance preparation and assessment",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24performancepreparationandass-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: You may record multiple takes and submit your BEST performance — but each piece must be a single continuous take, not edited together. | Key Fact: Accompaniment can be live or backing track — the accompaniment level must not dominate your performance. Choose appropriate accompaniment for your genre. | Key Fact: Performance anxiety is normal — manage it through: thorough preparation, slow breathing, positive visualisation, and performing to others before the recording. | Key Fact: The teacher marks your performance against AQA criteria, then moderation adjusts the standard — consistency across the cohort is checked."
+  },
+  {
+   "id": "24performancepreparationandass-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how performance preparation and assessment are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use performance preparation and assessment. Explain the effect in each case. | How could you use performance preparation and assessment in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "24performancepreparationandass-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Create a preparation timeline for your performing component, from initial repertoire choice through to final recording. Include strategies for dealing with performance anxiety and ensuring your best performance on the day. <div class=\""
+  },
+  {
+   "id": "24performancepreparationandass-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "exam-command-words-engineering",
+ "topicName": "exam command words",
+ "version": 1,
+ "steps": [
+  {
+   "id": "examcommandwordsengineering-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: State: give a brief factual answer without explanation. | Key Fact: Describe: give a detailed account of what something is or how it works. | Key Fact: Explain: give reasons or causes - say how AND why. | Key Fact: Compare: identify similarities AND differences between two or more items."
+  },
+  {
+   "id": "examcommandwordsengineering-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from exam command words, and one past-paper question."
+  }
+ ]
+}

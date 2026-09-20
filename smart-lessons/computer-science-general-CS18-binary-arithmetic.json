@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS18-binary-arithmetic",
+ "topicName": "binary arithmetic",
+ "version": 1,
+ "steps": [
+  {
+   "id": "18binaryarithmetic-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Binary addition: follows the same principles as decimal addition but with only two digits (0 and 1). There are only four rules to remember. | Overflow: occurs when the result of a binary addition requires more bits than are available. If adding two 8-bit numbers produces a 9th bit (a carry out from the leftmost column), the result cannot be stored correctly in 8 bits. This is an overflow error. | Detecting overflow: If there is a carry out from the most significant bit (leftmost column), overflow has occurred. The stored result will be incorrect. In programming, you need to check for this condition. | To add more than two binary numbers,: add them two at a time. Add the first two, then add the third to that result, and so on. Check for overflow at each step."
+  },
+  {
+   "id": "18binaryarithmetic-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Add the binary numbers 01011010 and 00110101. Show your working. | Add 10110011 and 01101010. Does overflow occur? Explain why. | Perform a binary shift left by 2 on 00101100. What is the result in decimal?"
+  },
+  {
+   "id": "18binaryarithmetic-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Perform the binary addition: 10110110 + 01101001. Show your working including any carries, and state whether overflow has occurred in an 8-bit system. [4 marks] <div class=\""
+  },
+  {
+   "id": "18binaryarithmetic-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Binary addition, Overflow, Detecting overflow, and one past-paper question."
+  }
+ ]
+}

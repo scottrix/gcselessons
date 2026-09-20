@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU3-structure-and-form",
+ "topicName": "structure and form",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3structureandform-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Binary form has two sections (A-B); ternary has three (A-B-A) — the return of A in ternary creates a satisfying sense of completion. | Key Fact: Rondo form features a recurring refrain (A) alternating with contrasting episodes (A-B-A-C-A-D-A) — common in Classical concertos. | Key Fact: Sonata form has three sections: exposition (two contrasting themes), development (themes manipulated), recapitulation (themes return in tonic). | Key Fact: Popular music structures: verse-chorus (alternating storytelling and hook), 12-bar blues (I-IV-V chord pattern), intro-outro-break (framing and variation)."
+  },
+  {
+   "id": "3structureandform-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how structure and form are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use structure and form. Explain the effect in each case. | How could you use structure and form in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "3structureandform-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare the structure of a Classical movement (e.g. sonata form or rondo) with a popular song structure. Explain how each structure serves its musical purpose. <div class=\""
+  },
+  {
+   "id": "3structureandform-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

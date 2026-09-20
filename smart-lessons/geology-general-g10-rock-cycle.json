@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g10-rock-cycle",
+ "topicName": "the rock cycle",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g10rockcycle-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The rock cycle is a continuous process where rocks are transformed between igneous, sedimentary and metamorphic types | Key Fact: Igneous rocks form from cooling magma/lava; weathering and erosion break them into sediment then sedimentary rocks | Key Fact: Sedimentary rocks can be metamorphosed by heat/pressure to metamorphic rocks; or melted to magma then igneous rocks | Key Fact: Metamorphic rocks can be weathered/eroded to sedimentary rocks; or melted to magma then igneous rocks"
+  },
+  {
+   "id": "g10rockcycle-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Geology Exam Tips — The Rock Cycle, and one past-paper question."
+  }
+ ]
+}

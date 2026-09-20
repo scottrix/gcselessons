@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS31-tcp-ip-model",
+ "topicName": "tcp/ip model",
+ "version": 1,
+ "steps": [
+  {
+   "id": "31tcpipmodel-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: The TCP/IP model is a conceptual framework that describes how data is transmitted over a network. It divides network communication into four layers, each with a specific role. Data passes down through the layers when being sent, and up through the layers when being received. | Function: The application layer provides network services directly to user applications. It is the layer that users interact with most directly. It determines what data is sent and how it is formatted for the application. | Function: The transport layer manages end-to-end communication between two devices. It ensures data is delivered reliably (TCP) or quickly (UDP), breaks data into segments, and handles flow control. | Function: The internet layer handles addressing and routing of data packets across ne"
+  },
+  {
+   "id": "31tcpipmodel-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name the four layers of the TCP/IP model from top to bottom and state the main function of each. | Explain the difference between TCP and UDP at the transport layer. Give an example of when each would be used. | Describe the process of encapsulation as data is sent down the layers."
+  },
+  {
+   "id": "31tcpipmodel-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe the four layers of the TCP/IP model, explaining the role of each layer and giving one protocol that operates at each layer. [4 marks] <div class=\""
+  },
+  {
+   "id": "31tcpipmodel-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Function, Function, Function, and one past-paper question."
+  }
+ ]
+}

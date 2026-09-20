@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "R12-similarity-trigonometry",
+ "topicName": "similarity and trigonometry",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12similaritytrigonometry-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Inverse Proportion: X is inversely proportional to Y means X = k/Y, which is the same as X being proportional to 1/Y."
+  },
+  {
+   "id": "12similaritytrigonometry-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "y is inversely proportional to x. When x = 4, y = 15. Find y when x = 10. | P ∝ 1/Q. When Q = 6, P = 5. Find the constant k. | The time to paint a fence is inversely proportional to the number of painters. 3 painters take 8 hours. How long for 4 painters?"
+  },
+  {
+   "id": "12similaritytrigonometry-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Two similar pyramids have base areas of 20 cm² and 45 cm². The height of the smaller pyramid is 8 cm. (a) Find the height of the larger pyramid. (b) The smaller pyramid has volume 64 cm³. Find the volume of the larger pyramid. (c) Show that the volume scale factor equals the linear scale factor cubed. <div class=\""
+  },
+  {
+   "id": "12similaritytrigonometry-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Inverse Proportion, and one past-paper question."
+  }
+ ]
+}

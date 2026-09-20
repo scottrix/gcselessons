@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS7-film",
+ "topicName": "film",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7film-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Film is a major global media form that combines visual, audio, and narrative codes to tell stories and create experiences for cinema and home audiences. | Key Fact: Film genres include: action, horror, comedy, sci-fi, romance, thriller, documentary, animation. Genres set audience expectations and help with marketing and distribution. | Key Fact: Genre hybrids blend elements from multiple genres — e.g. romantic comedy, sci-fi horror. Postmodern films may deliberately mix or parody genre conventions. | Key Fact: Richard Dyer's star theory: film stars are constructed images, not real people. Stars function as cultural symbols — e.g. Dwayne Johnson represents strength and reliability."
+  },
+  {
+   "id": "7film-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the dominance of Hollywood in global film production. [12 marks] <div class=\""
+  },
+  {
+   "id": "7film-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Media Studies Exam Tips — Film, and one past-paper question."
+  }
+ ]
+}

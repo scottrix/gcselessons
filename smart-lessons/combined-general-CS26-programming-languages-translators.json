@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "CS26-programming-languages-translators",
+ "topicName": "programming languages & translators",
+ "version": 1,
+ "steps": [
+  {
+   "id": "26programminglanguagestranslat-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: Programming languages exist at different levels of abstraction from the hardware. Low-level languages are close to what the CPU understands. High-level languages are closer to human language and abstract away hardware details. | Definition: Machine code is the fundamental language of the computer, consisting entirely of binary (0s and 1s). It is the only language the CPU can execute directly without translation. | Definition: Assembly language is a low-level programming language that uses mnemonics (short, memorable codes) to represent machine code instructions. Each mnemonic corresponds to exactly one machine code instruction. | Definition: High-level languages are programming languages designed to be easy for humans to read and write. They use English-like keywords and abstr"
+  },
+  {
+   "id": "26programminglanguagestranslat-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between machine code and assembly language. | Compare a compiler and an interpreter in terms of how they translate code and when they find errors. | Why might a programmer choose to write in assembly language instead of a high-level language?"
+  },
+  {
+   "id": "26programminglanguagestranslat-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare high-level and low-level programming languages, giving two advantages of each. Explain why a device driver might be written in a low-level language. [5 marks] <div class=\""
+  },
+  {
+   "id": "26programminglanguagestranslat-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

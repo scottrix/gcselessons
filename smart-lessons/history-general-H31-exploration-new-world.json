@@ -1,0 +1,26 @@
+{
+ "subject": "history",
+ "topic": "H31-exploration-new-world",
+ "topicName": "exploration and the new world",
+ "version": 1,
+ "steps": [
+  {
+   "id": "31explorationnewworld-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Context: The Elizabethan era was a great age of exploration. Improvements in navigation, shipbuilding, and cartography made long ocean voyages possible. English explorers were driven by a combination of economic ambition, national rivalry with Spain, religious zeal, and sheer curiosity. Their voyages laid the foundations for what would become the British Empire. | Why Exploration Was Possible in the 16th Century: Key technological advances made long ocean voyages feasible: Caravel and galleon ships: New ship designs combined square sails (for speed before the wind) with triangular lateen sails (for manoeuvring into the wind) Compass and astrolabe: The magnetic compass allowed sailors to determine direction; the astrolabe and later the sextant allowed them to calculate latitude from the"
+  },
+  {
+   "id": "31explorationnewworld-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two reasons why Elizabethans explored the New World. (4 marks) | Describe Drake's circumnavigation of the world (1577-80). (4 marks) | Why did the Roanoke colony fail? (8 marks)"
+  },
+  {
+   "id": "31explorationnewworld-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Context, Why the Roanoke Colony Failed, The Impact of Colonisation, and one past-paper question."
+  }
+ ]
+}

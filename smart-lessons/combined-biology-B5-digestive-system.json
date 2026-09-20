@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "B5-digestive-system",
+ "topicName": "b5 digestive system",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5digestivesystem-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Digestion: breaks down large, insoluble food molecules into small, soluble molecules that can be absorbed into the bloodstream. Mechanical digestion physically breaks food apart; chemical digestion uses enzymes to break molecules apart."
+  },
+  {
+   "id": "5digestivesystem-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name the enzyme that breaks down starch and state where it is produced. (2 marks) | Describe how bile helps the digestion of fats. (3 marks) | Explain why an enzyme denatures at high temperature. (3 marks)"
+  },
+  {
+   "id": "5digestivesystem-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how enzyme structure relates to function and how pH affects enzyme activity. <div class=\""
+  },
+  {
+   "id": "5digestivesystem-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Digestion, and one past-paper question."
+  }
+ ]
+}

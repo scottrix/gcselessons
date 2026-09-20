@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "safe-dance-practice",
+ "topicName": "safe dance practice",
+ "version": 1,
+ "steps": [
+  {
+   "id": "safedancepractice-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Safe dance practice protects dancers from injury and supports long-term health and performance | Key Fact: A warm-up gradually raises the heart rate, increases blood flow to muscles and prepares the body for dance | Key Fact: An effective warm-up includes pulse-raising activities, joint mobilisation, dynamic stretching and dance-specific movements | Key Fact: A cool-down gradually returns the body to a resting state and helps prevent stiffness and soreness"
+  },
+  {
+   "id": "safedancepractice-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from safe dance practice, and one past-paper question."
+  }
+ ]
+}

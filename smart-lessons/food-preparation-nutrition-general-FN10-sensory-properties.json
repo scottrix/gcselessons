@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "FN10-sensory-properties",
+ "topicName": "sensory properties of food",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10sensoryproperties-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Sensory properties are how we perceive food through our five senses: sight (appearance/colour), smell (aroma), taste, touch (texture/mouthfeel), and hearing (sound — crunch, sizzle). | Key Fact: The five basic tastes: sweet (sugar), salty (salt), sour (acids — lemon, vinegar), bitter (coffee, dark chocolate), umami (savory — MSG, soy sauce, parmesan, tomatoes, Marmite). | Key Fact: Flavour is a combination of taste (on the tongue) and aroma (detected by the olfactory receptor in the nose). Up to 80% of what we perceive as 'flavour' actually comes from aroma, not taste. | Key Fact: Texture and mouthfeel: crispiness, crunchiness, chewiness, smoothness, softness, flakiness, crumbliness, juiciness, stickiness. Texture is perceived through touch receptors in the mouth and jaw."
+  },
+  {
+   "id": "10sensoryproperties-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain how sensory evaluation methods can be used to develop a new food product. [12 marks] <div class=\""
+  },
+  {
+   "id": "10sensoryproperties-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from sensory properties of food, and one past-paper question."
+  }
+ ]
+}

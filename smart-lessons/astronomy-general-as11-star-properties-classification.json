@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as11-star-properties-classification",
+ "topicName": "star properties &amp; classification",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as11starpropertiesclassificati-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Luminosity is the total energy output of a star per second; it depends on both temperature and radius | Key Fact: Apparent magnitude is how bright a star appears from Earth; absolute magnitude is its brightness at 10 parsecs | Key Fact: Stars are classified by spectral type: O, B, A, F, G, K, M (from hottest to coolest) | Key Fact: A star's colour indicates its temperature: blue stars are hottest, red stars are coolest"
+  },
+  {
+   "id": "as11starpropertiesclassificati-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from star properties &amp;amp; classification, and one past-paper question."
+  }
+ ]
+}

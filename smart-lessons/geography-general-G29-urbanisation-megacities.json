@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G29-urbanisation-megacities",
+ "topicName": "urbanisation and megacities",
+ "version": 1,
+ "steps": [
+  {
+   "id": "29urbanisationmegacities-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Urbanisation is the increase in the proportion of people living in urban areas (towns and cities) compared to rural areas (countryside). It is caused by rural-urban migration and natural increase within cities. | Key Fact: HICs (High-Income Countries) are already highly urbanised (over 75%). The fastest urbanisation is happening in LICs (Low-Income Countries) and NEEs (Newly Emerging Economies), where rates of urban growth can exceed 4% per year. | Key Concept: Rural-urban migration is driven by push factors (negative conditions that drive people away from rural areas) and pull factors (positive attractions that draw people to cities). People weigh up both sets of factors when deciding to move. | Definition: Natural increase is the growth of the urban population through births "
+  },
+  {
+   "id": "29urbanisationmegacities-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define the term urbanisation. (2 marks) | Explain how push and pull factors contribute to rural-urban migration. (4 marks) | Why are most megacities now located in LICs and NEEs? (6 marks)"
+  },
+  {
+   "id": "29urbanisationmegacities-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, and one past-paper question."
+  }
+ ]
+}

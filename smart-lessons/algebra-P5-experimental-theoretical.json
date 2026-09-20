@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "P5-experimental-theoretical",
+ "topicName": "experimental vs theoretical",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5experimentaltheoretical-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Idea: As the number of trials increases, the relative frequency (experimental probability) gets closer to the theoretical probability."
+  },
+  {
+   "id": "5experimentaltheoretical-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "A fair dice is rolled 60 times. How many times would you expect to roll an even number? | A spinner is spun 150 times. It lands on red 45 times. Estimate P(red). | A coin is flipped 100 times with 55 heads. Is this what you'd expect? Explain."
+  },
+  {
+   "id": "5experimentaltheoretical-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A company tests a biased coin. In 50 flips, heads appears 35 times. (a) Find the experimental probability of heads. (b) Use this to estimate the number of heads in 200 flips. (c) Another test of 500 flips gives 310 heads. Calculate the new experimental probability and comment on which estimate is more reliable. <div class=\""
+  },
+  {
+   "id": "5experimentaltheoretical-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from experimental vs theoretical, and one past-paper question."
+  }
+ ]
+}

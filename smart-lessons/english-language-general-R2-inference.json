@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "R2-inference",
+ "topicName": "inference & deduction",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2inference-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Inference means using evidence from the text AND your own reasoning to work out meanings that are NOT directly stated. You \"read between the lines.\" | PEE Structure: P oint - State your inference E vidence - Quote from the text E xplain - Show how the evidence proves your point | Inference Exam Strategy: Always use the PEE structure - Point, Evidence, Explanation. Your point should state the inferred meaning clearly, your evidence must be a short quotation, and your explanation must show HOW the evidence leads to your inference. For AQA Paper 1 Q2 and Paper 2 Q3, spend 10-12 minutes. Examiners reward specific, well-supported inferences over vague guesses. Always ask yourself: \"What does this word/phrase suggest, and how do I know?\""
+  },
+  {
+   "id": "2inference-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response 8 marks: Look in detail at lines 10-22. How does the writer use language here to suggest the character's state of mind? You should include your own inference about what the language suggests. <div class=\""
+  },
+  {
+   "id": "2inference-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on PEE Structure, Inference Exam Strategy, and one past-paper question."
+  }
+ ]
+}

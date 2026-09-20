@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS4-sorting-algorithms",
+ "topicName": "sorting algorithms",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4sortingalgorithms-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A sorting algorithm arranges the elements of a list into a particular order (usually ascending or descending). Sorting makes data easier to search, read, and process. | Bubble sort: works by repeatedly stepping through the list, comparing each pair of adjacent items, and swapping them if they are in the wrong order. After each pass, the largest unsorted element \"bubbles up\" to its correct position at the end of the list. | Merge sort: uses a \"divide and conquer\" approach. It splits the list into individual elements, then repeatedly merges pairs of sorted sublists until the whole list is recombined in order. | GCSE Computer Science Exam Tips: When comparing sorting algorithms, always give the time complexity of each and explain what it means for the given dataset size. Mention t"
+  },
+  {
+   "id": "4sortingalgorithms-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Show the state of the list [4, 2, 7, 1] after each pass of bubble sort. | Describe the two phases of merge sort. | Why is merge sort more efficient than bubble sort for large datasets?"
+  },
+  {
+   "id": "4sortingalgorithms-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A school stores 2000 student records that need to be sorted by surname. Compare bubble sort and merge sort for this task, explaining which is more suitable and why. [5 marks] <div class=\""
+  },
+  {
+   "id": "4sortingalgorithms-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Bubble sort, Merge sort, GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "WT6-audience-purpose",
+ "topicName": "audience and purpose",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6audiencepurpose-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Golden Rule: Every piece of writing should be shaped by who will read it (audience) and what you want to achieve (purpose). These two factors determine your tone, vocabulary, structure, and style. | : What age group are they? What do they already know about the topic? What is their likely attitude toward the subject? What tone will engage them? What vocabulary level is appropriate? | Top Tip: The exam usually requires a formal or semi-formal tone. However, you must still adapt your writing to the specific audience - a speech to teenagers will be different from a letter to an MP, even if both are formal. | Consider: Age appropriateness - younger audiences need simpler vocabulary Subject knowledge - experts understand technical terms Cultural awareness - references must be accessible Tone re"
+  },
+  {
+   "id": "6audiencepurpose-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "How would your writing differ if addressing a headteacher versus addressing your peers? | Explain the difference between writing to persuade and writing to inform. | A speech about healthy eating - how would tone differ for primary school children versus adults?"
+  },
+  {
+   "id": "6audiencepurpose-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Golden Rule, Top Tip, Consider, and one past-paper question."
+  }
+ ]
+}

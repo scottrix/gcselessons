@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS18-neuropsychology-and-scanning",
+ "topicName": "neuropsychology & brain scanning",
+ "version": 1,
+ "steps": [
+  {
+   "id": "18neuropsychologyandscanning-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: CT scans (Computed Tomography): use X-rays to create cross-sectional images of the brain. Show structure but not function. Useful for detecting tumours, bleeding and structural damage. Limitation: only shows anatomy, not activity. | Key Fact: MRI (Magnetic Resonance Imaging): uses strong magnetic fields and radio waves to create detailed structural images. Higher resolution than CT. Shows brain structure in fine detail. Limitation: still only shows structure, not function; expensive; claustrophobic for some patients. | Key Fact: fMRI (functional MRI): measures changes in blood oxygenation (active brain areas use more oxygenated blood). Shows both structure AND function - which areas are active during tasks. Limitation: temporal resolution is poor (changes over seconds, not millis"
+  },
+  {
+   "id": "18neuropsychologyandscanning-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Compare structural and functional brain scanning methods, giving one strength and one limitation of each. | Explain how fMRI works and evaluate its usefulness for studying brain function. | A researcher wants to study which brain areas are active during a memory task. Which scanning method would be most appropriate and why?"
+  },
+  {
+   "id": "18neuropsychologyandscanning-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the contribution of brain scanning methods to our understanding of brain-behaviour relationships. <div class=\""
+  },
+  {
+   "id": "18neuropsychologyandscanning-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT15-selection-of-materials-and-components",
+ "topicName": "selection of materials and components",
+ "version": 1,
+ "steps": [
+  {
+   "id": "15selectionofmaterialsandcompo-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Selection criteria: function, aesthetics, cost (material + processing + assembly), availability, sustainability (recyclability, material miles), manufacturability. | Key Fact: Decision matrix: weighted scoring system - list criteria, assign weights, score each option, multiply weight x score, total reveals best choice. Removes bias. | Key Fact: Working properties must match function: frying pan handle needs thermal insulation (thermoset/silicone), not conductivity (metal). Bicycle frame needs strength-to-weight (aluminium/CFRP). | Key Fact: Batch vs mass production affects material choice: mass production justifies injection moulding tooling; batch uses CNC or hand-laid composites."
+  },
+  {
+   "id": "15selectionofmaterialsandcompo-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a simple decision matrix to compare acrylic, polycarbonate and glass for a display cabinet door. | A designer must choose between aluminium and polypropylene for a kitchen utensil handle. Justify using at least four criteria. | Explain how production volume (batch vs mass) influences material selection for a plastic product."
+  },
+  {
+   "id": "15selectionofmaterialsandcompo-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A company is designing a reusable water bottle for the premium market. Using a decision matrix, compare stainless steel, glass and Tritan across at least five criteria. <div class=\""
+  },
+  {
+   "id": "15selectionofmaterialsandcompo-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

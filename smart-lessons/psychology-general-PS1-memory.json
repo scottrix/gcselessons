@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS1-memory",
+ "topicName": "memory",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1memory-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Memory is the process of encoding, storing and retrieving information. Encoding converts sensory input into a storable form; storage retains it; retrieval accesses it when needed. | Key Fact: The Multi-Store Model (Atkinson & Shiffrin, 1968): Sensory memory (brief, capacity limited by senses) -> Short-term memory (limited capacity 7+/-2 items, duration ~30 seconds) -> Long-term memory (potentially unlimited capacity and duration) via rehearsal. | Key Fact: Types of LTM: Episodic (personal experiences, e.g. your first day at school), Semantic (facts and knowledge, e.g. Paris is the capital of France), Procedural (skills and actions, e.g. riding a bike). | Key Fact: Eyewitness testimony is unreliable: Loftus & Palmer (1974) showed leading questions distort recall - participants est"
+  },
+  {
+   "id": "1memory-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the multi-store model of memory and evaluate its strengths and limitations. | Explain how leading questions can affect the accuracy of eyewitness testimony, referring to Loftus & Palmer's research. | Compare and contrast episodic, semantic and procedural long-term memory."
+  },
+  {
+   "id": "1memory-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the usefulness of the multi-store model of memory for understanding how we remember and forget. <div class=\""
+  },
+  {
+   "id": "1memory-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "B8-health-and-disease",
+ "topicName": "b8 health and disease",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8healthanddisease-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Health: is a state of physical and mental wellbeing, not just the absence of disease. Diseases can be communicable (can be passed between individuals) or non-communicable (cannot be passed on). Risk factors increase the likelihood of developing a non-communicable disease."
+  },
+  {
+   "id": "8healthanddisease-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define the term \"health.\" (1 mark) | Explain the difference between a communicable disease and a non-communicable disease. Give one example of each. (3 marks) | Explain the difference between a benign tumour and a malignant tumour. (3 marks)"
+  },
+  {
+   "id": "8healthanddisease-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain the difference between correlation and causation using smoking and lung cancer as an example. <div class=\""
+  },
+  {
+   "id": "8healthanddisease-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Health, and one past-paper question."
+  }
+ ]
+}

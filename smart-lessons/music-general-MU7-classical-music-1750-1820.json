@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU7-classical-music-1750-1820",
+ "topicName": "classical music 1750-1820",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7classicalmusic17501820-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Classical period prioritised clarity, balance and elegance — homophonic texture dominates, with clear melody above chordal accompaniment. | Key Fact: Sonata form became the primary structure for first movements: exposition (two contrasting themes in different keys), development, recapitulation. | Key Fact: The Classical orchestra standardised: strings formed the core, with woodwind (flute, oboe, clarinet, bassoon), horns, trumpets and timpani added. | Key Fact: Alberti bass is a broken-chord accompaniment pattern (low-high-middle-high) typical of Classical keyboard music — it provides harmonic and rhythmic support."
+  },
+  {
+   "id": "7classicalmusic17501820-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how classical music 1750-1820 are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use classical music 1750-1820. Explain the effect in each case. | How could you use classical music 1750-1820 in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "7classicalmusic17501820-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain how sonata form works and how it creates a dramatic musical argument. Use examples from Beethoven's Symphony No. 1. <div class=\""
+  },
+  {
+   "id": "7classicalmusic17501820-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

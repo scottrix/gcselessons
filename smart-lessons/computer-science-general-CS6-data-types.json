@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS6-data-types",
+ "topicName": "data types",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6datatypes-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A data type defines the kind of data a variable can hold. Choosing the correct data type ensures data is stored efficiently and prevents errors. | Integer: stores whole numbers only - no decimal points. Use integer for counts, ages, positions, and any value that cannot logically be fractional. | Common mistake: Storing 3.14 as an integer would lose the decimal part, storing only 3. If a value needs decimal precision, use Real/Float instead. | Real (or Float): stores numbers with a decimal point. Use real for measurements, prices, averages, and scientific calculations where precision matters."
+  },
+  {
+   "id": "6datatypes-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name the five main data types and give an example value for each. | What is the difference between the integer 7 and the string \"7\"? | What is the result of INT(\"25\") + INT(\"10\")?"
+  },
+  {
+   "id": "6datatypes-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A program stores a student's name, their test score as a whole number, their height in metres, and whether they have passed. State the most appropriate data type for each value and explain your choice. [4 marks] <div class=\""
+  },
+  {
+   "id": "6datatypes-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Integer, Common mistake, Real (or Float), and one past-paper question."
+  }
+ ]
+}

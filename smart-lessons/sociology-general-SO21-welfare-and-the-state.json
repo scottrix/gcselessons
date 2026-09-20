@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO21-welfare-and-the-state",
+ "topicName": "welfare, poverty & the state",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21welfareandthestate-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The welfare state (1945): based on Beveridge Report (1942) which identified five 'giant evils': Want, Disease, Ignorance, Squalor, Idleness. Key services: NHS, state education, social security, council housing. | Key Fact: Universal vs means-tested benefits: universal (available to all - NHS, state education) vs means-tested (only for those below a certain income - Universal Credit). Means-testing targets resources but creates the poverty trap. | Key Fact: New Right critique (Murray): welfare creates a 'dependency culture' where people rely on benefits. The 'underclass' is trapped in welfare dependency. Evaluation: 68% of families in poverty have at least one working adult; most benefit claimants are there temporarily. | Key Fact: Marxist view: welfare maintains capitalism (reser"
+  },
+  {
+   "id": "21welfareandthestate-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the key features of the welfare state and evaluate different views on its role. | Evaluate the New Right view that welfare creates a dependency culture. | Assess whether poverty is caused by structural factors or individual behaviour."
+  },
+  {
+   "id": "21welfareandthestate-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the view that the welfare state has failed to reduce poverty in modern Britain. <div class=\""
+  },
+  {
+   "id": "21welfareandthestate-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

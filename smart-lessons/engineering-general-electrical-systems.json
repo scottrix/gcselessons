@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "electrical-systems",
+ "topicName": "electrical systems",
+ "version": 1,
+ "steps": [
+  {
+   "id": "electricalsystems-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Electrical systems use power supplies, control devices and output devices to perform useful functions. | Key Fact: Power supplies provide energy: mains (AC 230V, 50Hz) for stationary equipment; batteries (DC) for portable applications. | Key Fact: Input control devices include switches (toggle, push-button, limit, reed), relays and sensors that control current flow. | Key Fact: Relays are electrically operated switches: a small control current energises an electromagnet that switches a larger load circuit."
+  },
+  {
+   "id": "electricalsystems-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from electrical systems, and one past-paper question."
+  }
+ ]
+}

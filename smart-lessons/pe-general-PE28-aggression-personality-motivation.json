@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE28-aggression-personality-motivation",
+ "topicName": "aggression, personality and motivation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "28aggressionpersonalitymotivat-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Aggression: Behaviour that is intended to harm another person or object. In sport, aggression must be distinguished from assertion - assertion is forceful but legitimate play within the rules, while aggression goes beyond the rules with intent to harm. | Direct Aggression: Aggression that is aimed directly at another person, involving physical contact or confrontation with the intent to cause harm. | Indirect Aggression: Aggression that is not aimed directly at another person. It may involve verbal abuse, psychological intimidation, or aggression directed at objects rather than people. | Personality: The unique combination of characteristics, traits and behaviours that make an individual distinct. In sport, personality influences the type of activity a performer is drawn to and how they re"
+  },
+  {
+   "id": "28aggressionpersonalitymotivat-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between direct and indirect aggression, giving a sporting example of each. | Why are introverts more likely to choose individual sports while extroverts prefer team sports? | Describe the difference between intrinsic and extrinsic motivation. Which is more effective for long-term participation and why?"
+  },
+  {
+   "id": "28aggressionpersonalitymotivat-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Aggression, Direct Aggression, Indirect Aggression, and one past-paper question."
+  }
+ ]
+}

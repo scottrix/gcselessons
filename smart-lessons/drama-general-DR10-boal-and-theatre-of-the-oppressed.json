@@ -1,0 +1,32 @@
+{
+ "subject": "drama",
+ "topic": "DR10-boal-and-theatre-of-the-oppressed",
+ "topicName": "boal and theatre of the oppressed",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10boalandtheatreoftheoppressed-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Forum theatre: a play is performed, then replayed with audience members ('spect-actors') stepping in to change the outcome — the audience becomes active. | Key Fact: Spect-actor: the audience member who stops the action and replaces a character — they are both spectator and actor. | Key Fact: Image theatre: participants use their bodies to create still images (sculptures) of oppression — reveals issues without words. | Key Fact: Invisible theatre: performed in public spaces without the audience knowing it's theatre — provokes real reactions and discussion."
+  },
+  {
+   "id": "10boalandtheatreoftheoppressed-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how forum theatre works and why Boal believed it was important for social change. | What is the role of the 'Joker' in forum theatre? How does this differ from a traditional director? | Compare Boal's Theatre of the Oppressed with Brecht's epic theatre — both want social change but use different methods. How?"
+  },
+  {
+   "id": "10boalandtheatreoftheoppressed-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain how you would use Boal's Theatre of the Oppressed techniques to explore an issue of social injustice with a group. Describe the process and its intended outcomes. <div class=\""
+  },
+  {
+   "id": "10boalandtheatreoftheoppressed-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Drama Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "questionnaire-design",
+ "topicName": "questionnaire design",
+ "version": 1,
+ "steps": [
+  {
+   "id": "questionnairedesign-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A questionnaire is a set of written questions used to collect data from respondents. | Key Fact: Open questions allow free-text answers (e.g. 'What do you think about…?'); they give detailed responses but are hard to analyse. | Key Fact: Closed questions give a fixed set of response options (e.g. tick boxes, Likert scales); they are easy to analyse but limit answers. | Key Fact: Leading questions influence the respondent to answer in a particular way — they must be avoided."
+  },
+  {
+   "id": "questionnairedesign-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A student writes this question on a questionnaire: 'How many hours of TV do you watch each week? (a) 0–5, (b) 5–10, (c) 10–15, (d) 15+'. Identify two problems and rewrite the question with improved options. <div class=\""
+  },
+  {
+   "id": "questionnairedesign-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from questionnaire design, and one past-paper question."
+  }
+ ]
+}

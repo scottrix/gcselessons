@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "G21-exact-trig-values",
+ "topicName": "exact trigonometric values",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21exacttrigvalues-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Exact values: are the precise values of trigonometric functions for special angles, written as fractions or surds rather than decimals. | Why learn these?: They appear frequently in exams and simplify calculations without a calculator."
+  },
+  {
+   "id": "21exacttrigvalues-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Write down the exact value of sin 60°. | Write down the exact value of tan 45°. | Calculate sin 30° × cos 60°."
+  },
+  {
+   "id": "21exacttrigvalues-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: An equilateral triangle has side length 2 cm. (a) Find the exact height using exact trig values. (b) Find the exact area. (c) A regular hexagon is made from 6 equilateral triangles. Find the exact area of the hexagon with side 2 cm. <div class=\""
+  },
+  {
+   "id": "21exacttrigvalues-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exact values, Why learn these?, and one past-paper question."
+  }
+ ]
+}

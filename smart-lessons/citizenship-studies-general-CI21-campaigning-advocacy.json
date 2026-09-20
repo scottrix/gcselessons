@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI21-campaigning-advocacy",
+ "topicName": "campaigning & advocacy",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21campaigningadvocacy-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Campaigns aim to achieve specific changes in policy, behaviour, or awareness. Successful campaigns have clear messages, identifiable targets, and measurable goals. | Key Fact: Campaign methods include: petitions, marches and demonstrations, social media campaigns, lobbying elected representatives, public meetings, letter-writing, boycotts, and civil disobedience. | Key Fact: Advocacy means representing and arguing for the rights and interests of others, especially those who may not be able to represent themselves effectively. | Key Fact: Grassroots campaigns are built from the community level up (e.g. local residents opposing a development). Top-down campaigns are led by established organisations (e.g. Oxfam, Amnesty International)."
+  },
+  {
+   "id": "21campaigningadvocacy-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the effectiveness of different methods of campaigning. [12 marks] <div class=\""
+  },
+  {
+   "id": "21campaigningadvocacy-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from campaigning &amp; advocacy, and one past-paper question."
+  }
+ ]
+}

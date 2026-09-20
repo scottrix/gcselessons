@@ -1,0 +1,32 @@
+{
+ "subject": "biology",
+ "topic": "B16-reproduction-and-hormones",
+ "topicName": "reproduction and hormones",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16reproductionandhormones-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Reproduction and Hormones: The menstrual cycle is controlled by four main hormones. These hormones can be used in contraception and in fertility treatments such as IVF."
+  },
+  {
+   "id": "16reproductionandhormones-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name the four hormones that control the menstrual cycle. For each hormone, state where it is produced and its main function. | Explain how oestrogen and progesterone act as negative feedback controls in the menstrual cycle. | Describe how the combined oral contraceptive pill prevents pregnancy."
+  },
+  {
+   "id": "16reproductionandhormones-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how hormones control the menstrual cycle and discuss IVF ethics. <div class=\""
+  },
+  {
+   "id": "16reproductionandhormones-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Reproduction and Hormones, and one past-paper question."
+  }
+ ]
+}

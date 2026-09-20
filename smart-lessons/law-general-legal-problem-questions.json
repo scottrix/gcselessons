@@ -1,0 +1,26 @@
+{
+ "subject": "law",
+ "topic": "legal-problem-questions",
+ "topicName": "legal problem questions",
+ "version": 1,
+ "steps": [
+  {
+   "id": "legalproblemquestions-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Problem questions present a factual scenario and ask you to advise on the legal position — they test your ability to apply law to facts, not just recall legal rules | Key Fact: The ILAC method provides a clear structure: Issue (identify the legal question), Law (state the relevant legal rules), Application (apply the law to the facts), Conclusion (state the likely outcome) | Key Fact: Identify all the legal issues in the scenario — there are usually multiple issues, such as actus reus, mens rea and any defences in a criminal problem | Key Fact: State the law accurately — name the relevant statute or case, define the legal principle precisely and set out the elements that must be proved"
+  },
+  {
+   "id": "legalproblemquestions-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How should you apply the ILAC method to a criminal law scenario involving assault? (15 marks) <div class=\""
+  },
+  {
+   "id": "legalproblemquestions-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from legal problem questions, and one past-paper question."
+  }
+ ]
+}

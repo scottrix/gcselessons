@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE15-fitness-testing",
+ "topicName": "fitness testing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "15fitnesstesting-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Reasons for fitness testing: Identify strengths and weaknesses - find out which components of fitness need improvement Monitor progress - compare test results over time to see if training is working Set baseline scores - establish starting points for setting targets and designing training programmes Compare against normative data - see how results compare to national averages for age and gender Provide motivation - give performers targets to aim for and a sense of achievement Assess suitability for a sport - determine if fitness levels meet the demands of a specific activity | Normative data: is a set of reference values (averages) that allow you to compare your test results against typical scores for your age and gender. Without normative data, a test score is just a number with no contex"
+  },
+  {
+   "id": "15fitnesstesting-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Which fitness test measures agility and briefly describe its protocol. | Name the test used to measure cardiovascular endurance and describe how it works. | Explain three reasons why fitness testing is carried out."
+  },
+  {
+   "id": "15fitnesstesting-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Reasons for fitness testing, Normative data, Limitations, and one past-paper question."
+  }
+ ]
+}

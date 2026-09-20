@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G45-fieldwork-analysis-conclusions",
+ "topicName": "fieldwork: analysis, conclusions and evaluation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "45fieldworkanalysisconclusions-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: Data analysis means identifying patterns, trends, and relationships in your data. It involves describing what the data shows, calculating statistics, and explaining the geographical reasons behind the patterns you find. | Definition: The IQR measures the spread of the middle 50% of data, eliminating the influence of outliers. It is calculated as Q3 − Q1, where Q1 is the 25th percentile and Q3 is the 75th percentile. | Definition: Spearman's Rank measures the strength and direction of the relationship between two variables. It produces a value between -1 and +1. This is the most important statistical test for GCSE Geography fieldwork. | Key Concept: To determine if your Spearman's Rank result is statistically significant (not just due to chance), compare your calculated rs valu"
+  },
+  {
+   "id": "45fieldworkanalysisconclusions-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between the mean and the median, and when each might be more appropriate. | A Spearman's Rank calculation gives a result of +0.82 with 10 pairs of data. The critical value at p=0.05 for n=10 is 0.65. Explain what this result m | Describe three factors that could affect the reliability of fieldwork data."
+  },
+  {
+   "id": "45fieldworkanalysisconclusions-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Key Concept, Key Skill, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g23-economic-geology-resources",
+ "topicName": "economic geology &amp; resources",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g23economicgeologyresources-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: An ore is a naturally occurring mineral from which a metal can be economically extracted | Key Fact: Hydrothermal ore deposits: metal-rich hot fluids deposit minerals in veins and fractures (e.g. tin in Cornwall, gold veins) | Key Fact: Placer deposits: heavy minerals concentrated by river or wave action (e.g. gold, diamond placers) | Key Fact: Fossil fuels: coal (from Carboniferous swamp forests), petroleum (from marine microorganisms under heat and pressure)"
+  },
+  {
+   "id": "g23economicgeologyresources-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from economic geology &amp;amp; resources, and one past-paper question."
+  }
+ ]
+}

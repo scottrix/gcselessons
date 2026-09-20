@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC15-market-failure",
+ "topicName": "market failure",
+ "version": 1,
+ "steps": [
+  {
+   "id": "15marketfailure-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Market failure occurs when the market system fails to allocate resources efficiently — the price mechanism produces the wrong quantity of a good. | Key Fact: Externalities are costs or benefits affecting third parties not involved in the transaction. Social cost = private cost + external cost. Social benefit = private benefit + external benefit. | Key Fact: Negative externalities: pollution from a factory harms nearby residents (costs not reflected in price). Over-production and over-consumption result. | Key Fact: Positive externalities: education benefits society beyond the individual (lower crime, higher productivity). Under-consumption and under-production result."
+  },
+  {
+   "id": "15marketfailure-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain what is meant by market failure and give two examples. | Describe the difference between a positive externality and a negative externality, giving one example of each. | Evaluate whether taxation is the most effective way for government to reduce negative externalities from pollution."
+  },
+  {
+   "id": "15marketfailure-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the government should ban all products that create negative externalities. <div class=\""
+  },
+  {
+   "id": "15marketfailure-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

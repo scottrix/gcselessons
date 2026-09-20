@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G26-flood-risk-management",
+ "topicName": "flood risk and management",
+ "version": 1,
+ "steps": [
+  {
+   "id": "26floodriskmanagement-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A flood occurs when a river's discharge exceeds its channel capacity, causing water to overflow onto the flood plain. Discharge is the volume of water flowing past a point in a given time, measured in cumecs (m³/s). | Key Fact: Drainage density is the total length of river channels per unit area. It is highest in impermeable, steep basins where water runs off quickly rather than infiltrating. High drainage density means water reaches the main channel rapidly, increasing flood risk. | Definition: A storm hydrograph (or flood hydrograph) shows how a river's discharge changes over time in response to a rainfall event. It is a key tool for understanding flood risk and comparing the flood response of different drainage basins. | Definition: Hard engineering involves building artific"
+  },
+  {
+   "id": "26floodriskmanagement-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how urbanisation increases flood risk. (4 marks) | Describe the features of a flashy storm hydrograph. (4 marks) | Compare hard and soft engineering strategies for managing flood risk. (6 marks)"
+  },
+  {
+   "id": "26floodriskmanagement-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Facts, and one past-paper question."
+  }
+ ]
+}

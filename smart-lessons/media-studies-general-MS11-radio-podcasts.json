@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS11-radio-podcasts",
+ "topicName": "radio & podcasts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "11radiopodcasts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Radio is a broadcast medium that uses sound codes (speech, music, sound effects, silence) to communicate with audiences. It is immediate, intimate, and portable. | Key Fact: BBC Radio operates under public service obligations, providing distinctive programming for diverse audiences. BBC Radio 1 targets young audiences; Radio 4 targets older, educated listeners. | Key Fact: Commercial radio (Global, Bauer) is funded by advertising. It targets specific demographics to maximise ad revenue — e.g. Heart targets 25-44 women, LBC targets news-interested adults. | Key Fact: Radio conventions: scheduling, jingles, station identification, news bulletins, phone-ins, playlists, presenters, and audience interaction (texts, calls, social media)."
+  },
+  {
+   "id": "11radiopodcasts-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare radio and podcasting as media forms. [12 marks] <div class=\""
+  },
+  {
+   "id": "11radiopodcasts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from radio &amp; podcasts, and one past-paper question."
+  }
+ ]
+}

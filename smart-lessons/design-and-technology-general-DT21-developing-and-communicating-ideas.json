@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT21-developing-and-communicating-ideas",
+ "topicName": "developing and communicating ideas",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21developingandcommunicatingid-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Freehand sketching: quick, expressive, captures ideas rapidly - the primary tool for initial concept generation. Annotations explain function, materials and dimensions. | Key Fact: Rendering: adding tone, texture and colour to sketches - creates realistic appearance, shows material properties, communicates design intent to clients. | Key Fact: CAD (Computer-Aided Design): 2D (vector for laser cutting), 3D (solid modelling for visualisation, FEA, 3D printing). Precision, easy modification, virtual testing, output for CAM. | Key Fact: Orthographic projection: 2D technical drawings showing front, side and plan views - precise, scaled, used for manufacture. Third-angle projection (UK standard)."
+  },
+  {
+   "id": "21developingandcommunicatingid-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why designers begin with freehand sketches before moving to CAD, rather than going straight to computer modelling. | Describe the key features of an orthographic projection drawing and explain why it is used for manufacturing. | A designer needs to show how a retractable pen assembles. Which drawing type is most appropriate and why?"
+  },
+  {
+   "id": "21developingandcommunicatingid-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response You are designing a desk lamp. Produce an annotated freehand sketch of one concept, then explain how you would develop this idea using CAD, including two specific advantages CAD provides. <div class=\""
+  },
+  {
+   "id": "21developingandcommunicatingid-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

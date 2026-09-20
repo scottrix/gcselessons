@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT17-improving-functionality",
+ "topicName": "improving functionality",
+ "version": 1,
+ "steps": [
+  {
+   "id": "17improvingfunctionality-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Ergonomics: designing to fit the human body - grip diameter (25-40 mm for comfort), reach distances, visual angles, force requirements. | Key Fact: Anthropometrics: human body measurements - 5th to 95th percentile range fits 90% of the population. Designing for the 'average' fits nobody well. | Key Fact: User-centred design: involve users throughout - observe, interview, prototype, test, iterate. Real-world feedback, not assumptions. | Key Fact: Inclusive design: products usable by the widest range of people regardless of age, ability or disability - larger buttons, clearer text, tactile feedback."
+  },
+  {
+   "id": "17improvingfunctionality-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between ergonomics and anthropometrics and how they work together. | A designer is creating a tin opener for elderly users with reduced grip strength. Describe three features that would improve functionality. | Why is designing for the 'average' user problematic? Explain how percentile ranges solve this."
+  },
+  {
+   "id": "17improvingfunctionality-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A company is redesigning a kitchen kettle. Complaints: uncomfortable handle and hard-to-read water level. Propose and justify four improvements using ergonomic and inclusive design principles. <div class=\""
+  },
+  {
+   "id": "17improvingfunctionality-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "N12-fractions-percentages-operators",
+ "topicName": "fractions & percentages as operators",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12fractionspercentagesoperator-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Operator: In mathematics, \"of\" means multiply. So \"3/4 of 20\" means 3/4 × 20, and \"25% of 80\" means 25% × 80."
+  },
+  {
+   "id": "12fractionspercentagesoperator-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Find 2/3 of £54 | Find 35% of 240 | Increase £180 by 15%"
+  },
+  {
+   "id": "12fractionspercentagesoperator-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A house was bought for £180,000. After 3 years its value increased by 12%. It was then sold, and the seller paid 1.5% estate agent fees on the sale price. (a) Find the sale price. (b) Find the estate agent fees. (c) Calculate the actual percentage profit the seller made on the original purchase price after fees are deducted. <div class=\""
+  },
+  {
+   "id": "12fractionspercentagesoperator-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Operator, and one past-paper question."
+  }
+ ]
+}

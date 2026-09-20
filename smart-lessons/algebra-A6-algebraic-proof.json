@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A6-algebraic-proof",
+ "topicName": "algebraic proof",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6algebraicproof-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Equation vs Identity: Equation: True for specific values (e.g., 2x = 6 is true only when x = 3) Identity: True for ALL values, shown with ≡ symbol (e.g., 2(x + 3) ≡ 2x + 6) | Algebraic Proof: Using algebra to show that a mathematical statement is always true."
+  },
+  {
+   "id": "6algebraicproof-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Prove that (x + 4)² - (x + 2)² ≡ 4(2x + 3) | Write an expression for two consecutive odd numbers and find their sum. | Prove that the sum of three consecutive even numbers is divisible by 6."
+  },
+  {
+   "id": "6algebraicproof-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Prove that the difference between the squares of any two consecutive even numbers is always a multiple of 4. <div class=\""
+  },
+  {
+   "id": "6algebraicproof-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Equation vs Identity, Algebraic Proof, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "food-safety-legislation-haccp",
+ "topicName": "food safety legislation & haccp",
+ "version": 1,
+ "steps": [
+  {
+   "id": "foodsafetylegislationhaccp-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Food Safety Act 1990 is the key UK legislation: it requires food businesses to ensure food is safe, not harmful to health, and labelled accurately. | Key Fact: Under the Food Safety Act, it is an offence to sell food that is unfit for human consumption, or to describe food falsely (e.g. mislabelling). | Key Fact: Environmental Health Officers (EHOs) enforce food safety law: they inspect premises, take food samples, issue improvement notices, and can close businesses that pose a health risk. | Key Fact: EHOs inspect food businesses unannounced and assess hygiene based on: food handling, physical condition of premises, and confidence in management."
+  },
+  {
+   "id": "foodsafetylegislationhaccp-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from food safety legislation &amp; haccp, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "roman-entertainment",
+ "topicName": "roman entertainment",
+ "version": 1,
+ "steps": [
+  {
+   "id": "romanentertainment-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Roman entertainment served political purposes — panem et circenses (bread and circuses) kept the population content | Key Fact: Gladiatorial games (munera) originated as funeral rites and evolved into mass entertainment | Key Fact: The Colosseum (Flavian Amphitheatre) could hold 50,000-80,000 spectators and hosted gladiatorial combat and animal hunts | Key Fact: Gladiators were usually slaves, prisoners of war or condemned criminals — though some volunteered for fame and money"
+  },
+  {
+   "id": "romanentertainment-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far was Roman entertainment a tool of political control? (15 marks) <div class=\""
+  },
+  {
+   "id": "romanentertainment-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from roman entertainment, and one past-paper question."
+  }
+ ]
+}

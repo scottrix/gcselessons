@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g13-geological-time-stratigraphy",
+ "topicName": "geological time &amp; stratigraphy",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g13geologicaltimestratigraphy-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The geological timescale divides Earth's 4.6 billion year history into eons, eras, periods and epochs | Key Fact: Principle of superposition: in undisturbed sequences, the oldest rocks are at the bottom and youngest at the top | Key Fact: Principle of original horizontality: sedimentary rocks are deposited horizontally; tilting indicates later deformation | Key Fact: Principle of cross-cutting relationships: a feature that cuts another is younger than what it cuts"
+  },
+  {
+   "id": "g13geologicaltimestratigraphy-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from geological time &amp;amp; stratigraphy, and one past-paper question."
+  }
+ ]
+}

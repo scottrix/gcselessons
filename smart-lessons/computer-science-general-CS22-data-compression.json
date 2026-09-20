@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS22-data-compression",
+ "topicName": "data compression",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22datacompression-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Data compression reduces the number of bits needed to represent data. This saves storage space and reduces the time needed to transmit data over a network. | Key Difference: Lossy compression discards some data permanently - you cannot get the original back. Lossless compression finds more efficient ways to represent the same data - the original can be perfectly reconstructed. | Definition: Huffman coding is a lossless compression algorithm that assigns shorter binary codes to more frequently occurring characters and longer codes to less frequent characters. | Definition: Run length encoding (RLE) is a lossless compression method that replaces sequences of the same data value (runs) with a count and the value, stored as frequency/data pairs."
+  },
+  {
+   "id": "22datacompression-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between lossy and lossless compression. | The string \"MISSISSIPPI\" has these character frequencies: M=1, I=4, S=4, P=2. Construct a Huffman tree and assign codes to each character. | Using the Huffman codes from Q2, calculate the total bit length of \"MISSISSIPPI\" and compare it to a fixed-length encoding."
+  },
+  {
+   "id": "22datacompression-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A bitmap image contains the following pixel data: RRRRGGGGBBBBYYYY. Explain how run-length encoding would compress this data, and calculate the compression ratio. [4 marks] <div class=\""
+  },
+  {
+   "id": "22datacompression-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Difference, Rule of Thumb, GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

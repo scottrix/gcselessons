@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO26-sociology-and-social-policy",
+ "topicName": "sociology & social policy",
+ "version": 1,
+ "steps": [
+  {
+   "id": "26sociologyandsocialpolicy-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Social policy: government actions addressing social problems (education, welfare, crime, health). Sociology influences policy through evidence, evaluation and advocacy. | Key Fact: Evidence-based policy: using research evidence to design policies. Example: Sure Start was based on research showing early intervention improves outcomes. However, policies are also influenced by political ideology, economics and public opinion. | Key Fact: Positivist view: sociology should provide objective evidence for rational policymaking. Interpretivist view: sociology should give voice to lived experience to shape humane policy. Both contribute. | Key Fact: Value-free vs value-laden: Weber argued sociology should be objective, but values inevitably influence topic choice. Marx: the point is to ch"
+  },
+  {
+   "id": "26sociologyandsocialpolicy-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how sociological research can influence social policy, giving examples. | Compare positivist and interpretivist views on sociology and social policy. | Evaluate whether sociology should aim to influence social policy or remain value-free."
+  },
+  {
+   "id": "26sociologyandsocialpolicy-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the view that sociology should aim to change society rather than just study it. <div class=\""
+  },
+  {
+   "id": "26sociologyandsocialpolicy-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

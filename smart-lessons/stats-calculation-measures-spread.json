@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "measures-spread",
+ "topicName": "measures spread",
+ "version": 1,
+ "steps": [
+  {
+   "id": "measuresspread-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The range is the difference between the largest and smallest values: range = maximum – minimum; it is affected by outliers. | Key Fact: The interquartile range (IQR) = Q3 – Q1; it measures the spread of the middle 50% of the data and is not affected by outliers. | Key Fact: The IQR is preferred over the range when the data contains outliers or is skewed, because it ignores extreme values. | Key Fact: The pth percentile is the value below which p% of the data falls; it can be read from a cumulative frequency curve."
+  },
+  {
+   "id": "measuresspread-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Calculate the standard deviation of the following sample data: 4, 7, 8, 10, 11. <div class=\""
+  },
+  {
+   "id": "measuresspread-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from measures spread, and one past-paper question."
+  }
+ ]
+}

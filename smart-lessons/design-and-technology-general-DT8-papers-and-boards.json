@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT8-papers-and-boards",
+ "topicName": "papers and boards",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8papersandboards-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Cartridge paper: 120-300 gsm, textured surface, good for sketching and marker work. | Key Fact: Corrugated board: two liner layers with fluted medium - excellent crush resistance, lightweight, used for packaging. | Key Fact: Foam-core board: polystyrene foam sandwiched between card layers - very lightweight, rigid, easy to cut; used for architectural models. | Key Fact: Solid white board: high-quality bleached board, 200+ gsm - smooth surface for printing and packaging."
+  },
+  {
+   "id": "8papersandboards-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why corrugated board is used for packaging rather than solid cardboard of the same weight. | A designer needs to create a 3D architectural model. Justify the choice of foam-core board over corrugated board. | Compare the suitability of cartridge paper and layout paper for producing a final design presentation."
+  },
+  {
+   "id": "8papersandboards-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A company is designing packaging for a luxury perfume bottle. Justify the choice of board materials for both the inner protective insert and the outer presentation box. <div class=\""
+  },
+  {
+   "id": "8papersandboards-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

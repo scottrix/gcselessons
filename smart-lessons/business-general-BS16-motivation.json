@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS16-motivation",
+ "topicName": "motivation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16motivation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Financial motivation methods: wages (hourly pay), salaries (fixed annual pay), commission (percentage of sales), profit sharing (share of profits), bonuses (one-off rewards), fringe benefits (perks like company car, healthcare, gym membership). | Key Fact: Non-financial motivation methods: job rotation (varying tasks), job enrichment (giving more responsibility and challenge), empowerment (giving authority to make decisions), teamworking (collaborative projects), and opportunities for promotion and training. | Key Fact: Maslow's hierarchy of needs: physiological → safety → social → esteem → self-actualisation. Lower needs must be met before higher ones motivate. A wage meets physiological/safety needs; empowerment addresses esteem/self-actualisation. | Key Fact: Herzberg's two-fa"
+  },
+  {
+   "id": "16motivation-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between financial and non-financial motivation, giving two examples of each. | Describe how Maslow's hierarchy of needs can help a business understand what motivates its employees. | Evaluate whether a business should focus more on financial rewards or non-financial methods to motivate staff."
+  },
+  {
+   "id": "16motivation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate how a call centre with high staff turnover could use both financial and non-financial methods to improve motivation and retention. <div class=\""
+  },
+  {
+   "id": "16motivation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

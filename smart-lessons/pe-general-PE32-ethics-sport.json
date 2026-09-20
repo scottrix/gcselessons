@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE32-ethics-sport",
+ "topicName": "ethics in sport",
+ "version": 1,
+ "steps": [
+  {
+   "id": "32ethicssport-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Ethics in sport: The moral principles and values that govern behaviour in sport. Ethics determine what is considered right and wrong, fair and unfair, and guide the conduct of performers, coaches, officials and spectators. | Etiquette: The unwritten rules, conventions and customs that govern behaviour in sport. Etiquette is about showing respect, courtesy and consideration for others. It is not enforced by officials but is expected by the sporting community. | Etiquette vs Rules: Etiquette is NOT the same as the written rules of the sport. Rules are formally codified and enforced by officials with penalties for breaches. Etiquette is unwritten, self-policed and based on respect and tradition. Breaking etiquette has no formal punishment but damages a performer's reputation. | Sportsmanship:"
+  },
+  {
+   "id": "32ethicssport-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define etiquette in sport and give two examples of etiquette in a named sport. | Explain the difference between sportsmanship and gamesmanship, using sporting examples. | What is the contract to compete and why is it important for fair competition?"
+  },
+  {
+   "id": "32ethicssport-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Ethics in sport, Etiquette, Etiquette vs Rules, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC23-the-distribution-of-income",
+ "topicName": "the distribution of income",
+ "version": 1,
+ "steps": [
+  {
+   "id": "23thedistributionofincome-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Income inequality: the top 20% earn over 5 times more than the bottom 20%. Causes: education/skills gaps, wage differentials, inheritance, and unemployment. | Key Fact: Wealth inequality is even greater than income inequality — wealth (assets, property) is more concentrated than income (earnings). | Key Fact: Consequences: poorer health and education outcomes for low-income groups, social tension, reduced social mobility, and lower aggregate demand. | Key Fact: Government redistribution: progressive taxation (higher earners pay more), welfare benefits (universal credit, pensions), and public services (free NHS, education)."
+  },
+  {
+   "id": "23thedistributionofincome-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two causes of income inequality in the UK. | Describe how government can redistribute income through taxation and spending. | Evaluate whether reducing income inequality should be a government priority."
+  },
+  {
+   "id": "23thedistributionofincome-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the UK's balance of payments deficit is a serious economic problem. <div class=\""
+  },
+  {
+   "id": "23thedistributionofincome-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

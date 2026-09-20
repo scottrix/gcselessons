@@ -1,0 +1,20 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "british-international-cuisine",
+ "topicName": "british & international cuisine",
+ "version": 1,
+ "steps": [
+  {
+   "id": "britishinternationalcuisine-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Traditional British dishes include: roast beef and Yorkshire pudding, fish and chips, shepherd's pie, full English breakfast, Sunday roast, and trifle. | Key Fact: British cuisine has been significantly influenced by immigration and global trade: Indian, Chinese, Italian, Caribbean, and Middle Eastern foods are now part of everyday British eating. | Key Fact: Chicken tikka masala is often described as a British national dish, reflecting the fusion of Indian cooking with British tastes. | Key Fact: Key international cuisines and their staples: Italian (pasta, olive oil, tomatoes), Indian (rice, spices, lentils, ghee), Chinese (rice, soy sauce, stir-frying), Mexican (tortillas, beans, chillies), Thai (rice, coconut, lemongrass)."
+  },
+  {
+   "id": "britishinternationalcuisine-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from british &amp; international cuisine, and one past-paper question."
+  }
+ ]
+}

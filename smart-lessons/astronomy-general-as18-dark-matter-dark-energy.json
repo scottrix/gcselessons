@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as18-dark-matter-dark-energy",
+ "topicName": "dark matter &amp; dark energy",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as18darkmatterdarkenergy-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Dark matter makes up ~27% of the universe's mass-energy; it does not emit, absorb or reflect light | Key Fact: Evidence for dark matter: galaxy rotation curves (stars orbit faster than expected), gravitational lensing, galaxy cluster dynamics | Key Fact: Dark energy makes up ~68% of the universe's mass-energy; it drives the accelerating expansion | Key Fact: Ordinary (baryonic) matter makes up only ~5% of the universe"
+  },
+  {
+   "id": "as18darkmatterdarkenergy-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from dark matter &amp;amp; dark energy, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE12-planes-axes-movement",
+ "topicName": "planes and axes of movement",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12planesaxesmovement-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Plane of movement: An imaginary flat surface that divides the body into sections. Movement occurs ALONG or PARALLEL to a plane. | Axis of movement: An imaginary line around which the body or body part rotates. The axis is always PERPENDICULAR (at 90°) to the plane of movement. | Sagittal Plane: Divides the body into left and right halves. Movement in this plane involves flexion and extension - forward and backward movements. | Transverse Axis: Runs from left to right through the body. The body or body parts rotate around this axis when performing flexion and extension movements."
+  },
+  {
+   "id": "12planesaxesmovement-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name the three planes of movement and describe how each divides the body. | Which plane and axis are used when performing a forward somersault? | Explain why a cartwheel occurs in the frontal plane around the sagittal axis."
+  },
+  {
+   "id": "12planesaxesmovement-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Plane of movement, Axis of movement, Sagittal Plane, and one past-paper question."
+  }
+ ]
+}

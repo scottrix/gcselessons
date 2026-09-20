@@ -1,0 +1,26 @@
+{
+ "subject": "german",
+ "topic": "GM27-tenses-present-perfect-and-imperfect",
+ "topicName": "tenses: present, perfect and imperfect",
+ "version": 1,
+ "steps": [
+  {
+   "id": "27tensespresentperfectandimper-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Regular verbs: drop -en and add: -e, -st, -t, -en, -t, -en. Irregular verbs (sein, haben, werden) must be memorised. Some verbs have vowel changes (e→i, e→ie) in du/er/sie forms: sprechen → du sprichst, er spricht; sehen → du siehst, er sieht. | Exam Tip: With sein verbs, the past participle does NOT add a ge- prefix if the verb ends in -ieren: studieren → ich habe studiert (NOT gestudiert). Irregular past participles must be memorised: gehen → gegangen, schreiben → geschrieben, trinken → getrunken. | Key Fact: Regular verbs: drop -en, add -te endings: ich machte, du machtest, er machte, wir machten, ihr machtet, sie machten. The imperfect is essential for reading comprehension in the exam. | German Exam Tips — Tenses: Present, Perfect and Imperfect: 1. For Tenses: Present, Perfe"
+  },
+  {
+   "id": "27tensespresentperfectandimper-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Writing task: Write about forming and using the present, perfect (perfekt) and imperfect (präteritum) tenses; when to use each. <div class=\""
+  },
+  {
+   "id": "27tensespresentperfectandimper-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exam Tip, and one past-paper question."
+  }
+ ]
+}

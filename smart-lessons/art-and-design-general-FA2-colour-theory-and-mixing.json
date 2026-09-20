@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "FA2-colour-theory-and-mixing",
+ "topicName": "colour theory and mixing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2colourtheoryandmixing-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The colour wheel organises hues: primary (red, yellow, blue), secondary (orange, green, purple), tertiary (red-orange, blue-green etc). | Key Fact: Complementary colours sit opposite on the wheel and create maximum contrast and visual vibration when placed together. | Key Fact: Colour has emotional and psychological impact — warm colours (reds, oranges) feel energetic; cool colours (blues, greens) feel calm. | Key Fact: Tints (add white), shades (add black) and tones (add grey) expand your palette beyond pure hues."
+  },
+  {
+   "id": "2colourtheoryandmixing-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring colour theory and mixing. Annotate your process. | Research an artist or designer who works with colour theory and mixing. Write a critical analysis of their approach and explain how it has informed yo | Evaluate the effectiveness of your experiments with colour theory and mixing. Which approaches were most successful and why?"
+  },
+  {
+   "id": "2colourtheoryandmixing-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Select an artwork that uses colour expressively. Analyse the colour relationships and explain how the artist creates mood and meaning through colour. How has this informed your own colour choices? <div class=\""
+  },
+  {
+   "id": "2colourtheoryandmixing-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Fine Art Exam Tips, and one past-paper question."
+  }
+ ]
+}

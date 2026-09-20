@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "sensors-transducers",
+ "topicName": "sensors &amp; transducers",
+ "version": 1,
+ "steps": [
+  {
+   "id": "sensorstransducers-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A sensor converts a physical quantity (light, temperature, pressure) into an electrical signal; a transducer converts energy between forms. | Key Fact: An LDR (light-dependent resistor) has resistance that decreases as light intensity increases; typically 1 MΩ in dark and 1 kΩ in bright light. | Key Fact: An NTC thermistor has resistance that decreases as temperature increases; a PTC thermistor has resistance that increases with temperature. | Key Fact: Sensors are commonly used in potential divider circuits to convert resistance changes into voltage changes for processing."
+  },
+  {
+   "id": "sensorstransducers-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain how an LDR or thermistor can be used in a potential divider circuit to monitor light or temperature, and describe how the output can be conditioned to drive a switching circuit. <div class=\""
+  },
+  {
+   "id": "sensorstransducers-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from sensors &amp;amp; transducers, and one past-paper question."
+  }
+ ]
+}

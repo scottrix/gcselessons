@@ -1,0 +1,32 @@
+{
+ "subject": "english-literature",
+ "topic": "P2-comparing-poems",
+ "topicName": "comparing poems",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2comparingpoems-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Point: Don't just write about one poem then the other. Weave them together - compare as you go. | Why Alternating Works: Examiners can see you're comparing throughout. It's easier to track similarities and differences. You cover both poems equally. | Top Tip: Comparison questions are typically worth 30 marks (AO1/AO2/AO3). Spend 45 minutes total: 5 mins planning your comparison points, 35 mins writing, 5 mins checking. Every paragraph must reference both poems — if you write a full paragraph on only one poem, you have already lost marks."
+  },
+  {
+   "id": "2comparingpoems-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What's the difference between alternating and integrated comparison? | Name three elements you should compare between poems. | Why should you include both similarities and differences?"
+  },
+  {
+   "id": "2comparingpoems-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response 30 marks: Compare how poets present ideas about power in \"Ozymandias\" and \"London.\" <div class=\""
+  },
+  {
+   "id": "2comparingpoems-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Point, Why Alternating Works, Top Tip, and one past-paper question."
+  }
+ ]
+}

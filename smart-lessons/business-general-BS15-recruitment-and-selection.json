@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS15-recruitment-and-selection",
+ "topicName": "recruitment and selection",
+ "version": 1,
+ "steps": [
+  {
+   "id": "15recruitmentandselection-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Internal recruitment fills vacancies from within the business (promotion, transfer): quicker, cheaper, motivating for staff, but limits the talent pool and may cause resentment if not transparent. | Key Fact: External recruitment brings in new people from outside: wider talent pool, fresh ideas, but more expensive and time-consuming (advertising, interviewing) and may demotivate existing staff who wanted the role. | Key Fact: A job description lists the duties and responsibilities of the role; a person specification lists the skills, qualifications, and experience required. Both are essential for fair, effective recruitment. | Key Fact: Selection methods: interviews (most common but subjective), application forms/CVs (screening), assessment centres (observe candidates in tasks), "
+  },
+  {
+   "id": "15recruitmentandselection-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Compare internal and external recruitment, giving two advantages of each. | Explain why a job description and person specification are both needed in the recruitment process. | Evaluate whether a business should always use external recruitment for senior management positions."
+  },
+  {
+   "id": "15recruitmentandselection-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a small business should use an expensive recruitment agency to hire a new manager, rather than advertising on its own website and social media. <div class=\""
+  },
+  {
+   "id": "15recruitmentandselection-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

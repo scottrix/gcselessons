@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT20-investigating-design-contexts",
+ "topicName": "investigating design contexts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "20investigatingdesigncontexts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Design brief: a concise statement of the problem to be solved - identifies the user, the need and the context. Not a solution - a starting point. | Key Fact: Design specification: a list of measurable criteria the product must meet - function, target user, dimensions, materials, cost, safety, aesthetics, environmental impact. Must be testable. | Key Fact: User research: interviews, questionnaires, observation, focus groups - reveals real needs, not assumptions. Ask open questions, observe users in context, identify pain points. | Key Fact: Market research: analyse competing products - features, price points, materials, strengths, weaknesses. Identify gaps in the market and opportunities for innovation."
+  },
+  {
+   "id": "20investigatingdesigncontexts-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Write a design brief and three specification points for a product that helps elderly people open jar lids. | Explain the difference between a design brief and a design specification. | A designer wants to create a new type of school bag. Describe three research methods they should use and explain what each would reveal."
+  },
+  {
+   "id": "20investigatingdesigncontexts-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A company has identified that cyclists struggle to carry groceries on their bicycles. Write a design brief, produce a specification with at least six measurable points, and describe two research methods. <div class=\""
+  },
+  {
+   "id": "20investigatingdesigncontexts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

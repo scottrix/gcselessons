@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS15-ethnicity-representation",
+ "topicName": "ethnicity & representation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "15ethnicityrepresentation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Ethnic representation in media has historically marginalised, stereotyped, or excluded people of colour, but recent years have seen significant improvement. | Key Fact: Traditional stereotypes: Black men as criminals or athletes; Asian people as terrorists or 'model minorities'; Latino people as criminals or domestic workers; Middle Eastern people as terrorists. | Key Fact: Underrepresentation: ethnic minorities have been proportionally underrepresented in mainstream media, particularly in lead roles, directing, and writing positions. | Key Fact: Tokenism: including a single ethnic minority character to appear diverse without giving them meaningful development or narrative importance. Token characters are often stereotypical."
+  },
+  {
+   "id": "15ethnicityrepresentation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how ethnicity is represented in one of your CSPs. [12 marks] <div class=\""
+  },
+  {
+   "id": "15ethnicityrepresentation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from ethnicity &amp; representation, and one past-paper question."
+  }
+ ]
+}

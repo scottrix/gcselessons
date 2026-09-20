@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "joining-assembly",
+ "topicName": "joining &amp; assembly",
+ "version": 1,
+ "steps": [
+  {
+   "id": "joiningassembly-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Permanent joints cannot be disassembled without damage: welding, brazing, soft soldering, riveting and adhesive bonding. | Key Fact: Temporary joints can be repeatedly assembled and disassembled: bolts, nuts, screws, clips and captive fasteners. | Key Fact: Welding fuses metals together by melting the parent material (and usually a filler rod); MIG, TIG and MMA are common arc welding processes. | Key Fact: Brazing joins metals by melting a filler (brass alloy, above 450 degrees C) that flows by capillary action between closely fitting parts."
+  },
+  {
+   "id": "joiningassembly-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from joining &amp;amp; assembly, and one past-paper question."
+  }
+ ]
+}

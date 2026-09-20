@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI19-what-is-active-citizenship",
+ "topicName": "what is active citizenship?",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19whatisactivecitizenship-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Active citizenship means taking responsible action to address community or social issues — it goes beyond voting and includes volunteering, campaigning, and community action. | Key Fact: Formal participation: voting, joining a political party, standing for election, contacting elected representatives, attending public meetings. | Key Fact: Informal participation: volunteering, community organising, campaigning, protesting, signing petitions, using social media for civic purposes. | Key Fact: The GCSE specification requires students to carry out a citizenship action project — addressing a real issue through research, planning, action, and evaluation."
+  },
+  {
+   "id": "19whatisactivecitizenship-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain why active citizenship is important for a healthy democracy. [9 marks] <div class=\""
+  },
+  {
+   "id": "19whatisactivecitizenship-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from what is active citizenship?, and one past-paper question."
+  }
+ ]
+}

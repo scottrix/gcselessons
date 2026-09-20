@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU4-rhythm-metre-and-tempo",
+ "topicName": "rhythm metre and tempo",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4rhythmmetreandtempo-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Simple time divides beats into 2 (2/4, 3/4, 4/4); compound time divides into 3 (6/8, 9/8, 12/8) — the feel is fundamentally different. | Key Fact: Syncopation places emphasis on off-beats or weak beats — it creates rhythmic tension and is central to jazz, blues and popular music. | Key Fact: Polyrhythm is two or more conflicting rhythmic patterns played simultaneously — common in African and Caribbean music traditions. | Key Fact: Hemiola creates a temporary shift of metre (e.g. feeling 2 groups of 3 as 3 groups of 2) — used from Renaissance to pop music."
+  },
+  {
+   "id": "4rhythmmetreandtempo-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how rhythm metre and tempo are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use rhythm metre and tempo. Explain the effect in each case. | How could you use rhythm metre and tempo in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "4rhythmmetreandtempo-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Identify three different rhythmic features in a piece of music. Use precise terminology and explain the effect of each feature on the character of the music. <div class=\""
+  },
+  {
+   "id": "4rhythmmetreandtempo-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE37-somatotypes",
+ "topicName": "somatotypes",
+ "version": 1,
+ "steps": [
+  {
+   "id": "37somatotypes-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Somatotypes: A system of classifying body types based on physical characteristics. There are three main somatotypes: endomorph, mesomorph and ectomorph. Most people are a blend of all three, with one type being dominant. | Endomorph: A somatotype characterised by a high proportion of body fat, a wide waist and hips, and a rounded, soft body shape. Endomorphs tend to store fat easily and find it difficult to lose weight. | Mesomorph: A somatotype characterised by a muscular, athletic build with broad shoulders, narrow waist and low body fat. Mesomorphs gain muscle easily and have a naturally strong, powerful physique. | Ectomorph: A somatotype characterised by a lean, thin build with low body fat and low muscle mass. Ectomorphs are typically tall and slender with narrow shoulders and a fast"
+  },
+  {
+   "id": "37somatotypes-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the three somatotypes and give a sporting example for each. | Explain why an endomorph is well-suited to being a rugby prop forward. | Why is an ectomorph the ideal somatotype for a marathon runner?"
+  },
+  {
+   "id": "37somatotypes-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Somatotypes, Endomorph, Mesomorph, and one past-paper question."
+  }
+ ]
+}

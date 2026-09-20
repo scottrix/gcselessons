@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS4-media-audiences",
+ "topicName": "media audiences",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4mediaaudiences-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Audiences are the groups of people who consume media products. Understanding who they are and how they use media is central to media studies. | Key Fact: Demographic profiling classifies audiences by measurable characteristics: age, gender, income, occupation, education, ethnicity, and location. | Key Fact: Psychographic profiling classifies audiences by personality, values, attitudes, interests, and lifestyles — e.g. 'aspirers', 'reformers', 'mainstreamers'. This is often more useful than demographics for targeting. | Key Fact: Blumler and Katz's Uses and Gratifications theory identifies four needs audiences fulfil through media: information/education, entertainment, social interaction, and personal identity."
+  },
+  {
+   "id": "4mediaaudiences-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate how media producers target and appeal to specific audiences. Refer to your CSPs. [15 marks] <div class=\""
+  },
+  {
+   "id": "4mediaaudiences-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from media audiences, and one past-paper question."
+  }
+ ]
+}

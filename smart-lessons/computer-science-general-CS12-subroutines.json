@@ -1,0 +1,26 @@
+{
+ "subject": "computer-science",
+ "topic": "CS12-subroutines",
+ "topicName": "subroutines",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12subroutines-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A subroutine is a named, self-contained block of code that performs a specific task. It is defined once and can be called (invoked) from anywhere in the program. Subroutines make code more organised, reusable, and easier to debug. | A procedure: is a subroutine that performs a task but does not return a value to the calling code. It may produce output, change variables, or modify data structures, but it doesn't send a result back. | A function: is a subroutine that performs a calculation and returns a value to the calling code. The returned value can be stored in a variable, used in an expression, or output directly. | Parameters: are the variables listed in the subroutine definition. Arguments are the actual values passed to the subroutine when it is called. Parameters act as "
+  },
+  {
+   "id": "12subroutines-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What is the difference between a procedure and a function? | Write a function called calculatePerimeter that takes the length and width of a rectangle and returns the perimeter. | Explain the difference between a parameter and an argument."
+  },
+  {
+   "id": "12subroutines-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on A procedure, A function, Parameters, and one past-paper question."
+  }
+ ]
+}

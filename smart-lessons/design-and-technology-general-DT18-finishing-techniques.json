@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT18-finishing-techniques",
+ "topicName": "finishing techniques",
+ "version": 1,
+ "steps": [
+  {
+   "id": "18finishingtechniques-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Metal finishes - functional: galvanising (zinc coating prevents rust), anodising (thickened aluminium oxide layer - harder, can be dyed), plating (chromium/nickel for hardness). Decorative: powder coating (baked polymer - durable, many colours), painting (versatile but less durable). | Key Fact: Timber finishes - functional: preservative (prevents rot), fire retardant. Decorative: varnish (clear, highlights grain, waterproof), oil (penetrates wood, natural), wax (soft sheen, less durable), paint (opaque, hides grain), stain (changes colour, shows grain). | Key Fact: Polymer finishes - self-finishing (coloured in the mould). Surface: printing (pad, screen, hot-foil), texturing (etched mould surfaces), vacuum metallising. | Key Fact: Textile finishes - functional: waterproofing (DW"
+  },
+  {
+   "id": "18finishingtechniques-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why galvanising is used on steel gate hinges but not on stainless steel hinges. | Compare varnish and oil as finishes for an oak dining table, justifying your recommendation for a family home. | A polymer product needs the company logo applied. Compare pad printing and screen printing."
+  },
+  {
+   "id": "18finishingtechniques-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A manufacturer produces aluminium outdoor furniture. Evaluate THREE appropriate finishing techniques and recommend the most suitable for a coastal environment. <div class=\""
+  },
+  {
+   "id": "18finishingtechniques-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

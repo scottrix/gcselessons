@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "myths-underworld",
+ "topicName": "myths of the underworld",
+ "version": 1,
+ "steps": [
+  {
+   "id": "mythsunderworld-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Greek Underworld (Hades) was the realm of the dead, ruled by the god Hades and his queen Persephone | Key Fact: All souls went to the Underworld — it was not simply a place of reward or punishment | Key Fact: Charon the ferryman transported souls across the River Styx — the dead were buried with a coin for payment | Key Fact: The Underworld had distinct regions: Asphodel Meadows for ordinary souls, Elysium for heroes, and Tartarus for the wicked"
+  },
+  {
+   "id": "mythsunderworld-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far do Greek myths of the Underworld reveal a pessimistic view of death? (15 marks) <div class=\""
+  },
+  {
+   "id": "mythsunderworld-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from myths of the underworld, and one past-paper question."
+  }
+ ]
+}

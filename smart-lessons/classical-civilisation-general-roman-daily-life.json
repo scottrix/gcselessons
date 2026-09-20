@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "roman-daily-life",
+ "topicName": "daily life in rome",
+ "version": 1,
+ "steps": [
+  {
+   "id": "romandailylife-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Rich Romans lived in domus (single-family houses) with atrium, peristyle gardens and private baths | Key Fact: Most Romans lived in insulae (multi-storey apartment blocks) — cramped, fire-prone and overcrowded | Key Fact: The typical Roman day began at dawn, with business conducted in the morning and leisure in the afternoon | Key Fact: Roman meals: ientaculum (breakfast), prandium (light lunch), cena (main evening meal)"
+  },
+  {
+   "id": "romandailylife-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far did wealth determine the quality of daily life in Rome? (15 marks) <div class=\""
+  },
+  {
+   "id": "romandailylife-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from daily life in rome, and one past-paper question."
+  }
+ ]
+}

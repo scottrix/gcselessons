@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "technical-skills-dance",
+ "topicName": "technical dance skills",
+ "version": 1,
+ "steps": [
+  {
+   "id": "technicalskillsdance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Technical skills are the specific physical competences that enable a dancer to perform movement accurately and safely | Key Fact: Posture is the way the body is held and provides the base from which all movement begins | Key Fact: Alignment refers to the correct positioning of body parts in relation to one another, ensuring efficient movement | Key Fact: Control is the ability to manage the body's movement with precision, including speed, direction and dynamics"
+  },
+  {
+   "id": "technicalskillsdance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from technical dance skills, and one past-paper question."
+  }
+ ]
+}

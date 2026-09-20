@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "B11-vaccines-and-drugs",
+ "topicName": "vaccines and drugs",
+ "version": 1,
+ "steps": [
+  {
+   "id": "11vaccinesanddrugs-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Drugs: are substances that affect the body. Some drugs treat disease (like antibiotics), some relieve symptoms (like painkillers), and some prevent disease (like vaccines)."
+  },
+  {
+   "id": "11vaccinesanddrugs-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how vaccination provides immunity to a disease. (3 marks) | Explain why antibiotics cannot be used to treat viral diseases. (2 marks) | Describe how antibiotic-resistant bacteria develop. (3 marks)"
+  },
+  {
+   "id": "11vaccinesanddrugs-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how vaccination works and how antibiotic resistance develops. <div class=\""
+  },
+  {
+   "id": "11vaccinesanddrugs-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Drugs, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "SPG3-grammar-syntax",
+ "topicName": "grammar and syntax",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3grammarsyntax-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "AO6 Requirement: Use a range of vocabulary and sentence structures for clarity, purpose and effect. Good grammar ensures your writing is clear, professional and achieves its purpose. | Watch out for: Words between subject and verb can confuse agreement. \"The box of chocolates is on the table\" - the subject is 'box' (singular), not 'chocolates'. | AO6 Tip: Vary your sentence structures for effect. Use simple sentences for impact, complex for detail, compound for flow. | Exam Tip: Using subject terminology accurately shows sophistication in language analysis. Know the difference between nouns, verbs, adjectives and adverbs at minimum."
+  },
+  {
+   "id": "3grammarsyntax-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Identify the error: \"The group of students are studying hard.\" | Rewrite using active voice: \"The window was broken by the ball.\" | What type of sentence is this? \"When the rain stopped, the children ran outside.\""
+  },
+  {
+   "id": "3grammarsyntax-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on AO6 Requirement, Watch out for, AO6 Tip, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "us-film-industry",
+ "topicName": "us film industry",
+ "version": 1,
+ "steps": [
+  {
+   "id": "usfilmindustry-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The US film industry is dominated by the major Hollywood studios — Warner Bros, Disney, Universal, Paramount, Columbia and Fox — which control the majority of film production and distribution worldwide. | Key Fact: Production involves the development, financing and creation of a film, including pre-production planning, principal photography and post-production editing, effects and sound design. | Key Fact: Distribution is the process of marketing and delivering films to audiences through theatrical releases, home entertainment and digital platforms, with studios investing heavily in promotional campaigns. | Key Fact: Exhibition refers to the screening of films to audiences, historically dominated by cinema chains but now including streaming platforms that have transformed how aud"
+  },
+  {
+   "id": "usfilmindustry-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How has the structure of the US film industry shaped the types of films that audiences see? <div class=\""
+  },
+  {
+   "id": "usfilmindustry-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from us film industry, and one past-paper question."
+  }
+ ]
+}

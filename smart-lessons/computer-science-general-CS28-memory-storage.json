@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS28-memory-storage",
+ "topicName": "memory & storage",
+ "version": 1,
+ "steps": [
+  {
+   "id": "28memorystorage-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Primary memory is the memory that is directly accessible by the CPU. It holds the data and instructions that the CPU is currently using or will need soon. Primary memory includes RAM and ROM. | Definition: RAM is volatile memory that stores the data and programs currently in use. It is called \"random access\" because any location can be accessed in the same amount of time. RAM loses its contents when power is turned off. | Definition: ROM is non-volatile memory that stores permanent instructions. Its contents cannot be changed (or are very difficult to change). ROM retains its data even when power is switched off. | Definition: Cache is a small, very fast memory located between the CPU and RAM. It stores frequently accessed data and instructions to reduce the time the CPU spends"
+  },
+  {
+   "id": "28memorystorage-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between RAM and ROM. | Describe the memory hierarchy from fastest to slowest. | What is virtual memory and why does it slow down a computer?"
+  },
+  {
+   "id": "28memorystorage-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the concept of virtual memory, why it is needed, and one disadvantage of using it. [3 marks] <div class=\""
+  },
+  {
+   "id": "28memorystorage-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exam Point, GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

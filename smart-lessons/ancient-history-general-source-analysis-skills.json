@@ -1,0 +1,26 @@
+{
+ "subject": "ancient-history",
+ "topic": "source-analysis-skills",
+ "topicName": "source analysis skills",
+ "version": 1,
+ "steps": [
+  {
+   "id": "sourceanalysisskills-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Source analysis is a core skill in OCR J198, especially in the Depth Study paper | Key Fact: Always consider three elements: content (what it says), provenance (who wrote it, when, why), and context (what else was happening) | Key Fact: Ancient sources include writers like Herodotus, Thucydides, Livy, Polybius and Plutarch | Key Fact: Ancient sources may be biased, incomplete, or written long after events — always note their limitations"
+  },
+  {
+   "id": "sourceanalysisskills-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How useful is Herodotus as a source for the Persian Wars? (12 marks) <div class=\""
+  },
+  {
+   "id": "sourceanalysisskills-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from source analysis skills, and one past-paper question."
+  }
+ ]
+}

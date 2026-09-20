@@ -1,0 +1,26 @@
+{
+ "subject": "computer-science",
+ "topic": "CS34-detecting-preventing-cyber-threats",
+ "topicName": "detecting & preventing cyber threats",
+ "version": 1,
+ "steps": [
+  {
+   "id": "34detectingpreventingcyberthre-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: Effective cyber security requires both detection (identifying threats) and prevention (stopping threats). No single method is sufficient - multiple layers of defence are needed. | Definition: Biometric security uses unique biological characteristics to identify and authenticate users. Biometrics are very difficult to forge or steal. | Why biometrics are strong: They are something you ARE, not something you KNOW (password) or HAVE (token). You cannot forget, lose, or easily share a biometric. However, if biometric data is stolen, it cannot be changed like a password can. | Definition: A password policy is a set of rules that govern how passwords are created, used, and managed within an organisation. Strong password policies significantly reduce the risk of unauthorised access."
+  },
+  {
+   "id": "34detectingpreventingcyberthre-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe two biometric security measures and explain their advantages over passwords. | What is the purpose of CAPTCHA? Give an example of how it works. | Explain how anti-malware software detects threats, including its limitations."
+  },
+  {
+   "id": "34detectingpreventingcyberthre-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Why biometrics are strong, Password Best Practices, and one past-paper question."
+  }
+ ]
+}

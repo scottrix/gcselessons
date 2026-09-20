@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A22-inequalities",
+ "topicName": "inequalities",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22inequalities-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key rule: Solve like equations, BUT when multiplying or dividing by a negative number, reverse the inequality sign."
+  },
+  {
+   "id": "22inequalities-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Solve: 4x - 7 > 13 | Solve: 2x + 5 ≤ x + 8 | Solve: -3x > 12"
+  },
+  {
+   "id": "22inequalities-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A company's profit is P = -x² + 12x - 20 thousand pounds, where x is the price in pounds. (a) Find the prices that give zero profit. (b) Find the price range for positive profit. (c) What price maximises profit? <div class=\""
+  },
+  {
+   "id": "22inequalities-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key rule, and one past-paper question."
+  }
+ ]
+}

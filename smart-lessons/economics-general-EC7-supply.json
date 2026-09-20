@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC7-supply",
+ "topicName": "supply",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7supply-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Supply is the quantity producers are willing and able to sell at a given price over a period of time. | Key Fact: Law of supply: as price rises, quantity supplied rises (positive relationship), shown by an upward-sloping supply curve. | Key Fact: Factors shifting supply: costs of production, technology, taxes and subsidies, number of firms, weather (agriculture). | Key Fact: Movement ALONG the curve = price change. SHIFT of the curve = non-price factor (costs, technology, etc.)."
+  },
+  {
+   "id": "7supply-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between a movement along the supply curve and a shift of the supply curve. | Describe three factors that could cause an increase in the supply of solar panels. | Analyse how a rise in the minimum wage might affect supply of goods from labour-intensive firms."
+  },
+  {
+   "id": "7supply-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether government subsidies for renewable energy effectively increase green electricity supply. <div class=\""
+  },
+  {
+   "id": "7supply-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

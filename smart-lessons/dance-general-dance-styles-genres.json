@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "dance-styles-genres",
+ "topicName": "dance styles &amp; genres",
+ "version": 1,
+ "steps": [
+  {
+   "id": "dancestylesgenres-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Ballet is characterised by turnout, pointe work, elevation and precise classical technique | Key Fact: Contemporary dance blends ballet and modern techniques with an emphasis on floor work and weight | Key Fact: Jazz dance combines African rhythms, theatrical performance and syncopated, energetic movement | Key Fact: Hip-hop dance includes breaking, locking, popping and krumping, rooted in urban street culture"
+  },
+  {
+   "id": "dancestylesgenres-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from dance styles &amp;amp; genres, and one past-paper question."
+  }
+ ]
+}

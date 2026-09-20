@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "types-of-data",
+ "topicName": "types of data",
+ "version": 1,
+ "steps": [
+  {
+   "id": "typesofdata-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Qualitative data is non-numerical — it describes qualities or categories (e.g. eye colour, favourite subject). | Key Fact: Quantitative data is numerical — it can be measured or counted (e.g. height, number of pets). | Key Fact: Quantitative data splits into discrete and continuous. | Key Fact: Discrete data can only take specific values, usually whole numbers (e.g. number of siblings, shoe size)."
+  },
+  {
+   "id": "typesofdata-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Classify each of the following as qualitative (categorical or ordinal), discrete quantitative or continuous quantitative: (a) hair colour, (b) exam grade (A–U), (c) time taken to run 100 m, (d) number of books read last month. <div class=\""
+  },
+  {
+   "id": "typesofdata-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from types of data, and one past-paper question."
+  }
+ ]
+}

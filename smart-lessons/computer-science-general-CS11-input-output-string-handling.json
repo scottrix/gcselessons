@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS11-input-output-string-handling",
+ "topicName": "input, output &amp; string handling",
+ "version": 1,
+ "steps": [
+  {
+   "id": "11inputoutputstringhandling-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "INPUT: gets data from the user (or another source) and stores it in a variable. In most pseudo-code, INPUT returns a string, so you may need to convert it to the correct data type. | Important: Data received via INPUT is usually a string. If you need to perform arithmetic, you must convert it using INT(), FLOAT(), or other type conversion functions. | OUTPUT: displays data to the user. You can output variables, strings, numbers, and expressions. Use & to concatenate (join) items in the output. | String operations: allow you to manipulate text data. At GCSE, you need to know LENGTH, POSITION (or INSTR), SUBSTRING, and concatenation."
+  },
+  {
+   "id": "11inputoutputstringhandling-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What does LENGTH(\"GCSE Computer Science\") return? | Write pseudo-code that asks for a word and outputs the first three characters. | What is the ASCII code for 'A'? What is CHR(97)?"
+  },
+  {
+   "id": "11inputoutputstringhandling-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Write pseudo-code that inputs a full name (e.g. 'Jane Smith'), extracts and outputs the first name and last name separately, then outputs the initials in uppercase. [5 marks] <div class=\""
+  },
+  {
+   "id": "11inputoutputstringhandling-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on INPUT, OUTPUT, String operations, and one past-paper question."
+  }
+ ]
+}

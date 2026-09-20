@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS3-searching-algorithms",
+ "topicName": "searching algorithms",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3searchingalgorithms-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A searching algorithm finds the position of a specific item (the target) within a data structure such as a list or array. If the item is found, the algorithm returns its position; if not, it indicates the item is not present. | Linear search: checks each item in the list sequentially, starting from the first element, until the target is found or the end of the list is reached. It works on both sorted and unsorted data. | Binary search: works on a sorted list . It compares the target with the middle element. If the target is smaller, the search continues in the left half. If larger, it continues in the right half. This process repeats until the item is found or the search space is empty. | Use linear search when: the list is small, the list is unsorted, or you only need to searc"
+  },
+  {
+   "id": "3searchingalgorithms-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how a linear search works. | Why must data be sorted before binary search can be used? | Perform a binary search for the value 72 in the list [2, 5, 8, 12, 16, 23, 38, 56, 72, 91]. Show each step."
+  },
+  {
+   "id": "3searchingalgorithms-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A sorted list contains 1024 student names. Compare the maximum number of comparisons needed by linear search and binary search to find a specific name. [4 marks] <div class=\""
+  },
+  {
+   "id": "3searchingalgorithms-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Linear search, Binary search, Use linear search when, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "operational-amplifiers",
+ "topicName": "operational amplifiers",
+ "version": 1,
+ "steps": [
+  {
+   "id": "operationalamplifiers-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: An operational amplifier (op-amp) is a high-gain differential amplifier with two inputs: inverting (−) and non-inverting (+). | Key Fact: The ideal op-amp has infinite open-loop gain, infinite input impedance, zero output impedance and infinite bandwidth. | Key Fact: A real op-amp has very high but finite open-loop gain (typically 10⁵ to 10⁶), high input impedance and low output impedance. | Key Fact: Negative feedback is used to control gain and improve stability; it reduces overall gain to a predictable value set by external components."
+  },
+  {
+   "id": "operationalamplifiers-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe the characteristics of an ideal op-amp and explain how negative feedback is used in both inverting and non-inverting amplifier configurations. <div class=\""
+  },
+  {
+   "id": "operationalamplifiers-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from operational amplifiers, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G23-coastal-management",
+ "topicName": "coastal management",
+ "version": 1,
+ "steps": [
+  {
+   "id": "23coastalmanagement-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: Coastal erosion and flooding threaten homes, businesses, farmland and infrastructure. The UK has over 2,800 km of coastline at risk from flooding and over 1,700 properties at risk from coastal erosion. Coastal management aims to protect people and property, but it is expensive and can have unintended consequences. | Definition: Hard engineering involves building artificial structures that absorb wave energy, prevent erosion or stop flooding. These are typically expensive, visually intrusive and require ongoing maintenance. | Definition: Soft engineering works with natural processes to manage the coastline. It is generally cheaper, more sustainable and more environmentally friendly than hard engineering, but may be less effective against extreme events. | Key Facts: The Holdern"
+  },
+  {
+   "id": "23coastalmanagement-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe one hard engineering strategy used to protect the coast. (2 marks) | Explain how groynes protect the coastline. (4 marks) | Compare hard and soft engineering approaches to coastal management. (6 marks)"
+  },
+  {
+   "id": "23coastalmanagement-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Key Facts, Exam Tip, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS23-hardware-software",
+ "topicName": "hardware & software",
+ "version": 1,
+ "steps": [
+  {
+   "id": "23hardwaresoftware-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Hardware refers to the physical components of a computer system - the parts you can see and touch. Hardware includes all the electronic and mechanical parts that make up the computer. | Definition: Software refers to the programs, instructions, and data that tell the hardware what to do. Software is not physical - it is the set of instructions that the hardware executes. | Key Concept: Hardware and software are interdependent. Hardware needs software to give it instructions; software needs hardware to execute those instructions. Neither can function without the other. | Definition: System software manages and controls the hardware and provides a platform for application software to run on. It runs in the background and the user may not directly interact with it."
+  },
+  {
+   "id": "23hardwaresoftware-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define the terms hardware and software. | Explain why hardware and software are interdependent. | Classify each as input, output, or storage: keyboard, monitor, SSD, scanner, speaker, USB drive."
+  },
+  {
+   "id": "23hardwaresoftware-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the difference between RAM and ROM, and state why both are needed in a computer system. [4 marks] <div class=\""
+  },
+  {
+   "id": "23hardwaresoftware-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

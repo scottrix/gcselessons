@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE39-hydration-dehydration",
+ "topicName": "hydration and dehydration",
+ "version": 1,
+ "steps": [
+  {
+   "id": "39hydrationdehydration-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Hydration: The process of maintaining the body's water balance by consuming enough fluids to replace what is lost through sweating, urination, breathing and other processes. Water makes up approximately 60% of body weight and is essential for nearly every bodily function. | Dehydration: A state where the body loses more water than it takes in, resulting in a reduction in total body water. Even mild dehydration (2% body weight loss) significantly impairs sporting performance and health. | PE Exam Tips — Hydration and Dehydration: 1. For Hydration and Dehydration questions, use subject-specific terminology precisely 2. Support every point with specific evidence or examples 3. Show balanced analysis — consider different perspectives before reaching a conclusion 4. Link your understanding of H"
+  },
+  {
+   "id": "39hydrationdehydration-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the main ways the body loses water during exercise and which is the most significant. | Describe four consequences of dehydration on sporting performance. | Explain why dehydration causes an increase in heart rate during exercise."
+  },
+  {
+   "id": "39hydrationdehydration-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Hydration, Dehydration, and one past-paper question."
+  }
+ ]
+}

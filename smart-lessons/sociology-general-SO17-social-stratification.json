@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO17-social-stratification",
+ "topicName": "social stratification & class",
+ "version": 1,
+ "steps": [
+  {
+   "id": "17socialstratification-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Social stratification: the hierarchical arrangement of people into social strata based on wealth, income, status and power. In the UK, social class is the primary form of stratification. | Key Fact: Social class systems: the NS-SEC (8 classes from higher managerial to never worked) replaced the Registrar General's scale. Weber: class is based on market situation. Marx: class is based on relationship to means of production. | Key Fact: Life chances: class strongly affects health (working-class die 7-9 years earlier), education (middle-class children achieve higher), income (top 10% earn 12x more than bottom 10%), and housing (overcrowding 5x higher in lowest quintile). | Key Fact: The wealth gap: richest 10% hold 44% of total wealth; poorest 50% hold 9%. This gap has widened since"
+  },
+  {
+   "id": "17socialstratification-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain what social stratification is and how social class affects life chances. | Describe the extent of wealth inequality in the UK and evaluate explanations for it. | Evaluate whether social class is still relevant in modern society."
+  },
+  {
+   "id": "17socialstratification-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the view that social class is the most significant factor affecting life chances in modern Britain. <div class=\""
+  },
+  {
+   "id": "17socialstratification-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

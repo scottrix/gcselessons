@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "graphical-misrepresentation",
+ "topicName": "graphical misrepresentation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "graphicalmisrepresentation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A truncated (broken) y-axis starts at a value other than zero, exaggerating small differences between categories and making them appear more significant than they are. | Key Fact: Inconsistent scales on axes (e.g. changing the interval size partway along) can mislead the reader by distorting the apparent rate of change or relative size. | Key Fact: 3D effects on bar charts or pie charts can distort perception because the front bars or sectors appear larger than those at the back, even when values are equal. | Key Fact: Area distortion occurs when pictograms or charts use images that increase in both height and width to represent a larger value, making the area increase as the square of the value."
+  },
+  {
+   "id": "graphicalmisrepresentation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A company presents a bar chart comparing this year's sales (£210k) with last year's sales (£200k). The y-axis starts at £190k. Explain why this graph is misleading and how it should be improved. <div class=\""
+  },
+  {
+   "id": "graphicalmisrepresentation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from graphical misrepresentation, and one past-paper question."
+  }
+ ]
+}

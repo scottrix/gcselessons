@@ -1,0 +1,26 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT24-exam-technique-and-preparation",
+ "topicName": "exam technique and preparation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24examtechniqueandpreparation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Exam structure: 2 hours, 100 marks. Section A - Core Technical Principles (20 marks, short answer), Section B - Specialist Technical Principles (30 marks, short and extended), Section C - Designing and Making Principles (50 marks, extended response). | Key Fact: Command words: 'State' - brief factual answer (1-2 marks). 'Describe' - say what happens (2-4 marks). 'Explain' - describe AND give reasons (3-6 marks). 'Evaluate' - give both sides and reach a justified conclusion (6-10 marks). 'Justify' - give reasons for your choice (4-6 marks). | Key Fact: Time management: 2 hours for 100 marks = 1.2 minutes per mark. Section A: 24 minutes. Section B: 36 minutes. Section C: 60 minutes. Leave 10 minutes for checking. | Key Fact: Section C strategy: this section tests AO3 most heavily -"
+  },
+  {
+   "id": "24examtechniqueandpreparation-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between the command words 'describe' and 'evaluate', giving an example of how your answer would differ for each. | A question asks: 'Evaluate the suitability of using polypropylene for a reusable food container.' Write a plan for a full-mark answer. | A student writes one-sided answers that only give advantages. Explain why this loses marks and how they should improve."
+  },
+  {
+   "id": "24examtechniqueandpreparation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

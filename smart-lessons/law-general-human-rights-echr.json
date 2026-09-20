@@ -1,0 +1,26 @@
+{
+ "subject": "law",
+ "topic": "human-rights-echr",
+ "topicName": "human rights &amp; the echr",
+ "version": 1,
+ "steps": [
+  {
+   "id": "humanrightsechr-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The European Convention on Human Rights (ECHR) was drafted in 1950 by the Council of Europe in response to the atrocities of the Second World War | Key Fact: The UK ratified the ECHR in 1951 and accepted the right of individual petition to the European Court of Human Rights (ECtHR) in 1966 | Key Fact: The Human Rights Act 1998 incorporated the rights from the ECHR into UK domestic law, coming into force on 2 October 2000 | Key Fact: Section 2 of the HRA 1998 requires UK courts to take into account judgments of the ECtHR when interpreting Convention rights"
+  },
+  {
+   "id": "humanrightsechr-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How effectively does the Human Rights Act 1998 protect human rights in the UK? (15 marks) <div class=\""
+  },
+  {
+   "id": "humanrightsechr-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from human rights &amp;amp; the echr, and one past-paper question."
+  }
+ ]
+}

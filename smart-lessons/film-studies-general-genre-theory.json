@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "genre-theory",
+ "topicName": "genre theory &amp; conventions",
+ "version": 1,
+ "steps": [
+  {
+   "id": "genretheory-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Film genre is a categorisation system that groups films sharing similar narrative patterns, visual styles, themes and emotional effects. | Key Fact: Steve Neale argued that genre depends on both repetition of conventions and difference and variation to sustain audience interest. | Key Fact: The 'repertoire of elements' describes the set of conventions that characterise a genre — setting, character types, iconography, narratives and themes. | Key Fact: Iconography refers to the visual symbols and recurring images associated with a genre: cowboy hats in westerns, spaceships in sci-fi, masks in horror."
+  },
+  {
+   "id": "genretheory-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How useful is genre theory in understanding your chosen film? Refer to at least one theorist. <div class=\""
+  },
+  {
+   "id": "genretheory-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from genre theory &amp;amp; conventions, and one past-paper question."
+  }
+ ]
+}

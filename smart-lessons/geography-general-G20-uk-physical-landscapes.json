@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G20-uk-physical-landscapes",
+ "topicName": "uk physical landscapes",
+ "version": 1,
+ "steps": [
+  {
+   "id": "20ukphysicallandscapes-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: The UK's varied geology and climate have produced a diverse range of physical landscapes, including rugged upland areas, rolling lowlands, dramatic coastlines and extensive river valleys. The underlying geology is the fundamental control on landscape type. | Definition: Upland areas are generally above 200 metres in altitude, with rugged, steep terrain. They are found predominantly in the north and west of the UK on resistant igneous and metamorphic rocks. | Definition: Lowland areas are generally below 200 metres in altitude, with gentler, rolling terrain. They are found predominantly in the south and east of the UK on softer sedimentary rocks. | Key Fact: The UK's river systems are divided by major watersheds. The Pennines form the main watershed, with rivers flowing east to"
+  },
+  {
+   "id": "20ukphysicallandscapes-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the distribution of upland and lowland areas in the UK. (3 marks) | Explain how geology influences the UK's landscape. (4 marks) | Compare the characteristics of glaciated and non-glaciated landscapes in the UK. (6 marks)"
+  },
+  {
+   "id": "20ukphysicallandscapes-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Key Concept, and one past-paper question."
+  }
+ ]
+}

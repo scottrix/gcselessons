@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU23-ensemble-performance",
+ "topicName": "ensemble performance",
+ "version": 1,
+ "steps": [
+  {
+   "id": "23ensembleperformance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Ensemble performance assesses your ability to LISTEN and RESPOND to other musicians — not just play your part accurately. | Key Fact: Balance means adjusting your volume so each part is heard appropriately; tuning means matching pitch with others continuously. | Key Fact: Following a leader (conductor or lead player) requires watching for cues, tempo changes and dynamic adjustments in real time. | Key Fact: Chamber music (string quartet, wind quintet) demands the highest level of ensemble skill — every player must lead and follow simultaneously."
+  },
+  {
+   "id": "23ensembleperformance-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how ensemble performance are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use ensemble performance. Explain the effect in each case. | How could you use ensemble performance in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "23ensembleperformance-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the skills required for effective ensemble performance. Describe how you would prepare for an ensemble performance, addressing both individual and group rehearsal strategies. <div class=\""
+  },
+  {
+   "id": "23ensembleperformance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "production-planning-quality",
+ "topicName": "production planning &amp; quality",
+ "version": 1,
+ "steps": [
+  {
+   "id": "productionplanningquality-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Production planning determines the most efficient sequence of manufacturing operations. | Key Fact: The plan lists every operation in order: material preparation, shaping, machining, finishing, assembly and inspection. | Key Fact: Process selection matches the manufacturing method to material, quantity, tolerance and geometry. | Key Fact: Jigs guide a cutting tool to the correct position (e.g. a drilling jig ensures identical hole positions)."
+  },
+  {
+   "id": "productionplanningquality-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from production planning &amp;amp; quality, and one past-paper question."
+  }
+ ]
+}

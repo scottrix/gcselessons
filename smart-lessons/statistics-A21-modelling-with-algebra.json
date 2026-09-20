@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A21-modelling-with-algebra",
+ "topicName": "modelling with algebra",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21modellingwithalgebra-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Mathematical modelling: Using algebra to represent real-life situations. This involves: Defining variables Writing expressions or equations Solving to find unknown values Interpreting solutions in context"
+  },
+  {
+   "id": "21modellingwithalgebra-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "I think of a number, double it, then subtract 5. The result is 17. Find the number. | A rectangle has sides x and 2x - 1. The perimeter is 32 cm. Find x. | Tickets cost £12 for adults and £8 for children. A group of 10 people pays £96. How many adults?"
+  },
+  {
+   "id": "21modellingwithalgebra-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A school trip costs £200 per adult and £120 per child. The total cost for a group is £2800. There are 20 people in total. (a) Write two equations. (b) How many adults and children are in the group? (c) If 2 more adults join, what is the new total cost? <div class=\""
+  },
+  {
+   "id": "21modellingwithalgebra-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Mathematical modelling, and one past-paper question."
+  }
+ ]
+}

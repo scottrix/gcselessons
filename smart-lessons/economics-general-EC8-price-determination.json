@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC8-price-determination",
+ "topicName": "price determination",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8pricedetermination-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Equilibrium price is where supply equals demand — the market clears with no excess. | Key Fact: Excess demand (shortage) occurs below equilibrium — consumers want more than producers supply, pushing price up. Excess supply (surplus) above equilibrium pushes price down. | Key Fact: An increase in demand raises equilibrium price and quantity. An increase in supply raises quantity but lowers price. | Key Fact: When both supply and demand shift, the effect on price or quantity depends on relative size of shifts."
+  },
+  {
+   "id": "8pricedetermination-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how equilibrium price is determined using a supply and demand diagram. | Using a diagram, show what happens to equilibrium when demand increases but supply is unchanged. | Analyse how a poor wheat harvest would affect bread price, quantity, and producer revenue."
+  },
+  {
+   "id": "8pricedetermination-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate what would happen to the home-delivered food market if both demand and supply increase. <div class=\""
+  },
+  {
+   "id": "8pricedetermination-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

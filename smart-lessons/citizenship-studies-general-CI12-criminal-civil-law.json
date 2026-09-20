@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI12-criminal-civil-law",
+ "topicName": "criminal & civil law",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12criminalcivillaw-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Criminal law deals with offences against the state and society. The state prosecutes, and penalties include imprisonment, fines, and community orders. | Key Fact: Civil law resolves disputes between individuals or organisations. The claimant sues, and remedies include damages (compensation), injunctions, and specific performance. | Key Fact: Standard of proof: criminal cases require proof 'beyond reasonable doubt'; civil cases require proof on the 'balance of probabilities' (more likely than not). | Key Fact: In criminal cases, the Crown Prosecution Service (CPS) brings the case on behalf of the state. The defendant is presumed innocent until proven guilty."
+  },
+  {
+   "id": "12criminalcivillaw-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare criminal and civil law in the UK. [12 marks] <div class=\""
+  },
+  {
+   "id": "12criminalcivillaw-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from criminal &amp; civil law, and one past-paper question."
+  }
+ ]
+}

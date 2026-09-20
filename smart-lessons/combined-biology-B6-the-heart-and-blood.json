@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "B6-the-heart-and-blood",
+ "topicName": "b6 the heart and blood",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6theheartandblood-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "The circulatory system: is a double circulatory system. The right side pumps blood to the lungs (pulmonary circuit) and the left side pumps blood to the rest of the body (systemic circuit). Blood transports oxygen, nutrients, carbon dioxide and waste products."
+  },
+  {
+   "id": "6theheartandblood-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the double circulatory system in humans. (3 marks) | Explain why the left ventricle has a thicker muscular wall than the right ventricle. (3 marks) | Compare the structure of arteries and veins. Explain how each is adapted to its function. (4 marks)"
+  },
+  {
+   "id": "6theheartandblood-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how the structure of an artery, a vein and a capillary relates to its function. <div class=\""
+  },
+  {
+   "id": "6theheartandblood-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on The circulatory system, and one past-paper question."
+  }
+ ]
+}

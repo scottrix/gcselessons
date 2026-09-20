@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A14-real-life-graphs",
+ "topicName": "real-life graphs",
+ "version": 1,
+ "steps": [
+  {
+   "id": "14reallifegraphs-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Real-life graphs: Graphs that represent real-world situations and data. Common types include distance-time graphs, conversion graphs, and filling/emptying containers."
+  },
+  {
+   "id": "14reallifegraphs-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "On a distance-time graph, what does a horizontal line mean? | A car travels 120 miles in 3 hours. What is its speed? | On a speed-time graph, what does the area under the graph represent?"
+  },
+  {
+   "id": "14reallifegraphs-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A speed-time graph shows: 0-5s: acceleration from 0 to 20 m/s; 5-15s: constant speed 20 m/s; 15-20s: deceleration from 20 to 0 m/s. (a) Calculate the acceleration in the first 5 seconds. (b) Calculate total distance. (c) Calculate the average speed for the whole journey. <div class=\""
+  },
+  {
+   "id": "14reallifegraphs-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Real-life graphs, and one past-paper question."
+  }
+ ]
+}

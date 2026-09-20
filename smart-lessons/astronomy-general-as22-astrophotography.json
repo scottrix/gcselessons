@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as22-astrophotography",
+ "topicName": "astrophotography",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as22astrophotography-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Astrophotography records images of celestial objects using cameras attached to telescopes or with standard cameras on tripods | Key Fact: Key camera settings: exposure time, ISO/gain, and aperture (f-number) | Key Fact: Star trails are created by long exposures showing the apparent rotation of the sky around the celestial pole | Key Fact: Image stacking combines multiple short exposures to reduce noise and reveal faint detail"
+  },
+  {
+   "id": "as22astrophotography-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from astrophotography, and one past-paper question."
+  }
+ ]
+}

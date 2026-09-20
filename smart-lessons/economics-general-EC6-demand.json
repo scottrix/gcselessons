@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC6-demand",
+ "topicName": "demand",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6demand-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Demand is the quantity consumers are willing and able to buy at a given price over a period of time. | Key Fact: Law of demand: as price rises, quantity demanded falls (inverse relationship), shown by a downward-sloping demand curve. | Key Fact: Factors shifting demand: income, tastes/fashion, price of substitutes and complements, population, advertising. | Key Fact: Movement ALONG the curve = price change (affects quantity demanded). SHIFT of the curve = non-price factor change (changes demand at every price)."
+  },
+  {
+   "id": "6demand-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between a movement along the demand curve and a shift of the demand curve. | Describe three factors that could cause an increase in demand for electric cars. | Analyse how a rise in petrol prices would affect demand for public transport and demand for large cars."
+  },
+  {
+   "id": "6demand-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate how a recession (falling incomes) would affect demand for supermarket own-brand products and luxury restaurant meals. <div class=\""
+  },
+  {
+   "id": "6demand-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

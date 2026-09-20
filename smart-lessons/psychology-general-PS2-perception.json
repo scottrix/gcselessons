@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS2-perception",
+ "topicName": "perception",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2perception-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Perception is the process of interpreting sensory information to make sense of the world. Sensation is detecting stimuli; perception is interpreting them - they are distinct processes. | Key Fact: Gregory's constructivist theory: perception uses past experience and expectations to interpret sensory input (top-down processing). Visual illusions support this - we misinterpret because we apply assumptions (e.g. the Muller-Lyer illusion). | Key Fact: Gibson's direct theory: perception is entirely determined by sensory input from the environment (bottom-up processing). We perceive affordances - what the environment offers us (e.g. a chair affords sitting). No past experience needed. | Key Fact: Factors affecting perception: culture (Hudson's study showed Western and non-Western people"
+  },
+  {
+   "id": "2perception-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Compare Gregory's constructivist theory with Gibson's direct theory of perception. | Explain how culture can affect perception, using research evidence. | Evaluate what visual illusions tell us about the nature of perception."
+  },
+  {
+   "id": "2perception-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether perception is primarily a top-down or bottom-up process. <div class=\""
+  },
+  {
+   "id": "2perception-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

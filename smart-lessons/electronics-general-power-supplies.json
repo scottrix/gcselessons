@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "power-supplies",
+ "topicName": "power supplies &amp; regulation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "powersupplies-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A power supply converts AC mains to a stable DC voltage through transformer, rectifier, smoothing and regulation stages. | Key Fact: A step-down transformer reduces the AC mains voltage to a lower AC voltage suitable for the circuit. | Key Fact: Half-wave rectification uses a single diode and only rectifies one half of the AC cycle, giving 50% efficiency. | Key Fact: Full-wave rectification using a bridge rectifier uses four diodes and rectifies both halves of the AC cycle."
+  },
+  {
+   "id": "powersupplies-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe the stages of a regulated DC power supply from mains AC input to stable DC output, explaining the role of rectification, smoothing and voltage regulation. <div class=\""
+  },
+  {
+   "id": "powersupplies-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from power supplies &amp;amp; regulation, and one past-paper question."
+  }
+ ]
+}

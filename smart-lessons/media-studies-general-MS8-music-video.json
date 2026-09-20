@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS8-music-video",
+ "topicName": "music video",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8musicvideo-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Music videos serve multiple purposes: promoting the song and artist, extending the artist's star image, creating visual narratives, and generating additional revenue and audience engagement. | Key Fact: Performance videos feature the artist performing (singing, dancing, playing instruments), creating a sense of authenticity and connecting the audience with the artist's live persona. | Key Fact: Narrative videos tell a story — either illustrating the song's lyrics (amplification) or creating a separate narrative. Some combine performance and narrative elements. | Key Fact: Conventions of music video: quick cuts and editing to the beat, close-ups of the artist, stylised lighting and colour, choreography, and visual motifs linked to the song."
+  },
+  {
+   "id": "8musicvideo-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how one of your music video CSPs constructs the artist's star image. [12 marks] <div class=\""
+  },
+  {
+   "id": "8musicvideo-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Media Studies Exam Tips — Music Video, and one past-paper question."
+  }
+ ]
+}

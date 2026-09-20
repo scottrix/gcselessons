@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "modelling-calculation",
+ "topicName": "modelling &amp; calculation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "modellingcalculation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Mathematical modelling predicts performance before manufacture, saving time and cost in development. | Key Fact: Stress = Force / Area (units: N/mm2 or MPa); always identify the cross-sectional area carrying the load. | Key Fact: Strain = Change in length / Original length (dimensionless ratio or percentage). | Key Fact: Young's Modulus (E) = Stress / Strain (units: GPa); measures stiffness of a material — higher E means stiffer."
+  },
+  {
+   "id": "modellingcalculation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from modelling &amp;amp; calculation, and one past-paper question."
+  }
+ ]
+}

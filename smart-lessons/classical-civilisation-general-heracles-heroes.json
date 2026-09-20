@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "heracles-heroes",
+ "topicName": "heracles and heroes",
+ "version": 1,
+ "steps": [
+  {
+   "id": "heraclesheroes-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Heracles (Hercules in Roman) was the greatest Greek hero, son of Zeus and the mortal Alcmene | Key Fact: Hera hated Heracles because he was proof of Zeus's infidelity — she sent two snakes to kill him in his cradle | Key Fact: Heracles was driven mad by Hera and killed his wife Megara and their children | Key Fact: The Twelve Labours were his punishment and path to redemption, set by King Eurystheus of Tiryns"
+  },
+  {
+   "id": "heraclesheroes-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain why Heracles was considered the greatest of the Greek heroes. (12 marks) <div class=\""
+  },
+  {
+   "id": "heraclesheroes-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from heracles and heroes, and one past-paper question."
+  }
+ ]
+}

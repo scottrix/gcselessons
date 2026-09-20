@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as9-the-sun",
+ "topicName": "the sun",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as9thesun-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Sun is a G-type main-sequence star (G2V) with surface temperature ~5,500°C and core temperature ~15 million°C | Key Fact: Energy is produced by nuclear fusion: hydrogen nuclei fuse to form helium via the proton-proton chain | Key Fact: The Sun's layers: core (energy production), radiative zone, convective zone, photosphere (visible surface), chromosphere, corona | Key Fact: Sunspots are cooler, darker regions on the photosphere caused by magnetic field concentrations"
+  },
+  {
+   "id": "as9thesun-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Astronomy Exam Tips — The Sun, and one past-paper question."
+  }
+ ]
+}

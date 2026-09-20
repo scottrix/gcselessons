@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE36-sedentary-lifestyle-obesity",
+ "topicName": "sedentary lifestyle and obesity",
+ "version": 1,
+ "steps": [
+  {
+   "id": "36sedentarylifestyleobesity-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Sedentary Lifestyle: A way of living that involves little or no physical activity, characterised by prolonged periods of sitting or lying down during waking hours. A person with a sedentary lifestyle does not meet the recommended levels of physical activity for health. | Obesity: A medical condition where a person has excess body fat to the extent that it may have a negative effect on their health. Obesity is commonly defined as having a BMI (Body Mass Index) of 30 or above. | PE Exam Tips — Sedentary Lifestyle and Obesity: 1. For Sedentary Lifestyle and Obesity questions, use subject-specific terminology precisely 2. Support every point with specific evidence or examples 3. Show balanced analysis — consider different perspectives before reaching a conclusion 4. Link your understanding of "
+  },
+  {
+   "id": "36sedentarylifestyleobesity-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define a sedentary lifestyle and explain three health consequences. | Calculate the BMI of a person who weighs 85kg and is 1.70m tall. Classify their weight category. | Explain how obesity reduces cardiovascular endurance and increases injury risk."
+  },
+  {
+   "id": "36sedentarylifestyleobesity-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sedentary Lifestyle, Obesity, and one past-paper question."
+  }
+ ]
+}

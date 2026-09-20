@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI2-the-constitution",
+ "topicName": "the uk constitution & devolution",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2theconstitution-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The UK has an uncodified (unwritten) constitution: no single document sets out the rules of government. Instead, the constitution comes from: statutes (laws passed by Parliament), common law (judicial precedent), conventions (unwritten rules like the PM being an MP), and authoritative works (A.V. Dicey). This makes the constitution flexible but also less clear. | Key Fact: Parliamentary sovereignty: Parliament is the supreme legal authority - it can make or unmake any law. No Parliament can bind its successor. However, EU membership (1973-2020) limited sovereignty; devolution has transferred some powers; and the Human Rights Act 1998 means UK courts can declare legislation incompatible with human rights. | Key Fact: Devolution: the transfer of powers from Westminster to Scotland,"
+  },
+  {
+   "id": "2theconstitution-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the UK should adopt a codified constitution. <div class=\""
+  },
+  {
+   "id": "2theconstitution-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the uk constitution &amp; devolution, and one past-paper question."
+  }
+ ]
+}

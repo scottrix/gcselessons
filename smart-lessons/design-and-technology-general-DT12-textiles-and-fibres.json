@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT12-textiles-and-fibres",
+ "topicName": "textiles and fibres",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12textilesandfibres-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Natural fibres: cotton (breathable, absorbent, soft), wool (warm, elastic, fire-resistant), silk (strong, lustrous, drapes well), linen (cool, crisp, creases easily). | Key Fact: Synthetic fibres: polyester (durable, quick-dry, wrinkle-resistant), nylon (strong, abrasion-resistant), elastane/Lycra (extreme stretch and recovery). | Key Fact: Woven fabrics: warp and weft interlaced at 90 degrees - stable, strong, limited stretch. Plain weave, twill weave (denim), satin weave. | Key Fact: Knitted fabrics: interlocking loops - stretchy, comfortable, can ladder. Weft knit (t-shirts) vs warp knit (more stable, swimwear)."
+  },
+  {
+   "id": "12textilesandfibres-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why polycotton is used for school shirts instead of 100% cotton or 100% polyester. | Compare woven and knitted fabric constructions, explaining why each suits different garments. | Discuss the environmental impact of synthetic fibres compared to natural fibres."
+  },
+  {
+   "id": "12textilesandfibres-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A sportswear company is designing a running top. Evaluate 100% cotton, 100% polyester, and a cotton-polyester blend, recommending the best choice. <div class=\""
+  },
+  {
+   "id": "12textilesandfibres-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

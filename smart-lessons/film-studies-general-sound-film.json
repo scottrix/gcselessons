@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "sound-film",
+ "topicName": "sound in film",
+ "version": 1,
+ "steps": [
+  {
+   "id": "soundfilm-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Sound in film is divided into diegetic, originating from within the film world, and non-diegetic, added for the audience from outside the narrative world. | Key Fact: Diegetic sound includes dialogue, ambient sound, on-screen music and sound effects that characters can theoretically hear. | Key Fact: Non-diegetic sound includes the musical score, voice-over narration and sound effects added for dramatic effect that characters cannot hear. | Key Fact: Sound can be further divided into on-screen and off-screen, with off-screen sound extending the diegetic world beyond the visible frame."
+  },
+  {
+   "id": "soundfilm-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does sound create meaning and emotional impact in a key sequence from your chosen film? <div class=\""
+  },
+  {
+   "id": "soundfilm-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from sound in film, and one past-paper question."
+  }
+ ]
+}

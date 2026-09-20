@@ -1,0 +1,32 @@
+{
+ "subject": "english-literature",
+ "topic": "P4-poetry-context",
+ "topicName": "poetry context",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4poetrycontext-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "AO3 Weighting: Context is worth 15-25% of marks. Always link context to specific analysis, never just list facts. | Caution: Don't reduce poems to autobiography. Use biography to illuminate, not define meaning. | Never bolt context on: \"This poem was written in 1917 during WW1. Owen shows...\" Integrate context: \"Owen's graphic imagery of 'gargling blood' reflects the brutal reality of trench warfare, challenging the patriotic lies told to families at home.\" | Top Tip: AO3 (context) is worth 15-25% of poetry marks depending on your exam board. Context must be integrated into your analysis — never bolt it on as a separate paragraph. Every context point should be linked to a specific quotation or technique. A single well-integrated context point outperforms three disconnected facts."
+  },
+  {
+   "id": "4poetrycontext-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What is the difference between historical context and biographical context? | Why were Romantic poets interested in nature? | How does World War I context affect war poetry?"
+  },
+  {
+   "id": "4poetrycontext-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response 12 marks (AO3): How does context help you understand the presentation of power in \"My Last Duchess\"? <div class=\""
+  },
+  {
+   "id": "4poetrycontext-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on AO3 Weighting, Caution, Never bolt context on, and one past-paper question."
+  }
+ ]
+}

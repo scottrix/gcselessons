@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI1-british-values",
+ "topicName": "british values & identity",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1britishvalues-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The five fundamental British values: democracy (government by the people through elected representatives), rule of law (everyone is equal before the law and no one is above it), individual liberty (freedom of speech, thought, association and personal autonomy), mutual respect (valuing others regardless of background), and tolerance of different faiths and beliefs. | Key Fact: British identity: what does it mean to be British? Identity is complex and multi-layered - people can identify as British, English/Scottish/Welsh/Northern Irish, and with their ethnic or religious heritage simultaneously. The concept of Britishness has evolved: from empire and monarchy to multiculturalism and pluralism. | Key Fact: Multiculturalism: the UK is a diverse, multi-ethnic, multi-faith society. Abo"
+  },
+  {
+   "id": "1britishvalues-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether British values are genuinely shared across all communities in the UK. <div class=\""
+  },
+  {
+   "id": "1britishvalues-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from british values &amp; identity, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS21-promotion",
+ "topicName": "promotion",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21promotion-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Advertising: paid communication through media channels (TV, radio, print, online, social media, billboards). It builds awareness and brand image but is expensive and difficult to measure ROI directly. | Key Fact: Sales promotion: short-term incentives to encourage purchase (BOGOF, discounts, coupons, free gifts, competitions). Boosts immediate sales but can damage brand image if overused. | Key Fact: Public relations (PR): managing the business's image through media coverage, press releases, events, and community involvement. It's credible (not paid for) but the business can't control the message. | Key Fact: Personal selling: one-to-one communication (sales reps, demonstrations). Effective for high-value, complex products but expensive per customer and limited reach."
+  },
+  {
+   "id": "21promotion-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between advertising and sales promotion, giving one advantage and one disadvantage of each. | Analyse why a business might choose social media marketing over traditional TV advertising. | Evaluate which promotional method would be most effective for a new luxury skincare brand targeting 25-35 year-old women."
+  },
+  {
+   "id": "21promotion-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a local plumbing business should invest in social media advertising or local newspaper advertising. <div class=\""
+  },
+  {
+   "id": "21promotion-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

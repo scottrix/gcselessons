@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "practical-exam-technique-dance",
+ "topicName": "practical exam technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "practicalexamtechniquedance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The practical component is worth 60% of the total GCSE — performance and choreography combined | Key Fact: Performance (30%) includes one solo and one duet/trio performance of set phrases | Key Fact: Choreography (30%) requires a solo or group choreography in response to a chosen stimulus | Key Fact: Performance marks reward technical accuracy, physical skills, expressive skills and mental skills"
+  },
+  {
+   "id": "practicalexamtechniquedance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from practical exam technique, and one past-paper question."
+  }
+ ]
+}

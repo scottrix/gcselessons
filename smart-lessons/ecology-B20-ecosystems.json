@@ -1,0 +1,32 @@
+{
+ "subject": "biology",
+ "topic": "B20-ecosystems",
+ "topicName": "ecosystems",
+ "version": 1,
+ "steps": [
+  {
+   "id": "20ecosystems-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Ecosystems: An ecosystem is the interaction of a community of living organisms with the non-living (abiotic) parts of their environment. Organisms are interdependent — they rely on each other for survival."
+  },
+  {
+   "id": "20ecosystems-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define the terms: ecosystem, community, population and habitat. | Explain the difference between competition and predation, giving an example of each. | Describe the predator-prey cycle and explain why there is a time lag between changes in the prey population and changes in the predator population."
+  },
+  {
+   "id": "20ecosystems-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain why pyramids of biomass are always pyramid-shaped and why food chains rarely have more than four or five trophic levels. <div class=\""
+  },
+  {
+   "id": "20ecosystems-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Ecosystems, and one past-paper question."
+  }
+ ]
+}

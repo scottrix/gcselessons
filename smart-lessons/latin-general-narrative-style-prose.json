@@ -1,0 +1,26 @@
+{
+ "subject": "latin",
+ "topic": "narrative-style-prose",
+ "topicName": "narrative & style in prose",
+ "version": 1,
+ "steps": [
+  {
+   "id": "narrativestyleprose-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Latin prose style analyses HOW an author writes, not just WHAT they say. Style includes word order, sentence length, rhythm, and rhetorical devices. | Key Fact: Word order in Latin is flexible and significant: placing a word first or last gives it emphasis. The first and last positions in a sentence are the most emphatic. | Key Fact: Hyperbaton is the separation of an adjective from its noun, which draws attention to both words and creates a literary effect (e.g. 'magna cum virtute' rather than 'cum magna virtute'). | Key Fact: Reported speech (oratio obliqua) allows authors to present events through characters' perspectives, creating drama and showing different viewpoints without direct speech."
+  },
+  {
+   "id": "narrativestyleprose-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does an author's prose style contribute to their narrative? Discuss with reference to at least three stylistic features, using examples from set text authors. (8 marks) <div class=\""
+  },
+  {
+   "id": "narrativestyleprose-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from narrative &amp; style in prose, and one past-paper question."
+  }
+ ]
+}

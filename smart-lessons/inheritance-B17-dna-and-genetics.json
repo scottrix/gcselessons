@@ -1,0 +1,32 @@
+{
+ "subject": "biology",
+ "topic": "B17-dna-and-genetics",
+ "topicName": "dna and genetics",
+ "version": 1,
+ "steps": [
+  {
+   "id": "17dnaandgenetics-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "DNA and Genetics: DNA carries the genetic code that determines an organism's characteristics. Understanding how genes and alleles are inherited allows us to predict the outcomes of genetic crosses using Punnett squares."
+  },
+  {
+   "id": "17dnaandgenetics-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define the terms: gene, allele, genotype, phenotype, dominant, recessive. | In rabbits, black coat (B) is dominant over white coat (b). A heterozygous black rabbit is crossed with a white rabbit. Use a Punnett square to show t | Explain the difference between homozygous and heterozygous. Give an example of each using the allele for cystic fibrosis."
+  },
+  {
+   "id": "17dnaandgenetics-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain genetic inheritance using a Punnett square. <div class=\""
+  },
+  {
+   "id": "17dnaandgenetics-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on DNA and Genetics, and one past-paper question."
+  }
+ ]
+}

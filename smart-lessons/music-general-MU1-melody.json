@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU1-melody",
+ "topicName": "melody",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1melody-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Conjunct melody moves by step (adjacent notes); disjunct melody leaps between distant notes — each creates different character. | Key Fact: Triadic melodies outline chord shapes; scalic melodies run up/down scales; arpeggio melodies break chords into individual notes. | Key Fact: Passing notes connect chord notes melodically; ornamental notes (acciaccatura, appoggiatura) decorate the main melody. | Key Fact: Ostinato is a repeated melodic pattern that provides a foundation — used extensively in Baroque, minimalism and popular music."
+  },
+  {
+   "id": "1melody-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how melody are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use melody. Explain the effect in each case. | How could you use melody in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "1melody-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Listen to a piece of music and describe its melody using at least four terms from the AQA elements list. Explain how the melodic features contribute to the character of the piece. <div class=\""
+  },
+  {
+   "id": "1melody-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

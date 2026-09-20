@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "R5-evaluating-texts",
+ "topicName": "evaluating texts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5evaluatingtexts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Evaluation means making judgements about a text and supporting your opinions with evidence. You assess how successfully the writer achieves their purpose. | Step 1: Decide your overall opinion - agree, disagree, or partially agree Step 2: Find evidence that supports your view Step 3: Analyse how the writer achieves the effect Step 4: Consider alternative viewpoints if appropriate Step 5: Reach a conclusion | Examiner's Tip: This is worth 20 marks - the most on the paper. Spend about 20-25 minutes on it. Make sure you give a clear opinion and back it up with detailed analysis of the text. | Evaluation Exam Strategy: This is AQA Paper 1 Q4 - the highest-mark question at 20 marks. Spend 20-25 minutes on it. Start by deciding your position: agree, disagree, or partially agree. Then"
+  },
+  {
+   "id": "5evaluatingtexts-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What does \"evaluate\" mean in the context of English Language? | How should you structure an evaluation response? | Why is it important to use evidence in evaluation?"
+  },
+  {
+   "id": "5evaluatingtexts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Step 1, Examiner&#x27;s Tip, Evaluation Exam Strategy, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g9-metamorphic-rocks",
+ "topicName": "metamorphic rocks",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g9metamorphicrocks-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Metamorphic rocks form when existing rocks are changed by heat and/or pressure without melting | Key Fact: Regional metamorphism: large-scale, caused by tectonic compression and heat during mountain building; produces foliated rocks | Key Fact: Contact metamorphism: local, caused by heat from an igneous intrusion; produces non-foliated rocks | Key Fact: Foliation: alignment of minerals in bands, produced by directed pressure (e.g. slate to schist to gneiss with increasing grade)"
+  },
+  {
+   "id": "g9metamorphicrocks-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from metamorphic rocks, and one past-paper question."
+  }
+ ]
+}

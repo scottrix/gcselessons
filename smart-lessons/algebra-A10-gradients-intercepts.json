@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A10-gradients-intercepts",
+ "topicName": "gradients & intercepts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10gradientsintercepts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Gradient: The steepness of a line. Found by dividing vertical change by horizontal change. | Intercepts: y-intercept: Where the line crosses the y-axis (when x = 0) x-intercept: Where the line crosses the x-axis (when y = 0)"
+  },
+  {
+   "id": "10gradientsintercepts-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Find the gradient of the line passing through (0, 2) and (4, 10). | Find the y-intercept of y = 5x - 8. | Find the x-intercept of y = 3x + 9."
+  },
+  {
+   "id": "10gradientsintercepts-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Two water tanks are being drained. Tank A: d = 120 - 8t. Tank B: d = 100 - 5t. d = depth in cm, t = time in minutes. (a) Which tank starts fuller? (b) Which drains faster? (c) After how many minutes is Tank A empty? (d) Which tank still has water left after 15 minutes? <div class=\""
+  },
+  {
+   "id": "10gradientsintercepts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Gradient, Intercepts, and one past-paper question."
+  }
+ ]
+}

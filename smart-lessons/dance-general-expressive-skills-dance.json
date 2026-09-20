@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "expressive-skills-dance",
+ "topicName": "expressive skills in dance",
+ "version": 1,
+ "steps": [
+  {
+   "id": "expressiveskillsdance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Expressive skills enable a dancer to communicate meaning, mood and intention to the audience | Key Fact: Projection is the ability to reach out to the audience with energy and presence, making the performance compelling to watch | Key Fact: Focus is the direction of the dancer's gaze and attention, guiding the audience's eye and expressing intention | Key Fact: Musicality is the dancer's response to the music, showing awareness of rhythm, tempo, accents and phrasing through movement"
+  },
+  {
+   "id": "expressiveskillsdance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from expressive skills in dance, and one past-paper question."
+  }
+ ]
+}

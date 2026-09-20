@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "circuit-construction",
+ "topicName": "circuit construction &amp; pcb design",
+ "version": 1,
+ "steps": [
+  {
+   "id": "circuitconstruction-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A breadboard provides a solderless prototyping platform with internal spring contacts connecting rows and columns. | Key Fact: Breadboard connections are temporary and suitable for testing circuit designs before permanent construction. | Key Fact: Stripboard (Veroboard) has copper tracks in rows; tracks must be cut to isolate sections where connections are not wanted. | Key Fact: PCB design involves creating a layout with copper tracks that connect component pads according to the circuit schematic."
+  },
+  {
+   "id": "circuitconstruction-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe the process of constructing a circuit from prototype to PCB, including the role of breadboarding, stripboard construction, PCB design rules and soldering technique. <div class=\""
+  },
+  {
+   "id": "circuitconstruction-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from circuit construction &amp;amp; pcb design, and one past-paper question."
+  }
+ ]
+}

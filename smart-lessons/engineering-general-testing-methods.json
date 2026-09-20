@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "testing-methods",
+ "topicName": "testing methods",
+ "version": 1,
+ "steps": [
+  {
+   "id": "testingmethods-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Destructive testing damages or destroys the test specimen: tensile testing, impact testing, fatigue testing and hardness testing. | Key Fact: Non-destructive testing (NDT) evaluates components without damage: visual inspection, ultrasonic, X-ray, dye penetrant and magnetic particle testing. | Key Fact: Tensile testing stretches a specimen to failure, measuring yield strength, UTS, ductility (elongation) and elastic modulus. | Key Fact: Hardness testing presses an indenter into the surface: Brinell (ball), Vickers (diamond pyramid), Rockwell (ball or cone)."
+  },
+  {
+   "id": "testingmethods-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from testing methods, and one past-paper question."
+  }
+ ]
+}

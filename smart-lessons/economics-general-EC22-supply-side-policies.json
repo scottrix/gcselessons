@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC22-supply-side-policies",
+ "topicName": "supply-side policies",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22supplysidepolicies-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Supply-side policies aim to increase the economy's productive capacity by improving the efficiency and quality of factors of production. | Key Fact: Investment in education and training: improves human capital, increases productivity, reduces structural unemployment by giving workers transferable skills. | Key Fact: Lower direct taxes and business taxes: increase incentives to work and invest, but may reduce government revenue. | Key Fact: Privatisation and deregulation: introduces competition and profit incentives, improving efficiency — but natural monopolies may exploit consumers."
+  },
+  {
+   "id": "22supplysidepolicies-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how investment in education and training can improve the UK's economic performance. | Describe the potential advantages and disadvantages of privatisation. | Evaluate whether supply-side policies are more effective than demand-side policies for long-term economic growth."
+  },
+  {
+   "id": "22supplysidepolicies-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the government should use supply-side policies or fiscal stimulus to address the UK's low productivity. <div class=\""
+  },
+  {
+   "id": "22supplysidepolicies-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

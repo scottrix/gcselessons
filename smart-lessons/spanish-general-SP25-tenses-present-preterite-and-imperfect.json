@@ -1,0 +1,32 @@
+{
+ "subject": "spanish",
+ "topic": "SP25-tenses-present-preterite-and-imperfect",
+ "topicName": "tenses: present, preterite and imperfect",
+ "version": 1,
+ "steps": [
+  {
+   "id": "25tensespresentpreteriteandimp-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: This topic covers key vocabulary and structures for tenses: present, preterite and imperfect. You need to know the topic vocabulary, be able to use it in all four skills (listening, speaking, reading, writing), and express opinions with reasons. | GCSE Spanish Exam Tips: Use present tense for facts, habits and descriptions. Use preterite for completed actions in the past. Use imperfect for ongoing or habitual past actions, descriptions and background. Know the key trigger words for each tense."
+  },
+  {
+   "id": "25tensespresentpreteriteandimp-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Write 4 sentences in Spanish about tenses: present, preterite and imperfect. | Write a paragraph (40-60 words) giving your opinion on tenses: present, preterite and imperfect. | Translate into Spanish: \"I think tenses: present, preterite and imperfect is important because...\""
+  },
+  {
+   "id": "25tensespresentpreteriteandimp-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Writing task: Write about present tense, preterite tense, imperfect tense, regular and irregular verbs, when to use each tense. <div class=\""
+  },
+  {
+   "id": "25tensespresentpreteriteandimp-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Spanish Exam Tips, and one past-paper question."
+  }
+ ]
+}

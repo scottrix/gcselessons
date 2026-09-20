@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "circuit-calculation-questions",
+ "topicName": "circuit calculation questions",
+ "version": 1,
+ "steps": [
+  {
+   "id": "circuitcalculationquestions-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Always write the formula first, then substitute values, then give the answer with units — this secures method marks even if the final answer is wrong. | Key Fact: Ohm's Law: V = IR can be rearranged to I = V/R or R = V/I depending on which quantity is unknown. | Key Fact: Power formulas: P = VI, P = I²R, P = V²/R — choose the one using the two known quantities. | Key Fact: For potential dividers: V_out = V_in × R2/(R1 + R2); always identify which resistor is R2 (the one V_out is measured across)."
+  },
+  {
+   "id": "circuitcalculationquestions-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe the method for solving a circuit calculation question in an exam, using an example that involves finding the current through and power dissipated by a resistor. <div class=\""
+  },
+  {
+   "id": "circuitcalculationquestions-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from circuit calculation questions, and one past-paper question."
+  }
+ ]
+}

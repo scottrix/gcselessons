@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G39-food-resources",
+ "topicName": "food resources",
+ "version": 1,
+ "steps": [
+  {
+   "id": "39foodresources-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: There are stark global inequalities in food consumption. The average daily calorie intake varies from over 3,700 kcal in the USA to under 2,100 kcal in countries like Burundi and Eritrea. The FAO recommends a minimum of approximately 2,350 kcal per day for a healthy active life. | Definition: The Green Revolution (1960s-80s) introduced high-yielding crop varieties (HYVs), chemical fertilisers, pesticides, and irrigation to increase food production, particularly in Asia and Latin America. | Key Contrast: Subsistence farming produces enough food for the farmer's family with little surplus for sale. Commercial farming produces crops or livestock for sale at profit, usually on a large scale with modern inputs. | Definition: Sustainable food production means producing enough food f"
+  },
+  {
+   "id": "39foodresources-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the global pattern of calorie intake. | Explain two physical factors that affect food supply in LICs. | What was the Green Revolution? Assess its advantages and disadvantages."
+  },
+  {
+   "id": "39foodresources-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Key Contrast, Geography Exam Tips — Food Resources, and one past-paper question."
+  }
+ ]
+}

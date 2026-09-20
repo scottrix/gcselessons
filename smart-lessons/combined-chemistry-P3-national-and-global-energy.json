@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "P3-national-and-global-energy",
+ "topicName": "p3 national and global energy",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3nationalandglobalenergy-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Non-renewable energy resource: A resource that will run out one day because it is being used up faster than it can be replaced. Examples: fossil fuels and nuclear fuel. | Renewable energy resource: A resource that will never run out (or can be replaced within a human lifetime). Examples: solar, wind, hydroelectric, tidal, geothermal, biomass, wave. | Fossil fuels: Coal, oil and natural gas — formed from the remains of ancient organisms over millions of years. They are non-renewable and produce carbon dioxide when burned. | Current UK energy mix: The UK generates most of its electricity from natural gas, with a growing proportion from renewables (especially wind and solar). Coal use has dropped significantly. Nuclear provides a steady base load."
+  },
+  {
+   "id": "3nationalandglobalenergy-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Define the terms \"renewable energy resource\" and \"non-renewable energy resource\". Give two examples of each. | Foundation Give two reasons why the UK still uses fossil fuels for electricity generation. | Foundation Explain why tidal energy is more reliable than wind energy."
+  },
+  {
+   "id": "3nationalandglobalenergy-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Evaluate whether the UK should switch entirely to renewable energy sources for electricity generation. Include arguments for and against, and give a justified conclusion. <div class=\""
+  },
+  {
+   "id": "3nationalandglobalenergy-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Non-renewable energy resource, Renewable energy resource, Fossil fuels, and one past-paper question."
+  }
+ ]
+}

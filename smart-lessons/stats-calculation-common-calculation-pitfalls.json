@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "common-calculation-pitfalls",
+ "topicName": "common calculation pitfalls",
+ "version": 1,
+ "steps": [
+  {
+   "id": "commoncalculationpitfalls-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Always show intermediate steps in calculations; method marks can be awarded even if the final answer is wrong | Key Fact: Use BIDMAS/BODMAS correctly: brackets first, then indices, then division/multiplication, then addition/subtraction | Key Fact: For the mean of grouped data: mean = ∑(midpoint × frequency) ÷ ∑frequency; do not use class boundaries or upper limits as the x-value | Key Fact: Standard deviation formula: SD = √(∑fx²/∑f − (mean)²) for coded or from a calculator; ensure you use the correct version for the syllabus"
+  },
+  {
+   "id": "commoncalculationpitfalls-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response The table shows grouped data for the masses of 40 parcels. Calculate the estimated mean. | Mass (kg) | Frequency | |-----------|----------| | 0–2 | 8 | | 2–4 | 14 | | 4–6 | 12 | | 6–8 | 6 | <div class=\""
+  },
+  {
+   "id": "commoncalculationpitfalls-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from common calculation pitfalls, and one past-paper question."
+  }
+ ]
+}

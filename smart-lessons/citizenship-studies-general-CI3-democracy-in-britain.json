@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI3-democracy-in-britain",
+ "topicName": "democracy in britain",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3democracyinbritain-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Representative democracy: citizens elect MPs to represent them in Parliament. The UK is a parliamentary democracy where the government is drawn from and accountable to Parliament. General elections must be held at least every 5 years (Fixed-term Parliaments Act 2011, largely repealed 2022). | Key Fact: Parliament: House of Commons (650 elected MPs), House of Lords (unelected - hereditary peers, life peers, bishops), and the monarch (largely ceremonial - Royal Assent). Parliament scrutinises the government, passes laws, approves taxation, and represents the public. | Key Fact: How a law is made: Green Paper (consultation) -> White Paper (proposals) -> Bill -> First Reading -> Second Reading (debate) -> Committee Stage (detailed examination) -> Report Stage -> Third Reading -> Hous"
+  },
+  {
+   "id": "3democracyinbritain-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate how effectively the UK Parliament holds the government to account. <div class=\""
+  },
+  {
+   "id": "3democracyinbritain-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from democracy in britain, and one past-paper question."
+  }
+ ]
+}

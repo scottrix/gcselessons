@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "roman-social-structure",
+ "topicName": "roman social structure",
+ "version": 1,
+ "steps": [
+  {
+   "id": "romansocialstructure-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Roman society was rigidly hierarchical with patricians at the top and slaves at the bottom | Key Fact: Patricians were the aristocratic families who held political power and owned vast estates | Key Fact: Plebeians were the common citizens — farmers, traders, artisans and labourers | Key Fact: The Conflict of the Orders gradually gave plebeians more political rights over centuries"
+  },
+  {
+   "id": "romansocialstructure-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far was Roman society built on the patron-client system? (15 marks) <div class=\""
+  },
+  {
+   "id": "romansocialstructure-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from roman social structure, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "latin",
+ "topic": "poetic-metre-style",
+ "topicName": "poetic metre & style",
+ "version": 1,
+ "steps": [
+  {
+   "id": "poeticmetrestyle-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Dactylic hexameter is the metre of epic poetry: six feet per line, each foot being a dactyl (- uu) or spondee (--). The final foot is always a spondee or trochee. | Key Fact: A dactyl is one long syllable followed by two short syllables (dum-di-di). A spondee is two long syllables (dum-dum). | Key Fact: The caesura is a natural pause within a hexameter line, usually in the third foot, creating rhythm and structure. | Key Fact: Elision occurs when a word ending in a vowel runs into a word beginning with a vowel or h-: the final vowel is not pronounced separately."
+  },
+  {
+   "id": "poeticmetrestyle-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain how Virgil uses poetic metre and stylistic features to create atmosphere in the Aeneid. Discuss at least four features. (8 marks) <div class=\""
+  },
+  {
+   "id": "poeticmetrestyle-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from poetic metre &amp; style, and one past-paper question."
+  }
+ ]
+}

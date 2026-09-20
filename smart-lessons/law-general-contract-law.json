@@ -1,0 +1,26 @@
+{
+ "subject": "law",
+ "topic": "contract-law",
+ "topicName": "contract law",
+ "version": 1,
+ "steps": [
+  {
+   "id": "contractlaw-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A contract is a legally binding agreement between two or more parties, enforceable in the courts | Key Fact: Three elements are needed to form a contract: offer and acceptance, consideration, and intention to create legal relations | Key Fact: An offer is a clear statement of terms on which the offeror is willing to be bound — it must be distinguished from an invitation to treat | Key Fact: Acceptance must be an unqualified agreement to the exact terms of the offer — a counter-offer rejects the original offer"
+  },
+  {
+   "id": "contractlaw-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far does contract law achieve a fair balance between the parties? (15 marks) <div class=\""
+  },
+  {
+   "id": "contractlaw-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Law Exam Tips — Contract Law, and one past-paper question."
+  }
+ ]
+}

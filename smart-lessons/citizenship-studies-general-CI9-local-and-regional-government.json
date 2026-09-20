@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI9-local-and-regional-government",
+ "topicName": "local & regional government",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9localandregionalgovernment-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Local government: county councils, district/borough councils, and parish/community councils provide local services. Responsibilities: education (schools), social services, housing, planning permission, waste collection, local roads, libraries, and leisure centres. Funded through council tax, business rates and government grants. | Key Fact: Councillors: elected by local residents to represent their ward. They make decisions about local services, set council tax rates, and approve planning applications. Councils are led by a council leader or directly elected mayor (e.g. Mayor of London, Metro Mayors in combined authorities). | Key Fact: Devolved administrations: Scottish Parliament (129 MSPs), Welsh Senedd (60 MSs), Northern Ireland Assembly (90 MLAs) have powers over health, edu"
+  },
+  {
+   "id": "9localandregionalgovernment-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether local government should be given more powers and funding. <div class=\""
+  },
+  {
+   "id": "9localandregionalgovernment-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from local &amp; regional government, and one past-paper question."
+  }
+ ]
+}

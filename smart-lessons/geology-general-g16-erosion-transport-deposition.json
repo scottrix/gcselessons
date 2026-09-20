@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g16-erosion-transport-deposition",
+ "topicName": "erosion, transport &amp; deposition",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g16erosiontransportdeposition-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Erosion is the removal and transport of weathered material by rivers, wind, ice and gravity | Key Fact: River erosion processes: hydraulic action (force of water), abrasion (sediment scraping bedrock), attrition (particles rounding), solution (dissolving) | Key Fact: Transport methods: traction (rolling large particles), saltation (bouncing), suspension (fine particles carried in water), solution (dissolved load) | Key Fact: Deposition occurs when the transporting agent loses energy: river slows (inside of meander, floodplain), glacier melts, wind drops"
+  },
+  {
+   "id": "g16erosiontransportdeposition-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from erosion, transport &amp;amp; deposition, and one past-paper question."
+  }
+ ]
+}

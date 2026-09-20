@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "B4-tissues-and-organs",
+ "topicName": "b4 tissues and organs",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4tissuesandorgans-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Cells are the basic building blocks of all living organisms.: In multicellular organisms, cells become specialised for particular functions. Similar cells group together to form tissues, tissues form organs, and organs work together in organ systems."
+  },
+  {
+   "id": "4tissuesandorgans-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define the term \"tissue.\" (1 mark) | Describe the hierarchy of organisation in a multicellular organism. (4 marks) | Name the three types of tissue found in the stomach and state the function of each. (3 marks)"
+  },
+  {
+   "id": "4tissuesandorgans-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain the hierarchy of organisation using the digestive system as an example. <div class=\""
+  },
+  {
+   "id": "4tissuesandorgans-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from b4 tissues and organs, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "combined-science",
+ "topic": "C26-sustainable-chemistry",
+ "topicName": "sustainable chemistry",
+ "version": 1,
+ "steps": [
+  {
+   "id": "26sustainablechemistry-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Sustainability: means meeting the needs of the present without compromising the ability of future generations to meet their own needs. In chemistry, this means using resources responsibly and minimising environmental impact. | : The reduce, reuse, recycle principles help conserve finite resources and reduce waste and environmental impact. | Corrosion: is the deterioration of metals by reaction with substances in the environment. Rusting is the corrosion of iron, which requires both oxygen and water . Corrosion weakens metals and can be dangerous and expensive. | Sacrificial protection: works because a more reactive metal (e.g. zinc, magnesium) will oxidise in preference to iron. The more reactive metal sacrifices itself to protect the iron."
+  },
+  {
+   "id": "26sustainablechemistry-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how rusting occurs, describe three methods of preventing corrosion, and evaluate which method is best for protecting a ship's hull. <div class=\""
+  },
+  {
+   "id": "26sustainablechemistry-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sustainability, Corrosion, Sacrificial protection, and one past-paper question."
+  }
+ ]
+}

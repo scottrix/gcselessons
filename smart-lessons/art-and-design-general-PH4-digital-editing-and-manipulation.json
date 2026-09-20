@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "PH4-digital-editing-and-manipulation",
+ "topicName": "digital editing and manipulation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4digitaleditingandmanipulation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: RAW files contain far more data than JPEGs — they allow greater adjustment in post-processing without quality loss. | Key Fact: Levels and curves control tonal range and contrast; colour balance adjusts warmth/coolness across the image. | Key Fact: Dodging (lightening) and burning (darkening) specific areas directs the viewer's attention — used by photographers since the darkroom era. | Key Fact: Ethical considerations: photojournalism requires minimal manipulation; fine art photography allows creative transformation — know the boundaries of your genre."
+  },
+  {
+   "id": "4digitaleditingandmanipulation-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring digital editing and manipulation. Annotate your process. | Research an artist or designer who works with digital editing and manipulation. Write a critical analysis of their approach and explain how it has inf | Evaluate the effectiveness of your experiments with digital editing and manipulation. Which approaches were most successful and why?"
+  },
+  {
+   "id": "4digitaleditingandmanipulation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Process the same RAW photograph in three different ways to create three different moods. Show the original alongside each version. Annotate every adjustment and explain its creative purpose. <div class=\""
+  },
+  {
+   "id": "4digitaleditingandmanipulation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Photography Exam Tips, and one past-paper question."
+  }
+ ]
+}

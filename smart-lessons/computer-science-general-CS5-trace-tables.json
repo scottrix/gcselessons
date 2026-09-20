@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS5-trace-tables",
+ "topicName": "trace tables",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5tracetables-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A trace table is a table used to record the value of variables each time they change as an algorithm is executed step by step. It helps you understand how an algorithm works, find logic errors, and determine what an unknown algorithm does. | Setting up a trace table: Create a column for each variable in the algorithm, plus a column for any OUTPUT statements. Each row represents one execution step where a variable changes. | Exam technique: When given an unknown algorithm, create a trace table and look at the pattern of values. The OUTPUT and how variables change will reveal what the algorithm does. | Tip: When looking at a completed trace table, examine the OUTPUT column and look for patterns in how variables change. Common patterns include: counting, accumulating (sum), findin"
+  },
+  {
+   "id": "5tracetables-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Complete a trace table for this algorithm with input num = 7: | What does the following algorithm compute? Use a trace table with x = 24, y = 6. | Complete a trace table for the following algorithm with the array [4, 1, 8, 3]:"
+  },
+  {
+   "id": "5tracetables-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response The following pseudo-code processes an array: FOR i ← 1 TO 4 IF numbers[i] > max THEN max ← numbers[i] ENDIF NEXT i. Given numbers = [3, 7, 2, 9] and max = 0 initially, complete a trace table showing the value of i, numbers[i], max and the condition result for each iteration. [5 marks] <div class=\""
+  },
+  {
+   "id": "5tracetables-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Setting up a trace table, Exam technique, Tip, and one past-paper question."
+  }
+ ]
+}

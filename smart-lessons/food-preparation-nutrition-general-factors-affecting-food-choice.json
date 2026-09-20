@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "factors-affecting-food-choice",
+ "topicName": "factors affecting food choice",
+ "version": 1,
+ "steps": [
+  {
+   "id": "factorsaffectingfoodchoice-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Food choice is influenced by multiple interacting factors: social, economic, cultural, religious, ethical, psychological, and health-related. | Key Fact: Social factors include: family meals and traditions, peer pressure, media and advertising, and social status (e.g. eating out as a social activity). | Key Fact: Economic factors include: income level, food prices, availability of affordable fresh produce, and access to shops (food deserts). | Key Fact: Cultural factors: different cultures have distinct food traditions, staple foods, flavour preferences, and cooking methods (e.g. rice in Asian cuisine, pasta in Italian cuisine)."
+  },
+  {
+   "id": "factorsaffectingfoodchoice-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Discuss how social, economic, and cultural factors influence the food choices people make. (8 marks) <div class=\""
+  },
+  {
+   "id": "factorsaffectingfoodchoice-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from factors affecting food choice, and one past-paper question."
+  }
+ ]
+}

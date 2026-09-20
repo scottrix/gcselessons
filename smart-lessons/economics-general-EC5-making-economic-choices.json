@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC5-making-economic-choices",
+ "topicName": "making economic choices",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5makingeconomicchoices-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The basic economic problem is scarcity: resources are limited but wants are unlimited, forcing all economic agents to make choices. | Key Fact: Every economic choice involves weighing costs and benefits: consumers choose how to spend income; producers choose what to produce; government chooses how to allocate tax revenue. | Key Fact: Opportunity cost applies to all economic agents: consumers (spending on phone means less for other goods), producers (investing in machinery means less for marketing), government (NHS spending means less for education). | Key Fact: Rational decision-making means choosing where marginal benefit exceeds marginal cost — but people don't always act rationally due to imperfect information, habit, and emotion."
+  },
+  {
+   "id": "5makingeconomicchoices-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how scarcity affects consumers, producers, and government differently. | Describe how a consumer might weigh costs and benefits when deciding to buy a £500 laptop. | Evaluate whether government spending on defence or healthcare creates greater benefit."
+  },
+  {
+   "id": "5makingeconomicchoices-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a student should go to university or start work at 18, considering economic costs and benefits. <div class=\""
+  },
+  {
+   "id": "5makingeconomicchoices-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "law",
+ "topic": "offences-against-person",
+ "topicName": "offences against the person",
+ "version": 1,
+ "steps": [
+  {
+   "id": "offencesagainstperson-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Assault is causing the victim to fear immediate unlawful force — no physical contact is required | Key Fact: Battery is the unlawful application of force to another person — any unwanted touching can amount to battery | Key Fact: Assault and battery are summary offences tried in the Magistrates' Court, carrying up to 6 months' imprisonment | Key Fact: Section 47 OAPA 1861: actual bodily harm (ABH) — injury that is more than transient, including psychological harm"
+  },
+  {
+   "id": "offencesagainstperson-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How effective is the Offences Against the Person Act 1861 in protecting victims of non-fatal offences? (15 marks) <div class=\""
+  },
+  {
+   "id": "offencesagainstperson-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from offences against the person, and one past-paper question."
+  }
+ ]
+}

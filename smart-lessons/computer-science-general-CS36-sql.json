@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS36-sql",
+ "topicName": "sql",
+ "version": 1,
+ "steps": [
+  {
+   "id": "36sql-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: SQL (Structured Query Language) is the standard language used to create, read, update, and delete data in relational databases. It allows users to communicate with a database to retrieve and modify data. | WHERE clause: The WHERE clause filters records - only records that match the condition are returned. It is used with SELECT, UPDATE, and DELETE. | ORDER BY clause: The ORDER BY clause sorts the results. ASC sorts in ascending order (A-Z, 1-9). DESC sorts in descending order (Z-A, 9-1). Default is ASC if not specified. | Important: String values must be in single quotes ('Frank'). Numeric values do not need quotes (1006, 10). The order of values must match the order of fields listed. If inserting into all fields, you can omit the field list: INSERT INTO Students VALUES (1006, "
+  },
+  {
+   "id": "36sql-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Write an SQL query to show the first name and last name of all students in form 10B. | Write an SQL query to show all details of students whose last name starts with 'S', sorted by first name alphabetically. | Write an SQL statement to insert a new student: StudentID 1007, Grace Lee, form 10A, year 10."
+  },
+  {
+   "id": "36sql-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A table called Students has fields: StudentID, Name, TutorGroup, Grade. Write SQL statements to: (1) Show all students in tutor group '7B' with their names and grades. (2) Add a new student with ID 105, name 'Kai', tutor group '7B', grade 'B'. (3) Update the grade of student ID 105 to 'A'. [4 marks] <div class=\""
+  },
+  {
+   "id": "36sql-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on WHERE clause, ORDER BY clause, GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G25-river-landforms",
+ "topicName": "river landforms",
+ "version": 1,
+ "steps": [
+  {
+   "id": "25riverlandforms-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Interlocking spurs are areas of high land that project from alternate sides of a V-shaped valley towards the river. The river cannot erode laterally fast enough to remove them, so it winds around them, creating an interlocking pattern. | Definition: Meanders are sweeping curves in a river's course. They form because of differences in water velocity across the channel - faster water on the outside bend erodes the bank, while slower water on the inside bend deposits sediment. | Definition: Levees are raised banks of sediment along the edges of a river channel. They form naturally when a river overflows its banks - the heaviest sediment is deposited first near the channel, building up the banks over successive floods. | Definition: An estuary is the tidal mouth of a river where fr"
+  },
+  {
+   "id": "25riverlandforms-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the formation of a waterfall. (4 marks) | Describe the formation of an ox-bow lake. (4 marks) | Compare the landforms found in the upper and lower courses of a river. (6 marks)"
+  },
+  {
+   "id": "25riverlandforms-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Geography Exam Tips — River Landforms, and one past-paper question."
+  }
+ ]
+}

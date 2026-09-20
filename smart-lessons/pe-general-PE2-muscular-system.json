@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE2-muscular-system",
+ "topicName": "the muscular system",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2muscularsystem-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The human body has over 600 skeletal muscles . For GCSE PE, you must know the location and function of the major muscles listed below. | Definition: Muscles work in antagonistic pairs - when one muscle contracts (shortens), the other relaxes (lengthens). This allows bones to move at joints in opposite directions. | Agonist (Prime Mover): The muscle that contracts to produce the desired movement. It is the main muscle responsible for the action. | Antagonist: The muscle that relaxes (lengthens) to allow the agonist to work. It may offer some controlled resistance to smooth the movement."
+  },
+  {
+   "id": "2muscularsystem-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name the antagonistic pair at the elbow joint and identify the agonist during flexion. | Explain the difference between concentric and eccentric isotonic contraction, giving a sporting example of each. | What is the role of a fixator muscle? Give an example from a sporting action."
+  },
+  {
+   "id": "2muscularsystem-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Agonist (Prime Mover), Antagonist, Fixator (Stabiliser), and one past-paper question."
+  }
+ ]
+}

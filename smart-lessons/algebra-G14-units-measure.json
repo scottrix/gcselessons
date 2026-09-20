@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "G14-units-measure",
+ "topicName": "units of measure",
+ "version": 1,
+ "steps": [
+  {
+   "id": "14unitsmeasure-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Units of measure: are standard quantities used to measure physical quantities like length, mass, time, etc."
+  },
+  {
+   "id": "14unitsmeasure-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Convert 7500 m to km. | Convert 0.8 m² to cm². | Convert 3 litres to mL."
+  },
+  {
+   "id": "14unitsmeasure-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A swimming pool is 25 m long, 10 m wide and 2 m deep at the deep end, sloping to 1 m at the shallow end. (a) Calculate the volume of water in the pool in m cubed. (b) Convert this to litres. (c) Water costs 0.2p per litre. Find the cost to fill the pool. The pool loses 2 cm of depth per week through evaporation. How many litres evaporate per week? <div class=\""
+  },
+  {
+   "id": "14unitsmeasure-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Units of measure, and one past-paper question."
+  }
+ ]
+}

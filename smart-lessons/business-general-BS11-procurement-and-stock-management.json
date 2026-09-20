@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS11-procurement-and-stock-management",
+ "topicName": "procurement and stock management",
+ "version": 1,
+ "steps": [
+  {
+   "id": "11procurementandstockmanagemen-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Procurement is the process of sourcing and purchasing materials: choosing reliable suppliers who offer the right quality, price, and delivery times. | Key Fact: Buffer stock is the minimum level of stock a business holds to prevent running out if demand unexpectedly increases or supply is delayed - a safety net. | Key Fact: Just-in-time (JIT) stock control means ordering stock to arrive only when needed: eliminates storage costs but requires reliable suppliers and accurate demand forecasting. | Key Fact: The bar gate stock control chart shows: maximum stock level, buffer stock level, re-order level (when to order), and lead time (time between ordering and delivery)."
+  },
+  {
+   "id": "11procurementandstockmanagemen-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between buffer stock and just-in-time stock management. | Describe the key features of a bar gate stock control chart and explain why it is useful. | Evaluate whether a restaurant should use JIT stock control."
+  },
+  {
+   "id": "11procurementandstockmanagemen-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a small electronics manufacturer should switch from holding buffer stock to a JIT system. <div class=\""
+  },
+  {
+   "id": "11procurementandstockmanagemen-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

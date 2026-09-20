@@ -1,0 +1,32 @@
+{
+ "subject": "english-literature",
+ "topic": "N2-victorian-novel-conventions",
+ "topicName": "victorian novel conventions",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2victoriannovelconventions-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Effect on Structure: Serialisation required cliffhangers at chapter ends. Each instalment needed a hook to make readers buy the next. This creates episodic, suspenseful pacing. | Moral Purpose: Victorian novels often had explicit moral messages. Dickens used fiction to campaign for social reform. Literature was seen as a way to educate and improve society. | Victorian Values: Novels promoted hard work, charity, self-improvement, and Christian morality. Characters who ignore these values face consequences. | AO2 Conventions Strategy: When analysing a 19th century novel, AO2 (language, form, structure) typically carries 33% of marks. The highest-achieving responses don't just identify conventions — they explain why the writer chose them and what effects they create. Examiners reward analysis"
+  },
+  {
+   "id": "2victoriannovelconventions-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "How did serialised publication affect Victorian novel structure? | Why did Victorian novels often have moral purposes? | What are the advantages of first-person narration?"
+  },
+  {
+   "id": "2victoriannovelconventions-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response 30 marks: How does Stevenson use the conventions of Victorian novel writing to explore the theme of duality in \"The Strange Case of Dr Jekyll and Mr Hyde\"? Write about: Stevenson's use of narrative structure; Stevenson's use of Gothic conventions; how Stevenson uses language to present duality. <div class=\""
+  },
+  {
+   "id": "2victoriannovelconventions-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Effect on Structure, Moral Purpose, Victorian Values, and one past-paper question."
+  }
+ ]
+}

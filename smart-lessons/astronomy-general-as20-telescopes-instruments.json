@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as20-telescopes-instruments",
+ "topicName": "telescopes &amp; instruments",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as20telescopesinstruments-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Refracting telescopes use a convex objective lens to gather and focus light | Key Fact: Reflecting telescopes use a concave primary mirror; Newtonian and Cassegrain are common designs | Key Fact: Magnification = focal length of objective / focal length of eyepiece | Key Fact: Resolving power is the ability to distinguish fine detail; larger apertures give better resolution"
+  },
+  {
+   "id": "as20telescopesinstruments-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from telescopes &amp;amp; instruments, and one past-paper question."
+  }
+ ]
+}

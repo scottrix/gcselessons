@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "dance-appreciation-skills",
+ "topicName": "dance appreciation skills",
+ "version": 1,
+ "steps": [
+  {
+   "id": "danceappreciationskills-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Dance appreciation is the ability to analyse, describe and evaluate dance works using informed judgement | Key Fact: The AO4 framework is the AQA assessment objective for appreciation: analyse and evaluate dance | Key Fact: Analysis means breaking down a dance into its component parts to understand how it works | Key Fact: Description involves identifying and clearly stating what you see in a dance performance"
+  },
+  {
+   "id": "danceappreciationskills-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from dance appreciation skills, and one past-paper question."
+  }
+ ]
+}

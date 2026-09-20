@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "special-diets-food-intolerance",
+ "topicName": "special diets & food intolerance",
+ "version": 1,
+ "steps": [
+  {
+   "id": "specialdietsfoodintolerance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A food allergy is an immune system reaction to a specific food protein; symptoms can be severe and include anaphylaxis (a life-threatening reaction). | Key Fact: A food intolerance is a non-immune adverse reaction to food; symptoms are usually less severe and include bloating, diarrhoea, and stomach cramps. | Key Fact: Coeliac disease is an autoimmune condition where gluten damages the small intestine lining, preventing nutrient absorption. Sufferers must follow a strict gluten-free diet. | Key Fact: Lactose intolerance is the inability to digest lactose (milk sugar) due to a lack of the enzyme lactase; symptoms include bloating and diarrhoea after consuming dairy."
+  },
+  {
+   "id": "specialdietsfoodintolerance-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the difference between a food allergy and a food intolerance. Describe how you would adapt a cheese and pasta bake for someone with coeliac disease and someone who is lactose intolerant. (8 marks) <div class=\""
+  },
+  {
+   "id": "specialdietsfoodintolerance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from special diets &amp; food intolerance, and one past-paper question."
+  }
+ ]
+}

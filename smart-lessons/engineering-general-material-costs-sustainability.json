@@ -1,0 +1,26 @@
+{
+ "subject": "engineering",
+ "topic": "material-costs-sustainability",
+ "topicName": "material costs &amp; sustainability",
+ "version": 1,
+ "steps": [
+  {
+   "id": "materialcostssustainability-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Material cost is a major factor in selection: raw material price, processing cost and stock form availability all affect the total cost. | Key Fact: Economies of scale reduce unit cost: mass-produced components are cheaper per unit than one-off or small-batch production. | Key Fact: Stock forms (bar, sheet, tube, extrusion) affect cost: standard sizes are cheaper than custom dimensions. | Key Fact: Waste material adds cost: near-net-shape processes (casting, moulding) reduce waste compared to machining from solid."
+  },
+  {
+   "id": "materialcostssustainability-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the environmental impact of using CFRP versus aluminium for an aircraft component, considering manufacture, use and end of life. [8 marks] <div class=\""
+  },
+  {
+   "id": "materialcostssustainability-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from material costs &amp;amp; sustainability, and one past-paper question."
+  }
+ ]
+}

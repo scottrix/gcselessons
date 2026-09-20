@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g20-palaeozoic-mesozoic",
+ "topicName": "palaeozoic &amp; mesozoic eras",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g20palaeozoicmesozoic-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Palaeozoic Era (541-252 Ma): Cambrian explosion of hard-bodied life, Silurian marine life, Devonian age of fish and early land plants, Carboniferous coal forests, Permian mass extinction | Key Fact: The Cambrian explosion (~541 Ma): rapid diversification of life with hard shells and skeletons, making fossilisation much more common | Key Fact: The Carboniferous (359-299 Ma): warm, humid climate; vast swamp forests of ferns, horsetails and clubmosses formed today's coal deposits | Key Fact: The Permian-Triassic mass extinction (~252 Ma): the 'Great Dying' eliminated ~96% of marine species, caused by massive volcanism (Siberian Traps) and climate change"
+  },
+  {
+   "id": "g20palaeozoicmesozoic-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from palaeozoic &amp;amp; mesozoic eras, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "C7-states-of-matter",
+ "topicName": "c7 states of matter",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7statesofmatter-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Solid: A state of matter where particles are arranged in a regular pattern and vibrate about fixed positions. There are strong forces of attraction between particles. | Liquid: A state of matter where particles can move past each other randomly but are still close together. There are moderate forces of attraction between particles. | Gas: A state of matter where particles move very fast in all directions and are far apart. There are very weak forces of attraction between particles. | Sublimation: A change of state directly from solid to gas (or gas to solid) without going through the liquid state."
+  },
+  {
+   "id": "7statesofmatter-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Describe the arrangement and movement of particles in a solid, a liquid and a gas. | Foundation Bromine has a melting point of −7°C and a boiling point of 59°C. State the physical state of bromine at: (a) −20°C, (b) 25°C, (c) 80°C. | Foundation Name the changes of state that occur when: (a) ice becomes water, (b) water becomes steam, (c) steam becomes water, (d) water becomes ice."
+  },
+  {
+   "id": "7statesofmatter-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain changes of state using the particle model. <div class=\""
+  },
+  {
+   "id": "7statesofmatter-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Solid, Liquid, Gas, and one past-paper question."
+  }
+ ]
+}

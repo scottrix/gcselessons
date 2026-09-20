@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS19-product",
+ "topicName": "product",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19product-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The product life cycle has five stages: development (R&D, no sales), introduction (launch, low sales, high costs), growth (rapid sales increase, profits rise), maturity (sales peak then slow, high competition), decline (sales and profits fall). | Key Fact: Extension strategies try to extend the maturity stage: new features, new markets, rebranding, packaging changes, limited editions, or price promotions. They delay decline but don't prevent it permanently. | Key Fact: Product portfolio (or product mix) is the range of products a business sells: having products at different life cycle stages balances cash flow - mature products fund the development of new ones. | Key Fact: Product differentiation makes a product stand out from competitors: unique features, superior quality, disti"
+  },
+  {
+   "id": "19product-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the four main stages of the product life cycle and explain what happens to sales and profit at each stage. | Explain two extension strategies a business could use to delay the decline of a product. | Evaluate whether a business should invest in extension strategies for a declining product or focus on developing new products."
+  },
+  {
+   "id": "19product-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a games console manufacturer should use extension strategies or develop a next-generation console when sales begin to decline. <div class=\""
+  },
+  {
+   "id": "19product-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g1-earth-structure-composition",
+ "topicName": "earth&#x27;s structure &amp; composition",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g1earthstructurecomposition-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Earth has four main layers: crust, mantle, outer core and inner core | Key Fact: The crust is thin (5-70 km) and made of solid rock; continental crust is granitic, oceanic crust is basaltic | Key Fact: The mantle is the thickest layer (~2,900 km); the upper mantle is solid but the asthenosphere is partially molten and can flow slowly | Key Fact: The outer core is liquid iron and nickel; it generates Earth's magnetic field through convection currents"
+  },
+  {
+   "id": "g1earthstructurecomposition-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from earth&amp;#x27;s structure &amp;amp; composition, and one past-paper question."
+  }
+ ]
+}

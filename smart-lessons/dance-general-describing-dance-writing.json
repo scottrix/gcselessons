@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "describing-dance-writing",
+ "topicName": "describing dance in writing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "describingdancewriting-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Accurate written description requires precise dance terminology, not everyday language | Key Fact: Movement description should cover action, dynamics, space and relationships (A D S R) | Key Fact: Action vocabulary includes actions of the body: turn, jump, travel, gesture, fall, stillness | Key Fact: Dynamics describe how movements are performed: fast, slow, sustained, sudden, heavy, light"
+  },
+  {
+   "id": "describingdancewriting-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from describing dance in writing, and one past-paper question."
+  }
+ ]
+}

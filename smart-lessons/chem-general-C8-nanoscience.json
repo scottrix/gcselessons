@@ -1,0 +1,32 @@
+{
+ "subject": "chemistry",
+ "topic": "C8-nanoscience",
+ "topicName": "c8 nanoscience",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8nanoscience-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Nanoparticle: A particle that has a size between 1 nm and 100 nm (1 × 10⁻⁹ m to 100 × 10⁻⁹ m). Nanoparticles are typically a few hundred atoms in size. | Nanoscience: The study of structures that are 1-100 nm in size. It involves studying and working with materials on an extremely small scale. | Surface area to volume ratio (SA:V): The ratio of the surface area of a particle to its volume. As particles get smaller, their surface area to volume ratio increases dramatically. | 1 nanometre (1 nm) = 1 × 10⁻⁹ m = 0.000000001 m.: A nanoparticle is roughly the same size as a few hundred atoms. Nanoparticles are much smaller than fine particles and coarse particles."
+  },
+  {
+   "id": "8nanoscience-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Higher Define the term nanoparticle and state the size range in nanometres and in metres. | Higher A cube has a side length of 5 nm. Calculate its surface area, volume and surface area to volume ratio. | Higher Explain why nanoparticles are often much more reactive than the same substance in bulk form."
+  },
+  {
+   "id": "8nanoscience-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Evaluate the uses and risks of nanoparticles. <div class=\""
+  },
+  {
+   "id": "8nanoscience-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Nanoparticle, Nanoscience, Surface area to volume ratio (SA:V), and one past-paper question."
+  }
+ ]
+}

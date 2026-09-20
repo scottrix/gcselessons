@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "professional-works-overview",
+ "topicName": "professional dance works overview",
+ "version": 1,
+ "steps": [
+  {
+   "id": "professionalworksoverview-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: AQA 8236 requires students to study specific set professional works for the written exam | Key Fact: The set professional works are 'Within Her Eyes' by James Cousins, 'Artificial Things' by Lucy Bennett and 'Emancipation of Expressionism' by Kenrick H2O Sandy | Key Fact: Each work has a distinct choreographic intention, style and set of features that must be understood in detail | Key Fact: Professional works are assessed in Section C of the written exam, worth 25 marks"
+  },
+  {
+   "id": "professionalworksoverview-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from professional dance works overview, and one past-paper question."
+  }
+ ]
+}

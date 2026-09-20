@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "data-cleaning-reliability",
+ "topicName": "data cleaning &amp; reliability",
+ "version": 1,
+ "steps": [
+  {
+   "id": "datacleaningreliability-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Data cleaning means checking and correcting a data set before analysis — removing errors, dealing with missing values and identifying anomalies. | Key Fact: Missing data can occur when respondents skip questions or when measurements fail. | Key Fact: Options for missing data: exclude the record, use the mean/median for that variable, or investigate why it is missing. | Key Fact: An outlier is a value that is much higher or lower than the rest of the data."
+  },
+  {
+   "id": "datacleaningreliability-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A data set of students' heights in cm includes the values: 152, 148, 165, 15, 170, 155, 163, 159, 172, 145. Explain how you would clean this data set. <div class=\""
+  },
+  {
+   "id": "datacleaningreliability-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from data cleaning &amp;amp; reliability, and one past-paper question."
+  }
+ ]
+}

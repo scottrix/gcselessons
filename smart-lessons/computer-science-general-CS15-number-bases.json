@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS15-number-bases",
+ "topicName": "number bases",
+ "version": 1,
+ "steps": [
+  {
+   "id": "15numberbases-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "A number base (or radix): is the number of unique digits used to represent numbers in a positional numeral system. The position of each digit determines its value - this is called positional notation. | Decimal: is the number system we use every day. It has 10 digits (0-9). Each position represents a power of 10: units, tens, hundreds, thousands, etc. | Why do humans use base 10?: Most likely because we have 10 fingers! There is nothing mathematically special about base 10 - it is just what we are used to. | Binary: uses only two digits: 0 and 1. Each position represents a power of 2. Binary is the fundamental language of computers because electronic circuits have two states: on (1) and off (0)."
+  },
+  {
+   "id": "15numberbases-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What is the decimal value of binary 10110? | What is the decimal value of hex 2F? | Why do computers use binary instead of decimal?"
+  },
+  {
+   "id": "15numberbases-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Convert the decimal number 156 to binary and to hexadecimal. Show your working for each conversion. [4 marks] <div class=\""
+  },
+  {
+   "id": "15numberbases-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on A number base (or radix), Decimal, Why do humans use base 10?, and one past-paper question."
+  }
+ ]
+}

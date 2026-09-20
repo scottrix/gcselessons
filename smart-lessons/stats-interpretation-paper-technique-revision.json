@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "paper-technique-revision",
+ "topicName": "paper technique &amp; revision",
+ "version": 1,
+ "steps": [
+  {
+   "id": "papertechniquerevision-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Allocate approximately 1 minute per mark: a 3-mark question gets about 3 minutes; leave 5–10 minutes at the end for checking | Key Fact: Attempt every question — there are no negative marks; even an educated guess on a multiple-choice question is worthwhile | Key Fact: Check answers systematically: re-read the question, verify units, confirm calculations, and apply reasonableness checks | Key Fact: When checking, work backwards from your answer or use an alternative method to verify; if both methods agree, the answer is likely correct"
+  },
+  {
+   "id": "papertechniquerevision-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe a complete revision and exam strategy for GCSE Statistics that maximises your grade. <div class=\""
+  },
+  {
+   "id": "papertechniquerevision-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from paper technique &amp;amp; revision, and one past-paper question."
+  }
+ ]
+}

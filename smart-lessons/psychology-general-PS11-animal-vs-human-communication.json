@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS11-animal-vs-human-communication",
+ "topicName": "animal vs human communication",
+ "version": 1,
+ "steps": [
+  {
+   "id": "11animalvshumancommunication-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Human language has unique features (Hockett's design features): semanticity (words have meaning), generativity (can create infinite new sentences), displacement (can talk about past/future/abstract), arbitrariness (no connection between word and referent), and cultural transmission (learned from others). | Key Fact: Animal communication: bees use waggle dances to communicate food location (shows displacement and semanticity but not generativity). Vervet monkeys use distinct alarm calls for different predators (shows semanticity but limited generativity). Birdsongs are largely innate with some learned elements. | Key Fact: Washoe the chimp: taught over 100 signs in ASL, combined signs creatively (e.g. 'water bird' for swan). However, critics argued Washoe's signing was operant con"
+  },
+  {
+   "id": "11animalvshumancommunication-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the key features that distinguish human language from animal communication systems. | Evaluate whether apes can learn language, referring to studies of Washoe and Kanzi. | Discuss whether the difference between human and animal communication is qualitative or quantitative."
+  },
+  {
+   "id": "11animalvshumancommunication-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether animals can be said to use language, referring to research evidence. <div class=\""
+  },
+  {
+   "id": "11animalvshumancommunication-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

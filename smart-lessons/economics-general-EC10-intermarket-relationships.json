@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC10-intermarket-relationships",
+ "topicName": "intermarket relationships",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10intermarketrelationships-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Complementary goods are used together (cars and petrol). A price rise for one reduces demand for the complement. | Key Fact: Substitute goods are alternatives (Coke and Pepsi). A price rise for one increases demand for the substitute. | Key Fact: Cross-price elasticity (XED) = %ΔQd of A / %ΔP of B. Positive XED = substitutes; negative XED = complements. | Key Fact: Derived demand: demand for one good comes from demand for another. Demand for labour is derived from demand for the product workers make."
+  },
+  {
+   "id": "10intermarketrelationships-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between complementary and substitute goods, giving two examples of each. | Describe what is meant by derived demand and explain how it links product and factor markets. | Analyse how a significant rise in oil prices might affect other UK markets."
+  },
+  {
+   "id": "10intermarketrelationships-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate how the rise of streaming services has affected demand for cinema tickets and physical media. <div class=\""
+  },
+  {
+   "id": "10intermarketrelationships-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

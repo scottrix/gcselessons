@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "earth-rotation-day-night",
+ "topicName": "earth&#x27;s rotation &amp; day/night",
+ "version": 1,
+ "steps": [
+  {
+   "id": "earthrotationdaynight-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Earth rotates from west to east on its axis, completing one rotation in approximately 23 hours 56 minutes (one sidereal day). | Key Fact: A solar day (24 hours) is the time for the Sun to return to the same position in the sky; a sidereal day (23h 56m 4s) is the time for one complete 360° rotation relative to the stars. | Key Fact: The difference between solar and sidereal days (about 4 minutes) occurs because the Earth orbits the Sun, so the Sun appears to move eastward against the background stars by about 1° per day. | Key Fact: The apparent daily motion of celestial objects (rising in the east, setting in the west) is caused by the Earth's rotation from west to east."
+  },
+  {
+   "id": "earthrotationdaynight-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from earth&amp;#x27;s rotation &amp;amp; day/night, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "statistics",
+ "topic": "S1-sampling",
+ "topicName": "s1 sampling",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1sampling-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A sample is a smaller group selected from a larger population. We use samples to make inferences (educated guesses) about the whole population. | Important: A larger sample size generally gives more accurate results, but the method of sampling is equally important."
+  },
+  {
+   "id": "1sampling-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define what is meant by a \"population\" in statistics. | A school has 120 boys and 180 girls. A stratified sample of 50 students is needed. How many boys and girls should be selected? | A researcher wants to survey 25 people from a list of 200 using systematic sampling. What value of k should be used?"
+  },
+  {
+   "id": "1sampling-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A town has 8000 adults: 3200 are aged 18–30, 2800 are aged 31–50, and 2000 are aged 51+. A researcher wants a stratified sample of 200 adults. (a) Calculate how many from each age group. (b) Describe how to select the people using simple random sampling within each group. (c) Explain one advantage of stratified sampling over simple random sampling for this survey about voting intentions. <div class=\""
+  },
+  {
+   "id": "1sampling-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from s1 sampling, and one past-paper question."
+  }
+ ]
+}

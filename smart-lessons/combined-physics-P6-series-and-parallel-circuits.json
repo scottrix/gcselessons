@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "P6-series-and-parallel-circuits",
+ "topicName": "p6 series and parallel circuits",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6seriesandparallelcircuits-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Series circuit: A circuit where components are connected one after the other in a single loop. There is only one path for the current to flow. | Parallel circuit: A circuit where components are connected in separate branches. Each branch provides a different path for the current. | Adding resistors in parallel: When you add a resistor in parallel, you provide an extra path for current. This means the total resistance decreases because more current can flow overall. | Adding resistors in series: When you add a resistor in series, you make it harder for current to flow through the single loop. The total resistance increases ."
+  },
+  {
+   "id": "6seriesandparallelcircuits-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation State the rules for current and voltage in a series circuit. | Foundation Two 6 Ω resistors are connected in series to a 12 V battery. Calculate the total resistance and the current in the circuit. | Foundation Explain why domestic circuits use parallel rather than series wiring. Give two reasons."
+  },
+  {
+   "id": "6seriesandparallelcircuits-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain why domestic circuits are wired in parallel rather than in series. Refer to current, voltage and what happens if one appliance fails. <div class=\""
+  },
+  {
+   "id": "6seriesandparallelcircuits-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Series circuit, Parallel circuit, Adding resistors in parallel, and one past-paper question."
+  }
+ ]
+}

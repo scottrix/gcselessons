@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT13-composites-and-smart-materials",
+ "topicName": "composites and smart materials",
+ "version": 1,
+ "steps": [
+  {
+   "id": "13compositesandsmartmaterials-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Composites: matrix + reinforcement. CFRP: carbon fibres in epoxy - exceptional strength-to-weight, F1 cars, aircraft. GFRP (fibreglass): glass fibres in polyester resin - lighter than metals, corrosion resistant. | Key Fact: Concrete: aggregate + cement + water - excellent compressive strength, reinforced with steel rebar for tensile strength. | Key Fact: Thermochromic materials: change colour at specific temperatures - baby spoons, mood rings, kettles, bath plugs. | Key Fact: Shape-memory alloys (SMA): Nitinol (nickel-titanium) - deformed at room temperature, returns to original shape when heated. Medical stents, orthodontic wires."
+  },
+  {
+   "id": "13compositesandsmartmaterials-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how the matrix and reinforcement work together in a composite material, using CFRP as an example. | A designer wants a bath plug that changes colour to indicate water too hot for a child. Justify the choice of smart material. | Discuss why composites are increasingly replacing metals in aircraft construction."
+  },
+  {
+   "id": "13compositesandsmartmaterials-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A prosthetic limb manufacturer is choosing between titanium alloy and CFRP for a running blade. Evaluate both and justify your recommendation. <div class=\""
+  },
+  {
+   "id": "13compositesandsmartmaterials-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

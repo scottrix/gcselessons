@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "3D1-product-design-and-development",
+ "topicName": "product design and development",
+ "version": 1,
+ "steps": [
+  {
+   "id": "31productdesignanddevelopment-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Ergonomics ensures products fit the human body — anthropometric data (body measurements) informs design decisions. | Key Fact: The design process for products: brief, research, ideation, development, prototyping, testing, refinement, manufacture. | Key Fact: Prototyping tests ideas before commitment to production — models can be rough (card) or refined (3D printed). | Key Fact: Sustainable design considers the full lifecycle: material sourcing, manufacture, use, and end-of-life disposal or recycling."
+  },
+  {
+   "id": "31productdesignanddevelopment-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring product design and development. Annotate your process. | Research an artist or designer who works with product design and development. Write a critical analysis of their approach and explain how it has infor | Evaluate the effectiveness of your experiments with product design and development. Which approaches were most successful and why?"
+  },
+  {
+   "id": "31productdesignanddevelopment-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Design a product addressing a specific user need. Show your complete process from brief through research, ideation, prototyping and final design. Annotate your decisions about ergonomics, materials and sustainability. <div class=\""
+  },
+  {
+   "id": "31productdesignanddevelopment-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Three-Dimensional Design Exam Tips, and one past-paper question."
+  }
+ ]
+}

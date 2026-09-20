@@ -1,0 +1,20 @@
+{
+ "subject": "ancient-history",
+ "topic": "ah18-punic-wars",
+ "topicName": "the punic wars &amp; hannibal",
+ "version": 1,
+ "steps": [
+  {
+   "id": "ah18punicwars-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The three Punic Wars (264-146 BC) were fought between Rome and Carthage for control of the Western Mediterranean | Key Fact: First Punic War (264-241 BC): Rome built its first navy and won Sicily as its first province | Key Fact: Second Punic War (218-201 BC): Hannibal crossed the Alps with elephants, won at Cannae (216 BC) but was eventually defeated by Scipio at Zama (202 BC) | Key Fact: The Battle of Cannae was Rome's worst military defeat: perhaps 50,000-70,000 Romans died in a single day"
+  },
+  {
+   "id": "ah18punicwars-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the punic wars &amp;amp; hannibal, and one past-paper question."
+  }
+ ]
+}

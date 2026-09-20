@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "investigation-design-constraints",
+ "topicName": "investigation design &amp; constraints",
+ "version": 1,
+ "steps": [
+  {
+   "id": "investigationdesignconstraints-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Every statistical investigation has constraints that limit what is possible. | Key Fact: Time constraints affect how long you can spend collecting and analysing data. | Key Fact: Cost constraints limit the resources available — equipment, travel, printing, software. | Key Fact: Ethical issues include obtaining consent, avoiding harm, and being honest about results."
+  },
+  {
+   "id": "investigationdesignconstraints-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A student plans to investigate how much time Year 10 students spend on social media. Identify three constraints and explain how each affects the investigation design. <div class=\""
+  },
+  {
+   "id": "investigationdesignconstraints-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from investigation design &amp;amp; constraints, and one past-paper question."
+  }
+ ]
+}

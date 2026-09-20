@@ -1,0 +1,32 @@
+{
+ "subject": "french",
+ "topic": "FR12-technology-in-everyday-life",
+ "topicName": "technology in everyday life",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12technologyineverydaylife-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: This topic covers key vocabulary and structures for technology in everyday life. You need to know the topic vocabulary, be able to use it in all four skills (listening, speaking, reading, writing), and express opinions with reasons. | French Exam Tips — Technology in Everyday Life: 1. For Technology in Everyday Life, use a range of vocabulary and complex grammatical structures to access higher marks 2. Check verb tenses, agreements and word order carefully in your written work 3. In translation tasks, translate meaning rather than word-for-word 4. When writing about Technology in Everyday Life, include opinions and justifications, not just descriptions 5. For listening and reading, focus on key words and cognates to extract meaning"
+  },
+  {
+   "id": "12technologyineverydaylife-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Write 4 sentences in French about technology in everyday life. | Write a paragraph (40-60 words) giving your opinion on technology in everyday life. | Translate into French: \"I think technology in everyday life is important because...\""
+  },
+  {
+   "id": "12technologyineverydaylife-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Writing task: Write about social media, internet, smartphones; advantages and dangers; opinions on technology use. <div class=\""
+  },
+  {
+   "id": "12technologyineverydaylife-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from technology in everyday life, and one past-paper question."
+  }
+ ]
+}

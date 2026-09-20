@@ -1,0 +1,26 @@
+{
+ "subject": "latin",
+ "topic": "themes-verse-literature",
+ "topicName": "themes in verse literature",
+ "version": 1,
+ "steps": [
+  {
+   "id": "themesverseliterature-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Fate (fatum) is the driving force of the Aeneid: Aeneas's destiny to found Rome is decreed by Jupiter and cannot be avoided. | Key Fact: Pietas (duty to gods, country, and family) is Aeneas's defining quality: he is called 'pius Aeneas' throughout the epic. But pietas demands terrible personal sacrifices. | Key Fact: Love and loss: Dido's love for Aeneas and her suicide is the Aeneid's most tragic episode, showing how fate destroys personal happiness. | Key Fact: Power and transformation in Ovid: the gods use power to pursue desire, and transformation is both punishment and escape."
+  },
+  {
+   "id": "themesverseliterature-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Discuss how the themes of pietas and furor are in conflict in the Aeneid. Refer to specific characters and events. (8 marks) <div class=\""
+  },
+  {
+   "id": "themesverseliterature-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from themes in verse literature, and one past-paper question."
+  }
+ ]
+}

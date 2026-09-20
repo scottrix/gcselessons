@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "cooking-techniques-different-foods",
+ "topicName": "cooking techniques for different foods",
+ "version": 1,
+ "steps": [
+  {
+   "id": "cookingtechniquesdifferentfood-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Moist heat methods (use water or steam): boiling, simmering, poaching, steaming, braising, stewing. These are suitable for tougher cuts of meat and preserve moisture in foods. | Key Fact: Dry heat methods (use fat, oil, or air): baking, roasting, grilling, frying (shallow, deep, stir). These create browning (Maillard reaction) and crispy textures. | Key Fact: Boiling: cooking in water at 100°C. Quick but can leach water-soluble vitamins (B and C) into the cooking water. Suitable for pasta, potatoes, rice. | Key Fact: Steaming: cooking over boiling water in a covered pan. Preserves nutrients (no contact with water), colour, and texture. The healthiest cooking method for vegetables and fish."
+  },
+  {
+   "id": "cookingtechniquesdifferentfood-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare steaming, grilling, and deep frying as cooking methods. Explain the effect of each method on nutritional value and health. (8 marks) <div class=\""
+  },
+  {
+   "id": "cookingtechniquesdifferentfood-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from cooking techniques for different foods, and one past-paper question."
+  }
+ ]
+}

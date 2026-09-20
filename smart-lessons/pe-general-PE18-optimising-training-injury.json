@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE18-optimising-training-injury",
+ "topicName": "optimising training and preventing injury",
+ "version": 1,
+ "steps": [
+  {
+   "id": "18optimisingtraininginjury-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Important: This formula gives an estimate. Individual max HR can vary by ±10 bpm. However, it is the standard method used for calculating training zones. | Training zones: are heart rate ranges that correspond to different exercise intensities. Training in the correct zone ensures you are working the appropriate energy system. | One Rep Max (1RM): is the maximum weight that can be lifted once with correct technique for a given exercise. It is used to set training intensities for weight training. | Why warm up?: A warm-up prepares the body physically and mentally for exercise, reducing the risk of injury and improving performance."
+  },
+  {
+   "id": "18optimisingtraininginjury-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Calculate the maximum heart rate and aerobic training zone for a 20-year-old. | Describe the three parts of a warm-up and explain why each is important. | An athlete can lift 80kg for 6 reps on bench press. Estimate their 1RM."
+  },
+  {
+   "id": "18optimisingtraininginjury-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Training zones, One Rep Max (1RM), Why warm up?, and one past-paper question."
+  }
+ ]
+}

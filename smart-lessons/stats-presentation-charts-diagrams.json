@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "charts-diagrams",
+ "topicName": "charts &amp; diagrams",
+ "version": 1,
+ "steps": [
+  {
+   "id": "chartsdiagrams-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A pictogram uses symbols or pictures to represent data; each symbol represents a fixed quantity stated in the key. | Key Fact: In a pie chart, the angle of each sector is proportional to the frequency it represents: angle = (frequency ÷ total) × 360°. | Key Fact: To construct a pie chart, calculate each sector angle, draw a circle, and use a protractor to measure each angle from the previous sector. | Key Fact: A stem-and-leaf diagram displays data in order while retaining the original values; the stem shows the leading digits and the leaf shows the final digit."
+  },
+  {
+   "id": "chartsdiagrams-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response The table shows the number of students in each year group at a school. Draw a pie chart to represent the data. Year 7: 130, Year 8: 120, Year 9: 110, Year 10: 100, Year 11: 90 <div class=\""
+  },
+  {
+   "id": "chartsdiagrams-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from charts &amp;amp; diagrams, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC24-international-trade",
+ "topicName": "international trade",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24internationaltrade-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Countries trade because of comparative advantage: each country specialises in goods where it has the lowest opportunity cost, then trades for other goods. | Key Fact: Benefits of trade: access to wider range of goods, lower prices through competition, larger markets for producers, spread of technology, and consumer choice. | Key Fact: The UK's main exports: financial services, pharmaceuticals, cars. Main imports: manufactured goods, food, fuel. Trade deficit in goods but surplus in services. | Key Fact: Free-trade agreements (like the EU) remove tariffs and quotas between members, increasing trade and competition. The EU was the UK's largest trading partner."
+  },
+  {
+   "id": "24internationaltrade-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two reasons why countries trade with each other. | Describe the advantages and disadvantages of free-trade agreements such as the EU. | Evaluate whether free trade always benefits the UK economy."
+  },
+  {
+   "id": "24internationaltrade-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the economic impact of the UK leaving the EU single market. <div class=\""
+  },
+  {
+   "id": "24internationaltrade-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

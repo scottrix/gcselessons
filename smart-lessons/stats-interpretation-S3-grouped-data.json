@@ -1,0 +1,32 @@
+{
+ "subject": "statistics",
+ "topic": "S3-grouped-data",
+ "topicName": "s3 grouped data",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3groupeddata-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Grouped data organises values into class intervals. When class intervals have different widths, we need special techniques to represent them fairly. | Higher Tier Only: Histograms with unequal class intervals and cumulative frequency graphs are Higher tier topics. You must understand frequency density."
+  },
+  {
+   "id": "3groupeddata-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "A histogram bar has width 25 and frequency density 3.2. Find the frequency. | Calculate the frequency density for a class with width 15 and frequency 45. | A cumulative frequency graph has total 200. What cumulative frequency gives the median?"
+  },
+  {
+   "id": "3groupeddata-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A histogram shows the times taken for 200 runners to complete a race. One bar covers 20–30 minutes with frequency density 4. Another bar covers 30–50 minutes with frequency density 3. (a) Find the frequency for each class. (b) A third class 50–60 minutes has frequency 20. Find its frequency density. (c) Explain why using frequency (not frequency density) on the y-axis would give a misleading histogram. <div class=\""
+  },
+  {
+   "id": "3groupeddata-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Higher Tier Only, and one past-paper question."
+  }
+ ]
+}

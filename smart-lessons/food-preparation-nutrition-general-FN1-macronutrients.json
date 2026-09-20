@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "FN1-macronutrients",
+ "topicName": "macronutrients",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1macronutrients-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Carbohydrates are the body's main source of energy. They are divided into sugars (simple, quick-release) and starches (complex, slow-release). Excess glucose is stored as glycogen in the liver and muscles, or converted to fat. | Key Fact: Proteins are essential for growth, repair, and maintenance of body tissues. They are made up of amino acids — there are 20 amino acids, 9 of which are essential (cannot be synthesised by the body and must come from food). | Key Fact: High biological value (HBV) proteins contain all 9 essential amino acids — found in animal sources (meat, fish, eggs, dairy) and soya. Low biological value (LBV) proteins lack one or more essential amino acids — found in plant sources (cereals, pulses, nuts). | Key Fact: Complementary proteins: combining LBV protein"
+  },
+  {
+   "id": "1macronutrients-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the role of macronutrients in maintaining a healthy diet. [12 marks] <div class=\""
+  },
+  {
+   "id": "1macronutrients-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from macronutrients, and one past-paper question."
+  }
+ ]
+}

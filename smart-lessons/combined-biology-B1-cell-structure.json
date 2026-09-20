@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "B1-cell-structure",
+ "topicName": "b1 cell structure",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1cellstructure-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "All living organisms are made of cells.: Cells are the basic building blocks of life. Some organisms are unicellular (made of one cell, like bacteria) and some are multicellular (made of many cells, like humans). | Eukaryotic cells: have a nucleus and membrane-bound organelles. Animals, plants, fungi and protists are eukaryotic. Prokaryotic cells do not have a nucleus. Bacteria are prokaryotic."
+  },
+  {
+   "id": "1cellstructure-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name three structures found in both animal and plant cells. | Name three structures found in plant cells but NOT in animal cells. | Describe two differences between a prokaryotic cell and a eukaryotic cell."
+  },
+  {
+   "id": "1cellstructure-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Compare prokaryotic and eukaryotic cells. <div class=\""
+  },
+  {
+   "id": "1cellstructure-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on All living organisms are made of cells., Eukaryotic cells, and one past-paper question."
+  }
+ ]
+}

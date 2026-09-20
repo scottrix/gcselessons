@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "global-film-industries",
+ "topicName": "global film industries",
+ "version": 1,
+ "steps": [
+  {
+   "id": "globalfilmindustries-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Bollywood is the Hindi-language film industry based in Mumbai, producing more films annually than Hollywood and characterised by musical numbers, melodrama and family-centred narratives. | Key Fact: Nollywood is the Nigerian film industry, one of the largest in the world by output, known for low-budget direct-to-video productions that reflect local cultures and social issues. | Key Fact: Chinese cinema encompasses mainland China, Hong Kong and Taiwan, with a history spanning martial arts cinema, Fifth Generation art films and contemporary blockbuster productions. | Key Fact: World film industries differ from Hollywood in their production contexts, funding models, distribution networks and relationships with domestic audiences."
+  },
+  {
+   "id": "globalfilmindustries-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How do the production and distribution contexts of a global film industry differ from those of Hollywood, and what impact does this have on the films produced? <div class=\""
+  },
+  {
+   "id": "globalfilmindustries-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from global film industries, and one past-paper question."
+  }
+ ]
+}

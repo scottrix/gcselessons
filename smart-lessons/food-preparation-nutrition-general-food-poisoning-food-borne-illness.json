@@ -1,0 +1,20 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "food-poisoning-food-borne-illness",
+ "topicName": "food poisoning & food-borne illness",
+ "version": 1,
+ "steps": [
+  {
+   "id": "foodpoisoningfoodborneillness-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Food poisoning is illness caused by eating food contaminated with harmful bacteria, viruses, or toxins. | Key Fact: The main food poisoning bacteria include: Salmonella, E. coli (especially O157), Campylobacter, Staphylococcus aureus, and Clostridium perfringens. | Key Fact: Salmonella is commonly found in raw poultry and eggs; symptoms include diarrhoea, vomiting, fever, and abdominal cramps. | Key Fact: E. coli O157 is found in undercooked minced beef and unpasteurised milk; it can cause severe kidney damage (haemolytic uraemic syndrome)."
+  },
+  {
+   "id": "foodpoisoningfoodborneillness-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from food poisoning &amp; food-borne illness, and one past-paper question."
+  }
+ ]
+}

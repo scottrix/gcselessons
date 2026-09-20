@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G27-glacial-processes-landforms",
+ "topicName": "glacial processes and landforms",
+ "version": 1,
+ "steps": [
+  {
+   "id": "27glacialprocesseslandforms-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Freeze-thaw weathering (also called frost shattering or frost wedging) is a mechanical weathering process that breaks rock apart when water repeatedly freezes and thaws in cracks and joints. | Key Concept: Glaciers erode the landscape through two main processes: abrasion and plucking. These work together to create distinctive glaciated landforms. The rate of erosion depends on the glacier's velocity, thickness, and the amount of debris it carries. | Key Fact: Both processes operate together. Plucking loosens rock material, and abrasion uses that material to grind and smooth the bedrock. A glacier with no debris at its base erodes mainly by plucking; a debris-rich glacier erodes mainly by abrasion. | Definition: A corrie is an armchair-shaped hollow high on a mountainside, forme"
+  },
+  {
+   "id": "27glacialprocesseslandforms-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the process of freeze-thaw weathering. (4 marks) | Describe how a corrie forms. (4 marks) | Compare the processes of abrasion and plucking in glacial erosion. (6 marks)"
+  },
+  {
+   "id": "27glacialprocesseslandforms-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Key Concept, and one past-paper question."
+  }
+ ]
+}

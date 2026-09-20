@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "histograms-box-plots",
+ "topicName": "histograms &amp; box plots",
+ "version": 1,
+ "steps": [
+  {
+   "id": "histogramsboxplots-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A histogram displays continuous data using bars with no gaps between them; the area of each bar (not the height) is proportional to the frequency. | Key Fact: Frequency density = frequency ÷ class width; the vertical axis of a histogram shows frequency density, not frequency. | Key Fact: When class widths are equal, the bar heights are proportional to the frequencies and frequency density is simply frequency ÷ class width. | Key Fact: When class widths are unequal, you must calculate frequency density for each bar; the height no longer equals the frequency."
+  },
+  {
+   "id": "histogramsboxplots-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response The frequency table shows the times taken for 120 runners to complete a race. Draw a histogram. 0–10 min: frequency 15, 10–20 min: frequency 40, 20–40 min: frequency 45, 40–60 min: frequency 20 <div class=\""
+  },
+  {
+   "id": "histogramsboxplots-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from histograms &amp;amp; box plots, and one past-paper question."
+  }
+ ]
+}

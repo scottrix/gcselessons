@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g19-precambrian-early-earth",
+ "topicName": "precambrian &amp; early earth",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g19precambrianearlyearth-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Precambrian spans from Earth's formation (~4.6 billion years ago) to the start of the Cambrian (~541 million years ago), about 88% of geological time | Key Fact: Earth formed from accretion of planetesimals; heavy elements sank to form the core while lighter material formed the mantle and crust | Key Fact: The early atmosphere was rich in CO2, water vapour, nitrogen and sulfur compounds; oxygen was absent | Key Fact: Stromatolites (layered structures built by cyanobacteria) appear from ~3.5 billion years ago and produced oxygen through photosynthesis"
+  },
+  {
+   "id": "g19precambrianearlyearth-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from precambrian &amp;amp; early earth, and one past-paper question."
+  }
+ ]
+}

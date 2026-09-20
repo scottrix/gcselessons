@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE9-effects-of-exercise",
+ "topicName": "short and long term effects of exercise",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9effectsofexercise-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: The effects of exercise are categorised by how quickly they occur and how long they last: Immediate effects - occur during and straight after a single exercise session Short-term effects - occur up to 24-36 hours after exercise Long-term effects - occur after weeks and months of regular training (adaptations) | Delayed Onset Muscle Soreness (DOMS): Muscle pain and stiffness that develops 24-72 hours after exercise, particularly following eccentric muscle contractions or unaccustomed activity. Caused by microscopic tears (micro-tears) in muscle fibres, not by lactic acid build-up. | Cardiac Hypertrophy: The heart muscle (particularly the left ventricle) grows larger and stronger as a result of regular aerobic training. This allows the heart to pump more blood per beat. | Bradyc"
+  },
+  {
+   "id": "9effectsofexercise-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "State three immediate effects of exercise on the cardiovascular system. | What is DOMS and what causes it? | Explain the difference between cardiac hypertrophy and bradycardia."
+  },
+  {
+   "id": "9effectsofexercise-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Delayed Onset Muscle Soreness (DOMS), Cardiac Hypertrophy, and one past-paper question."
+  }
+ ]
+}

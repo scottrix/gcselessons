@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "N16-upper-lower-bounds",
+ "topicName": "upper and lower bounds",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16upperlowerbounds-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Lower Bound: The smallest value that would round to the given number. | Upper Bound: The smallest value that would NOT round to the given number (just above the largest value that would round to it)."
+  },
+  {
+   "id": "16upperlowerbounds-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Find the bounds for 35 measured to the nearest 5 | A length is 12.4 cm to 1 d.p. Find the error interval. | Two lengths are 20 cm and 15 cm (both nearest cm). Find the minimum perimeter."
+  },
+  {
+   "id": "16upperlowerbounds-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A cuboid has dimensions: length = 10 cm (nearest cm), width = 5 cm (nearest cm), height = 3 cm (nearest cm). (a) Find the upper and lower bounds for each dimension. (b) Calculate the minimum and maximum possible volume. (c) The cuboid is made of gold. Gold costs £45 per cm³. Find the maximum possible cost of the gold used. <div class=\""
+  },
+  {
+   "id": "16upperlowerbounds-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Lower Bound, Upper Bound, and one past-paper question."
+  }
+ ]
+}

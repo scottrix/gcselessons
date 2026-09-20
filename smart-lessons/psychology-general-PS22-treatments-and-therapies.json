@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS22-treatments-and-therapies",
+ "topicName": "treatments & therapies",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22treatmentsandtherapies-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: CBT (Cognitive Behavioural Therapy): identifies and challenges irrational/negative thoughts, tests them against evidence, and develops more realistic beliefs. Used for depression, anxiety, OCD, and phobias. Typical course: 6-20 sessions. Homework between sessions (thought records, behavioural experiments). | Key Fact: Systematic desensitisation (Wolpe): a behavioural therapy for phobias. Step 1: relaxation training (deep breathing, muscle relaxation). Step 2: construct anxiety hierarchy (least to most feared situations). Step 3: gradually expose patient to feared stimulus while maintaining relaxation, progressing up the hierarchy. Based on counterconditioning (replacing fear response with relaxation). | Key Fact: Drug therapy: SSRIs (e.g. Prozac) for depression - increase seroton"
+  },
+  {
+   "id": "22treatmentsandtherapies-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how systematic desensitisation works and explain why it is effective for treating phobias. | Compare CBT and drug therapy as treatments for mental health problems. | Evaluate whether biological or psychological treatments are more effective for mental health problems."
+  },
+  {
+   "id": "22treatmentsandtherapies-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the effectiveness of psychological and biological treatments for mental health problems. <div class=\""
+  },
+  {
+   "id": "22treatmentsandtherapies-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

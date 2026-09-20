@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS5-business-location-and-expansion",
+ "topicName": "business location and expansion",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5businesslocationandexpansion-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Location factors: proximity to customers/market, transport links, availability of suitable labour, cost of premises, competition, government incentives (grants, enterprise zones). | Key Fact: Business plan: a document setting out the business idea, market research, financial forecasts, marketing strategy. Essential for securing finance from banks or investors. Shows the business has thought through its strategy. | Key Fact: Organic growth: expanding from within - opening new outlets, increasing product range, growing online sales. Slow but controlled, less risky than external growth. | Key Fact: External growth: mergers (two firms agree to join) and takeovers (one firm buys another). Faster growth but risky: cultural clash, high cost, integration problems. Franchising: rapid expa"
+  },
+  {
+   "id": "5businesslocationandexpansion-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain three factors a business should consider when choosing a location for a new factory. | Compare organic growth and external growth as ways for a business to expand. | Explain what is meant by economies of scale and give three examples."
+  },
+  {
+   "id": "5businesslocationandexpansion-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A successful local bakery wants to expand nationally. Evaluate franchising versus opening company-owned stores as growth strategies. <div class=\""
+  },
+  {
+   "id": "5businesslocationandexpansion-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

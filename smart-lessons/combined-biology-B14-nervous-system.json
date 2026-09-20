@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "B14-nervous-system",
+ "topicName": "nervous system",
+ "version": 1,
+ "steps": [
+  {
+   "id": "14nervoussystem-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "The nervous system: Enables the body to detect and respond to changes in the environment. It uses electrical impulses to carry information quickly along neurones."
+  },
+  {
+   "id": "14nervoussystem-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name the three types of neurone and describe the function of each. | Describe the pathway of a reflex arc, naming each part. | Explain how an impulse crosses a synapse."
+  },
+  {
+   "id": "14nervoussystem-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how a reflex arc works. <div class=\""
+  },
+  {
+   "id": "14nervoussystem-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on The nervous system, and one past-paper question."
+  }
+ ]
+}

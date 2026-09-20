@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "logic-gates",
+ "topicName": "logic gates",
+ "version": 1,
+ "steps": [
+  {
+   "id": "logicgates-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: An AND gate outputs 1 only when ALL inputs are 1; its truth table has one high output for two inputs. | Key Fact: An OR gate outputs 1 when ANY input is 1; it produces a low output only when all inputs are 0. | Key Fact: A NOT gate (inverter) outputs the complement of its single input: 0 becomes 1 and 1 becomes 0. | Key Fact: A NAND gate is the complement of AND: output is 0 only when all inputs are 1; it is a universal gate."
+  },
+  {
+   "id": "logicgates-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe the function of each fundamental logic gate (AND, OR, NOT, NAND, NOR, XOR) and explain why NAND is a universal gate. <div class=\""
+  },
+  {
+   "id": "logicgates-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from logic gates, and one past-paper question."
+  }
+ ]
+}

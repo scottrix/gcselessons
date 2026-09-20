@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO4-classical-sociologists",
+ "topicName": "classical sociologists",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4classicalsociologists-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Durkheim (1858-1917): founding figure of sociology. Key ideas: social facts (external forces that constrain behaviour - laws, norms, religion), collective conscience (shared beliefs and values binding society together), anomie (normlessness when social regulation breaks down). Studied suicide rates to show social factors influence even the most personal act. | Key Fact: Marx (1818-1883): society is shaped by class conflict. Key ideas: historical materialism (economy shapes society), alienation (workers are disconnected from their labour under capitalism - they don't own what they produce), false consciousness (workers don't realise they are exploited), revolution (the proletariat will overthrow capitalism creating a classless society). | Key Fact: Weber (1864-1920): society canno"
+  },
+  {
+   "id": "4classicalsociologists-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe Durkheim's key ideas and evaluate their relevance to modern society. | Compare Marx and Weber on the causes of capitalism. | Evaluate which classical sociologist provides the most useful explanation of modern society."
+  },
+  {
+   "id": "4classicalsociologists-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the contribution of classical sociologists to our understanding of modern society. <div class=\""
+  },
+  {
+   "id": "4classicalsociologists-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, and one past-paper question."
+  }
+ ]
+}

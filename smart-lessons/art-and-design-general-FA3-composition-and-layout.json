@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "FA3-composition-and-layout",
+ "topicName": "composition and layout",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3compositionandlayout-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Composition is the arrangement of visual elements within the picture plane — it guides the viewer's eye and creates meaning. | Key Fact: The rule of thirds divides the image into nine sections; placing focal points at intersections creates dynamic balance. | Key Fact: Negative space (the empty areas) is as important as positive space — it defines shapes and creates breathing room. | Key Fact: Foreground, middle ground and background create depth and lead the viewer into the picture."
+  },
+  {
+   "id": "3compositionandlayout-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring composition and layout. Annotate your process. | Research an artist or designer who works with composition and layout. Write a critical analysis of their approach and explain how it has informed your | Evaluate the effectiveness of your experiments with composition and layout. Which approaches were most successful and why?"
+  },
+  {
+   "id": "3compositionandlayout-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare the compositions of two paintings from different periods. Analyse how each artist has arranged elements to create balance, focus and meaning. How has this influenced your own compositional decisions? <div class=\""
+  },
+  {
+   "id": "3compositionandlayout-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Fine Art Exam Tips, and one past-paper question."
+  }
+ ]
+}

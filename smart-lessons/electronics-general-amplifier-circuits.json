@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "amplifier-circuits",
+ "topicName": "amplifier circuits",
+ "version": 1,
+ "steps": [
+  {
+   "id": "amplifiercircuits-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Voltage gain is the ratio of output voltage to input voltage: Av = Vout/Vin; it can be expressed as a number or in decibels (dB). | Key Fact: Gain in decibels: G(dB) = 20 log₁₀(Av); a gain of 10 equals 20 dB, a gain of 100 equals 40 dB. | Key Fact: Bandwidth is the range of frequencies over which the amplifier operates within specification, typically defined between the −3 dB points. | Key Fact: The gain-bandwidth product (GBW) is constant for a given op-amp: as closed-loop gain increases, bandwidth decreases proportionally."
+  },
+  {
+   "id": "amplifiercircuits-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the concept of gain-bandwidth product and describe how a summing amplifier combines multiple input signals. <div class=\""
+  },
+  {
+   "id": "amplifiercircuits-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from amplifier circuits, and one past-paper question."
+  }
+ ]
+}

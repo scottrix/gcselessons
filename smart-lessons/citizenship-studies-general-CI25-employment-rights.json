@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI25-employment-rights",
+ "topicName": "employment rights",
+ "version": 1,
+ "steps": [
+  {
+   "id": "25employmentrights-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The National Minimum Wage sets legal pay floors based on age: lower rates for under-18s and 18-20 year olds, a higher rate for 21-22 year olds, and the National Living Wage for workers aged 23+. | Key Fact: Workers have the right to a written statement of employment terms from day one, including pay, hours, holiday entitlement, and notice periods. | Key Fact: The maximum working week is 48 hours (averaged over 17 weeks) unless the worker voluntarily opts out. Young workers (under 18) are limited to 40 hours per week and 8 hours per day. | Key Fact: Workers are entitled to at least 5.6 weeks (28 days for full-time) of paid holiday per year, which can include bank holidays."
+  },
+  {
+   "id": "25employmentrights-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the extent to which employment law protects workers from exploitation. [12 marks] <div class=\""
+  },
+  {
+   "id": "25employmentrights-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from employment rights, and one past-paper question."
+  }
+ ]
+}

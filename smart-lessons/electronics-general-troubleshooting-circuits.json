@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "troubleshooting-circuits",
+ "topicName": "troubleshooting &amp; fault finding",
+ "version": 1,
+ "steps": [
+  {
+   "id": "troubleshootingcircuits-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Systematic fault finding follows a logical sequence: observe symptoms, identify the section at fault, locate the faulty component, then repair and test. | Key Fact: The half-split method tests at the midpoint of a signal path, halving the suspect area with each measurement. | Key Fact: An open circuit breaks the current path; symptoms include zero current flow and full supply voltage across the break. | Key Fact: A short circuit provides a zero-resistance path; symptoms include excessive current, blown fuses and overheating."
+  },
+  {
+   "id": "troubleshootingcircuits-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe a systematic approach to fault finding in an electronic circuit, explaining the half-split method and how open circuits and short circuits are identified. <div class=\""
+  },
+  {
+   "id": "troubleshootingcircuits-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from troubleshooting &amp;amp; fault finding, and one past-paper question."
+  }
+ ]
+}

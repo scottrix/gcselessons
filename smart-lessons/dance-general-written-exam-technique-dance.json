@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "written-exam-technique-dance",
+ "topicName": "written exam technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "writtenexamtechniquedance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The AQA 8236 written paper is 1 hour 30 minutes and is worth 40% of the total GCSE grade | Key Fact: Read all questions before starting — plan your time based on marks available per question | Key Fact: Spend approximately 1.5 minutes per mark as a rough guide for timing | Key Fact: Always plan extended answers before writing — a brief outline saves time and improves structure"
+  },
+  {
+   "id": "writtenexamtechniquedance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from written exam technique, and one past-paper question."
+  }
+ ]
+}

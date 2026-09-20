@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "R14-graphs-rates-change",
+ "topicName": "graphs and rates of change",
+ "version": 1,
+ "steps": [
+  {
+   "id": "14graphsrateschange-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Rate of Change: The gradient of a straight line graph represents the rate of change of y with respect to x. It tells us how much y changes for each unit change in x."
+  },
+  {
+   "id": "14graphsrateschange-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Find the gradient of the line through (3, 8) and (7, 24). | A distance-time graph shows points (0, 0) and (3, 180). Distance in miles, time in hours. Find the speed. | A velocity-time graph has gradient -4. What does this mean?"
+  },
+  {
+   "id": "14graphsrateschange-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A car accelerates uniformly from rest, reaching a speed of v m/s in 8 seconds. It then travels at this constant speed for 12 seconds before decelerating uniformly to rest in 4 seconds. The total distance travelled is 560 m. (a) Sketch the speed-time graph. (b) Find the value of v. (c) Calculate the acceleration and deceleration. <div class=\""
+  },
+  {
+   "id": "14graphsrateschange-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Rate of Change, and one past-paper question."
+  }
+ ]
+}

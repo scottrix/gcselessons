@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "combinational-logic",
+ "topicName": "combinational logic systems",
+ "version": 1,
+ "steps": [
+  {
+   "id": "combinationallogic-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Combinational logic produces outputs determined solely by current inputs, with no memory or feedback. | Key Fact: A half adder adds two single-bit binary numbers, producing Sum (XOR) and Carry (AND). | Key Fact: A full adder adds three bits (two inputs plus carry-in), producing Sum and Carry-out using two half adders and an OR gate. | Key Fact: Sum = A ⊕ B ⊕ C_in; Carry-out = A·B + C_in·(A ⊕ B)."
+  },
+  {
+   "id": "combinationallogic-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe the structure and operation of a full adder, and explain how multiple full adders are combined to create a multi-bit adder. <div class=\""
+  },
+  {
+   "id": "combinationallogic-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from combinational logic systems, and one past-paper question."
+  }
+ ]
+}

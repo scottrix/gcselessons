@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g3-earthquakes-volcanoes",
+ "topicName": "earthquakes &amp; volcanoes",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g3earthquakesvolcanoes-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Earthquakes occur when stress builds up at plate boundaries and is suddenly released as seismic waves | Key Fact: The focus is the point underground where the earthquake originates; the epicentre is the point on the surface directly above | Key Fact: Volcanoes form where magma reaches the surface: at divergent boundaries (fissure eruptions), subduction zones (explosive stratovolcanoes), and hotspots (shield volcanoes) | Key Fact: Effusive eruptions produce fluid basaltic lava (e.g. Iceland); explosive eruptions produce viscous andesitic/rhyolitic lava, ash and pyroclastic flows (e.g. Mt St Helens)"
+  },
+  {
+   "id": "g3earthquakesvolcanoes-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from earthquakes &amp;amp; volcanoes, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as14-stellar-evolution-nucleosynthesis",
+ "topicName": "stellar evolution &amp; nucleosynthesis",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as14stellarevolutionnucleosynt-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Nucleosynthesis is the process by which stars create heavier elements from lighter ones through nuclear fusion | Key Fact: Main-sequence stars fuse hydrogen to helium via the proton-proton chain (lower mass) or CNO cycle (higher mass) | Key Fact: The triple-alpha process fuses three helium nuclei into carbon in red giant cores | Key Fact: Massive stars can fuse elements up to iron (Fe) in successive shell layers — iron is the endpoint as fusion beyond iron absorbs energy"
+  },
+  {
+   "id": "as14stellarevolutionnucleosynt-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from stellar evolution &amp;amp; nucleosynthesis, and one past-paper question."
+  }
+ ]
+}

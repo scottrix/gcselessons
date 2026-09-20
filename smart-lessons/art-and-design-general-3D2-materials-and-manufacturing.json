@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "3D2-materials-and-manufacturing",
+ "topicName": "materials and manufacturing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "32materialsandmanufacturing-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Material categories: woods (hardwood, softwood, manufactured), metals (ferrous, non-ferrous), polymers (thermoplastic, thermoset), ceramics. | Key Fact: Manufacturing processes: subtractive (CNC, laser cutting), additive (3D printing), forming (vacuum forming, injection moulding). | Key Fact: Material properties determine suitability: strength, weight, flexibility, durability, cost, sustainability and aesthetic qualities. | Key Fact: Joining methods: permanent (welding, adhesive, rivets) and temporary (screws, bolts, nuts) — choose based on function and disassembly needs."
+  },
+  {
+   "id": "32materialsandmanufacturing-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring materials and manufacturing. Annotate your process. | Research an artist or designer who works with materials and manufacturing. Write a critical analysis of their approach and explain how it has informed | Evaluate the effectiveness of your experiments with materials and manufacturing. Which approaches were most successful and why?"
+  },
+  {
+   "id": "32materialsandmanufacturing-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Select a product and analyse its material and manufacturing choices. Explain why each material was chosen and suggest more sustainable alternatives where possible. <div class=\""
+  },
+  {
+   "id": "32materialsandmanufacturing-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Three-Dimensional Design Exam Tips, and one past-paper question."
+  }
+ ]
+}

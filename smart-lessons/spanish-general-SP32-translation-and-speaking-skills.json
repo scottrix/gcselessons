@@ -1,0 +1,32 @@
+{
+ "subject": "spanish",
+ "topic": "SP32-translation-and-speaking-skills",
+ "topicName": "translation and speaking skills",
+ "version": 1,
+ "steps": [
+  {
+   "id": "32translationandspeakingskills-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: This topic covers key vocabulary and structures for translation and speaking skills. You need to know the topic vocabulary, be able to use it in all four skills (listening, speaking, reading, writing), and express opinions with reasons. | GCSE Spanish Exam Tips: For translation: identify key structures, check verb tenses, ensure agreement. For speaking: use a range of tenses, include opinions, ask questions. For role-play: be spontaneous, use appropriate register. For photocard: describe, give opinions, answer follow-up questions with detail."
+  },
+  {
+   "id": "32translationandspeakingskills-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Write 4 sentences in Spanish about translation and speaking skills. | Write a paragraph (40-60 words) giving your opinion on translation and speaking skills. | Translate into Spanish: \"I think translation and speaking skills is important because...\""
+  },
+  {
+   "id": "32translationandspeakingskills-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Writing task: Write about translation into english, translation into spanish, speaking strategies, role-play, photocard description. <div class=\""
+  },
+  {
+   "id": "32translationandspeakingskills-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Spanish Exam Tips, and one past-paper question."
+  }
+ ]
+}

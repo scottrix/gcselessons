@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS13-customer-service",
+ "topicName": "customer service",
+ "version": 1,
+ "steps": [
+  {
+   "id": "13customerservice-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Good customer service creates competitive advantage: it builds loyalty, generates repeat business, and encourages positive word-of-mouth recommendations (free marketing). | Key Fact: Methods of delivering customer service: well-trained staff, clear returns policies, efficient complaint handling, after-sales support (warranties, helplines), personalised communication, and multichannel support (phone, email, chat, social media). | Key Fact: Monitoring customer service: customer feedback surveys, mystery shoppers, complaint analysis, online reviews, and Net Promoter Score (NPS). | Key Fact: Handling complaints effectively: listen, acknowledge, resolve quickly, and learn from the complaint to prevent recurrence. A well-handled complaint can increase customer loyalty."
+  },
+  {
+   "id": "13customerservice-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two ways good customer service can benefit a business. | Describe how a business can monitor the quality of its customer service. | Evaluate whether investing in customer service training is more important than investing in marketing."
+  },
+  {
+   "id": "13customerservice-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether an online retailer should invest more in chatbot technology or human customer service advisors. <div class=\""
+  },
+  {
+   "id": "13customerservice-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

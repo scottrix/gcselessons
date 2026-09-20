@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "diodes-transistors",
+ "topicName": "diodes &amp; transistors",
+ "version": 1,
+ "steps": [
+  {
+   "id": "diodestransistors-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A semiconductor diode allows current to flow in one direction only; it has a forward voltage drop of about 0.7 V for silicon. | Key Fact: An LED (light-emitting diode) emits light when forward biased; it requires a series resistor to limit current. | Key Fact: A bipolar junction transistor (BJT) has three terminals: base, collector and emitter. | Key Fact: An NPN transistor switches on when the base-emitter voltage exceeds ~0.7 V, allowing collector current to flow."
+  },
+  {
+   "id": "diodestransistors-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain how a bipolar junction transistor can be used both as an electronic switch and as an amplifier. <div class=\""
+  },
+  {
+   "id": "diodestransistors-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from diodes &amp;amp; transistors, and one past-paper question."
+  }
+ ]
+}

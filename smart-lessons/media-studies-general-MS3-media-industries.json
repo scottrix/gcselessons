@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS3-media-industries",
+ "topicName": "media industries",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3mediaindustries-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Media industries encompass the organisations that produce, distribute, and regulate media products — from global conglomerates to independent producers. | Key Fact: Media ownership: conglomerates (e.g. Disney, Comcast, Warner Bros. Discovery) own multiple media companies across different platforms. This concentration of ownership raises concerns about diversity and democratic plurality. | Key Fact: Vertical integration: a company owns different stages of production and distribution (e.g. Disney makes films and distributes them through Disney+). Horizontal integration: a company buys competitors at the same stage (e.g. Disney buying Fox). | Key Fact: Convergence: the merging of previously separate media industries and technologies — e.g. smartphones combining cameras, music player"
+  },
+  {
+   "id": "3mediaindustries-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the impact of media conglomerates on media diversity. Refer to your CSPs. [15 marks] <div class=\""
+  },
+  {
+   "id": "3mediaindustries-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from media industries, and one past-paper question."
+  }
+ ]
+}

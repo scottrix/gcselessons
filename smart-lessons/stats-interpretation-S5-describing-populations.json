@@ -1,0 +1,32 @@
+{
+ "subject": "statistics",
+ "topic": "S5-describing-populations",
+ "topicName": "s5 describing populations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5describingpopulations-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Describing a population involves using statistical measures to summarise and communicate the key characteristics of a group."
+  },
+  {
+   "id": "5describingpopulations-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Data has mean = 45, median = 38. Describe the skew of the distribution. | A survey finds mode = 2 for \"number of pets\". What does this tell us? | Why might the median be better than the mean for describing house prices?"
+  },
+  {
+   "id": "5describingpopulations-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A sample of 150 adults in City X reports: mean commute time = 34 minutes, median = 28 minutes, range = 75 minutes. A sample of 120 adults in City Y reports: mean = 31 minutes, median = 30 minutes, range = 40 minutes. (a) Describe the shape of the distribution for each city. (b) Compare the commute times for the two cities. (c) Ravi says \"City X has longer commutes than City Y.\" Evaluate this claim using both averages. <div class=\""
+  },
+  {
+   "id": "5describingpopulations-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from s5 describing populations, and one past-paper question."
+  }
+ ]
+}

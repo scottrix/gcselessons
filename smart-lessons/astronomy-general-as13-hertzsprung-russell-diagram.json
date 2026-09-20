@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as13-hertzsprung-russell-diagram",
+ "topicName": "the hertzsprung-russell diagram",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as13hertzsprungrusselldiagram-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The HR diagram plots luminosity (vertical axis, increasing upward) against temperature/spectral class (horizontal axis, decreasing left to right) | Key Fact: The main sequence runs diagonally from top-left (hot, luminous) to bottom-right (cool, dim) | Key Fact: Red giants appear in the upper-right: cool but very luminous due to large size | Key Fact: White dwarfs appear in the lower-left: hot but dim due to small size"
+  },
+  {
+   "id": "as13hertzsprungrusselldiagram-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the hertzsprung-russell diagram, and one past-paper question."
+  }
+ ]
+}

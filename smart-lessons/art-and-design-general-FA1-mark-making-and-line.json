@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "FA1-mark-making-and-line",
+ "topicName": "mark making and line",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1markmakingandline-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Different types of line serve different purposes: contour lines define edges, gestural lines capture movement, analytical lines record accurate proportions. | Key Fact: Mark-making is the foundation of drawing — experiment with pressure, speed, direction and media to create varied marks. | Key Fact: Hatching and cross-hatching build tone through overlapping lines; stippling uses dots; both can describe form and texture. | Key Fact: Expressive line can convey emotion and energy; analytical line prioritises accuracy and measurement."
+  },
+  {
+   "id": "1markmakingandline-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring mark making and line. Annotate your process. | Research an artist or designer who works with mark making and line. Write a critical analysis of their approach and explain how it has informed your o | Evaluate the effectiveness of your experiments with mark making and line. Which approaches were most successful and why?"
+  },
+  {
+   "id": "1markmakingandline-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how two different artists use line and mark-making. Compare their approaches and explain how this research has influenced your own mark-making experiments. <div class=\""
+  },
+  {
+   "id": "1markmakingandline-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Fine Art Exam Tips, and one past-paper question."
+  }
+ ]
+}

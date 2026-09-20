@@ -1,0 +1,32 @@
+{
+ "subject": "english-language",
+ "topic": "W2-essay-structure",
+ "topicName": "essay structure",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2essaystructure-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "AO4 (5-10%): covers spelling, punctuation, and structure. A well-organised essay scores higher. | Top Tip: Always spend 5 minutes planning before writing. A student with a strong plan and 3 well-structured paragraphs will outperform a student with 5 rambling paragraphs every time. Examiners reward coherent argument over quantity — structure is your roadmap to every mark."
+  },
+  {
+   "id": "2essaystructure-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What are the three parts of an essay? | What does PEEL stand for? | What should an introduction include?"
+  },
+  {
+   "id": "2essaystructure-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response 25 marks: How does Priestley present the theme of social responsibility in \"An Inspector Calls\"? <div class=\""
+  },
+  {
+   "id": "2essaystructure-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on AO4 (5-10%), Top Tip, and one past-paper question."
+  }
+ ]
+}

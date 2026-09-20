@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE23-goal-setting-smart",
+ "topicName": "goal setting and smart targets",
+ "version": 1,
+ "steps": [
+  {
+   "id": "23goalsettingsmart-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Goal setting: The process of identifying something you want to achieve and establishing measurable objectives and timeframes to work towards it. Goal setting provides direction, motivation and focus for performers. | Exam Tip: Performance goals are generally more effective because they are within the performer's control. Even if you lose a match, you can still achieve a performance goal. This maintains motivation. Outcome goals are useful for long-term ambition but should be supported by performance goals. | Goal Achievement Cycle: Set goal → Work towards it → Evaluate progress → Adjust if needed → Achieve goal → Set new goal. This cycle ensures continuous improvement and prevents complacency after achieving a goal. | PE Exam Tips — Goal Setting and SMART Targets: 1. For Goal Setting and S"
+  },
+  {
+   "id": "23goalsettingsmart-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between a performance goal and an outcome goal, using a sporting example. | What does each letter in SMART stand for? Explain why each element is important. | Rewrite this non-SMART goal as a SMART goal: \"I want to be a better runner.\""
+  },
+  {
+   "id": "23goalsettingsmart-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Goal setting, Exam Tip, Goal Achievement Cycle, and one past-paper question."
+  }
+ ]
+}

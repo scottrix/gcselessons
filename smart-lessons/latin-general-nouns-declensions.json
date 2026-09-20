@@ -1,0 +1,20 @@
+{
+ "subject": "latin",
+ "topic": "nouns-declensions",
+ "topicName": "nouns & declensions",
+ "version": 1,
+ "steps": [
+  {
+   "id": "nounsdeclensions-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Latin nouns change their endings to show their grammatical function in a sentence; this system is called declension. | Key Fact: There are five declensions, each with a characteristic vowel in the stem: 1st (a-stem), 2nd (o-stem), 3rd (consonant/i-stem), 4th (u-stem), 5th (e-stem). | Key Fact: Every Latin noun has a gender: masculine, feminine, or neuter. Gender must be learned with each noun and does not always match natural sex. | Key Fact: First declension nouns are mostly feminine (e.g. puella, villa, familia). Exceptions like nauta and agricola are masculine."
+  },
+  {
+   "id": "nounsdeclensions-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from nouns &amp; declensions, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "measures-central-tendency",
+ "topicName": "measures central tendency",
+ "version": 1,
+ "steps": [
+  {
+   "id": "measurescentraltendency-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The mode is the value that occurs most frequently in a dataset; a dataset can have no mode, one mode (unimodal), or multiple modes (bimodal or multimodal). | Key Fact: The mode is the only average that can be used for qualitative (categorical) data, since it does not require numerical values. | Key Fact: The median is the middle value when all data are arranged in order; for n values, the median position is at (n + 1) ÷ 2. | Key Fact: For an even number of data values, the median is the mean of the two middle values."
+  },
+  {
+   "id": "measurescentraltendency-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response The table shows the number of siblings for 30 students. Calculate the estimated mean. 0–1: frequency 8, 2–3: frequency 14, 4–5: frequency 6, 6–7: frequency 2 <div class=\""
+  },
+  {
+   "id": "measurescentraltendency-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from measures central tendency, and one past-paper question."
+  }
+ ]
+}

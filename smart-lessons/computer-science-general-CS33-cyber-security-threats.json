@@ -1,0 +1,26 @@
+{
+ "subject": "computer-science",
+ "topic": "CS33-cyber-security-threats",
+ "topicName": "cyber security threats",
+ "version": 1,
+ "steps": [
+  {
+   "id": "33cybersecuritythreats-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Social engineering is manipulating people into revealing confidential information or performing actions that compromise security. It exploits human psychology rather than technical vulnerabilities. | Definition: Blagging is inventing a false scenario (pretext) to trick someone into revealing information. The attacker creates a convincing story to gain the victim's trust. | Definition: Phishing is sending fraudulent emails that appear to come from a trusted source, designed to trick recipients into revealing personal information, clicking malicious links, or downloading malware. | Definition: Shouldering is directly observing someone's screen or keyboard to obtain personal information, such as passwords or PIN numbers, by looking over their shoulder."
+  },
+  {
+   "id": "33cybersecuritythreats-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between phishing and pharming. | Describe four types of malware and how each one works. | What is social engineering? Describe blagging, phishing, and shouldering."
+  },
+  {
+   "id": "33cybersecuritythreats-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

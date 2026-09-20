@@ -1,0 +1,26 @@
+{
+ "subject": "computer-science",
+ "topic": "CS29-network-types-topologies",
+ "topicName": "network types & topologies",
+ "version": 1,
+ "steps": [
+  {
+   "id": "29networktypestopologies-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A computer network is two or more computers and other devices connected together to share data, information, and resources. | Definition: A PAN is a network that connects devices within a very small range, typically within a few metres of an individual person. | Definition: A LAN is a network that covers a small geographical area, such as a single building, office, school, or home. LANs are typically owned and managed by the organisation that uses them. | Definition: A WAN is a network that covers a large geographical area, such as a city, country, or the whole world. WANs typically connect multiple LANs together over long distances."
+  },
+  {
+   "id": "29networktypestopologies-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define PAN, LAN, and WAN, giving an example of each. | Compare Ethernet and Wi-Fi, giving two advantages and two disadvantages of each. | Give three advantages and three disadvantages of using a computer network."
+  },
+  {
+   "id": "29networktypestopologies-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

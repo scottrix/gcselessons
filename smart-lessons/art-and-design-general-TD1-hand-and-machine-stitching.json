@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "TD1-hand-and-machine-stitching",
+ "topicName": "hand and machine stitching",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1handandmachinestitching-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Running stitch and back stitch are basic construction stitches; chain, satin and French knots are decorative stitches with distinct visual qualities. | Key Fact: Free-motion machine embroidery drops the feed dogs, allowing you to draw with thread — it requires practice to control speed and direction. | Key Fact: Appliqué attaches fabric shapes to a background fabric — it can be fused, pinned or stitched in place before edge-stitching. | Key Fact: Patchwork and piecing join fabric pieces edge-to-edge; accuracy in cutting and seam allowance is essential for flat, even results."
+  },
+  {
+   "id": "1handandmachinestitching-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring hand and machine stitching. Annotate your process. | Research an artist or designer who works with hand and machine stitching. Write a critical analysis of their approach and explain how it has informed  | Evaluate the effectiveness of your experiments with hand and machine stitching. Which approaches were most successful and why?"
+  },
+  {
+   "id": "1handandmachinestitching-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Create a stitched sample sheet showing at least six different hand stitches and two machine embroidery techniques. Annotate each with the stitch name, its properties and a possible application. <div class=\""
+  },
+  {
+   "id": "1handandmachinestitching-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Textile Design Exam Tips, and one past-paper question."
+  }
+ ]
+}

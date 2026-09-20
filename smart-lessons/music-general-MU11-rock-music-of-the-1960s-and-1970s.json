@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU11-rock-music-of-the-1960s-and-1970s",
+ "topicName": "rock music of the 1960s and 1970s",
+ "version": 1,
+ "steps": [
+  {
+   "id": "11rockmusicofthe1960sand1970s-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Power chords (root + fifth, no third) create a raw, powerful sound — they are ambiguous between major and minor, giving rock its aggressive character. | Key Fact: Drum kit in rock: kick drum (beats 1 and 3), snare (beats 2 and 4 = backbeat), hi-hat (subdivides the beat), crash cymbal (accents). | Key Fact: Studio production became a creative tool: automatic double-tracking (ADT) thickens vocal sound; reverb creates spatial depth; distortion adds harmonic richness. | Key Fact: Progressive rock expanded rock's structural scope: longer forms, classical influences, concept albums, complex time signatures and technical virtuosity."
+  },
+  {
+   "id": "11rockmusicofthe1960sand1970s-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how rock music of the 1960s and 1970s are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use rock music of the 1960s and 1970s. Explain the effect in each case. | How could you use rock music of the 1960s and 1970s in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "11rockmusicofthe1960sand1970s-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse a rock track from the 1960s or 1970s, identifying at least four specific instrumental techniques and explaining their contribution to the track's character. <div class=\""
+  },
+  {
+   "id": "11rockmusicofthe1960sand1970s-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

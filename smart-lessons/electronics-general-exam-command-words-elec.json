@@ -1,0 +1,20 @@
+{
+ "subject": "electronics",
+ "topic": "exam-command-words-elec",
+ "topicName": "command words &amp; question types",
+ "version": 1,
+ "steps": [
+  {
+   "id": "examcommandwordselec-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: 'State' requires a brief factual answer without explanation; just give the fact or definition directly. | Key Fact: 'Describe' requires saying what happens or what a process is, without explaining why it happens. | Key Fact: 'Explain' requires giving reasons — say what happens and why, linking cause and effect in your answer. | Key Fact: 'Compare' requires stating similarities and differences between two or more things; use comparative language."
+  },
+  {
+   "id": "examcommandwordselec-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from command words &amp;amp; question types, and one past-paper question."
+  }
+ ]
+}

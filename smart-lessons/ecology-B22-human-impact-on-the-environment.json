@@ -1,0 +1,32 @@
+{
+ "subject": "biology",
+ "topic": "B22-human-impact-on-the-environment",
+ "topicName": "human impact on the environment",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22humanimpactontheenvironment-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Human Impact: Human activities such as deforestation, pollution and burning fossil fuels are reducing biodiversity and contributing to global warming. Conservation and sustainable practices are essential to protect ecosystems for future generations."
+  },
+  {
+   "id": "22humanimpactontheenvironment-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define biodiversity and explain why it is important. | Explain three consequences of deforestation. | Describe the greenhouse effect and explain how human activities are increasing global temperatures."
+  },
+  {
+   "id": "22humanimpactontheenvironment-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how human activities are reducing biodiversity and describe how conservation can help protect it. <div class=\""
+  },
+  {
+   "id": "22humanimpactontheenvironment-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Human Impact, and one past-paper question."
+  }
+ ]
+}

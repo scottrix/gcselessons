@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE33-performance-enhancing-drugs",
+ "topicName": "performance enhancing drugs (peds)",
+ "version": 1,
+ "steps": [
+  {
+   "id": "33performanceenhancingdrugs-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Performance Enhancing Drugs (PEDs): Substances used to improve sporting performance that are banned by the World Anti-Doping Agency (WADA). Taking PEDs is considered cheating because it gives an unfair advantage over clean competitors. | Stimulants: Drugs that increase alertness, reduce fatigue and increase aggression and competitiveness. They speed up the activity of the central nervous system. | Narcotic Analgesics: Painkilling drugs that mask the sensation of pain, allowing performers to continue training or competing despite injury. They work by blocking pain signals to the brain. | Anabolic Agents: Drugs that mimic the effects of the male hormone testosterone, promoting muscle growth (hypertrophy) and increasing strength. They also speed up recovery from intense training."
+  },
+  {
+   "id": "33performanceenhancingdrugs-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name three types of performance enhancing drugs and explain the sporting advantage of each. | Explain how EPO and blood doping both improve endurance performance. What are the main health risks? | Why might a boxer use diuretics? Explain the advantage and the health risks."
+  },
+  {
+   "id": "33performanceenhancingdrugs-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Performance Enhancing Drugs (PEDs), Stimulants, Narcotic Analgesics, and one past-paper question."
+  }
+ ]
+}

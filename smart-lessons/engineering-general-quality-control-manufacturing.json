@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "quality-control-manufacturing",
+ "topicName": "quality control in manufacturing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "qualitycontrolmanufacturing-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Quality control (QC) ensures manufactured products meet design specifications through inspection and testing. | Key Fact: Tolerances define the permissible variation from a nominal dimension: critical dimensions have tighter tolerances. | Key Fact: Vernier calipers measure internal, external and depth dimensions to 0.02 mm resolution. | Key Fact: Micrometers measure external dimensions to 0.01 mm resolution using a precision screw thread."
+  },
+  {
+   "id": "qualitycontrolmanufacturing-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from quality control in manufacturing, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT6-materials-and-their-working-properties",
+ "topicName": "materials and their working properties",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6materialsandtheirworkingprope-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Hardness: resistance to scratching and indentation — diamonds, ceramics, hardened steel. Crucial for cutting tools, wear surfaces. | Key Fact: Toughness: ability to absorb energy and deform without breaking — polycarbonate, mild steel, rubber. Essential for safety-critical products like helmets. | Key Fact: Brittleness: tendency to crack or shatter under impact — glass, ceramics, cast iron. Not the same as hardness — glass is hard AND brittle. | Key Fact: Ductility: ability to be drawn into wires — copper, aluminium, gold. Essential for electrical wiring and wire-forming processes."
+  },
+  {
+   "id": "6materialsandtheirworkingprope-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between hardness and toughness, giving an example of a material that is hard but not tough. | A designer needs a material for electrical wiring. Justify the choice of copper over steel based on working properties. | Why is brittleness an important consideration when selecting materials for a car bumper?"
+  },
+  {
+   "id": "6materialsandtheirworkingprope-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare the suitability of mild steel and polycarbonate for a child's bicycle helmet shell, considering at least four working properties. <div class=\""
+  },
+  {
+   "id": "6materialsandtheirworkingprope-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

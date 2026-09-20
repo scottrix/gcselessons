@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "FN3-balanced-diet",
+ "topicName": "the balanced diet & eatwell guide",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3balanceddiet-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Eatwell Guide (2016) divides food into five groups: fruit and vegetables (at least 5-a-day), starchy carbohydrates (base of each meal), dairy and alternatives (moderate amounts), proteins (beans, pulses, fish, eggs, meat), and oils and spreads (small amounts). | Key Fact: The Eatwell Guide applies to the overall diet, not individual meals. It shows the proportions of each food group that should be consumed over a day or week. | Key Fact: Dietary Reference Values (DRVs) are estimates of the energy and nutrient requirements for different population groups. They include EAR (Estimated Average Requirement), RNI (Reference Nutrient Intake), and LRNI (Lower Reference Nutrient Intake). | Key Fact: RNI is the amount of a nutrient sufficient for almost all individuals in a population "
+  },
+  {
+   "id": "3balanceddiet-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Plan a nutritionally balanced day's meals for a 15-year-old vegetarian girl. Justify your choices. [12 marks] <div class=\""
+  },
+  {
+   "id": "3balanceddiet-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the balanced diet &amp; eatwell guide, and one past-paper question."
+  }
+ ]
+}

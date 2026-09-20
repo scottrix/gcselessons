@@ -1,0 +1,32 @@
+{
+ "subject": "chemistry",
+ "topic": "C6-metallic-bonding",
+ "topicName": "c6 metallic bonding",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6metallicbonding-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Metallic bonding: The strong electrostatic attraction between positive metal ions and the sea of delocalised electrons. Metals form a giant lattice of positive ions surrounded by delocalised electrons. | Delocalised electrons: Electrons that have left their atoms and are free to move throughout the metallic structure. They come from the outer shell of metal atoms. | Alloy: A mixture of a metal with one or more other elements (usually another metal or carbon). Alloys are harder than pure metals because the different-sized atoms disrupt the regular arrangement of ions. | Shape memory alloy: An alloy that can return to its original shape after being deformed when it is heated. Example: Nitinol (nickel-titanium alloy) used in dental braces and stents."
+  },
+  {
+   "id": "6metallicbonding-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Describe the structure of a metal and explain what holds the structure together. | Foundation Explain why metals are good conductors of electricity and heat. | Foundation Explain why pure metals are malleable but ionic compounds are brittle."
+  },
+  {
+   "id": "6metallicbonding-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain why metals conduct electricity and why alloys are harder than pure metals. <div class=\""
+  },
+  {
+   "id": "6metallicbonding-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Metallic bonding, Delocalised electrons, Alloy, and one past-paper question."
+  }
+ ]
+}

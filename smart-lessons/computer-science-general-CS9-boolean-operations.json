@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS9-boolean-operations",
+ "topicName": "boolean operations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9booleanoperations-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Boolean operations: work on Boolean values (TRUE and FALSE) to produce a Boolean result. They are used to combine or invert conditions in IF statements and WHILE loops. | NOT: reverses a Boolean value. NOT TRUE = FALSE, NOT FALSE = TRUE. It is used to invert a condition. | AND: returns TRUE only when BOTH conditions are TRUE. If either one is FALSE, the result is FALSE. | OR: returns TRUE when at least ONE condition is TRUE. Only returns FALSE when BOTH conditions are FALSE."
+  },
+  {
+   "id": "9booleanoperations-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Complete the truth table for A AND B where A = TRUE, B = FALSE. | Evaluate: NOT (TRUE OR FALSE) | Use De Morgan's Laws to simplify: NOT (x >= 0 AND x <= 100)"
+  },
+  {
+   "id": "9booleanoperations-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A login system requires a username of at least 5 characters AND a password of at least 8 characters. The user is locked out after 3 failed attempts. Write pseudo-code using Boolean operators to implement this. [5 marks] <div class=\""
+  },
+  {
+   "id": "9booleanoperations-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Boolean operations, NOT, AND, and one past-paper question."
+  }
+ ]
+}

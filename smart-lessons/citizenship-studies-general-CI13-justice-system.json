@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI13-justice-system",
+ "topicName": "the justice system",
+ "version": 1,
+ "steps": [
+  {
+   "id": "13justicesystem-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The criminal justice system involves: police (investigate), CPS (prosecute), courts (try), sentencing (punish), probation (supervise in community), prison (custodial sentences). | Key Fact: The police are responsible for preventing and detecting crime, maintaining public order, and protecting life and property. Police officers have powers of arrest, stop and search, and detention. | Key Fact: The Crown Prosecution Service (CPS) reviews evidence gathered by the police and decides whether to charge — applying the Full Code Test (sufficient evidence + public interest). | Key Fact: Trial by jury is available for serious criminal offences ('indictable offences') in the Crown Court. The jury of 12 citizens decides the verdict; the judge decides the sentence."
+  },
+  {
+   "id": "13justicesystem-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the effectiveness of the UK justice system in achieving fairness. [12 marks] <div class=\""
+  },
+  {
+   "id": "13justicesystem-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the justice system, and one past-paper question."
+  }
+ ]
+}

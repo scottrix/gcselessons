@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "statistical-writing-communication",
+ "topicName": "statistical writing &amp; communication",
+ "version": 1,
+ "steps": [
+  {
+   "id": "statisticalwritingcommunicatio-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Always write answers in the context of the question: if the data is about rainfall, say ‘rainfall’ not ‘the data’ or ‘the values’ | Key Fact: Support every statement with a specific data value: ‘The median rainfall in July (68 mm) was higher than in April (42 mm)’ | Key Fact: Avoid vague language: replace ‘quite high’, ‘bigger’, ‘a lot’ with precise values and comparisons | Key Fact: When comparing distributions, always compare both location (median/mean) AND spread (IQR/range/SD)"
+  },
+  {
+   "id": "statisticalwritingcommunicatio-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A study compares weekly screen time for two age groups. 11–14 year olds: median 21 hours, IQR 10 hours. 15–18 year olds: median 28 hours, IQR 14 hours. Write a comparison. <div class=\""
+  },
+  {
+   "id": "statisticalwritingcommunicatio-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from statistical writing &amp;amp; communication, and one past-paper question."
+  }
+ ]
+}

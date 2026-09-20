@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS1-media-language",
+ "topicName": "media language",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1medialanguage-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Media language refers to the ways in which media products communicate meaning to audiences through visual, audio, written, and technical codes. | Key Fact: Denotation is the literal or surface meaning of a sign (what you see). Connotation is the deeper or associated meaning (what it suggests). For example, a red rose denotes a flower but connotes love and romance. | Key Fact: Technical codes include camerawork (close-up, wide shot, low angle), editing (cross-cutting, montage, pace), sound (diegetic, non-diegetic, sound bridge), and mise-en-scene (setting, costume, lighting, props). | Key Fact: Symbolic codes convey meaning through objects, colours, and visual elements that carry cultural significance — e.g. a wedding ring symbolises commitment, dark lighting connotes danger."
+  },
+  {
+   "id": "1medialanguage-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how media language creates meaning in one of your CSPs. [15 marks] <div class=\""
+  },
+  {
+   "id": "1medialanguage-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from media language, and one past-paper question."
+  }
+ ]
+}

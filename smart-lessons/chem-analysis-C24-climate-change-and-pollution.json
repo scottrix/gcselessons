@@ -1,0 +1,32 @@
+{
+ "subject": "chemistry",
+ "topic": "C24-climate-change-and-pollution",
+ "topicName": "climate change and pollution",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24climatechangeandpollution-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": ": Human activities are increasing the concentration of greenhouse gases in the atmosphere. The main greenhouse gases are carbon dioxide (CO₂) and methane (CH₄) . Water vapour is also a greenhouse gas. | : Increased greenhouse gas concentrations are causing global warming — an increase in the average temperature of the Earth. This leads to climate change , with significant consequences. | : A carbon footprint is the total amount of CO₂ and other greenhouse gas emissions caused by a person, organisation, event or product, expressed as a CO₂ equivalent. | : Reducing carbon footprints involves reducing greenhouse gas emissions. Methods include using renewable energy , improving energy efficiency , carbon capture , and changing agricultural practices ."
+  },
+  {
+   "id": "24climatechangeandpollution-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name two greenhouse gases increased by human activity and state one source of each. | Describe three consequences of global warming / climate change. | Define the term \"carbon footprint\" and suggest two ways an individual could reduce their carbon footprint."
+  },
+  {
+   "id": "24climatechangeandpollution-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how human activities are increasing greenhouse gas concentrations, describe three consequences of climate change, and suggest why it is difficult to reduce global emissions. <div class=\""
+  },
+  {
+   "id": "24climatechangeandpollution-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Answers, and one past-paper question."
+  }
+ ]
+}

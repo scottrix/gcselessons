@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "material-removal-processes",
+ "topicName": "material removal processes",
+ "version": 1,
+ "steps": [
+  {
+   "id": "materialremovalprocesses-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Material removal (subtractive) processes cut material away from a workpiece to create the desired shape. | Key Fact: Sawing and shearing are basic cutting methods: sawing uses a toothed blade; shearing cuts sheet metal between two blades. | Key Fact: Laser cutting uses a focused CO2 or fibre laser to melt, burn or vaporise material; highly accurate and capable of complex profiles. | Key Fact: Turning produces cylindrical shapes on a lathe: the workpiece rotates and a single-point cutting tool moves along it."
+  },
+  {
+   "id": "materialremovalprocesses-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from material removal processes, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC26-globalisation-and-the-financial-sector",
+ "topicName": "globalisation and the financial sector",
+ "version": 1,
+ "steps": [
+  {
+   "id": "26globalisationandthefinancial-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Globalisation is the increasing interconnection of world economies through trade, investment, technology, and multinational corporations. | Key Fact: Benefits for the UK: cheaper imports, larger export markets, foreign investment creating jobs, spread of technology, greater consumer choice. | Key Fact: Drawbacks: manufacturing jobs lost to lower-cost countries, trade deficit in goods, environmental damage, exploitation in developing countries, cultural homogenisation. | Key Fact: The four functions of money: medium of exchange (enables trade), store of value (holds purchasing power), unit of account (measures value), standard of deferred payment (enables borrowing/lending)."
+  },
+  {
+   "id": "26globalisationandthefinancial-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two benefits and two drawbacks of globalisation for UK workers. | Describe the four functions of money and explain why each is important. | Evaluate whether globalisation has been beneficial overall for the UK economy."
+  },
+  {
+   "id": "26globalisationandthefinancial-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the role of the Bank of England and commercial banks in the UK economy. <div class=\""
+  },
+  {
+   "id": "26globalisationandthefinancial-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

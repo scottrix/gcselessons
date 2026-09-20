@@ -1,0 +1,32 @@
+{
+ "subject": "drama",
+ "topic": "DR1-stage-types-and-spaces",
+ "topicName": "stage types and performance spaces",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1stagetypesandspaces-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Proscenium arch: audience on one side, framed stage — creates a 'fourth wall', common in traditional theatres. | Key Fact: Thrust stage: audience on three sides — intimate, breaks fourth wall, used in Shakespeare's Globe. | Key Fact: In-the-round: audience on all sides — most intimate, actors must keep moving to avoid backs to audience. | Key Fact: Traverse: audience on two opposite sides — creates a catwalk/battle effect, highly dynamic."
+  },
+  {
+   "id": "1stagetypesandspaces-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name three stage types and explain how each affects the audience-performer relationship. | A director wants to create an intimate, immersive experience. Which stage type would you recommend and why? | Compare the advantages and disadvantages of performing in-the-round versus a proscenium arch stage."
+  },
+  {
+   "id": "1stagetypesandspaces-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A director is staging a play about imprisonment. Which stage type would best communicate this theme to the audience? Justify your choice with detailed reference to how the space would be used. <div class=\""
+  },
+  {
+   "id": "1stagetypesandspaces-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Drama Exam Tips, and one past-paper question."
+  }
+ ]
+}

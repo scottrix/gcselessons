@@ -1,0 +1,32 @@
+{
+ "subject": "spanish",
+ "topic": "SP27-articles-adjectives-and-agreement",
+ "topicName": "articles, adjectives and agreement",
+ "version": 1,
+ "steps": [
+  {
+   "id": "27articlesadjectivesandagreeme-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: This topic covers key vocabulary and structures for articles, adjectives and agreement. You need to know the topic vocabulary, be able to use it in all four skills (listening, speaking, reading, writing), and express opinions with reasons. | GCSE Spanish Exam Tips: All Spanish nouns have gender (masculine/feminine) and number (singular/plural). Adjectives must agree in gender and number. Most adjectives follow the noun. Demonstratives (este, ese, aquel) show distance. Possessive adjectives (mi, tu, su) agree with the noun owned."
+  },
+  {
+   "id": "27articlesadjectivesandagreeme-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Write 4 sentences in Spanish about articles, adjectives and agreement. | Write a paragraph (40-60 words) giving your opinion on articles, adjectives and agreement. | Translate into Spanish: \"I think articles, adjectives and agreement is important because...\""
+  },
+  {
+   "id": "27articlesadjectivesandagreeme-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Writing task: Write about definite and indefinite articles, adjective agreement, position of adjectives, demonstratives, possessives. <div class=\""
+  },
+  {
+   "id": "27articlesadjectivesandagreeme-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Spanish Exam Tips, and one past-paper question."
+  }
+ ]
+}

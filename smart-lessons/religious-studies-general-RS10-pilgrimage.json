@@ -1,0 +1,26 @@
+{
+ "subject": "religious-studies",
+ "topic": "RS10-pilgrimage",
+ "topicName": "pilgrimage",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10pilgrimage-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Pilgrimage is not a sacrament and is not required by Christianity, but many Christians find it deepens their faith. Key reasons for pilgrimage include: seeking spiritual renewal, asking for healing, expressing devotion, walking in Jesus' footsteps, and connecting with Christian history. | Exam Tip: When comparing Lourdes and Iona, focus on the contrast: Lourdes is Catholic, associated with Mary and healing miracles, and attracts millions seeking physical cures. Iona is ecumenical, associated with contemplation, peace and social justice, and attracts those seeking spiritual renewal. Both are journeys of faith but with very different emphases. | RS Exam Tips — Pilgrimage: 1. For Pilgrimage questions, always include specific scriptural or source references where relevant 2. Explain "
+  },
+  {
+   "id": "10pilgrimage-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why Lourdes is an important place of pilgrimage for Catholics. | \"Pilgrimage is a waste of time and money.\" Evaluate this statement."
+  },
+  {
+   "id": "10pilgrimage-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exam Tip, RS Exam Tips — Pilgrimage, and one past-paper question."
+  }
+ ]
+}

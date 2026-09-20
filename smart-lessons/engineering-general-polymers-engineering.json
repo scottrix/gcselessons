@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "polymers-engineering",
+ "topicName": "polymers in engineering",
+ "version": 1,
+ "steps": [
+  {
+   "id": "polymersengineering-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Thermoplastics soften when heated and harden when cooled; they can be repeatedly reshaped (e.g. ABS, acrylic, nylon, polycarbonate, polypropylene). | Key Fact: Thermosetting polymers undergo an irreversible chemical change when heated; they cannot be remelted (e.g. epoxy resin, melamine formaldehyde, polyester resin). | Key Fact: Elastomers are polymers with elastic properties; vulcanised rubber is the most common engineering elastomer. | Key Fact: ABS is tough, impact-resistant and easily injection-moulded; used for enclosures, car interiors and consumer products."
+  },
+  {
+   "id": "polymersengineering-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from polymers in engineering, and one past-paper question."
+  }
+ ]
+}

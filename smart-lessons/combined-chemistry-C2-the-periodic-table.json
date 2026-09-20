@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "C2-the-periodic-table",
+ "topicName": "c2 the periodic table",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2theperiodictable-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Periodic table: A table of elements arranged in order of atomic number, so that elements with similar chemical properties appear in the same vertical column (group). | Group: A vertical column in the periodic table. Elements in the same group have the same number of electrons in their outer shell and similar chemical properties. | Period: A horizontal row in the periodic table. Elements in the same period have the same number of electron shells. | Alkali metals: The elements in Group 1 of the periodic table. They are very reactive soft metals."
+  },
+  {
+   "id": "2theperiodictable-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Describe two ways Mendeleev arranged elements in his periodic table and explain why his table was accepted by other scientists. | Foundation Explain why alkali metals become more reactive as you go down the group. | Foundation Write a word equation and a symbol equation for the reaction of sodium with water. What observations would you make?"
+  },
+  {
+   "id": "2theperiodictable-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain the reactivity trends in Group 1 and Group 7. <div class=\""
+  },
+  {
+   "id": "2theperiodictable-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Periodic table, Group, Period, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS4-stakeholders",
+ "topicName": "stakeholders",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4stakeholders-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Stakeholders: any person or group with an interest in a business. Internal: owners, employees, managers. External: customers, suppliers, local community, government, pressure groups. | Key Fact: Stakeholder objectives often conflict: owners want maximum profit (low wages, high prices); employees want higher wages and better conditions; customers want low prices and high quality; local community wants jobs but less pollution; government wants tax revenue and compliance. | Key Fact: Managing stakeholder conflict: compromise, negotiation, prioritisation. Businesses cannot satisfy all stakeholders equally - they must balance competing interests based on power and importance. | Key Fact: Stakeholder influence varies: owners/shareholders have high influence (can appoint directors); emp"
+  },
+  {
+   "id": "4stakeholders-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Identify four stakeholders of a large supermarket and explain what each would want from the business. | Explain how a conflict might arise between employees and owners of a business, and how it could be resolved. | A factory wants to expand, creating 200 jobs but increasing traffic and noise. Evaluate the competing stakeholder interests."
+  },
+  {
+   "id": "4stakeholders-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A large retailer is planning to open a new superstore on the edge of a small town. Analyse the impact on four different stakeholder groups and evaluate whether the development should go ahead. <div class=\""
+  },
+  {
+   "id": "4stakeholders-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

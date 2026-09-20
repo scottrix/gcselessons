@@ -1,0 +1,32 @@
+{
+ "subject": "chemistry",
+ "topic": "C25-water-and-waste",
+ "topicName": "water and waste",
+ "version": 1,
+ "steps": [
+  {
+   "id": "25waterandwaste-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Potable water: is water that is safe to drink . It is NOT the same as pure water — potable water contains dissolved substances . It must have low enough levels of dissolved salts and microbes to be safe for human consumption. | : In the UK, fresh water from lakes, rivers and underground aquifers is treated to make it potable. The process involves: filtration , sedimentation , and chlorination . | Desalination: removes salt from sea water to produce potable water. Methods include reverse osmosis and distillation . Both are expensive because they require a lot of energy. Desalination is used in dry countries where fresh water is scarce. | Waste water: (sewage) must be treated before being released into the environment. Treatment involves: screening , sedimentation , biological (aerobic) trea"
+  },
+  {
+   "id": "25waterandwaste-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between potable water and pure water. | Describe the three stages of water treatment used to produce potable water from fresh water sources. | Higher Compare distillation and reverse osmosis as methods of desalination. Explain why desalination is more expensive than treating fresh water."
+  },
+  {
+   "id": "25waterandwaste-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Describe how fresh water is treated to make it potable in the UK. Explain why treating sea water to make it potable is more expensive, and describe one method of desalination. <div class=\""
+  },
+  {
+   "id": "25waterandwaste-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Potable water, Desalination, Waste water, and one past-paper question."
+  }
+ ]
+}

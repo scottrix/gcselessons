@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "P8-static-electricity",
+ "topicName": "p8 static electricity",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8staticelectricity-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Static electricity: A build-up of electric charge on the surface of an insulating material. It is caused by friction between two insulators — electrons are transferred from one material to the other. | Electric field: A region around a charged object where another charged object experiences a force. Field lines point from positive to negative charges. | Sparking: When the potential difference between a charged object and the earth (or another object) is large enough, electrons can jump across the gap, creating a spark. | By friction: When two insulating materials are rubbed together, electrons are transferred from one to the other. The material that gains electrons becomes negatively charged . The material that loses electrons becomes positively charged ."
+  },
+  {
+   "id": "8staticelectricity-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Explain how static electricity builds up when two insulators are rubbed together. State which particles move. | Foundation State the rule for attraction and repulsion of charges. Give one example of each. | Foundation Explain what earthing means and why it is used when refuelling aircraft."
+  },
+  {
+   "id": "8staticelectricity-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain the dangers of static electricity during the refuelling of an aircraft and how earthing prevents these dangers. <div class=\""
+  },
+  {
+   "id": "8staticelectricity-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Static electricity, Electric field, Sparking, and one past-paper question."
+  }
+ ]
+}

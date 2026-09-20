@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g12-folding-faulting-structures",
+ "topicName": "folding, faulting &amp; geological structures",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g12foldingfaultingstructures-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Folds: anticlines (upfolds), synclines (downfolds), overfolds and recumbent folds, formed by compression | Key Fact: Faults: normal (tension), reverse/thrust (compression), strike-slip (shear), identified by displacement of rock layers | Key Fact: Joints: fractures with no movement, formed by cooling (igneous) or tectonic stress; columnar jointing in basalt | Key Fact: Unconformities: angular (tilted older rocks overlain by younger horizontal beds), disconformity (parallel beds with erosion gap), nonconformity (igneous/metamorphic overlain by sedimentary)"
+  },
+  {
+   "id": "g12foldingfaultingstructures-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from folding, faulting &amp;amp; geological structures, and one past-paper question."
+  }
+ ]
+}

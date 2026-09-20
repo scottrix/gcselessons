@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU19-kodály-and-bartók",
+ "topicName": "kodály and bartók",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19kodlyandbartk-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Both Kodály and Bartók collected and transcribed Hungarian folk songs — their art music transforms folk material through modernist techniques. | Key Fact: Bartók's polymodality combines multiple modes simultaneously, creating harmonic complexity while maintaining folk-like melodic identity. | Key Fact: Irregular metre (5/8, 7/8) reflects Hungarian folk rhythm — the distinctive short-long pattern creates a characteristic uneven groove. | Key Fact: String techniques expand traditional sound: pizzicato (plucked), col legno (wood of bow), sul ponticello (near bridge for glassy tone)."
+  },
+  {
+   "id": "19kodlyandbartk-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how kodály and bartók are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use kodály and bartók. Explain the effect in each case. | How could you use kodály and bartók in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "19kodlyandbartk-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how Bartók uses Hungarian folk elements in Hungarian Pictures. Explain how he transforms folk material using modernist techniques, with specific examples. <div class=\""
+  },
+  {
+   "id": "19kodlyandbartk-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

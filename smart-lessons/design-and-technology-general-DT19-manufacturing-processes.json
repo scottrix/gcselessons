@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT19-manufacturing-processes",
+ "topicName": "manufacturing processes",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19manufacturingprocesses-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Injection moulding: thermoplastic melted and forced into a steel mould under high pressure - mass production, high tooling cost, very low per-unit cost, complex 3D shapes. Used for LEGO bricks, bottle caps, phone cases. | Key Fact: CNC machining: computer-controlled cutting from solid stock - precision, prototyping and batch production, no mould cost, but slower per unit and creates waste (swarf). | Key Fact: Blow moulding: extruded polymer tube inflated against a mould - produces hollow shapes (bottles). Extrusion: continuous profile pushed through a die - pipes, window frames. | Key Fact: Metal forming: press forming (sheet metal pressed between die and punch - car body panels), die casting (molten metal forced into a mould), sand casting (sand mould for one-offs/small batches)"
+  },
+  {
+   "id": "19manufacturingprocesses-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why injection moulding is used for mass-producing a polypropylene food container but not for a one-off prototype. | Compare CNC machining and 3D printing for producing a small batch (50 units) of a complex bracket prototype. | Describe the process of blow moulding a PET drinks bottle, explaining why this process is suitable for hollow containers."
+  },
+  {
+   "id": "19manufacturingprocesses-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A company needs to produce 50,000 identical ABS remote control casings. Compare injection moulding and vacuum forming, justifying the most appropriate process with reference to cost, quality and production rate. <div class=\""
+  },
+  {
+   "id": "19manufacturingprocesses-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

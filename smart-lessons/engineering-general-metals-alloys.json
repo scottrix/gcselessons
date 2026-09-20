@@ -1,0 +1,26 @@
+{
+ "subject": "engineering",
+ "topic": "metals-alloys",
+ "topicName": "metals &amp; alloys",
+ "version": 1,
+ "steps": [
+  {
+   "id": "metalsalloys-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Ferrous metals contain iron; cast iron, low-carbon steel, high-carbon steel and stainless steel are the main ferrous materials. | Key Fact: Non-ferrous metals include aluminium, copper, brass, bronze, zinc and lead; they do not contain iron and generally resist corrosion better. | Key Fact: Alloying alters properties: adding carbon to iron increases hardness and strength; chromium adds corrosion resistance (stainless steel). | Key Fact: Heat treatment changes material properties: annealing softens, hardening increases strength, quenching locks in a hard structure, temperpering reduces brittleness."
+  },
+  {
+   "id": "metalsalloys-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the suitability of aluminium alloy versus stainless steel for the frame of a lightweight portable generator. Consider mechanical properties, corrosion resistance, cost and weight. [8 marks] <div class=\""
+  },
+  {
+   "id": "metalsalloys-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from metals &amp;amp; alloys, and one past-paper question."
+  }
+ ]
+}

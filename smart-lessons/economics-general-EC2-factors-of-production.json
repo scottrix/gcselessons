@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC2-factors-of-production",
+ "topicName": "the factors of production",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2factorsofproduction-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Land = all natural resources (farmland, oil, water). Reward: rent. Labour = human effort and skills. Reward: wages. | Key Fact: Capital = man-made resources used in production (machinery, factories). Reward: interest. Enterprise = the entrepreneur who organises and takes risk. Reward: profit. | Key Fact: Scarcity means resources are limited but wants are unlimited — the fundamental economic problem that forces choices. | Key Fact: Opportunity cost is the benefit of the next best alternative foregone when making a choice. E.g. if government spends on defence, the opportunity cost is the healthcare that could have been funded instead."
+  },
+  {
+   "id": "2factorsofproduction-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Identify the four factors of production and the reward each receives. | Explain what is meant by scarcity and why it is the fundamental economic problem. | A government has £10bn to spend on hospitals OR schools. Explain the opportunity cost of choosing hospitals."
+  },
+  {
+   "id": "2factorsofproduction-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether enterprise is the most important factor of production. <div class=\""
+  },
+  {
+   "id": "2factorsofproduction-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

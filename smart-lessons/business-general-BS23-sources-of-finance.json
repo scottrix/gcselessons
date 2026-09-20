@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS23-sources-of-finance",
+ "topicName": "sources of finance",
+ "version": 1,
+ "steps": [
+  {
+   "id": "23sourcesoffinance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Internal finance: retained profit (cheapest, no repayment, but limited by profits), sale of assets (quick cash but reduces capacity), working capital management (improving cash flow through better debt collection and stock control). | Key Fact: External finance - long-term: bank loans (fixed repayments, interest charged, secured on assets), mortgage (for property), debentures (long-term loans secured on business assets), share capital (selling ownership, no repayment but dilutes control). | Key Fact: External finance - short-term: bank overdraft (flexible, expensive interest, for cash flow gaps), trade credit (paying suppliers later, improves short-term cash flow), factoring (selling debt invoices for immediate cash at a discount). | Key Fact: Venture capital: investors provide c"
+  },
+  {
+   "id": "23sourcesoffinance-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between internal and external sources of finance, giving two examples of each. | Analyse why a small business might choose a bank overdraft rather than a bank loan. | Evaluate whether a growing business should finance expansion through retained profit or by issuing new shares."
+  },
+  {
+   "id": "23sourcesoffinance-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate which sources of finance a startup coffee shop should use to fund its first year of trading. <div class=\""
+  },
+  {
+   "id": "23sourcesoffinance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

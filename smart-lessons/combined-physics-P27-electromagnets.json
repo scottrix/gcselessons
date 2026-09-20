@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "P27-electromagnets",
+ "topicName": "electromagnets",
+ "version": 1,
+ "steps": [
+  {
+   "id": "27electromagnets-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Electromagnet: A coil of wire (solenoid) with a current flowing through it, which produces a magnetic field. Unlike a permanent magnet, an electromagnet can be switched on and off by turning the current on and off. | Solenoid: A coil of wire that produces a strong, uniform magnetic field inside it when a current flows. The field inside is strong and parallel to the axis; the field outside is similar to a bar magnet. | Motor effect: When a current-carrying wire is placed in a magnetic field, the wire experiences a force. This is the motor effect. The force is greatest when the wire is perpendicular to the magnetic field. | Fleming's left-hand rule: A rule to determine the direction of the force on a current-carrying wire in a magnetic field. First finger = direction of magnetic field (N to "
+  },
+  {
+   "id": "27electromagnets-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation State three ways to increase the strength of an electromagnet. | Foundation Explain why an electromagnet is more useful than a permanent magnet in a scrap yard crane. | Higher A wire of length 0.1 m carries a current of 2 A perpendicular to a magnetic field of 0.5 T. Calculate the force on the wire."
+  },
+  {
+   "id": "27electromagnets-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how the motor effect causes a current-carrying coil to rotate in a magnetic field. Explain the role of the split ring commutator in keeping the motor turning. <div class=\""
+  },
+  {
+   "id": "27electromagnets-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Electromagnet, Solenoid, Motor effect, and one past-paper question."
+  }
+ ]
+}

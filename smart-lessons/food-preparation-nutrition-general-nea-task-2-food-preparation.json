@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "nea-task-2-food-preparation",
+ "topicName": "nea task 2: food preparation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "neatask2foodpreparation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: NEA Task 2 is a food preparation assessment worth 35% of the total GCSE grade (AQA 8585). It is completed in controlled conditions over approximately 20 hours. | Key Fact: Task 2 requires students to plan, prepare, cook, and present a menu of three dishes (plus accompaniments) in response to a set brief, typically within a 3-hour practical session. | Key Fact: The brief specifies a context and target group, e.g. 'Plan and prepare a menu for a teenager following a vegetarian diet' or 'Produce a menu for a family on a low budget'. | Key Fact: Task 2 portfolio must include: research into the brief, analysis of the task, menu planning and justification, nutritional analysis, time plan, costings, practical skills evidence, and evaluation."
+  },
+  {
+   "id": "neatask2foodpreparation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response You have been set the following NEA Task 2 brief: 'Plan and prepare three dishes suitable for a vegetarian teenager, ensuring the menu is nutritionally balanced.' Explain how you would approach this task, including your choice of dishes with justification, key skills, and how you would ensure nutritional balance. (8 marks) <div class=\""
+  },
+  {
+   "id": "neatask2foodpreparation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from nea task 2: food preparation, and one past-paper question."
+  }
+ ]
+}

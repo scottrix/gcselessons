@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "WC3-vocabulary-word-choice",
+ "topicName": "vocabulary and word choice",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3vocabularywordchoice-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Point: Your vocabulary choices directly affect your AO6 mark (up to 16 marks). A wide, ambitious vocabulary demonstrates control and precision - but only when used appropriately. | Connotation Matters: \"Cheap\" and \"inexpensive\" have similar meanings but different connotations. \"Cheap\" suggests poor quality; \"inexpensive\" suggests good value. Choose the word with the right emotional shade. | Common Repeat Offenders: said, went, looked, got, nice, good, thing, something, very, really | Warning: Don't use words you don't fully understand. Misused ambitious vocabulary is worse than correctly used simple vocabulary."
+  },
+  {
+   "id": "3vocabularywordchoice-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Replace \"very happy\" with a single, more precise word. | What is the difference in connotation between \"cheap\" and \"inexpensive\"? | Rewrite \"She walked slowly across the room\" using a powerful verb instead of walked + slowly."
+  },
+  {
+   "id": "3vocabularywordchoice-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Point, Connotation Matters, Common Repeat Offenders, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as17-the-big-bang-expansion",
+ "topicName": "the big bang &amp; expansion",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as17thebigbangexpansion-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Big Bang theory states the universe began from an extremely hot, dense singularity ~13.8 billion years ago | Key Fact: Hubble's law: v = H₀d — recession velocity is proportional to distance; further galaxies recede faster | Key Fact: Cosmological redshift occurs because space itself is expanding, stretching light to longer wavelengths | Key Fact: The cosmic microwave background (CMB) is the afterglow of the Big Bang, at ~2.7 K"
+  },
+  {
+   "id": "as17thebigbangexpansion-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the big bang &amp;amp; expansion, and one past-paper question."
+  }
+ ]
+}

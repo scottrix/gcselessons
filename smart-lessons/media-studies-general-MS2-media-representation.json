@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS2-media-representation",
+ "topicName": "media representation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2mediarepresentation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Media representation is how media products portray people, groups, places, events, and ideas — representations are always constructed, never a simple reflection of reality. | Key Fact: Selection and omission: media producers choose what to include and exclude, which shapes how the subject is represented. What is left out is as important as what is included. | Key Fact: Stereotypes are simplified, widely recognised representations of groups — e.g. the 'dumb blonde', the 'action hero', the 'grumpy old man'. They reduce complex identities to a few traits. | Key Fact: Dominant representations are the most common and widely accepted portrayals in society. Alternative representations challenge or subvert these norms."
+  },
+  {
+   "id": "2mediarepresentation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate how representations of gender have changed in contemporary media products. Refer to your CSPs. [15 marks] <div class=\""
+  },
+  {
+   "id": "2mediarepresentation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from media representation, and one past-paper question."
+  }
+ ]
+}

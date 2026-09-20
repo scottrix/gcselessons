@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS21-representing-sound",
+ "topicName": "representing sound",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21representingsound-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: Sound is an analogue signal - a continuous wave. Computers can only store digital data (binary 0s and 1s), so analogue sound must be converted to digital form using a process called sampling. | Definition: Sampling rate is the number of samples taken per second, measured in Hertz (Hz). A higher sampling rate means more measurements of the sound wave are taken each second. | Nyquist's Theorem: To accurately reproduce a sound, the sampling rate must be at least twice the highest frequency in the sound. Human hearing ranges up to about 20,000 Hz, so CD quality uses 44,100 Hz (just over 2 x 20,000). | Definition: Sample resolution (also called bit depth) is the number of bits used to represent each sample. More bits per sample means more possible amplitude values can be recorded."
+  },
+  {
+   "id": "21representingsound-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Calculate the file size in MB of a 5-minute stereo recording sampled at 44,100 Hz with 16-bit resolution. | Explain why a higher sampling rate produces better quality sound. | What is the minimum sampling rate needed to accurately record a sound with a maximum frequency of 15,000 Hz?"
+  },
+  {
+   "id": "21representingsound-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A 3-minute stereo audio recording uses a sample rate of 44,100 Hz and a bit depth of 16 bits. Calculate the file size in megabytes. [3 marks] <div class=\""
+  },
+  {
+   "id": "21representingsound-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Nyquist&#x27;s Theorem, GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

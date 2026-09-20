@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC21-monetary-policy",
+ "topicName": "monetary policy",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21monetarypolicy-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Monetary policy uses interest rates and money supply to influence the economy, primarily to control inflation (Bank of England's 2% CPI target). | Key Fact: Raising interest rates: reduces borrowing and spending, cools demand, lowers inflation, but may reduce growth and increase unemployment. | Key Fact: Lowering interest rates: stimulates borrowing and spending, boosts growth, but may cause inflation if demand exceeds supply. | Key Fact: The Bank of England's MPC sets the base rate monthly, independently from government. Independence prevents politicians setting rates for electoral gain."
+  },
+  {
+   "id": "21monetarypolicy-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how the Bank of England could use monetary policy to reduce inflation. | Describe how lower interest rates might help reduce unemployment. | Evaluate whether monetary policy or fiscal policy is more effective at managing the economy."
+  },
+  {
+   "id": "21monetarypolicy-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the Bank of England should raise interest rates to combat inflation even if it increases unemployment. <div class=\""
+  },
+  {
+   "id": "21monetarypolicy-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

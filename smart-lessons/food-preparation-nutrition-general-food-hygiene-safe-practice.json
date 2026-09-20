@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "food-hygiene-safe-practice",
+ "topicName": "food hygiene & safe practice",
+ "version": 1,
+ "steps": [
+  {
+   "id": "foodhygienesafepractice-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The 4 Cs of food safety are: Cross-contamination prevention, Cleaning, Chilling, and Cooking. | Key Fact: Cross-contamination prevention: use separate boards, wash hands after handling raw meat, store raw foods below cooked foods. | Key Fact: Cleaning: wash and disinfect all surfaces, equipment, and hands before and after food preparation. | Key Fact: Chilling: keep the fridge at 0–5°C, the freezer at −18°C or below; never put hot food directly in the fridge."
+  },
+  {
+   "id": "foodhygienesafepractice-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the 4 Cs of food safety and how each one helps prevent food poisoning. (8 marks) <div class=\""
+  },
+  {
+   "id": "foodhygienesafepractice-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from food hygiene &amp; safe practice, and one past-paper question."
+  }
+ ]
+}

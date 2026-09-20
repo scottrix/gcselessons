@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC1-economic-activity",
+ "topicName": "economic activity",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1economicactivity-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The central purpose of economic activity is the production of goods and services to satisfy needs (essentials) and wants (desirables). | Key Fact: The three key economic decisions: what to produce, how to produce, and who is to benefit from production. | Key Fact: The three main economic groups are consumers (buy goods/services), producers (make goods/services), and government (regulates and provides public services). | Key Fact: Goods are tangible products (food, clothing); services are intangible (healthcare, education). Both satisfy needs and wants."
+  },
+  {
+   "id": "1economicactivity-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between a need and a want, giving two examples of each. | Describe the three key economic decisions that all societies must make. | Analyse how the three main economic groups interact in a market economy."
+  },
+  {
+   "id": "1economicactivity-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the government or the market should decide what goods and services are produced in an economy. <div class=\""
+  },
+  {
+   "id": "1economicactivity-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A18-solving-quadratic-equations",
+ "topicName": "solving quadratic equations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "18solvingquadraticequations-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Quadratic equation: An equation of the form ax² + bx + c = 0 where a ≠ 0. | Methods: Factorising (all levels) Quadratic formula (Higher) Completing the square (Higher) Graphically (reading x-intercepts)"
+  },
+  {
+   "id": "18solvingquadraticequations-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Solve: x² + 7x + 12 = 0 | Solve: x² - 16 = 0 | Solve: x² - 3x - 10 = 0"
+  },
+  {
+   "id": "18solvingquadraticequations-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A rectangle has sides (x + 2) cm and (x - 1) cm. Its area is 20 cm². (a) Form and solve a quadratic equation. (b) Find the dimensions. (c) Verify that your answer is correct. <div class=\""
+  },
+  {
+   "id": "18solvingquadraticequations-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Quadratic equation, Methods, and one past-paper question."
+  }
+ ]
+}

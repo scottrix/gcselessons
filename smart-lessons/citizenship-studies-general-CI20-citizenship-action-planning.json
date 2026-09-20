@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI20-citizenship-action-planning",
+ "topicName": "citizenship action planning",
+ "version": 1,
+ "steps": [
+  {
+   "id": "20citizenshipactionplanning-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Identify a genuine citizenship issue: something related to rights, democracy, equality, or community participation that you care about and that affects real people. | Key Fact: Research the issue thoroughly using reliable sources: government statistics, charity reports, academic research, surveys, and expert interviews. Avoid relying on social media alone. | Key Fact: Set SMART targets: Specific (clear and focused), Measurable (can track progress), Achievable (realistic given your resources), Relevant (linked to citizenship), Time-bound (with deadlines). | Key Fact: Identify stakeholders: who is affected by the issue, who has the power to change it, and who might support or oppose your action. Understanding power dynamics is key."
+  },
+  {
+   "id": "20citizenshipactionplanning-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe how you would plan a citizenship action to address a local issue. [9 marks] <div class=\""
+  },
+  {
+   "id": "20citizenshipactionplanning-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from citizenship action planning, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g11-geological-maps-mapwork",
+ "topicName": "geological maps &amp; mapwork",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g11geologicalmapsmapwork-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Geological maps show the distribution of rock types at the surface using colours and symbols | Key Fact: An outcrop is the area where a particular rock unit is exposed at the surface | Key Fact: Strike is the compass direction of a horizontal line on a dipping surface; dip is the angle and direction the surface slopes | Key Fact: The V-rule: dipping beds produce V-shaped outcrop patterns in valleys; the V points in the direction of dip for shallow dips"
+  },
+  {
+   "id": "g11geologicalmapsmapwork-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from geological maps &amp;amp; mapwork, and one past-paper question."
+  }
+ ]
+}

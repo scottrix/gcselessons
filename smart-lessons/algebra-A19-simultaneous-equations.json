@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A19-simultaneous-equations",
+ "topicName": "simultaneous equations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19simultaneousequations-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Simultaneous equations: Two or more equations with the same variables. Find values that satisfy ALL equations. | Methods: Elimination: Add or subtract equations to remove one variable Substitution: Express one variable in terms of another Graphically: Find where lines/curves intersect"
+  },
+  {
+   "id": "19simultaneousequations-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Solve: x + y = 10 and x - y = 4 | Solve: 2x + 3y = 12 and 2x + y = 8 | Solve: 3x - 2y = 7 and x + 2y = 9"
+  },
+  {
+   "id": "19simultaneousequations-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A cinema sells adult tickets for £10 and child tickets for £6. On Saturday, 250 tickets were sold and the total revenue was £1980. (a) Write two simultaneous equations. (b) Solve to find how many adults and children attended. (c) On Sunday, adult prices increase to £12 and 200 tickets sell for £1920. How many adults now? <div class=\""
+  },
+  {
+   "id": "19simultaneousequations-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Simultaneous equations, Methods, and one past-paper question."
+  }
+ ]
+}

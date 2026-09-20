@@ -1,0 +1,26 @@
+{
+ "subject": "astronomy",
+ "topic": "lunar-phases-eclipses",
+ "topicName": "lunar phases &amp; eclipses",
+ "version": 1,
+ "steps": [
+  {
+   "id": "lunarphaseseclipses-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Moon orbits the Earth every 27.3 days (sidereal period), but the lunar phase cycle (synodic period) is 29.5 days because the Earth-Moon system also orbits the Sun. | Key Fact: The phases in order: new moon, waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, last quarter, waning crescent, new moon. | Key Fact: Moon phases are caused by the changing angle between the Earth, Moon, and Sun, which determines how much of the Moon's illuminated hemisphere we see from Earth. | Key Fact: The Moon always shows the same face to Earth (tidal locking / synchronous rotation): its rotation period equals its orbital period."
+  },
+  {
+   "id": "lunarphaseseclipses-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain why lunar phases occur and why eclipses do not happen every month. Describe the conditions for a total solar eclipse. (8 marks) <div class=\""
+  },
+  {
+   "id": "lunarphaseseclipses-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from lunar phases &amp;amp; eclipses, and one past-paper question."
+  }
+ ]
+}

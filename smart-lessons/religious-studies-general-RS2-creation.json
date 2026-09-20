@@ -1,0 +1,20 @@
+{
+ "subject": "religious-studies",
+ "topic": "RS2-creation",
+ "topicName": "creation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2creation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Some Christians read Genesis literally (creationist view) while others read it as symbolic or metaphorical, compatible with scientific theories like the Big Bang and evolution. | RS Exam Tips — Creation: 1. For Creation questions, always include specific scriptural or source references where relevant 2. Explain both religious and non-religious viewpoints 3. Use specialist vocabulary precisely (e.g. terms from the specification) 4. Evaluate by analysing strengths and weaknesses of different views before reaching your conclusion 5. Link your discussion of Creation to its real-world impact on believers and society"
+  },
+  {
+   "id": "2creation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on RS Exam Tips — Creation, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "exam-command-words-dance",
+ "topicName": "command words &amp; question types",
+ "version": 1,
+ "steps": [
+  {
+   "id": "examcommandwordsdance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Command words tell you exactly what the examiner wants — misreading them loses marks | Key Fact: Describe means give a factual account of what you see, hear or know about the dance | Key Fact: Explain means give reasons — why something happens or why a choreographer made a choice | Key Fact: Analyse means break down and examine in detail, showing how parts create meaning or effect"
+  },
+  {
+   "id": "examcommandwordsdance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from command words &amp;amp; question types, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "ancient-history",
+ "topic": "period-study-technique",
+ "topicName": "period study technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "periodstudytechnique-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Period Study (Paper 1) is worth 50% of the GCSE and lasts 1 hour 30 minutes | Key Fact: It focuses on narrative, causation, and change and continuity across a broad chronological period | Key Fact: You must know the key events in chronological order — timeline knowledge is essential | Key Fact: Narrative questions ask you to tell the story of events — use chronological structure"
+  },
+  {
+   "id": "periodstudytechnique-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Write a narrative account of the key events of the Persian invasion of 480-479 BCE. (10 marks) <div class=\""
+  },
+  {
+   "id": "periodstudytechnique-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from period study technique, and one past-paper question."
+  }
+ ]
+}

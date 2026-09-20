@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "odysseus-hero",
+ "topicName": "odysseus the hero",
+ "version": 1,
+ "steps": [
+  {
+   "id": "odysseushero-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Odysseus is the archetypal Greek hero whose intelligence (metis) is as important as his physical strength | Key Fact: The Odyssey tells the story of Odysseus's ten-year journey home (nostos) from the Trojan War | Key Fact: Odysseus's key qualities: cunning, eloquence, endurance, bravery, curiosity and leadership | Key Fact: Unlike Achilles (who chose glory and early death), Odysseus chooses survival and homecoming"
+  },
+  {
+   "id": "odysseushero-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far is Odysseus a more admirable hero than Achilles? (15 marks) <div class=\""
+  },
+  {
+   "id": "odysseushero-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from odysseus the hero, and one past-paper question."
+  }
+ ]
+}

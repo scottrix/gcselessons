@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE20-seasonal-training",
+ "topicName": "seasonal training",
+ "version": 1,
+ "steps": [
+  {
+   "id": "20seasonaltraining-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A training year (macrocycle) is divided into distinct phases, each with specific training goals. The training programme is structured so the athlete peaks (reaches their best performance) at the right time - usually for the most important competitions. | Goal: Build a base of fitness and develop the specific skills needed for the upcoming competitive season. The aim is to prepare the body and mind for the demands of competition. | Goal: Maintain the fitness built in pre-season while performing at the highest possible level in competitions. Training shifts from building fitness to maintaining it and peaking for key events. | Tapering: A planned reduction in training volume (by 40-60%) in the 7-14 days before a major competition. Intensity may remain high but the total training l"
+  },
+  {
+   "id": "20seasonaltraining-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the training focus during the pre-season phase. | Explain what tapering is and why it is used before major competitions. | Why is active recovery preferred over complete rest during the post-season phase?"
+  },
+  {
+   "id": "20seasonaltraining-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Goal, Goal, Tapering, and one past-paper question."
+  }
+ ]
+}

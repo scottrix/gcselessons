@@ -1,0 +1,32 @@
+{
+ "subject": "physics",
+ "topic": "P9-states-of-matter-and-changes-of-state",
+ "topicName": "p9 states of matter and changes of state",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9statesofmatterandchangesofsta-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Density: The mass per unit volume of a substance, measured in kg/m³. Density tells us how compact a substance is. | Internal energy: The total kinetic energy and potential energy of all the particles in a substance. | Specific latent heat: The amount of energy required to change the state of 1 kg of a substance without changing its temperature. | Specific latent heat of fusion: The energy required to change 1 kg of a substance from solid to liquid (melt) at its melting point."
+  },
+  {
+   "id": "9statesofmatterandchangesofsta-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Describe the arrangement and movement of particles in a gas. | Foundation A metal block has a mass of 2.7 kg and a volume of 0.001 m³. Calculate its density in kg/m³. | Foundation Explain why the temperature of a substance does not change while it is melting, even though energy is being supplied."
+  },
+  {
+   "id": "9statesofmatterandchangesofsta-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain, in terms of particles, what happens to a solid as it is heated from below its melting point to above its boiling point. Include references to internal energy and the changes that occur. <div class=\""
+  },
+  {
+   "id": "9statesofmatterandchangesofsta-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Density, Internal energy, Specific latent heat, and one past-paper question."
+  }
+ ]
+}

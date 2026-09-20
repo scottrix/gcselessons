@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS6-social-influence",
+ "topicName": "social influence",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6socialinfluence-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Conformity is changing your behaviour or beliefs to fit in with a group. Internalisation: genuinely accepting group norms (deep, lasting change). Identification: adopting group behaviour to gain membership. Compliance: going along publicly but not privately changing. | Key Fact: Asch's (1951) line conformity experiment: 75% of participants conformed at least once, giving a clearly wrong answer. Conformity increased with group size (up to 3) and unanimity, but decreased with a dissenting partner. | Key Fact: Milgram's (1963) obedience study: 65% of participants delivered the maximum 450V shock when instructed by an authority figure. Obedience increased with proximity of authority, legitimacy of the institution, and uniform. | Key Fact: Zimbardo's (1973) Stanford Prison Experiment:"
+  },
+  {
+   "id": "6socialinfluence-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe Asch's conformity experiment and evaluate its methodology. | Explain why people obey authority, referring to Milgram's research. | Evaluate the ethical issues in Zimbardo's Stanford Prison Experiment."
+  },
+  {
+   "id": "6socialinfluence-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether Milgram's research on obedience still has relevance today. <div class=\""
+  },
+  {
+   "id": "6socialinfluence-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

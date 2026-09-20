@@ -1,0 +1,32 @@
+{
+ "subject": "biology",
+ "topic": "B13-respiration",
+ "topicName": "respiration",
+ "version": 1,
+ "steps": [
+  {
+   "id": "13respiration-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Respiration: An exothermic reaction in which glucose is broken down to release energy for living processes. Respiration happens in every living cell, all the time."
+  },
+  {
+   "id": "13respiration-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Write the word and symbol equations for aerobic respiration. | Write the word equations for anaerobic respiration in: (a) animal cells, (b) yeast cells. | Explain why aerobic respiration releases more energy per glucose molecule than anaerobic respiration."
+  },
+  {
+   "id": "13respiration-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Compare aerobic and anaerobic respiration. <div class=\""
+  },
+  {
+   "id": "13respiration-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Respiration, and one past-paper question."
+  }
+ ]
+}

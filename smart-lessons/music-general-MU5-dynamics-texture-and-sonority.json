@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU5-dynamics-texture-and-sonority",
+ "topicName": "dynamics texture and sonority",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5dynamicstextureandsonority-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Texture describes how musical lines combine: monophonic (single line), homophonic (melody + chords), polyphonic (independent lines), antiphonal (spatially separated groups). | Key Fact: Sonority (timbre) is the unique sound quality of each instrument or voice — same notes sound different on violin vs clarinet vs voice. | Key Fact: Dynamics shape musical expression: crescendo builds intensity; diminuendo releases it; sudden changes (sfz) create drama and surprise. | Key Fact: Instrumental techniques change sonority: arco (bowed) vs pizzicato (plucked) on strings; con sordino (muted) brass; palm mute on guitar; falsetto voice."
+  },
+  {
+   "id": "5dynamicstextureandsonority-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how dynamics texture and sonority are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use dynamics texture and sonority. Explain the effect in each case. | How could you use dynamics texture and sonority in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "5dynamicstextureandsonority-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse the texture and sonority of a piece of music. Identify specific textural types and instrumental/vocal techniques. Explain how they contribute to the music's effect. <div class=\""
+  },
+  {
+   "id": "5dynamicstextureandsonority-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

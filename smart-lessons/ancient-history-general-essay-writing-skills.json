@@ -1,0 +1,26 @@
+{
+ "subject": "ancient-history",
+ "topic": "essay-writing-skills",
+ "topicName": "essay writing skills",
+ "version": 1,
+ "steps": [
+  {
+   "id": "essaywritingskills-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A good essay has a clear structure: introduction, 3-4 developed paragraphs, and a conclusion | Key Fact: The introduction should define key terms, show understanding of the question, and indicate your line of argument | Key Fact: Use the PEEL structure for paragraphs: Point, Evidence, Explanation, Link back to the question | Key Fact: Each paragraph should focus on one main point that directly answers the question"
+  },
+  {
+   "id": "essaywritingskills-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far was Spartan military strength the main reason for its dominance in the Peloponnese? (15 marks) <div class=\""
+  },
+  {
+   "id": "essaywritingskills-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from essay writing skills, and one past-paper question."
+  }
+ ]
+}

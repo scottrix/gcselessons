@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "skewness-outliers",
+ "topicName": "skewness &amp; outliers",
+ "version": 1,
+ "steps": [
+  {
+   "id": "skewnessoutliers-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A symmetric distribution has its mean, median, and mode approximately equal; the left and right sides are mirror images. | Key Fact: Positive (right) skew has a long tail to the right; the mean is greater than the median, which is greater than the mode. | Key Fact: Negative (left) skew has a long tail to the left; the mean is less than the median, which is less than the mode. | Key Fact: Pearson's skewness coefficient = 3 × (mean – median) ÷ standard deviation; a positive value indicates positive skew, a negative value indicates negative skew."
+  },
+  {
+   "id": "skewnessoutliers-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A dataset of 10 test scores has Q1 = 35, Q2 = 52, Q3 = 65, mean = 54, and SD = 18. The maximum value is 110. Determine whether the maximum is an outlier and calculate Pearson's skewness coefficient. <div class=\""
+  },
+  {
+   "id": "skewnessoutliers-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from skewness &amp;amp; outliers, and one past-paper question."
+  }
+ ]
+}

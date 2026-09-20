@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS18-regulation-issues",
+ "topicName": "regulation & issues",
+ "version": 1,
+ "steps": [
+  {
+   "id": "18regulationissues-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Media regulation involves rules and systems that govern what media content can be produced, distributed, and accessed. It aims to protect audiences while preserving freedom of expression. | Key Fact: Ofcom regulates UK broadcasting — setting content standards, protecting audiences from harmful material, ensuring due impartiality in news, and managing the radio/TV spectrum. | Key Fact: The BBFC classifies films and some video content (U, PG, 12A, 12, 15, 18). Classification considers discrimination, drugs, horror, imitable behaviour, language, nudity, sex, threat, and violence. | Key Fact: IPSO (Independent Press Standards Organisation) regulates most UK newspapers and magazines. It handles complaints and enforces the Editors' Code of Practice, but has been criticised as weak."
+  },
+  {
+   "id": "18regulationissues-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the effectiveness of media regulation in the UK. [15 marks] <div class=\""
+  },
+  {
+   "id": "18regulationissues-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from regulation &amp; issues, and one past-paper question."
+  }
+ ]
+}

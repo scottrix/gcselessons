@@ -1,0 +1,32 @@
+{
+ "subject": "english-literature",
+ "topic": "S1-shakespearean-context",
+ "topicName": "shakespearean context",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1shakespeareancontext-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Context: \"Macbeth\" was written in 1606, early in James I's reign. The play reflects James's interests: witchcraft, kingship, and the dangers of treason. | Theatre was for everyone: Shakespeare wrote for all classes - high drama for nobility, jokes and action for groundlings. Plays needed to engage diverse audiences. | Relevance: \"Macbeth\" explores treason, regicide, and the betrayal of a king by a trusted subject. The Gunpowder Plot was fresh in the audience's minds. | Golden Rule: Link context to specific moments in the play. Don't just dump historical facts - explain how context deepens understanding of the text."
+  },
+  {
+   "id": "1shakespeareancontext-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What is the Divine Right of Kings and how does it affect \"Macbeth\"? | Why did Shakespeare include witches in \"Macbeth\"? | How did the Globe Theatre shape Shakespeare's writing?"
+  },
+  {
+   "id": "1shakespeareancontext-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response 25 marks: \"How does Shakespeare use Jacobean context to create meaning in the opening scenes of Macbeth?\" <div class=\""
+  },
+  {
+   "id": "1shakespeareancontext-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Context, Theatre was for everyone, Relevance, and one past-paper question."
+  }
+ ]
+}

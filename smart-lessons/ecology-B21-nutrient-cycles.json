@@ -1,0 +1,32 @@
+{
+ "subject": "biology",
+ "topic": "B21-nutrient-cycles",
+ "topicName": "nutrient cycles",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21nutrientcycles-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Nutrient Cycles: Materials such as carbon and water are constantly recycled through the living and non-living parts of ecosystems. Decomposers play a vital role in breaking down dead material and returning nutrients to the soil."
+  },
+  {
+   "id": "21nutrientcycles-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the carbon cycle, explaining how carbon is added to and removed from the atmosphere. | Describe the main processes in the water cycle. | Explain three factors that affect the rate of decomposition."
+  },
+  {
+   "id": "21nutrientcycles-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Describe the carbon cycle, explaining how carbon is recycled through the living and non-living components of an ecosystem. <div class=\""
+  },
+  {
+   "id": "21nutrientcycles-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Nutrient Cycles, and one past-paper question."
+  }
+ ]
+}

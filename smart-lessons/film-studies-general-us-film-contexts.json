@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "us-film-contexts",
+ "topicName": "us film contexts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "usfilmcontexts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Context refers to the social, cultural, political and historical circumstances in which a film is produced and received, and which shape its meaning and significance. | Key Fact: Social context includes the attitudes, values, structures and issues of the society in which a film is made — class relations, gender roles, racial dynamics and family structures. | Key Fact: Cultural context encompasses the shared beliefs, practices, traditions and media landscape that influence both filmmakers and audiences, including genre conventions and star images. | Key Fact: Political context involves the governmental systems, power structures, ideological debates and policy environments that affect what films are made and how they are received."
+  },
+  {
+   "id": "usfilmcontexts-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How do the social, cultural, political and historical contexts of production shape meaning in your chosen US film? <div class=\""
+  },
+  {
+   "id": "usfilmcontexts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from us film contexts, and one past-paper question."
+  }
+ ]
+}

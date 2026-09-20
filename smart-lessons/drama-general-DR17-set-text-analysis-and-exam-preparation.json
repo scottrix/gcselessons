@@ -1,0 +1,32 @@
+{
+ "subject": "drama",
+ "topic": "DR17-set-text-analysis-and-exam-preparation",
+ "topicName": "set text analysis and exam preparation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "17settextanalysisandexamprepar-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Know the WHOLE play, not just the extracts — context matters for every question. | Key Fact: Extract questions: analyse the specific scene AND connect it to the whole play's themes and structure. | Key Fact: Three perspectives: you may be asked from performer, director or designer viewpoint — always answer from the specified perspective. | Key Fact: Structure your answer: point (identify technique/choice) + evidence (specific reference) + explanation (effect on audience) + link (to whole play themes)."
+  },
+  {
+   "id": "17settextanalysisandexamprepar-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "How would you approach a written exam question asking you to describe how you would perform an extract from your set text? | Why is it important to understand the whole play, even though the exam only asks about extracts? | Describe how you would answer a question from a director's perspective about staging a key scene."
+  },
+  {
+   "id": "17settextanalysisandexamprepar-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response As a performer, describe how you would use vocal and physical skills to realise a key moment in the given extract. Justify your choices with reference to the whole play. <div class=\""
+  },
+  {
+   "id": "17settextanalysisandexamprepar-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Drama Exam Tips, and one past-paper question."
+  }
+ ]
+}

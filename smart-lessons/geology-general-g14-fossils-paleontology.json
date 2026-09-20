@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g14-fossils-paleontology",
+ "topicName": "fossils &amp; palaeontology",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g14fossilspaleontology-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Fossils are the preserved remains or traces of organisms that lived in the geological past | Key Fact: Modes of preservation: original material (amber, freezing), replacement (petrification), permineralisation (mineral-filled pores), mould and cast, compression (carbon film) | Key Fact: Trace fossils preserve evidence of activity: footprints, burrows, coprolites, rather than the organism itself | Key Fact: Body fossils preserve part of the organism: shells, bones, teeth, soft tissues (rare)"
+  },
+  {
+   "id": "g14fossilspaleontology-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from fossils &amp;amp; palaeontology, and one past-paper question."
+  }
+ ]
+}

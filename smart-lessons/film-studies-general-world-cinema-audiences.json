@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "world-cinema-audiences",
+ "topicName": "world cinema &amp; audiences",
+ "version": 1,
+ "steps": [
+  {
+   "id": "worldcinemaaudiences-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Audience reception of global film is shaped by cultural context: viewers from different backgrounds interpret the same film differently based on their own values and experiences. | Key Fact: Subtitles preserve the original language performance and cultural authenticity but require active reading and can distract from visual composition. | Key Fact: Dubbing allows viewers to focus entirely on the image but replaces original vocal performances and can flatten cultural specificity through translation choices. | Key Fact: Cultural bridging occurs when a film from one culture resonates with audiences from another, often through universal themes such as family, love or justice."
+  },
+  {
+   "id": "worldcinemaaudiences-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does cultural context affect the way a UK audience might respond to a non-English language film, and how can the filmmaker help bridge the cultural gap? <div class=\""
+  },
+  {
+   "id": "worldcinemaaudiences-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from world cinema &amp;amp; audiences, and one past-paper question."
+  }
+ ]
+}

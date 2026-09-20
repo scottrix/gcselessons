@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G48-statistical-skills",
+ "topicName": "statistical skills and data analysis",
+ "version": 1,
+ "steps": [
+  {
+   "id": "48statisticalskills-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Measures of central tendency identify the \"typical\" or \"middle\" value in a dataset. The three main measures are the mean, median, and mode. | Definition: The IQR measures the spread of the middle 50% of data, removing the influence of the lowest 25% and highest 25% of values. It is more robust than the range because it ignores extreme values. | Definition: A box and whisker plot visually displays the median, quartiles, and range of a dataset. The \"box\" shows the IQR (Q1 to Q3), the line inside the box is the median, and the \"whiskers\" extend to the minimum and maximum values (or to 1.5 × IQR from the box, with outliers shown as individual points). | Common Error: Using the new value as the denominator instead of the original. The percentage change must always be calculated rela"
+  },
+  {
+   "id": "48statisticalskills-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Calculate the mean, median, mode, and range for the following data: 12, 15, 18, 18, 22, 25, 30, 35 | A country's exports were $4.2 billion in 2015 and $6.3 billion in 2025. Calculate the percentage change. | Explain the difference between the range and the interquartile range. Why is the IQR often preferred?"
+  },
+  {
+   "id": "48statisticalskills-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Common Error, Key Rule, Exam Technique, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "digital-systems-design",
+ "topicName": "digital systems design",
+ "version": 1,
+ "steps": [
+  {
+   "id": "digitalsystemsdesign-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Digital system design involves specifying, designing and implementing circuits that process digital signals. | Key Fact: A state diagram shows the sequence of states a system transitions through, with arrows for transitions and labels for conditions. | Key Fact: Moore machines: outputs depend only on the current state; Mealy machines: outputs depend on current state and inputs. | Key Fact: State diagrams use circles for states and labelled arrows for transitions; each arrow shows the input condition causing the transition."
+  },
+  {
+   "id": "digitalsystemsdesign-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe the process of designing a digital system from specification to implementation, including the role of state diagrams and timing diagrams. <div class=\""
+  },
+  {
+   "id": "digitalsystemsdesign-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from digital systems design, and one past-paper question."
+  }
+ ]
+}

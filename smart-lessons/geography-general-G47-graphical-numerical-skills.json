@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G47-graphical-numerical-skills",
+ "topicName": "graphical and numerical skills",
+ "version": 1,
+ "steps": [
+  {
+   "id": "47graphicalnumericalskills-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A line graph shows how a continuous variable changes over time or distance. The x-axis usually represents time or distance, and the y-axis represents the measured variable. Points are plotted and joined with straight lines or a curve of best fit. | Definition: A bar chart uses rectangular bars to compare discrete categories. The height (or length) of each bar represents the value. Bars can be vertical or horizontal. They should have gaps between them (unlike histograms). | Definition: A pie chart shows proportions of a whole as segments of a circle. The full circle (360°) represents the total, and each segment is proportional to the value it represents. | Definition: A scatter graph plots two variables against each other to test whether a relationship exists. Each point represe"
+  },
+  {
+   "id": "47graphicalnumericalskills-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between a simple bar chart and a compound bar chart, giving a geographical example of when each would be used. | A country's population is 32 million and its area is 256,000 km². Calculate its population density. | Describe the characteristics of a population pyramid for a country in Stage 4 of the DTM."
+  },
+  {
+   "id": "47graphicalnumericalskills-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from graphical and numerical skills, and one past-paper question."
+  }
+ ]
+}

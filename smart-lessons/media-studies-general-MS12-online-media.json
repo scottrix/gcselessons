@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS12-online-media",
+ "topicName": "online, social & participatory media",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12onlinemedia-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Online and social media encompass websites, social networking platforms, blogs, vlogs, wikis, and apps — media products that exist on the internet and often enable audience participation. | Key Fact: Websites use conventions: homepage, navigation menu, banner, content sections, hyperlinks, multimedia (images, video, audio), and calls to action. | Key Fact: Social media platforms (Instagram, TikTok, X/Twitter, YouTube, Snapchat) enable user-generated content, social networking, and algorithmic content distribution. | Key Fact: Prosumer culture: audiences are no longer just consumers — they produce, share, and remix content. This democratises media but also creates challenges with misinformation and quality."
+  },
+  {
+   "id": "12onlinemedia-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the impact of social media on media audiences and industries. [15 marks] <div class=\""
+  },
+  {
+   "id": "12onlinemedia-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from online, social &amp; participatory media, and one past-paper question."
+  }
+ ]
+}

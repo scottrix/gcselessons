@@ -1,0 +1,26 @@
+{
+ "subject": "combined-science",
+ "topic": "B3-transport-in-cells",
+ "topicName": "b3 transport in cells",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3transportincells-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Substances move in and out of cells: by three main methods: diffusion, osmosis, and active transport. Which method is used depends on the type of substance, the direction it needs to move, and whether energy is required."
+  },
+  {
+   "id": "3transportincells-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define diffusion. (2 marks) | Define osmosis. (2 marks) | Explain the difference between diffusion and active transport. (2 marks)"
+  },
+  {
+   "id": "3transportincells-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Substances move in and out of cells, and one past-paper question."
+  }
+ ]
+}

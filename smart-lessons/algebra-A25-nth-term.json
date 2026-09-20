@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A25-nth-term",
+ "topicName": "nth term",
+ "version": 1,
+ "steps": [
+  {
+   "id": "25nthterm-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "nth term: A formula that allows you to find any term in a sequence without working out all the previous terms. | Position numbers: The position of each term (1st = position 1, 2nd = position 2, etc.)"
+  },
+  {
+   "id": "25nthterm-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Find the nth term of: 6, 10, 14, 18, 22, ... | Find the nth term of: 50, 46, 42, 38, 34, ... | Find the 100th term of: 7n - 3"
+  },
+  {
+   "id": "25nthterm-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A pattern uses tiles: 7, 11, 17, 25, 35, ... (a) Show this is a quadratic sequence. (b) Find the nth term. (c) How many tiles are needed for the 20th pattern? (d) Is 200 tiles possible? <div class=\""
+  },
+  {
+   "id": "25nthterm-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on nth term, Position numbers, and one past-paper question."
+  }
+ ]
+}

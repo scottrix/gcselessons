@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS10-production-processes",
+ "topicName": "production processes",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10productionprocesses-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Job production: one-off, unique products made to customer specification (e.g. custom wedding cake). High quality, high price, but slow and labour-intensive. | Key Fact: Batch production: groups of identical products made together (e.g. bakery making 50 loaves). Allows some variety but requires cleaning/resetting between batches. | Key Fact: Flow (mass) production: continuous, standardised production on an assembly line (e.g. car manufacturing). High volume, low unit cost, but high set-up costs and inflexible. | Key Fact: Productivity measures output per unit of input: labour productivity = output / number of workers. Higher productivity means lower unit costs and greater competitiveness."
+  },
+  {
+   "id": "10productionprocesses-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Compare job production and flow production, giving one advantage and one disadvantage of each. | Explain how lean production can reduce a business's costs. | Evaluate which production method a furniture maker should use if they want to expand from bespoke to selling online nationwide."
+  },
+  {
+   "id": "10productionprocesses-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a craft bakery should switch from batch production to flow production to meet growing demand from supermarkets. <div class=\""
+  },
+  {
+   "id": "10productionprocesses-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

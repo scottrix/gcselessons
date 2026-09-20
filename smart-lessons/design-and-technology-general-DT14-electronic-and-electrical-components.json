@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT14-electronic-and-electrical-components",
+ "topicName": "electronic and electrical components",
+ "version": 1,
+ "steps": [
+  {
+   "id": "14electronicandelectricalcompo-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Resistors: limit current flow - fixed (colour-coded), variable (potentiometers), thermistors (resistance changes with temperature - used in thermostats). | Key Fact: Capacitors: store and release electrical charge - timing circuits, smoothing power supplies. Electrolytic (high capacity, polarised) and ceramic (low capacity, non-polarised). | Key Fact: Transistors: electronic switches or amplifiers - small base current controls larger collector-emitter current. NPN and PNP types. Essential for logic circuits. | Key Fact: LEDs: light-emitting diodes - convert electrical energy to light, very efficient, polarised. Need a current-limiting resistor. RGB LEDs combine three colours."
+  },
+  {
+   "id": "14electronicandelectricalcompo-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the function of a transistor in a circuit that uses a thermistor to switch on a fan when temperature rises. | Why does an LED always need a current-limiting resistor? Calculate the resistor value for a 9 V supply, 2 V LED and 15 mA current. | Compare the advantages of using a microcontroller versus a hard-wired analogue circuit for a traffic light sequence."
+  },
+  {
+   "id": "14electronicandelectricalcompo-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Design an electronic circuit for an automatic nightlight that turns on an LED when ambient light drops below a threshold. Name and explain each component. <div class=\""
+  },
+  {
+   "id": "14electronicandelectricalcompo-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

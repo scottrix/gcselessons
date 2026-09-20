@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G24-river-processes",
+ "topicName": "river processes",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24riverprocesses-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: The long profile is a cross-section along the length of a river from its source to its mouth. It typically shows a steep gradient near the source that gradually decreases towards the mouth, creating a concave shape. | Definition: The cross profile is a cross-section across the river channel at right angles to the direction of flow. It changes from source to mouth, becoming progressively wider and deeper. | Definition: River erosion is the wearing away of the river bed and banks by the force of moving water. Four processes operate: hydraulic action, abrasion, attrition and solution. | Definition: Transportation is the movement of eroded material (the river's load) by the water. The process used depends on the size of the sediment and the energy of the river."
+  },
+  {
+   "id": "24riverprocesses-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the changes in a river's long profile from source to mouth. (4 marks) | Explain the process of abrasion in a river. (4 marks) | Compare the four processes of river transportation. (6 marks)"
+  },
+  {
+   "id": "24riverprocesses-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Geography Exam Tips — River Processes, and one past-paper question."
+  }
+ ]
+}

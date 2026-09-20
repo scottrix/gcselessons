@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU28-free-composition-and-composing-to-a-brief",
+ "topicName": "free composition and composing to a brief",
+ "version": 1,
+ "steps": [
+  {
+   "id": "28freecompositionandcomposingt-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Free composition allows you to choose your own starting point — a melody, chord progression, rhythm or concept that inspires you. | Key Fact: Composing to a brief requires interpreting AQA's stimulus: read carefully, identify the musical implications, plan how you will respond to each element. | Key Fact: Both compositions must be at least 1 minute each — the score must be in staff notation (up to 4 sharps/flats) with a recording. | Key Fact: AO2 marks: technical control (accuracy of notation, appropriate writing for instruments), coherence (logical structure, development), creative development (inventive use of elements)."
+  },
+  {
+   "id": "28freecompositionandcomposingt-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how free composition and composing to a brief are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use free composition and composing to a brief. Explain the effect in each case. | How could you use free composition and composing to a brief in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "28freecompositionandcomposingt-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Choose an AQA composition brief and plan your response. Explain how your composition will address each element of the brief, outline your structure, and describe the musical elements you will use. <div class=\""
+  },
+  {
+   "id": "28freecompositionandcomposingt-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

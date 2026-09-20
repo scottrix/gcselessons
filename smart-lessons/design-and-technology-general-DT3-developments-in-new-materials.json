@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT3-developments-in-new-materials",
+ "topicName": "developments in new materials",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3developmentsinnewmaterials-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Smart materials: change properties in response to stimuli — thermochromic (temperature), photochromic (light), shape-memory alloys (heat returns original shape). | Key Fact: Nanomaterials: engineered at 1–100 nm scale — graphene (200x stronger than steel, conductive, flexible), carbon nanotubes, nano-coatings. | Key Fact: Composites: two or more materials combined for superior properties — carbon fibre reinforced polymer (CFRP) for lightweight strength, fibreglass for boat hulls. | Key Fact: Hydrogel: water-absorbing polymer — used in contact lenses, wound dressings, agriculture (slow-release water), disposable nappies."
+  },
+  {
+   "id": "3developmentsinnewmaterials-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how a shape-memory alloy works and give one practical application. | Explain why graphene is considered a 'wonder material' and discuss the barriers to its widespread use. | Compare a composite material with a single material for use in a bicycle frame."
+  },
+  {
+   "id": "3developmentsinnewmaterials-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A designer is creating a baby spoon that changes colour if food is too hot. Evaluate the choice of smart material for this application. <div class=\""
+  },
+  {
+   "id": "3developmentsinnewmaterials-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

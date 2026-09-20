@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "food-production-sustainability",
+ "topicName": "food production & sustainability",
+ "version": 1,
+ "steps": [
+  {
+   "id": "foodproductionsustainability-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Food provenance means knowing where food comes from — how, where, and by whom it was produced, processed, and transported. | Key Fact: Intensive farming maximises yield using fertilisers, pesticides, antibiotics, and high-density housing; it produces cheap food but raises welfare and environmental concerns. | Key Fact: Organic farming avoids artificial chemicals, uses crop rotation and natural fertilisers, and provides higher animal welfare; it is more expensive and yields are lower. | Key Fact: Free-range and barn-raised systems give animals more space and outdoor access compared to intensive caged systems; UK and EU law defines minimum standards."
+  },
+  {
+   "id": "foodproductionsustainability-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare intensive and organic farming methods and evaluate their impact on sustainability. (8 marks) <div class=\""
+  },
+  {
+   "id": "foodproductionsustainability-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from food production &amp; sustainability, and one past-paper question."
+  }
+ ]
+}

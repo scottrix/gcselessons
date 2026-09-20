@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "food-processing-technology",
+ "topicName": "food processing & technology",
+ "version": 1,
+ "steps": [
+  {
+   "id": "foodprocessingtechnology-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Primary processing converts raw food materials into basic ingredients: milling wheat into flour, pasteurising milk, refining sugar cane, and slaughtering and butchering animals. | Key Fact: Secondary processing converts primary-processed ingredients into more complex products: making flour into bread, milk into cheese, flour and sugar into biscuits, potatoes into crisps. | Key Fact: Food additives are substances added to food for a specific purpose: preservatives (extend shelf life), colourants (improve appearance), flavourings (enhance taste), emulsifiers (mix oil and water), stabilisers (maintain texture). | Key Fact: Additives are given E numbers when approved for use in the EU; some consumers prefer additive-free foods due to health concerns (e.g. hyperactivity linked to some"
+  },
+  {
+   "id": "foodprocessingtechnology-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the difference between primary and secondary food processing, giving examples. Discuss the role of food additives and evaluate their use in processed foods. (8 marks) <div class=\""
+  },
+  {
+   "id": "foodprocessingtechnology-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from food processing &amp; technology, and one past-paper question."
+  }
+ ]
+}

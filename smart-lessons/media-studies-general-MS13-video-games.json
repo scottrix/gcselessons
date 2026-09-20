@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS13-video-games",
+ "topicName": "video games",
+ "version": 1,
+ "steps": [
+  {
+   "id": "13videogames-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Video games are an interactive media form where players actively participate in constructing the narrative and experience, unlike passive media forms. | Key Fact: Game genres: action, RPG, FPS, sports, puzzle, simulation, adventure, strategy, horror, MMO. Genres set player expectations and guide marketing. | Key Fact: Platforms: console (PlayStation, Xbox, Nintendo), PC, mobile, and cloud gaming. Each platform has different conventions, audiences, and business models. | Key Fact: Industry structure: AAA (major studio) games have budgets of $100m+; indie games are made by small teams with limited budgets. The industry generates more revenue than film and music combined."
+  },
+  {
+   "id": "13videogames-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate how video games represent social groups. Refer to your CSPs. [12 marks] <div class=\""
+  },
+  {
+   "id": "13videogames-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Media Studies Exam Tips — Video Games, and one past-paper question."
+  }
+ ]
+}

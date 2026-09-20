@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE27-arousal-inverted-u",
+ "topicName": "arousal and the inverted-u theory",
+ "version": 1,
+ "steps": [
+  {
+   "id": "27arousalinvertedu-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Arousal: A state of physical and psychological readiness and activation. It is the level of excitement, alertness and energy a performer experiences. Arousal exists on a continuum from deep sleep (very low) to extreme excitement or panic (very high). | Inverted-U Theory (Yerkes-Dodson Law): The theory that performance improves as arousal increases, but only up to an optimal point. Beyond this point, further increases in arousal lead to a decline in performance. When graphed, this relationship forms an inverted U shape. | Zone of Optimal Functioning (ZOF): Each individual performer has their own personal zone of optimal arousal where they perform at their best. This zone varies from person to person - some performers need high arousal to perform well, while others perform better at lower ar"
+  },
+  {
+   "id": "27arousalinvertedu-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define arousal and explain how it affects sporting performance using the inverted-U theory. | Explain why a rugby player needs a higher optimal arousal level than a snooker player. | Describe three stress management techniques a performer can use to reduce over-arousal."
+  },
+  {
+   "id": "27arousalinvertedu-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Arousal, Inverted-U Theory (Yerkes-Dodson Law), Zone of Optimal Functioning (ZOF), and one past-paper question."
+  }
+ ]
+}

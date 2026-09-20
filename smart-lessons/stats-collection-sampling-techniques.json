@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "sampling-techniques",
+ "topicName": "sampling techniques",
+ "version": 1,
+ "steps": [
+  {
+   "id": "samplingtechniques-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A population is the entire group being studied; a sample is a subset of the population. | Key Fact: Sampling is used when studying the whole population is impractical due to time, cost or access. | Key Fact: A random sample gives every member of the population an equal chance of being selected. | Key Fact: Random sampling can be done using random number tables, calculators or computers."
+  },
+  {
+   "id": "samplingtechniques-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A school has 120 boys and 180 girls. A stratified sample of 50 students is required. Calculate how many boys and how many girls should be sampled. Explain why stratified sampling is better than simple random sampling here. <div class=\""
+  },
+  {
+   "id": "samplingtechniques-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from sampling techniques, and one past-paper question."
+  }
+ ]
+}

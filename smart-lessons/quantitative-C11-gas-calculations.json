@@ -1,0 +1,32 @@
+{
+ "subject": "chemistry",
+ "topic": "C11-gas-calculations",
+ "topicName": "gas calculations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "11gascalculations-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Molar gas volume: The volume occupied by one mole of any gas at room temperature and pressure (RTP). At RTP (20°C and 1 atm), one mole of any gas occupies 24 dm³ (or 24 000 cm³). | Room temperature and pressure (RTP): 20°C and 1 atmosphere pressure. At RTP, equal amounts in moles of any gas occupy the same volume."
+  },
+  {
+   "id": "11gascalculations-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Higher What volume does 0.5 mol of chlorine gas occupy at RTP? | Higher How many moles are in 120 dm³ of neon gas at RTP? | Higher What mass of CO₂ (M r = 44) occupies 12 dm³ at RTP?"
+  },
+  {
+   "id": "11gascalculations-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how to calculate gas volumes in reactions. <div class=\""
+  },
+  {
+   "id": "11gascalculations-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Molar gas volume, Room temperature and pressure (RTP), and one past-paper question."
+  }
+ ]
+}

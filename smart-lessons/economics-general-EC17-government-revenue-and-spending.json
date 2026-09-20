@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC17-government-revenue-and-spending",
+ "topicName": "government revenue and spending",
+ "version": 1,
+ "steps": [
+  {
+   "id": "17governmentrevenueandspending-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Government revenue comes mainly from taxation: direct taxes (income tax, corporation tax, NICs) paid directly to government, and indirect taxes (VAT, excise duties) added to prices of goods and services. | Key Fact: Direct taxes are typically progressive (higher earners pay a higher percentage — e.g. income tax with 20%, 40%, 45% bands). Indirect taxes are often regressive (they take a larger share of income from the poor — e.g. VAT on essentials). | Key Fact: Main areas of government spending: welfare benefits, healthcare (NHS), education, defence, transport, and debt interest. Welfare and health are the largest categories. | Key Fact: A budget surplus occurs when revenue exceeds spending; a budget deficit occurs when spending exceeds revenue. The UK has run deficits for most of"
+  },
+  {
+   "id": "17governmentrevenueandspending-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between direct and indirect taxation, giving two examples of each. | Explain why VAT is considered a regressive tax even though everyone pays the same rate. | Evaluate whether the government should increase income tax on higher earners to fund public services."
+  },
+  {
+   "id": "17governmentrevenueandspending-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the UK should shift from direct to indirect taxation. <div class=\""
+  },
+  {
+   "id": "17governmentrevenueandspending-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

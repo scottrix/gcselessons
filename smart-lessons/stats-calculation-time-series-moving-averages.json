@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "time-series-moving-averages",
+ "topicName": "time series &amp; moving averages",
+ "version": 1,
+ "steps": [
+  {
+   "id": "timeseriesmovingaverages-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A time series is a sequence of data values collected at regular time intervals (e.g. monthly sales, quarterly temperatures). | Key Fact: The trend is the long-term general direction of the data, ignoring short-term fluctuations; it can be increasing, decreasing, or stationary. | Key Fact: Seasonal variation is a regular, repeating pattern that occurs at fixed periods within a year (e.g. higher ice cream sales in summer). | Key Fact: Cyclical variation is a longer-term pattern that repeats over more than one year (e.g. economic boom and bust cycles); it is harder to predict than seasonal variation."
+  },
+  {
+   "id": "timeseriesmovingaverages-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A shop records its quarterly sales (£thousands) over two years. Calculate the 4-point centred moving averages and the mean seasonal variations. Q1: 12, Q2: 18, Q3: 25, Q4: 15, Q1: 14, Q2: 20, Q3: 27, Q4: 17 <div class=\""
+  },
+  {
+   "id": "timeseriesmovingaverages-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from time series &amp;amp; moving averages, and one past-paper question."
+  }
+ ]
+}

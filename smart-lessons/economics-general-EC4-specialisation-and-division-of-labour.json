@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC4-specialisation-and-division-of-labour",
+ "topicName": "specialisation and division of labour",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4specialisationanddivisionofla-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Specialisation means focusing on producing a limited range of goods or services — individuals, firms, and countries can all specialise. | Key Fact: Division of labour breaks production into separate tasks, with each worker performing one task. Adam Smith identified this as a key source of productivity gains. | Key Fact: Benefits: increased productivity, time saved (no switching tasks), specialist equipment, higher output and lower unit costs. | Key Fact: Costs: worker boredom and demotivation, over-dependence on one product or market, skills become obsolete if the industry changes."
+  },
+  {
+   "id": "4specialisationanddivisionofla-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain three benefits and two costs of the division of labour for workers and firms. | Analyse why specialisation leads to exchange and interdependence. | Evaluate whether the benefits of specialisation always outweigh the costs."
+  },
+  {
+   "id": "4specialisationanddivisionofla-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a country should specialise in producing the goods it is best at, or diversify its economy. <div class=\""
+  },
+  {
+   "id": "4specialisationanddivisionofla-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

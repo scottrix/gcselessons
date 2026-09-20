@@ -1,0 +1,26 @@
+{
+ "subject": "engineering",
+ "topic": "new-emerging-technologies",
+ "topicName": "new &amp; emerging technologies",
+ "version": 1,
+ "steps": [
+  {
+   "id": "newemergingtechnologies-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Automation uses control systems to operate equipment with minimal human intervention, improving consistency and reducing cost. | Key Fact: Industrial robots perform repetitive, precise or hazardous tasks: welding, painting, assembly and material handling. | Key Fact: CAD/CAM integration links design directly to manufacture: a CAD model generates CNC code automatically, reducing errors and lead time. | Key Fact: Industry 4.0 connects machines, sensors and systems through IoT for data-driven manufacturing."
+  },
+  {
+   "id": "newemergingtechnologies-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the impact of automation and Industry 4.0 on a medium-sized engineering manufacturer. Consider production efficiency, workforce and investment. [8 marks] <div class=\""
+  },
+  {
+   "id": "newemergingtechnologies-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from new &amp;amp; emerging technologies, and one past-paper question."
+  }
+ ]
+}

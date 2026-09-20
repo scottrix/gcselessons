@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE11-movement-analysis-sport",
+ "topicName": "movement analysis in sport",
+ "version": 1,
+ "steps": [
+  {
+   "id": "11movementanalysissport-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Shoulder joint: Ball-and-socket joint allowing a wide range of movement including flexion, extension, abduction, adduction, rotation and circumduction. | Elbow joint: Hinge joint allowing only flexion and extension. | Hip joint: Ball-and-socket joint allowing flexion, extension, abduction, adduction, rotation and circumduction. | Knee joint: Hinge joint (modified) allowing primarily flexion and extension, with slight rotation when flexed."
+  },
+  {
+   "id": "11movementanalysissport-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Identify the joint, movement and agonist muscle when a cricketer bowls the ball forward. | Describe the movement at the knee during the upward phase of a squat and name the agonist muscle. | What movement occurs at the shoulder during the arm-raising phase of a star jump? Name the agonist muscle."
+  },
+  {
+   "id": "11movementanalysissport-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Shoulder joint, Elbow joint, Hip joint, and one past-paper question."
+  }
+ ]
+}

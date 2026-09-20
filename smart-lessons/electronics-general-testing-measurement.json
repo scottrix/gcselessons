@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "testing-measurement",
+ "topicName": "testing &amp; measurement",
+ "version": 1,
+ "steps": [
+  {
+   "id": "testingmeasurement-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A multimeter measures voltage (parallel), current (series) and resistance (power off); always select the correct range and mode. | Key Fact: An oscilloscope displays voltage against time, allowing measurement of amplitude, frequency, period and wave shape. | Key Fact: Oscilloscope controls: Y-gain (V/div) sets vertical scale; timebase (ms/div or µs/div) sets horizontal scale. | Key Fact: The trigger control stabilises the display by starting the sweep at a consistent point on the waveform."
+  },
+  {
+   "id": "testingmeasurement-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe how to use an oscilloscope to measure the amplitude, frequency and wave shape of a signal, and explain how a multimeter and logic probe are used in circuit testing. <div class=\""
+  },
+  {
+   "id": "testingmeasurement-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from testing &amp;amp; measurement, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G36-economic-development-lics-nees",
+ "topicName": "economic development in lics and nees",
+ "version": 1,
+ "steps": [
+  {
+   "id": "36economicdevelopmentlicsnees-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Facts: Nigeria is located in West Africa with a population of over 220 million (2023), making it Africa's most populous country. Its GNI per head is approximately $2,160 (2022), classifying it as an NEE. Nigeria has the largest economy in Africa, with a GDP of over $440 billion. | Key Concept: Nigeria's industrial structure has changed significantly. The economy has shifted from a primary-sector-dominated economy to one with a growing secondary and tertiary sector. However, it remains heavily dependent on oil. | Definition: Transnational Corporations (TNCs) are companies that operate in more than one country. They play a major role in Nigeria's economy, particularly in the oil and telecommunications sectors. | Limitations of Aid in Nigeria: Aid effectiveness is reduced by corruption - "
+  },
+  {
+   "id": "36economicdevelopmentlicsnees-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how Nigeria's industrial structure has changed since the 1960s. | Explain the role of TNCs in Nigeria's economic development. Use the example of Shell. | Assess the environmental impacts of economic development in Nigeria."
+  },
+  {
+   "id": "36economicdevelopmentlicsnees-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Facts, Key Concept, Limitations of Aid in Nigeria, and one past-paper question."
+  }
+ ]
+}

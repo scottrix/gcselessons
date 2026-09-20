@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as19-exoplanets-astrobiology",
+ "topicName": "exoplanets &amp; astrobiology",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as19exoplanetsastrobiology-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: An exoplanet is a planet orbiting a star other than the Sun; over 5,500 have been confirmed | Key Fact: The transit method detects exoplanets by measuring the dip in a star's brightness as a planet passes in front | Key Fact: The radial velocity (Doppler) method detects the wobble of a star caused by an orbiting planet | Key Fact: The habitable zone (Goldilocks zone) is the region around a star where liquid water could exist on a planet's surface"
+  },
+  {
+   "id": "as19exoplanetsastrobiology-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from exoplanets &amp;amp; astrobiology, and one past-paper question."
+  }
+ ]
+}

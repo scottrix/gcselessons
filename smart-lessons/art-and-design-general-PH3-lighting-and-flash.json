@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "PH3-lighting-and-flash",
+ "topicName": "lighting and flash",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3lightingandflash-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Light direction dramatically changes a subject: front light = flat, even; side light = texture and depth; back light = rim lighting or silhouette. | Key Fact: Light quality: hard light (direct sun, bare flash) creates sharp shadows; soft light (overcast, softbox) creates gentle gradients. | Key Fact: The golden hour (just after sunrise/before sunset) produces warm, directional, soft light — ideal for many subjects. | Key Fact: Flash can fill shadows, freeze motion or be the primary light source — but on-camera flash creates flat, unflattering light."
+  },
+  {
+   "id": "3lightingandflash-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring lighting and flash. Annotate your process. | Research an artist or designer who works with lighting and flash. Write a critical analysis of their approach and explain how it has informed your own | Evaluate the effectiveness of your experiments with lighting and flash. Which approaches were most successful and why?"
+  },
+  {
+   "id": "3lightingandflash-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Photograph the same subject using at least three different lighting setups (e.g. natural side light, backlit silhouette, diffused window light). Annotate each describing the light quality, direction and mood created. <div class=\""
+  },
+  {
+   "id": "3lightingandflash-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Photography Exam Tips, and one past-paper question."
+  }
+ ]
+}

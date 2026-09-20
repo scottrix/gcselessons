@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS1-purpose-and-enterprise",
+ "topicName": "purpose of business and enterprise",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1purposeandenterprise-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Businesses provide goods (tangible products) and services (intangible products) to meet needs (essential) and wants (desirable but not essential). | Key Fact: Factors of production: land (natural resources), labour (human effort), capital (man-made resources), enterprise (risk-taking and organisation). | Key Fact: Opportunity cost: the benefit of the next best alternative foregone when making a decision - e.g. spending on new equipment means less available for marketing. | Key Fact: Three sectors: primary (extraction), secondary (manufacturing), tertiary (services). The UK economy is now largely tertiary (approx 80%)."
+  },
+  {
+   "id": "1purposeandenterprise-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between a need and a want, giving two examples of each. | Describe the four factors of production and explain how they work together in a business. | An entrepreneur is considering leaving a secure job to start a business. Discuss the risks and rewards of this decision."
+  },
+  {
+   "id": "1purposeandenterprise-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a stable job or starting a business is the better option for a 25-year-old with a business idea for an online clothing store. <div class=\""
+  },
+  {
+   "id": "1purposeandenterprise-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

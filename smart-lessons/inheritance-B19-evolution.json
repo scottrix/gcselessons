@@ -1,0 +1,32 @@
+{
+ "subject": "biology",
+ "topic": "B19-evolution",
+ "topicName": "evolution",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19evolution-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Evolution: The change in the inherited characteristics of a population over successive generations through the process of natural selection. This may result in the development of new species."
+  },
+  {
+   "id": "19evolution-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the process of natural selection in five steps. | Explain how the development of antibiotic-resistant bacteria provides evidence for evolution. | State three causes of extinction and give an example for each."
+  },
+  {
+   "id": "19evolution-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain natural selection and why it was initially controversial. <div class=\""
+  },
+  {
+   "id": "19evolution-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Evolution, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE7-spirometer-trace",
+ "topicName": "spirometer trace interpretation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7spirometertrace-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A spirometer is a device that measures the volume of air inspired and expired by the lungs. It produces a graph (spirometer trace) showing the volume of air breathed over time. | Tidal Volume (TV): The volume of air breathed in or out per breath at rest. Approximately 500 ml for an average adult. | Inspiratory Reserve Volume (IRV): The additional volume of air that can be forcibly inhaled after a normal tidal inspiration. Approximately 2,500-3,000 ml . | Expiratory Reserve Volume (ERV): The additional volume of air that can be forcibly exhaled after a normal tidal expiration. Approximately 1,000-1,500 ml ."
+  },
+  {
+   "id": "7spirometertrace-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define tidal volume and state its approximate value at rest. | What is the difference between inspiratory reserve volume and expiratory reserve volume? | Calculate vital capacity given: TV = 500 ml, IRV = 3,000 ml, ERV = 1,200 ml."
+  },
+  {
+   "id": "7spirometertrace-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Tidal Volume (TV), Inspiratory Reserve Volume (IRV), Expiratory Reserve Volume (ERV), and one past-paper question."
+  }
+ ]
+}

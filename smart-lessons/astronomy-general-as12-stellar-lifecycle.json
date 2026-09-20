@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as12-stellar-lifecycle",
+ "topicName": "stellar lifecycle",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as12stellarlifecycle-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Stars form in nebulae: gravity pulls gas and dust together, forming a protostar that heats up until fusion begins | Key Fact: Main sequence: the longest stable phase where hydrogen fuses to helium in the core; the Sun is currently here | Key Fact: Low-mass stars (<8 solar masses) expand to red giants, shed outer layers as planetary nebulae, leaving white dwarfs | Key Fact: High-mass stars (>8 solar masses) expand to red supergiants, then explode as supernovae, leaving neutron stars or black holes"
+  },
+  {
+   "id": "as12stellarlifecycle-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from stellar lifecycle, and one past-paper question."
+  }
+ ]
+}

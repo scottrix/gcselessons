@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO7-marriage-divorce-and-demography",
+ "topicName": "marriage, divorce & demography",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7marriagedivorceanddemography-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Marriage patterns: the marriage rate in the UK has fallen to its lowest level since records began. First marriages have declined; the average age of first marriage has risen (30 for women, 32 for men). Reasons: secularisation (less religious pressure), changing attitudes (cohabitation is now socially acceptable), women's economic independence (no longer need to marry for financial security). | Key Fact: Divorce: the divorce rate increased dramatically after the 1969 Divorce Reform Act (made 'irretrievable breakdown' sufficient grounds). Currently about 42% of marriages end in divorce. Reasons: easier divorce laws, less stigma, women's financial independence, rising expectations of marriage (Giddens: confluent love - relationships only survive while both partners are satisfied). |"
+  },
+  {
+   "id": "7marriagedivorceanddemography-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why the divorce rate has increased in the UK since the 1960s. | Describe the demographic changes affecting UK families and assess their social implications. | Evaluate whether the decline of marriage is a problem for society."
+  },
+  {
+   "id": "7marriagedivorceanddemography-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the impact of changing patterns of marriage and divorce on society. <div class=\""
+  },
+  {
+   "id": "7marriagedivorceanddemography-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, and one past-paper question."
+  }
+ ]
+}

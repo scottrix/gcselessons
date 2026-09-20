@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE25-guidance-sport",
+ "topicName": "guidance in sport",
+ "version": 1,
+ "steps": [
+  {
+   "id": "25guidancesport-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Guidance: The help and direction given to a performer to assist them in learning and developing skills. Coaches use different types of guidance to support performers at different stages of learning and for different types of skill. | Visual Guidance: Showing the performer how to perform a skill through demonstrations, videos, or diagrams. The performer watches and copies the correct technique. | Verbal Guidance: Explaining how to perform a skill using spoken instructions, coaching points, or cue words. The performer listens and interprets the information. | Manual Guidance: The coach physically moves, supports or guides the performer's body to help them experience the correct movement. This provides kinaesthetic awareness of the skill."
+  },
+  {
+   "id": "25guidancesport-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the four types of guidance used in sport and give a sporting example of each. | Explain why visual guidance is particularly effective for beginners in the cognitive stage of learning. | What is the main disadvantage of manual guidance and how can a coach address this?"
+  },
+  {
+   "id": "25guidancesport-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Guidance, Visual Guidance, Verbal Guidance, and one past-paper question."
+  }
+ ]
+}

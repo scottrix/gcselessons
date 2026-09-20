@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "physical-skills-dance",
+ "topicName": "physical skills in dance",
+ "version": 1,
+ "steps": [
+  {
+   "id": "physicalskillsdance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Physical skills are the foundation of all dance performance and underpin technical and expressive work | Key Fact: Flexibility is the range of movement at a joint and allows dancers to achieve extended lines and shapes | Key Fact: Strength is the ability of muscles to exert force and is needed for lifts, jumps and controlled movements | Key Fact: Stamina (cardiovascular endurance) enables dancers to sustain energy throughout an entire performance"
+  },
+  {
+   "id": "physicalskillsdance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from physical skills in dance, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "P1-energy-stores-and-transfers",
+ "topicName": "p1 energy stores and transfers",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1energystoresandtransfers-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Energy store: A way in which energy can be stored within a system. Energy is never created or destroyed — it is only transferred between stores. | System: An object or group of objects. You define the system to describe what is happening with energy. | Conservation of energy: Energy cannot be created or destroyed, only transferred usefully, stored or dissipated (wasted). | Dissipation: Energy that is transferred to a thermal store of the surroundings that is not useful. This is often called wasted energy."
+  },
+  {
+   "id": "1energystoresandtransfers-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Name the eight energy stores and give one example of each. | Foundation A ball falls from a height of 2 m. Describe the energy transfers that take place. | Foundation State the conservation of energy principle."
+  },
+  {
+   "id": "1energystoresandtransfers-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Describe the energy transfers that take place when a pendulum swings from its highest point to its lowest point and back again. Explain why the pendulum eventually stops. <div class=\""
+  },
+  {
+   "id": "1energystoresandtransfers-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Energy store, System, Conservation of energy, and one past-paper question."
+  }
+ ]
+}

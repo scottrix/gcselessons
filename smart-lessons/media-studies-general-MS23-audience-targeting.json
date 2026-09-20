@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS23-audience-targeting",
+ "topicName": "audience targeting & profiling",
+ "version": 1,
+ "steps": [
+  {
+   "id": "23audiencetargeting-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Audience targeting is how media producers identify, reach, and appeal to specific groups of consumers. It is central to media marketing and commercial success. | Key Fact: Demographics classify audiences by objective, measurable characteristics: age, gender, income, occupation, education, ethnicity, and location. | Key Fact: Socio-economic grading (ABC1/C2DE): A (upper middle), B (middle), C1 (lower middle), C2 (skilled working), D (working), E (non-working). Used by advertisers to target by income and class. | Key Fact: Psychographics classify audiences by personality, values, attitudes, interests, and lifestyle. Young and Rubicam's 4Cs: Mainstreamers (security), Aspirers (status), Explorers (discovery), Reformers (social change)."
+  },
+  {
+   "id": "23audiencetargeting-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how one of your CSPs targets a specific audience. [12 marks] <div class=\""
+  },
+  {
+   "id": "23audiencetargeting-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from audience targeting &amp; profiling, and one past-paper question."
+  }
+ ]
+}

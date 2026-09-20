@@ -1,0 +1,26 @@
+{
+ "subject": "latin",
+ "topic": "themes-prose-literature",
+ "topicName": "themes in prose literature",
+ "version": 1,
+ "steps": [
+  {
+   "id": "themesproseliterature-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Leadership is a central theme: Caesar presents himself as the ideal Roman general — decisive, brave, and always in control. Contrast this with Tacitus's portrait of weak or tyrannical emperors. | Key Fact: Roman imperialism: Caesar justifies conquest as bringing civilisation and order to barbarians; Tacitus questions whether empire brings freedom or oppression. | Key Fact: Virtus (manly courage/excellence) is a key Roman value: in Caesar it means military bravery; in Cicero it means moral courage to defend the Republic. | Key Fact: Pietas (duty to gods, country, and family) drives Roman heroes but can also create conflict: duty to the state vs personal loyalty."
+  },
+  {
+   "id": "themesproseliterature-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Discuss how the themes of leadership and imperialism are presented in Latin prose literature, referring to specific set text authors. (8 marks) <div class=\""
+  },
+  {
+   "id": "themesproseliterature-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from themes in prose literature, and one past-paper question."
+  }
+ ]
+}

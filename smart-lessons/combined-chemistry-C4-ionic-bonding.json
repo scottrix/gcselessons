@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "C4-ionic-bonding",
+ "topicName": "c4 ionic bonding",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4ionicbonding-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Ionic bond: The strong electrostatic attraction between oppositely charged ions. Formed when electrons are transferred from a metal atom to a non-metal atom. | Ion: An atom or group of atoms that has lost or gained electrons and now has an electrical charge. Positive ions (cations) have lost electrons; negative ions (anions) have gained electrons. | Giant ionic structure (lattice): A regular, repeating three-dimensional arrangement of positive and negative ions held together by strong ionic bonds. | Key principle: Metals lose electrons to become positive ions (cations). Non-metals gain electrons to become negative ions (anions). The opposite charges create a strong electrostatic attraction - this is the ionic bond."
+  },
+  {
+   "id": "4ionicbonding-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Describe how an ionic bond forms between a metal and a non-metal. | Foundation Draw a dot and cross diagram for the formation of lithium oxide, Li₂O. Explain why the formula is Li₂O. | Foundation Explain why ionic compounds have high melting points."
+  },
+  {
+   "id": "4ionicbonding-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain why ionic compounds have high melting points and conduct electricity when molten but not when solid. <div class=\""
+  },
+  {
+   "id": "4ionicbonding-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Ionic bond, Ion, Giant ionic structure (lattice), and one past-paper question."
+  }
+ ]
+}

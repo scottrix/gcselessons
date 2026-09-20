@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU25-melody-writing",
+ "topicName": "melody writing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "25melodywriting-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Strong melodies have clear phrase structure — typically 4-bar or 8-bar phrases with a sense of question (antecedent) and answer (consequent). | Key Fact: Develop melodies through: sequence (repeating at a different pitch), inversion (turning upside down), augmentation (stretching), fragmentation (using part of the idea). | Key Fact: Match rhythm to genre: rock riffs use syncopation and repetition; Classical melodies use balanced phrasing; jazz melodies use swing and blue notes. | Key Fact: Staff notation requirements: you must submit a score in staff notation (up to 4 sharps/flats) — notation quality affects the AO2 mark for technical control."
+  },
+  {
+   "id": "25melodywriting-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how melody writing are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use melody writing. Explain the effect in each case. | How could you use melody writing in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "25melodywriting-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compose an 8-bar melody in a specific style. Annotate your composition explaining the melodic techniques you used and how they serve the intended style. <div class=\""
+  },
+  {
+   "id": "25melodywriting-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

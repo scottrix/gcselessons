@@ -1,0 +1,20 @@
+{
+ "subject": "latin",
+ "topic": "vocabulary-derivatives",
+ "topicName": "vocabulary & english derivatives",
+ "version": 1,
+ "steps": [
+  {
+   "id": "vocabularyderivatives-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Defined Vocabulary List (DVL) contains the words that may appear in GCSE Latin translation exams — approximately 400-500 words depending on the board. | Key Fact: Learning Latin vocabulary through English derivatives is highly effective: e.g. ambulare (to walk) → ambulance; videre (to see) → video; scribere (to write) → scribe/script. | Key Fact: Common Latin prefixes: trans- (across → transport), sub- (under → submarine), pre- (before → predict), re- (back/again → return), ex/e- (out of → export). | Key Fact: Common Latin suffixes: -tion (action/state from verb stems → narration from narro), -al (pertaining to → naval from navis), -ous (full of → furious from furia)."
+  },
+  {
+   "id": "vocabularyderivatives-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from vocabulary &amp; english derivatives, and one past-paper question."
+  }
+ ]
+}

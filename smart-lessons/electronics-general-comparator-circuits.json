@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "comparator-circuits",
+ "topicName": "comparator circuits",
+ "version": 1,
+ "steps": [
+  {
+   "id": "comparatorcircuits-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A comparator compares two input voltages and switches its output to indicate which is higher; no negative feedback is used. | Key Fact: When V+ > V−, the output goes to positive saturation; when V+ < V−, the output goes to negative saturation. | Key Fact: A simple comparator has a single threshold voltage; the output switches when the input crosses this level. | Key Fact: Noise on the input signal can cause a simple comparator to chatter (switch rapidly) near the threshold."
+  },
+  {
+   "id": "comparatorcircuits-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the operation of a Schmitt trigger comparator circuit and describe how hysteresis eliminates output chatter. <div class=\""
+  },
+  {
+   "id": "comparatorcircuits-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from comparator circuits, and one past-paper question."
+  }
+ ]
+}

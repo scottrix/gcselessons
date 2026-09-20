@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI18-global-issues-sustainability",
+ "topicName": "global issues & sustainability",
+ "version": 1,
+ "steps": [
+  {
+   "id": "18globalissuessustainability-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Climate change is one of the greatest global challenges, caused by greenhouse gas emissions from burning fossil fuels. The Paris Agreement (2015) aims to limit warming to 1.5°C above pre-industrial levels. | Key Fact: The UK has committed to net zero carbon emissions by 2050 — the first major economy to do so. This requires transforming energy, transport, and industry. The Climate Change Committee monitors progress. | Key Fact: Extreme poverty has declined globally but inequality persists both between and within nations. The richest 1% own nearly half the world's wealth. Global cooperation on trade, aid, and debt relief is essential. | Key Fact: The UN Sustainable Development Goals (SDGs) set 17 targets for a better world by 2030, including: no poverty, zero hunger, quality educa"
+  },
+  {
+   "id": "18globalissuessustainability-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the view that global citizenship requires individuals to take action on climate change. [12 marks] <div class=\""
+  },
+  {
+   "id": "18globalissuessustainability-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from global issues &amp; sustainability, and one past-paper question."
+  }
+ ]
+}

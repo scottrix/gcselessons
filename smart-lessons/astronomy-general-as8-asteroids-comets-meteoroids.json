@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as8-asteroids-comets-meteoroids",
+ "topicName": "asteroids, comets &amp; meteoroids",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as8asteroidscometsmeteoroids-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Asteroids are rocky/metallic bodies, mostly found in the asteroid belt between Mars and Jupiter | Key Fact: Comets are icy bodies that develop a coma and tail when they approach the Sun | Key Fact: A comet has a nucleus (solid core), coma (gas/dust cloud) and two tails: ion tail (pointing directly away from the Sun) and dust tail (curved) | Key Fact: Short-period comets originate from the Kuiper belt; long-period comets from the Oort cloud"
+  },
+  {
+   "id": "as8asteroidscometsmeteoroids-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from asteroids, comets &amp;amp; meteoroids, and one past-paper question."
+  }
+ ]
+}

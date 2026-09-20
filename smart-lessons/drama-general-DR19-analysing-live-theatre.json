@@ -1,0 +1,32 @@
+{
+ "subject": "drama",
+ "topic": "DR19-analysing-live-theatre",
+ "topicName": "analysing live theatre",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19analysinglivetheatre-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Note-taking: write DURING the performance — focus on specific moments, not general impressions. | Key Fact: Four areas to analyse: performance (acting), design (set, costume, lighting, sound), direction (staging, pacing), and overall intention. | Key Fact: Always identify WHAT you saw, HOW it was done, and WHAT EFFECT it had on the audience. | Key Fact: Use precise terminology: 'proscenium arch' not 'normal stage'; 'gobo' not 'light pattern'; 'blocking' not 'where they stood'."
+  },
+  {
+   "id": "19analysinglivetheatre-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What should you focus on when taking notes during a live theatre performance? | Explain the difference between DESCRIBING a moment and ANALYSING it. Why does analysis score higher marks? | How would you structure your analysis of a key moment from a production you have seen?"
+  },
+  {
+   "id": "19analysinglivetheatre-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how the performers and designers created a specific atmosphere in a production you have seen. Use precise theatrical terminology. <div class=\""
+  },
+  {
+   "id": "19analysinglivetheatre-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Drama Exam Tips, and one past-paper question."
+  }
+ ]
+}

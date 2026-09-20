@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "editing-film",
+ "topicName": "editing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "editingfilm-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Editing is the process of selecting, arranging and combining shots to construct narrative, meaning and emotional impact. | Key Fact: Continuity editing creates a seamless, invisible flow that maintains spatial and temporal coherence for the viewer. | Key Fact: The 180-degree rule ensures the camera stays on one side of an imaginary line between characters to preserve screen direction and spatial consistency. | Key Fact: Shot-reverse-shot alternates between two characters in conversation, creating the impression of a natural conversational exchange."
+  },
+  {
+   "id": "editingfilm-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does editing construct meaning and create impact in a key sequence from your chosen film? <div class=\""
+  },
+  {
+   "id": "editingfilm-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Film Studies Exam Tips — Editing, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "latin",
+ "topic": "verse-literature-exam-technique",
+ "topicName": "verse literature exam technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "verseliteratureexamtechnique-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Verse literature exams test translation, analysis of poetic features, and evaluation of themes and characterisation — always with reference to the Latin text. | Key Fact: When analysing style, always PEA: Point (name the feature), Evidence (quote the Latin), Analysis (explain the effect on the reader). | Key Fact: Common poetic features to discuss: alliteration, enjambement, elision, caesura, onomatopoeia, hyperbaton, simile, metaphor, and word order. | Key Fact: For evaluation questions on character or theme, structure your answer with an introduction, 3-4 paragraphs each with a Latin quotation, and a conclusion."
+  },
+  {
+   "id": "verseliteratureexamtechnique-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from verse literature exam technique, and one past-paper question."
+  }
+ ]
+}

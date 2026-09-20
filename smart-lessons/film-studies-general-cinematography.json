@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "cinematography",
+ "topicName": "cinematography",
+ "version": 1,
+ "steps": [
+  {
+   "id": "cinematography-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Cinematography encompasses all visual choices made with the camera to create meaning and emotion in film. | Key Fact: Camera shots are defined by distance: extreme long shot establishes setting, long shot shows full body, medium shot frames waist-up, close-up fills the frame with face or object, extreme close-up isolates a tiny detail. | Key Fact: Camera angles communicate power and status: low angles make subjects appear powerful and dominant, high angles make them seem vulnerable or small, eye-level angles feel neutral and objective. | Key Fact: Dutch or canted angles create unease, disorientation and psychological instability, commonly used in horror and thriller genres."
+  },
+  {
+   "id": "cinematography-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does the cinematography in the opening sequence of your chosen film create meaning for the audience? <div class=\""
+  },
+  {
+   "id": "cinematography-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from cinematography, and one past-paper question."
+  }
+ ]
+}

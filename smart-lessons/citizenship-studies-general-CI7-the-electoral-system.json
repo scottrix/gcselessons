@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI7-the-electoral-system",
+ "topicName": "the electoral system & voting",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7theelectoralsystem-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: First Past the Post (FPTP): used for UK general elections. The country is divided into 650 constituencies; each elects one MP by simple plurality (most votes wins). Strengths: simple to understand, produces strong majority governments, clear MP-constituency link. Weaknesses: disproportional (winning party often gets a majority of seats with less than 50% of votes), wasted votes in safe seats, smaller parties under-represented. | Key Fact: Proportional representation (PR): party seats match their vote share. Used in many European countries. The Additional Member System (AMS) is used for Scottish Parliament and Welsh Senedd elections. The Single Transferable Vote (STV) is used in Northern Ireland. PR is fairer but often produces coalition governments. | Key Fact: The franchise (rig"
+  },
+  {
+   "id": "7theelectoralsystem-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the UK should replace First Past the Post with proportional representation for general elections. <div class=\""
+  },
+  {
+   "id": "7theelectoralsystem-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the electoral system &amp; voting, and one past-paper question."
+  }
+ ]
+}

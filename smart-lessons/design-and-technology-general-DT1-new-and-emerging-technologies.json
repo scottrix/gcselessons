@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT1-new-and-emerging-technologies",
+ "topicName": "new and emerging technologies",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1newandemergingtechnologies-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Industry 4.0: the Fourth Industrial Revolution — cyber-physical systems, IoT, cloud computing and automation transforming manufacturing. | Key Fact: 3D printing (additive manufacturing): builds objects layer by layer from CAD models — rapid prototyping, custom medical implants, reduced waste. | Key Fact: Robotics: automated systems replacing repetitive tasks — increases consistency, reduces labour costs, raises ethical concerns about job losses. | Key Fact: Internet of Things (IoT): everyday objects connected to the internet — smart homes, wearable tech, data-driven design decisions."
+  },
+  {
+   "id": "1newandemergingtechnologies-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how 3D printing has changed the prototype development process in product design. | Discuss the social and economic impacts of increasing automation in manufacturing. | Evaluate how the Internet of Things could influence the design of a domestic kettle."
+  },
+  {
+   "id": "1newandemergingtechnologies-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A company is considering replacing its traditional assembly line with robotic automation. Evaluate this decision, considering social, economic and environmental factors. <div class=\""
+  },
+  {
+   "id": "1newandemergingtechnologies-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

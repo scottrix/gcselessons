@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g26-geology-exam-technique",
+ "topicName": "geology exam technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g26geologyexamtechnique-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: AO1: Demonstrate knowledge and understanding of geological ideas and methods (35%) | Key Fact: AO2: Apply knowledge and understanding of geology to familiar and unfamiliar contexts (35%) | Key Fact: AO3: Analyse, interpret and evaluate geological information and methods (30%) | Key Fact: Mathematical skills: calculating gradients, using standard form, ratios, percentages, interpreting graphs"
+  },
+  {
+   "id": "g26geologyexamtechnique-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from geology exam technique, and one past-paper question."
+  }
+ ]
+}

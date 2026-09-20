@@ -1,0 +1,26 @@
+{
+ "subject": "computer-science",
+ "topic": "CS1-representing-algorithms",
+ "topicName": "representing algorithms",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1representingalgorithms-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: An algorithm is a step-by-step set of instructions that solves a specific problem. It must be finite, unambiguous, and produce a correct result for all valid inputs. | Pseudo-code: is not a real programming language. It uses structured English with programming constructs to describe algorithms without worrying about syntax rules. | Flowcharts: use standard symbols to represent different types of operations in an algorithm. Each symbol has a specific meaning. | Decomposition: means breaking down a complex problem into smaller, more manageable sub-problems. Each sub-problem can be solved independently and then combined to solve the original problem."
+  },
+  {
+   "id": "1representingalgorithms-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What shape is used in a flowchart to represent a decision? | Write pseudo-code that asks the user for a number and outputs \"Even\" if it is divisible by 2, or \"Odd\" if it is not. | Explain the difference between decomposition and abstraction."
+  },
+  {
+   "id": "1representingalgorithms-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Pseudo-code, Flowcharts, Decomposition, and one past-paper question."
+  }
+ ]
+}

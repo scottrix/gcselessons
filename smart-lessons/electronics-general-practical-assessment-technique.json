@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "practical-assessment-technique",
+ "topicName": "practical assessment technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "practicalassessmenttechnique-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The practical assessment requires you to build, test and document a circuit under controlled conditions within a set time. | Key Fact: Read the task brief completely before starting; identify the circuit to build, the measurements required and the documentation expected. | Key Fact: Plan your construction before building: identify components, plan the breadboard layout and check you have all parts. | Key Fact: Build the circuit methodically, section by section, and visually inspect each connection before powering on."
+  },
+  {
+   "id": "practicalassessmenttechnique-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe how to approach a practical circuit assessment, from reading the task brief to submitting your documented work, explaining how to maximise marks at each stage. <div class=\""
+  },
+  {
+   "id": "practicalassessmenttechnique-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from practical assessment technique, and one past-paper question."
+  }
+ ]
+}

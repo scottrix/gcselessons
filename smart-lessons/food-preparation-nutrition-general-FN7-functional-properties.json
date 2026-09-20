@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "FN7-functional-properties",
+ "topicName": "functional properties of food",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7functionalproperties-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Functional properties are the characteristics of food components that affect how they behave during preparation and cooking — they determine the texture, appearance, and structure of food products. | Key Fact: Gelatinisation: starch granules absorb water, swell, and burst when heated in liquid (above 60°C), thickening the mixture. The starch molecules (amylose and amylopectin) gelatinise, creating a gel on cooling. Used in: sauces (white sauce, gravy), soups, custard. | Key Fact: Dextrinisation: dry heat breaks down starch into dextrins (smaller carbohydrate molecules), producing browning and a sweeter taste. Used in: toast, bread crust, roasted vegetables. Over-dextrinisation produces bitter flavours (burnt toast). | Key Fact: Coagulation: proteins change from liquid to solid wh"
+  },
+  {
+   "id": "7functionalproperties-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain how the functional properties of protein are used in cooking, using specific examples. [12 marks] <div class=\""
+  },
+  {
+   "id": "7functionalproperties-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from functional properties of food, and one past-paper question."
+  }
+ ]
+}

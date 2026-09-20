@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI6-rights-and-responsibilities",
+ "topicName": "rights & responsibilities of citizens",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6rightsandresponsibilities-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Rights and responsibilities are two sides of the same citizenship coin. Rights: what you are entitled to (vote, free speech, fair trial, education, healthcare). Responsibilities: what you owe to society (obey the law, pay taxes, vote, serve on a jury, respect others' rights). | Key Fact: Legal responsibilities: obey the law (criminal and civil law apply to all), pay taxes (income tax, VAT, council tax fund public services), and serve on a jury if called (criminal trials require 12 jurors to determine guilt). Jury service is a civic duty - you can be fined for not attending without good reason. | Key Fact: Civic responsibilities: vote in elections (not legally required but considered a civic duty), engage with political issues, volunteer in the community, and treat others with res"
+  },
+  {
+   "id": "6rightsandresponsibilities-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the view that citizens have a duty to participate actively in their community and democracy. <div class=\""
+  },
+  {
+   "id": "6rightsandresponsibilities-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from rights &amp; responsibilities of citizens, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE19-high-altitude-training",
+ "topicName": "high altitude training",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19highaltitudetraining-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: High altitude training involves exercising at elevations above 2,500 metres (8,000 feet) where the air pressure and oxygen concentration are significantly lower than at sea level. This hypoxic (low oxygen) environment forces the body to adapt. | The challenge: At altitude, each breath delivers less oxygen to the blood. The heart must work harder to deliver sufficient oxygen to working muscles, meaning the same exercise intensity feels much harder than at sea level. | Erythropoiesis: The most significant adaptation. The kidneys detect the lower oxygen levels (hypoxia) and release the hormone erythropoietin (EPO) . EPO stimulates the bone marrow to produce more red blood cells, increasing the oxygen-carrying capacity of the blood. | The key benefit: When an athlete returns to sea"
+  },
+  {
+   "id": "19highaltitudetraining-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "At what altitude is high altitude training typically performed? | Explain the process of erythropoiesis and how it benefits an endurance athlete. | Why can't athletes train as hard at altitude as they can at sea level?"
+  },
+  {
+   "id": "19highaltitudetraining-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on The challenge, Erythropoiesis, The key benefit, and one past-paper question."
+  }
+ ]
+}

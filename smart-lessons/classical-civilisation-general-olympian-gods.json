@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "olympian-gods",
+ "topicName": "the olympian gods",
+ "version": 1,
+ "steps": [
+  {
+   "id": "olympiangods-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The twelve Olympian gods lived on Mount Olympus and ruled different aspects of the world | Key Fact: Zeus was king of the gods, god of the sky, thunder and justice; his symbols are the thunderbolt and eagle | Key Fact: Hera was queen of the gods, goddess of marriage and childbirth; she was famously jealous of Zeus's affairs | Key Fact: Poseidon was god of the sea, earthquakes and horses; his symbol is the trident"
+  },
+  {
+   "id": "olympiangods-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far did the Olympian gods reflect the values and concerns of ancient Greek society? (15 marks) <div class=\""
+  },
+  {
+   "id": "olympiangods-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the olympian gods, and one past-paper question."
+  }
+ ]
+}

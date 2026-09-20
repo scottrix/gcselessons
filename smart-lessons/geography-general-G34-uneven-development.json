@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G34-uneven-development",
+ "topicName": "uneven development and its consequences",
+ "version": 1,
+ "steps": [
+  {
+   "id": "34unevendevelopment-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: Development is uneven at different scales - global (between continents and countries), national (between regions within a country), and local (between neighbourhoods). This unevenness results from a combination of physical, economic, and historical factors. | Important: Physical factors alone do not determine development. Countries like Singapore (hot climate, no natural resources) and Iceland (harsh climate, remote location) are HICs because they have overcome physical disadvantages through good governance, education, and strategic economic decisions. | Definition: International migration is the movement of people from one country to another. It is a major consequence of uneven development, as people move from poorer to richer countries seeking better opportunities. | Brain D"
+  },
+  {
+   "id": "34unevendevelopment-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how one physical factor can limit the development of a country. | Describe how colonialism has contributed to uneven development. | Outline the economic causes of uneven development."
+  },
+  {
+   "id": "34unevendevelopment-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Brain Drain, and one past-paper question."
+  }
+ ]
+}

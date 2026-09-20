@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS19-ownership-control",
+ "topicName": "ownership & control",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19ownershipcontrol-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Media ownership determines who controls the production and distribution of media content, shaping what audiences see, hear, and read. | Key Fact: Conglomerates: massive corporations that own multiple media companies across different sectors — e.g. Disney (films, TV, streaming, theme parks, merchandise), Comcast (NBC, Sky, Universal). | Key Fact: Vertical integration: a company controls different stages of production and distribution — e.g. Disney makes films (Marvel), distributes them (cinema release), and streams them (Disney+). | Key Fact: Horizontal integration: a company acquires competitors at the same production stage — e.g. Disney buying 20th Century Fox, giving it more film content and market share."
+  },
+  {
+   "id": "19ownershipcontrol-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the view that concentrated media ownership threatens democracy. [15 marks] <div class=\""
+  },
+  {
+   "id": "19ownershipcontrol-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from ownership &amp; control, and one past-paper question."
+  }
+ ]
+}

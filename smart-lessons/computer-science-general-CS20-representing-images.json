@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS20-representing-images",
+ "topicName": "representing images",
+ "version": 1,
+ "steps": [
+  {
+   "id": "20representingimages-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A bitmap image is made up of a grid of small squares called pixels (picture elements). Each pixel is assigned a binary value that represents its colour. | Definition: Resolution is the number of pixels in an image, expressed as width x height. For example, 1920 x 1080 means 1920 pixels across and 1080 pixels down. | Definition: Colour depth (also called bit depth) is the number of bits used to represent the colour of each pixel. More bits per pixel means more possible colours. | Important: There is always a trade-off between file size and image quality. Higher resolution and greater colour depth produce better images but require more storage space and bandwidth."
+  },
+  {
+   "id": "20representingimages-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "An image has a resolution of 1920 x 1080 and a colour depth of 24 bits. Calculate the file size in megabytes. | What is the effect on file size if you double the width of an image but keep the height and colour depth the same? | An image uses 8-bit colour depth. How many different colours can it represent?"
+  },
+  {
+   "id": "20representingimages-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A bitmap image is 1024 × 768 pixels with 24-bit colour depth. Calculate the file size in megabytes. If the colour depth is reduced to 8 bits, calculate the new file size and the percentage reduction. [4 marks] <div class=\""
+  },
+  {
+   "id": "20representingimages-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exam Focus, GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

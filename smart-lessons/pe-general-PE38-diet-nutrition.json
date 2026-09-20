@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE38-diet-nutrition",
+ "topicName": "diet and nutrition",
+ "version": 1,
+ "steps": [
+  {
+   "id": "38dietnutrition-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Energy Balance: The relationship between the calories consumed through food and drink (energy in) and the calories expended through basal metabolic rate and physical activity (energy out). Maintaining energy balance is essential for managing body weight. | For Athletes: Performers must carefully manage energy balance to maintain optimal body composition for their sport. Endurance athletes need high calorie intake to fuel training, while athletes in weight-category sports must balance energy to make their weight class. | Carbohydrates: The body's primary and most efficient source of energy, particularly for high-intensity exercise. Carbohydrates are broken down into glucose, which is stored as glycogen in the muscles and liver. | Fats: A concentrated source of energy that provides more than"
+  },
+  {
+   "id": "38dietnutrition-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain what is meant by energy balance and how it affects body weight. | Describe the role of carbohydrates in sport. Why are complex carbohydrates preferred over simple carbohydrates in pre-event meals? | Explain why iron and calcium are particularly important minerals for athletes."
+  },
+  {
+   "id": "38dietnutrition-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Energy Balance, For Athletes, Carbohydrates, and one past-paper question."
+  }
+ ]
+}

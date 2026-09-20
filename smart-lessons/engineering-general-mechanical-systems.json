@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "mechanical-systems",
+ "topicName": "mechanical systems",
+ "version": 1,
+ "steps": [
+  {
+   "id": "mechanicalsystems-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Mechanical systems transmit and convert forces and motion using mechanisms such as gears, levers, cams and pulleys. | Key Fact: Linkages convert one type of motion to another: a bell crank converts linear motion to rotary motion; a push-pull linkage transmits motion around a corner. | Key Fact: Gear trains transmit rotary motion between shafts: spur gears for parallel shafts, bevel gears for perpendicular shafts, worm gears for right-angle high-ratio drives. | Key Fact: Gear ratio = Number of teeth on driven gear / Number of teeth on driver gear; it determines speed and torque multiplication."
+  },
+  {
+   "id": "mechanicalsystems-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from mechanical systems, and one past-paper question."
+  }
+ ]
+}

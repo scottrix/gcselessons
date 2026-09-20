@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "uk-film-contexts",
+ "topicName": "uk film contexts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "ukfilmcontexts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The contexts of British cinema — social, cultural and political — are distinct from those of Hollywood and must be understood on their own terms to analyse UK film meaningfully. | Key Fact: Post-war British cinema was shaped by the austerity of reconstruction, the birth of the welfare state and the emergence of social realism as a response to the failures and promises of post-war recovery. | Key Fact: The British New Wave of the late 1950s and 1960s emerged from a cultural context of class consciousness, industrial change and the influence of European art cinema and Documentary Film Movement traditions. | Key Fact: Thatcherism in the 1980s profoundly reshaped British society through privatisation, deindustrialisation and the attack on trade unions, generating both the social cond"
+  },
+  {
+   "id": "ukfilmcontexts-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How do the social, cultural and political contexts of your chosen UK film shape its meaning? <div class=\""
+  },
+  {
+   "id": "ukfilmcontexts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from uk film contexts, and one past-paper question."
+  }
+ ]
+}

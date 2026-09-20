@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS30-network-protocols",
+ "topicName": "network protocols",
+ "version": 1,
+ "steps": [
+  {
+   "id": "30networkprotocols-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A protocol is a set of rules that governs how data is transmitted between devices on a network. Protocols define the format, timing, sequencing, and error checking of data transmission. | Key Concept: Protocols are needed so that different devices and systems can communicate with each other. Without agreed rules, there would be no way to ensure data arrives correctly, completely, and in the right order. | Purpose: TCP ensures reliable delivery of data between devices. It breaks data into packets, numbers them, checks they all arrive, and reassembles them in the correct order. | Purpose: IP handles addressing and routing of data packets across networks. It adds source and destination IP addresses to each packet so it can be routed to the correct destination."
+  },
+  {
+   "id": "30networkprotocols-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What is a network protocol and why are protocols needed? | Explain the roles of TCP and IP and how they work together. | What is the difference between HTTP and HTTPS?"
+  },
+  {
+   "id": "30networkprotocols-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the difference between TCP and UDP, giving one example of when each would be used and justifying your choice. [4 marks] <div class=\""
+  },
+  {
+   "id": "30networkprotocols-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Purpose, Purpose, and one past-paper question."
+  }
+ ]
+}

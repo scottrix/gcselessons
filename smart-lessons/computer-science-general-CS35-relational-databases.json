@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS35-relational-databases",
+ "topicName": "relational databases",
+ "version": 1,
+ "steps": [
+  {
+   "id": "35relationaldatabases-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A database is an organised, structured collection of data that can be easily accessed, managed, and updated. A relational database stores data in multiple linked tables that relate to each other. | Definition: A table is a structured set of data organised in rows and columns. Each table stores data about one type of entity (e.g. a table for Students, a table for Courses). | Definition: A field is a single category of data within a table. Each field has a name and a data type (e.g. text, integer, date). A field stores one piece of information for each record. | Definition: A record is a single, complete set of data in a table. Each row represents one item or entity, containing values for every field."
+  },
+  {
+   "id": "35relationaldatabases-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define the terms field, record, and table in the context of a database. | What is a primary key? Why is it important? | Explain the difference between a primary key and a foreign key."
+  },
+  {
+   "id": "35relationaldatabases-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A school stores student data in a flat file with fields: StudentID, Name, TutorGroup, TutorName, TutorRoom. Explain two problems with this flat file design, and describe how a relational database would solve them. [5 marks] <div class=\""
+  },
+  {
+   "id": "35relationaldatabases-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Data Redundancy, Data Inconsistency, GCSE Computer Science Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "primary-secondary-data",
+ "topicName": "primary &amp; secondary data",
+ "version": 1,
+ "steps": [
+  {
+   "id": "primarysecondarydata-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Primary data is collected firsthand by the investigator for a specific purpose. | Key Fact: Secondary data is data that already exists, collected by someone else for a different purpose. | Key Fact: Methods of collecting primary data include experiments, surveys/questionnaires and observation. | Key Fact: An experiment involves deliberately changing a variable and measuring the effect (e.g. clinical trials)."
+  },
+  {
+   "id": "primarysecondarydata-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A student wants to compare the average rainfall in London and Manchester over the last 10 years. Should they use primary or secondary data? Justify your answer. <div class=\""
+  },
+  {
+   "id": "primarysecondarydata-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from primary &amp;amp; secondary data, and one past-paper question."
+  }
+ ]
+}

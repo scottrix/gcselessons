@@ -1,0 +1,26 @@
+{
+ "subject": "engineering",
+ "topic": "composites-other-materials",
+ "topicName": "composites &amp; other materials",
+ "version": 1,
+ "steps": [
+  {
+   "id": "compositesothermaterials-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Composites combine two or more materials to create properties superior to any individual component: a matrix plus reinforcement. | Key Fact: Carbon fibre reinforced polymer (CFRP) has an exceptionally high strength-to-weight ratio; used in aerospace, motorsport and high-performance sporting goods. | Key Fact: Glass fibre reinforced polymer (GRP/fibreglass) is strong, lightweight and corrosion-resistant; used for boat hulls, tanks and enclosures. | Key Fact: The direction of fibre reinforcement determines the strength: unidirectional fibres give maximum strength in one direction; woven cloth gives strength in two directions."
+  },
+  {
+   "id": "compositesothermaterials-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the use of CFRP versus aluminium alloy for the body panels of a high-performance sports car. Consider mechanical performance, weight, cost and manufacture. [8 marks] <div class=\""
+  },
+  {
+   "id": "compositesothermaterials-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from composites &amp;amp; other materials, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as25-satellites-space-probes",
+ "topicName": "satellites &amp; space probes",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as25satellitesspaceprobes-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Satellites orbit Earth for communications, navigation, weather forecasting, Earth observation and scientific research | Key Fact: Geostationary orbit: 35,786 km above the equator, 24-hour period, satellite appears stationary — used for comms and weather | Key Fact: Low Earth orbit (LEO): 160–2,000 km, ~90-minute period — used for Earth observation and the ISS | Key Fact: Polar orbit: passes over the poles, allowing full Earth coverage — used for mapping and reconnaissance"
+  },
+  {
+   "id": "as25satellitesspaceprobes-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from satellites &amp;amp; space probes, and one past-paper question."
+  }
+ ]
+}

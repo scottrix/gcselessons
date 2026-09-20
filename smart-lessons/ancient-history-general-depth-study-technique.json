@@ -1,0 +1,26 @@
+{
+ "subject": "ancient-history",
+ "topic": "depth-study-technique",
+ "topicName": "depth study technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "depthstudytechnique-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Depth Study (Paper 2) is worth 50% of the GCSE and lasts 1 hour 30 minutes | Key Fact: It focuses on a shorter period in much greater detail, requiring depth of knowledge and source analysis | Key Fact: Source-based questions are central to the Depth Study — you must use sources as evidence | Key Fact: The paper may ask you to evaluate the utility of a source for a specific question"
+  },
+  {
+   "id": "depthstudytechnique-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far do the sources support the view that Pericles was the most important Athenian politician of the 5th century BCE? (15 marks) <div class=\""
+  },
+  {
+   "id": "depthstudytechnique-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from depth study technique, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "biology",
+ "topic": "B10-body-defences",
+ "topicName": "body defences",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10bodydefences-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": ": The body has three lines of defence against pathogens: primary defences (physical and chemical barriers), the immune system (white blood cells), and specific immune responses (antibodies and antitoxins). | : Primary defences are the body's first line of defence. They are non-specific — they work against all pathogens, not just one type. Their job is to prevent pathogens from entering the body . | : If pathogens get past the primary defences, the immune system responds. White blood cells are the key cells of the immune system. They defend the body in three main ways : phagocytosis, producing antibodies, and producing antitoxins. | Phagocytosis: is the process by which phagocyte white blood cells engulf and digest pathogens. This is a non-specific defence — phagocytes can destroy any patho"
+  },
+  {
+   "id": "10bodydefences-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Phagocytosis, Antibodies, Antitoxins, and one past-paper question."
+  }
+ ]
+}

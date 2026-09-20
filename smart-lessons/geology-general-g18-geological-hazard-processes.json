@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g18-geological-hazard-processes",
+ "topicName": "geological hazard processes",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g18geologicalhazardprocesses-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Geological hazards arise from Earth processes that pose risk to people and property: landslides, subsidence, earthquakes, volcanic eruptions, flooding | Key Fact: Landslides (mass movement): rockfalls, slides, flows and creep; triggered by heavy rain, earthquakes, undercutting, or human activity | Key Fact: Factors affecting slope stability: angle, geology (weak layers, joints), water content (lubricates and adds weight), vegetation (stabilises or destabilises) | Key Fact: Subsidence: ground sinking due to dissolution of limestone (sinkholes), mining, or groundwater extraction"
+  },
+  {
+   "id": "g18geologicalhazardprocesses-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from geological hazard processes, and one past-paper question."
+  }
+ ]
+}

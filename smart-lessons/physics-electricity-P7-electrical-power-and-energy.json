@@ -1,0 +1,32 @@
+{
+ "subject": "physics",
+ "topic": "P7-electrical-power-and-energy",
+ "topicName": "p7 electrical power and energy",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7electricalpowerandenergy-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Power: The rate at which energy is transferred. Measured in watts (W). 1 watt = 1 joule per second. | The National Grid: A network of cables and transformers that connects power stations to consumers (homes and industry) across the UK. | Transformer: A device that changes the voltage of an alternating current (AC). Step-up transformers increase voltage; step-down transformers decrease voltage. | The National Grid: distributes electricity from power stations to consumers. To reduce energy loss in the cables, electricity is transmitted at very high voltage and low current."
+  },
+  {
+   "id": "7electricalpowerandenergy-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation A hair dryer has a power of 1200 W and is connected to a 230 V supply. Calculate the current it draws. | Foundation Explain why the National Grid uses step-up transformers at power stations. | Foundation State the colour and function of each wire in a three-core mains cable."
+  },
+  {
+   "id": "7electricalpowerandenergy-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how the National Grid transmits electricity efficiently using step-up and step-down transformers. Refer to power, current, voltage and energy loss. <div class=\""
+  },
+  {
+   "id": "7electricalpowerandenergy-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Power, The National Grid, Transformer, and one past-paper question."
+  }
+ ]
+}

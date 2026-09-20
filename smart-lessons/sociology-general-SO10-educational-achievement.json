@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO10-educational-achievement",
+ "topicName": "educational achievement & inequality",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10educationalachievement-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Social class and achievement: working-class students consistently achieve less well than middle-class students. External factors: material deprivation (poorer housing, less study space, no internet), cultural deprivation (Bernstein: restricted code vs elaborated code), cultural capital (Bourdieu: middle-class knowledge, tastes and values give advantage in school). Internal factors: streaming and labelling (Becker: teachers have an 'ideal pupil' image that is middle-class). | Key Fact: Gender and achievement: girls now outperform boys at every level (61% of girls vs 50% of boys achieve 5+ GCSEs A*-C). Reasons for girls' improvement: feminism (changed aspirations), changing family patterns (more women-headed households), employment opportunities (more jobs for women), GCSE coursewo"
+  },
+  {
+   "id": "10educationalachievement-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how social class affects educational achievement, using external and internal factors. | Evaluate why girls now outperform boys in education. | Assess the relative importance of external and internal factors in creating ethnic differences in educational achievement."
+  },
+  {
+   "id": "10educationalachievement-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the relative importance of internal and external factors in explaining social class differences in educational achievement. <div class=\""
+  },
+  {
+   "id": "10educationalachievement-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, and one past-paper question."
+  }
+ ]
+}

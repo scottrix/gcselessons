@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "shaping-forming-casting",
+ "topicName": "shaping, forming &amp; casting",
+ "version": 1,
+ "steps": [
+  {
+   "id": "shapingformingcasting-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Shaping and forming processes change the shape of material without removing it; they rely on plastic deformation. | Key Fact: Bending and folding shape sheet metal using a press brake; the bend angle, radius and material thickness are key variables. | Key Fact: Press forming (stamping) uses a punch and die to shape sheet metal in a single stroke; suitable for high-volume production. | Key Fact: Punching and blanking cut shapes from sheet metal using a press: punching removes a hole; blanking cuts out the entire shape."
+  },
+  {
+   "id": "shapingformingcasting-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from shaping, forming &amp;amp; casting, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "ancient-history",
+ "topic": "ah19-fall-of-republic",
+ "topicName": "the fall of the roman republic",
+ "version": 1,
+ "steps": [
+  {
+   "id": "ah19fallofrepublic-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Gracchi brothers (Tiberius d.133 BC, Gaius d.121 BC) tried to reform land distribution; both were killed by senatorial opposition | Key Fact: Marius reformed the army: soldiers swore loyalty to their general (not the state), giving ambitious commanders private armies | Key Fact: Sulla marched his army on Rome (88 BC) — the first time a Roman general used military force against the city itself | Key Fact: The First Triumvirate (60 BC): Caesar, Pompey and Crassus dominated politics; it was an unofficial power-sharing agreement"
+  },
+  {
+   "id": "ah19fallofrepublic-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the fall of the roman republic, and one past-paper question."
+  }
+ ]
+}

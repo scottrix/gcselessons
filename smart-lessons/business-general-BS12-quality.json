@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS12-quality",
+ "topicName": "quality",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12quality-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Quality control (QC) inspects the finished product to detect defects - it's reactive and occurs after production. Defective items are rejected or reworked. | Key Fact: Quality assurance (QA) builds quality into every stage of the production process - it's proactive and aims to prevent defects before they occur. | Key Fact: Total quality management (TQM) involves every employee in continuous quality improvement: zero defects culture, employee empowerment, and customer focus throughout the organisation. | Key Fact: ISO 9001 is an international quality standard: businesses must document processes, demonstrate consistent quality, and pass regular audits. Certification builds customer trust."
+  },
+  {
+   "id": "12quality-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between quality control and quality assurance. | Describe two ways TQM can benefit a business. | Evaluate whether a small business should invest in ISO 9001 certification."
+  },
+  {
+   "id": "12quality-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a food manufacturer should move from quality control to quality assurance. <div class=\""
+  },
+  {
+   "id": "12quality-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

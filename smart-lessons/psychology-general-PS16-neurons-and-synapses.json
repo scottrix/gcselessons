@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS16-neurons-and-synapses",
+ "topicName": "neurons & synapses",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16neuronsandsynapses-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Neurons are nerve cells that transmit electrical impulses. Three types: sensory neurons (carry signals from senses to CNS), relay neurons (connect sensory and motor neurons within the CNS), motor neurons (carry signals from CNS to muscles/glands). | Key Fact: Neuron structure: cell body (contains nucleus), dendrites (receive signals from other neurons), axon (long fibre carrying electrical impulses), myelin sheath (insulates axon, speeds up transmission), terminal buttons (release neurotransmitters at synapses). | Key Fact: Synaptic transmission: when an electrical impulse reaches the end of a neuron, it triggers release of neurotransmitters from vesicles in the terminal buttons. These cross the synaptic cleft and bind to receptors on the next neuron, triggering a new electrical "
+  },
+  {
+   "id": "16neuronsandsynapses-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the structure and function of sensory, motor and relay neurons. | Explain how synaptic transmission works, including the role of neurotransmitters. | Discuss the role of neurotransmitters in behaviour, referring to serotonin and dopamine."
+  },
+  {
+   "id": "16neuronsandsynapses-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the contribution of neuroscience to our understanding of behaviour, discussing the limitations of neurotransmitter explanations. <div class=\""
+  },
+  {
+   "id": "16neuronsandsynapses-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

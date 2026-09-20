@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS6-technology",
+ "topicName": "technology in business",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6technology-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: E-commerce allows businesses to sell online 24/7, reaching a global market with lower overhead costs than a physical shop. | Key Fact: Digital communication (email, video conferencing, social media) speeds up decision-making and enables remote/flexible working. | Key Fact: Automation and robotics increase productivity and consistency but reduce unskilled jobs and require high capital investment. | Key Fact: EPOS (Electronic Point of Sale) tracks sales in real time, manages stock levels automatically, and provides data for marketing decisions."
+  },
+  {
+   "id": "6technology-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two ways e-commerce has changed how businesses sell to customers. | Analyse the impact of automation on a manufacturing business and its workers. | Evaluate whether a small retail business should invest in an online store."
+  },
+  {
+   "id": "6technology-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a traditional bookshop should invest in an e-commerce website. <div class=\""
+  },
+  {
+   "id": "6technology-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

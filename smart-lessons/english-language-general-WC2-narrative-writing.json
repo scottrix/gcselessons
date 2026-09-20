@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "WC2-narrative-writing",
+ "topicName": "narrative writing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2narrativewriting-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Narrative writing tells a story with a beginning, middle, and end. It features characters, a plot with events, a setting, and often explores themes through conflict and resolution. | The Five-Part Structure: Exposition: Introduce characters, setting, situation Rising Action: Build tension through complications Climax: The turning point or peak of tension Falling Action: Consequences of the climax Resolution: Loose ends tied up, new equilibrium | Show Character Through Action: Instead of telling us someone is brave, show them facing fear. Instead of telling us someone is kind, show them helping another character. | Dialogue Rules: Each character should have a distinct voice Keep it realistic - people interrupt, trail off, use incomplete sentences Avoid info-dumps - don't use dia"
+  },
+  {
+   "id": "2narrativewriting-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What are the five parts of a classic story arc? | What does \"in medias res\" mean and why is it effective? | Name two ways to reveal character without directly stating traits."
+  },
+  {
+   "id": "2narrativewriting-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on The Five-Part Structure, Show Character Through Action, Dialogue Rules, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS9-globalisation-and-legislation",
+ "topicName": "globalisation and legislation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9globalisationandlegislation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Globalisation is the increasing interconnection of world economies through trade, investment, and technology - it means businesses can operate internationally more easily. | Key Fact: Multinational corporations (MNCs) operate in multiple countries: they benefit from lower labour costs and new markets but face cultural differences and complex regulations. | Key Fact: Employment law protects workers: National Minimum Wage, Working Time Regulations, Health and Safety at Work Act, Equality Act (preventing discrimination). | Key Fact: Consumer protection legislation (Consumer Rights Act 2015) ensures products are as described, fit for purpose, and of satisfactory quality - giving consumers the right to refunds, repairs, or replacements."
+  },
+  {
+   "id": "9globalisationandlegislation-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two benefits and two drawbacks of globalisation for a UK business. | Describe how the Consumer Rights Act 2015 protects customers and affects businesses. | Evaluate whether employment legislation does more harm than good to businesses."
+  },
+  {
+   "id": "9globalisationandlegislation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a UK small business should start exporting to the EU after Brexit. <div class=\""
+  },
+  {
+   "id": "9globalisationandlegislation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

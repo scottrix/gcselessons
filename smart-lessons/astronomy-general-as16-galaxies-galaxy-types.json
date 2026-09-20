@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as16-galaxies-galaxy-types",
+ "topicName": "galaxies &amp; galaxy types",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as16galaxiesgalaxytypes-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Galaxies are classified by shape: elliptical, spiral (barred and unbarred) and irregular | Key Fact: The Hubble tuning-fork diagram classifies galaxies but does not represent an evolutionary sequence | Key Fact: Elliptical galaxies range from nearly spherical (E0) to highly elongated (E7); they contain old stars and little gas/dust | Key Fact: Spiral galaxies are labelled Sa–Sd (tight to loose arms) and barred spirals SBa–SBd"
+  },
+  {
+   "id": "as16galaxiesgalaxytypes-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from galaxies &amp;amp; galaxy types, and one past-paper question."
+  }
+ ]
+}

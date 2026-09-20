@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "xenia-hospitality",
+ "topicName": "xenia (hospitality)",
+ "version": 1,
+ "steps": [
+  {
+   "id": "xeniahospitality-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Xenia was the sacred code of hospitality between guest and host, protected by Zeus Xenios | Key Fact: A good host provided food, drink, a bath, rest and a gift before asking the guest's identity | Key Fact: A good guest showed respect, did not outstay their welcome and did not make excessive demands | Key Fact: The Phaeacians (King Alcinous and Queen Arete) demonstrate ideal xenia — they host Odysseus generously"
+  },
+  {
+   "id": "xeniahospitality-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far does the Odyssey show that xenia was the most important social value in the Greek world? (15 marks) <div class=\""
+  },
+  {
+   "id": "xeniahospitality-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from xenia (hospitality), and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI16-commonwealth-international",
+ "topicName": "the commonwealth & international organisations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16commonwealthinternational-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Commonwealth is a voluntary association of 56 independent countries with a combined population of 2.5 billion people, most with historic ties to Britain through the former British Empire. | Key Fact: The Commonwealth promotes shared values: democracy, human rights, the rule of law, and sustainable development. The Commonwealth Charter sets out these principles, but membership is voluntary and enforcement is limited. | Key Fact: Commonwealth Heads of Government Meetings (CHOGM) are held every two years to discuss shared challenges and set the organisation's direction. The King is the Head of the Commonwealth. | Key Fact: The United Nations (UN) was founded in 1945 to maintain international peace, develop friendly relations, and promote human rights. It has 193 member states."
+  },
+  {
+   "id": "16commonwealthinternational-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the view that international organisations are more effective than individual nations at solving global problems. [12 marks] <div class=\""
+  },
+  {
+   "id": "16commonwealthinternational-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the commonwealth &amp; international organisations, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO1-what-is-sociology",
+ "topicName": "what is sociology?",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1whatissociology-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Sociology is the systematic study of society, social institutions, and social relationships. It investigates how society shapes human behaviour, attitudes and life chances. C. Wright Mills called this the 'sociological imagination' - seeing the link between personal troubles and public issues. | Key Fact: Sociology vs common sense: common sense is based on everyday assumptions; sociology uses systematic research methods and evidence. Example: common sense says crime is rising; official statistics show it has fallen since the 1990s. Sociology tests claims against evidence. | Key Fact: Social structures are the organised patterns of relationships and institutions that shape society: family, education, religion, economy, government. They constrain individual behaviour but are also m"
+  },
+  {
+   "id": "1whatissociology-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between sociology and common sense, using examples. | Describe what C. Wright Mills meant by the sociological imagination. | Evaluate whether individual behaviour is shaped more by social structures or personal agency."
+  },
+  {
+   "id": "1whatissociology-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the view that sociology is no different from common sense. <div class=\""
+  },
+  {
+   "id": "1whatissociology-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

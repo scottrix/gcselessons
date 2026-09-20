@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI8-political-parties",
+ "topicName": "political parties & government",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8politicalparties-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Conservative Party: centre-right, supports free market capitalism, low taxes, private enterprise, traditional values, and strong defence. Traditionally supported by business owners, middle-class and older voters. Key policies: lower taxation, privatisation, strong law and order. | Key Fact: Labour Party: centre-left, supports social justice, public services, workers' rights, and redistribution of wealth through taxation. Traditionally supported by working-class voters, trade unions and ethnic minorities. Key policies: NHS investment, higher minimum wage, nationalisation of key services. | Key Fact: Other parties: Liberal Democrats (centre, proportional representation, civil liberties, EU membership), Green Party (environmentalism, social justice, renewable energy), Reform UK (rig"
+  },
+  {
+   "id": "8politicalparties-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the UK's system of forming a government is democratic. <div class=\""
+  },
+  {
+   "id": "8politicalparties-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from political parties &amp; government, and one past-paper question."
+  }
+ ]
+}

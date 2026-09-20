@@ -1,0 +1,32 @@
+{
+ "subject": "chemistry",
+ "topic": "C5-covalent-bonding",
+ "topicName": "c5 covalent bonding",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5covalentbonding-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Covalent bond: A shared pair of electrons between two non-metal atoms. Each atom contributes one electron to the shared pair. Both atoms achieve a full outer shell. | Simple molecular substance: A substance made up of separate molecules, each containing a fixed number of atoms joined by covalent bonds (e.g. H₂O, CO₂). | Giant covalent structure: A huge network of atoms all joined by covalent bonds in a giant lattice (e.g. diamond, graphite). | Intermolecular forces: Weak forces of attraction between molecules (NOT between atoms within a molecule). These are much weaker than covalent bonds."
+  },
+  {
+   "id": "5covalentbonding-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Describe how a covalent bond forms. How is it different from an ionic bond? | Foundation Draw a dot and cross diagram for a molecule of ammonia (NH₃). | Foundation Explain why simple molecular substances have low melting and boiling points. Why is it important to mention intermolecular forces?"
+  },
+  {
+   "id": "5covalentbonding-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Compare simple molecular and giant covalent structures. <div class=\""
+  },
+  {
+   "id": "5covalentbonding-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Covalent bond, Simple molecular substance, Giant covalent structure, and one past-paper question."
+  }
+ ]
+}

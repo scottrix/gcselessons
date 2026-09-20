@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS24-audience-theories",
+ "topicName": "audience theories & debates",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24audiencetheories-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Audience theories attempt to explain the relationship between media products and audiences — how media affects people and how people use media. | Key Fact: Hypodermic needle model (1920s-1930s): media injects ideas directly into passive audiences, who are uniformly affected. Now largely discredited but still influences public concern about media effects. | Key Fact: Two-step flow model (Katz and Lazarsfeld, 1955): media messages pass through opinion leaders (influential people) who interpret and pass them on to wider audiences. More nuanced than the hypodermic model. | Key Fact: Uses and Gratifications theory (Blumler and Katz, 1974): audiences actively choose media to fulfil four needs — information/education, entertainment, social interaction, and personal identity."
+  },
+  {
+   "id": "24audiencetheories-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the usefulness of audience theories in understanding the relationship between media and audiences. [15 marks] <div class=\""
+  },
+  {
+   "id": "24audiencetheories-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from audience theories &amp; debates, and one past-paper question."
+  }
+ ]
+}

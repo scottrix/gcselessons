@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A24-types-of-sequences",
+ "topicName": "types of sequences",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24typesofsequences-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Core concepts of types of sequences"
+  },
+  {
+   "id": "24typesofsequences-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Find the nth term of: 4, 9, 14, 19, 24, ... | Find the nth term of: 2, 6, 18, 54, ... | What is the 8th triangular number?"
+  },
+  {
+   "id": "24typesofsequences-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A ball is dropped from 80 cm. Each bounce reaches 3/4 of the previous height. (a) Write the first 5 heights as a sequence. (b) What type of sequence is this? Find the nth term. (c) After which bounce is the height below 10 cm? <div class=\""
+  },
+  {
+   "id": "24typesofsequences-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from types of sequences, and one past-paper question."
+  }
+ ]
+}

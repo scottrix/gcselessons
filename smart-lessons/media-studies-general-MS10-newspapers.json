@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS10-newspapers",
+ "topicName": "newspapers & journalism",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10newspapers-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Newspapers are a key media form for informing, influencing, and reflecting public opinion. They combine written, visual, and layout codes to communicate news and comment. | Key Fact: Tabloid vs broadsheet: tabloids (The Sun, Daily Mirror) use sensational stories, large headlines, and simple language for a mass audience. Broadsheets (The Times, Guardian) use in-depth reporting, complex language, and serious analysis for an educated audience. | Key Fact: News values (Galtung and Ruge): the criteria editors use to select stories — immediacy, proximity, conflict, drama, celebrity, negativity, surprise, and size/threshold. | Key Fact: Newspaper conventions: headline, byline, lead paragraph (who, what, where, when, why), body text, photographs with captions, and page layout (above the "
+  },
+  {
+   "id": "10newspapers-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how one of your newspaper CSPs constructs its representation of a social group. [12 marks] <div class=\""
+  },
+  {
+   "id": "10newspapers-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from newspapers &amp; journalism, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "probability-fundamentals",
+ "topicName": "probability fundamentals",
+ "version": 1,
+ "steps": [
+  {
+   "id": "probabilityfundamentals-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: All probabilities lie on the 0–1 scale: 0 means impossible, 1 means certain, 0.5 means even chance | Key Fact: P(event) = number of favourable outcomes ÷ total number of equally likely outcomes for theoretical probability | Key Fact: Expected frequency = probability × number of trials; e.g. if P(green) = 0.3 and you spin 200 times, expect 60 greens | Key Fact: Relative risk = P(event in group A) ÷ P(event in group B); a relative risk of 2 means group A is twice as likely to experience the event"
+  },
+  {
+   "id": "probabilityfundamentals-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A game uses a biased coin where P(heads) = 0.6. The coin is tossed twice. Calculate the probability of getting: (a) two heads, (b) at least one tail. <div class=\""
+  },
+  {
+   "id": "probabilityfundamentals-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from probability fundamentals, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G42-issue-evaluation",
+ "topicName": "issue evaluation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "42issueevaluation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: The Issue Evaluation is Section A of AQA GCSE Geography Paper 3 (Geographical Applications). It tests your ability to use geographical skills, critical thinking, and knowledge to analyse a contemporary geographical issue. You receive pre-release resources 12 weeks before the exam. | Step-by-Step Approach: Read all resources carefully at least twice Annotate key information, patterns, and links between resources Identify the geographical issue and its key components Locate the issue spatially - use maps to understand place context Connect the resources to your wider geographical knowledge Evaluate the reliability and bias of each source | Definition: Stakeholders are individuals, groups, or organisations that have an interest in or are affected by a geographical issue. Differen"
+  },
+  {
+   "id": "42issueevaluation-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Why is it important to consider the reliability of sources in the pre-release booklet? | Explain why stakeholders often have conflicting viewpoints about geographical issues. | Describe the PEEL structure and explain how it helps you answer evaluation questions."
+  },
+  {
+   "id": "42issueevaluation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Step-by-Step Approach, Exam Technique, and one past-paper question."
+  }
+ ]
+}

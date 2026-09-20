@@ -1,0 +1,32 @@
+{
+ "subject": "statistics",
+ "topic": "S6-scatter-graphs",
+ "topicName": "s6 scatter graphs",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6scattergraphs-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A scatter graph plots two variables against each other to show the relationship between them. Each point represents one data item."
+  },
+  {
+   "id": "6scattergraphs-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What type of correlation would you expect between hours of sleep and tiredness? | A line of best fit has equation y = 3x + 5. Predict y when x = 7. | What is the difference between interpolation and extrapolation?"
+  },
+  {
+   "id": "6scattergraphs-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Data is collected on ice cream sales and temperature for 12 days: Temperature (°C): 15, 18, 20, 22, 24, 25, 26, 28, 30, 32, 33, 35 Sales (£hundreds): 5, 8, 10, 14, 16, 18, 19, 22, 25, 28, 30, 35 (a) Describe the correlation. (b) The line of best fit has equation y = 1.5x − 18. Use this to predict sales at 21°C and 40°C. (c) Which prediction is more reliable? Explain why. <div class=\""
+  },
+  {
+   "id": "6scattergraphs-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from s6 scatter graphs, and one past-paper question."
+  }
+ ]
+}

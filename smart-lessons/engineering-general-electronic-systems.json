@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "electronic-systems",
+ "topicName": "electronic systems",
+ "version": 1,
+ "steps": [
+  {
+   "id": "electronicsystems-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Electronic systems process information using electronic components: input (sensors), process (logic/programming), output (actuators). | Key Fact: Input sensors convert physical quantities to electrical signals: LDRs (light), thermistors (temperature), potentiometers (position). | Key Fact: Analogue signals vary continuously; digital signals have only two states (high/low, 1/0); ADCs convert analogue to digital. | Key Fact: Logic gates process digital signals: AND (output high only if all inputs high), OR (output high if any input high), NOT (inverts)."
+  },
+  {
+   "id": "electronicsystems-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from electronic systems, and one past-paper question."
+  }
+ ]
+}

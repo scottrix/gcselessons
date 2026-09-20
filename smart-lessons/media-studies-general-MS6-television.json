@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS6-television",
+ "topicName": "television",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6television-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Television is one of the most influential media forms, combining visual, audio, and written codes to tell stories and communicate ideas to mass and niche audiences. | Key Fact: Traditional broadcast TV used scheduling to target audiences — primetime (7-10pm) for mass audiences, late night for niche content, daytime for specific demographics. | Key Fact: Streaming services (Netflix, Amazon Prime, Disney+) have disrupted traditional broadcasting — audiences can watch what they want, when they want, on any device. | Key Fact: TV drama conventions: ensemble casts, multiple storylines, cliffhangers, series arcs, episodic and serial structures. Quality TV / 'peak TV' features cinematic production values."
+  },
+  {
+   "id": "6television-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how television conventions are used to engage audiences in one of your TV CSPs. [15 marks] <div class=\""
+  },
+  {
+   "id": "6television-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Media Studies Exam Tips — Television, and one past-paper question."
+  }
+ ]
+}

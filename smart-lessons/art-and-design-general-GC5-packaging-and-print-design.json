@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "GC5-packaging-and-print-design",
+ "topicName": "packaging and print design",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5packagingandprintdesign-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Packaging nets are 2D templates that fold into 3D containers — understanding tabs, glue flaps and die-cuts is essential. | Key Fact: Sustainable packaging considers material choice, minimal waste, recyclability and environmental impact. | Key Fact: Print processes differ: offset litho for high-volume, digital for short runs and variable data, screen for speciality finishes. | Key Fact: Information graphics use visual design to communicate data clearly — charts, diagrams, maps and infographics."
+  },
+  {
+   "id": "5packagingandprintdesign-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring packaging and print design. Annotate your process. | Research an artist or designer who works with packaging and print design. Write a critical analysis of their approach and explain how it has informed  | Evaluate the effectiveness of your experiments with packaging and print design. Which approaches were most successful and why?"
+  },
+  {
+   "id": "5packagingandprintdesign-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Design packaging for a product. Create the net, consider materials and sustainability, and design the surface graphics. Build a prototype and annotate your design decisions. <div class=\""
+  },
+  {
+   "id": "5packagingandprintdesign-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Graphic Communication Exam Tips, and one past-paper question."
+  }
+ ]
+}

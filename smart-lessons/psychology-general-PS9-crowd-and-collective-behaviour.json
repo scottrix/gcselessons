@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS9-crowd-and-collective-behaviour",
+ "topicName": "crowd & collective behaviour",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9crowdandcollectivebehaviour-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Deindividuation: losing your sense of personal identity in a crowd, which can lead to behaviour you would not normally do. Anonymity (e.g. uniforms, masks) reduces self-awareness and increases conformity to group norms. | Key Fact: Social Identity Theory (Tajfel & Turner): we derive part of our identity from group membership. Process: social categorisation -> social identification -> social comparison. This can lead to in-group favouritism and out-group discrimination. | Key Fact: Tajfel's minimal group paradigm: even when groups are assigned arbitrarily (e.g. preference for Klee vs Kandinsky), participants favoured their in-group. This shows that even meaningless group distinctions create bias. | Key Fact: Prejudice: a negative attitude towards a group based on stereotypes. Disc"
+  },
+  {
+   "id": "9crowdandcollectivebehaviour-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how deindividuation can lead to both antisocial and prosocial behaviour in crowds. | Describe Tajfel's minimal group paradigm and evaluate what it tells us about prejudice. | Evaluate methods for reducing prejudice, referring to psychological research."
+  },
+  {
+   "id": "9crowdandcollectivebehaviour-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the view that prejudice is an inevitable consequence of group membership. <div class=\""
+  },
+  {
+   "id": "9crowdandcollectivebehaviour-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

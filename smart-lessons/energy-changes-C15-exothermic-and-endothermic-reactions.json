@@ -1,0 +1,32 @@
+{
+ "subject": "chemistry",
+ "topic": "C15-exothermic-and-endothermic-reactions",
+ "topicName": "exothermic and endothermic reactions",
+ "version": 1,
+ "steps": [
+  {
+   "id": "15exothermicandendothermicreac-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Exothermic reaction: A reaction that releases energy to the surroundings, causing the temperature of the surroundings to increase. Energy is transferred from the reactants to the surroundings. | Endothermic reaction: A reaction that absorbs energy from the surroundings, causing the temperature of the surroundings to decrease. Energy is transferred from the surroundings to the reactants. | Activation energy: The minimum amount of energy that particles must have to react when they collide. Shown on reaction profiles as the energy \"hill\" from reactants to the peak. | Bond energy: The amount of energy needed to break a particular chemical bond, or the amount released when the bond forms. Breaking bonds is endothermic; making bonds is exothermic."
+  },
+  {
+   "id": "15exothermicandendothermicreac-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Define exothermic and endothermic reactions. | Foundation Classify each of the following as exothermic or endothermic: combustion, thermal decomposition, neutralisation, photosynthesis. | Higher For the reaction N₂ + 3H₂ → 2NH₃, calculate the energy change. Bond energies: N≡N = 945, H−H = 436, N−H = 391 (all kJ/mol)."
+  },
+  {
+   "id": "15exothermicandendothermicreac-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain exothermic and endothermic reactions using bond energies. <div class=\""
+  },
+  {
+   "id": "15exothermicandendothermicreac-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exothermic reaction, Endothermic reaction, Activation energy, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "food-preparation-skills",
+ "topicName": "food preparation skills",
+ "version": 1,
+ "steps": [
+  {
+   "id": "foodpreparationskills-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Mise en place means 'everything in its place' — preparing and organising all ingredients and equipment before cooking begins, ensuring efficient and safe food preparation. | Key Fact: The bridge grip is used to hold food securely when cutting: form a bridge with thumb and fingers over the food, guiding the knife underneath. Used for cutting foods in half. | Key Fact: The claw grip is used for slicing and chopping: curl fingers inward like a claw, with fingertips behind the knuckles, guiding the knife while keeping fingers safe. | Key Fact: Knife types and uses: chef's knife (general chopping), paring knife (small precision work), bread knife (serrated for bread), filleting knife (flexible for fish), carving knife (slicing cooked meat)."
+  },
+  {
+   "id": "foodpreparationskills-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from food preparation skills, and one past-paper question."
+  }
+ ]
+}

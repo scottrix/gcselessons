@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS4-research-methods-1",
+ "topicName": "research methods (part 1)",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4researchmethods1-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Experiments test cause-and-effect by manipulating the independent variable (IV) and measuring the dependent variable (DV) while controlling extraneous variables. Types: lab (high control, low ecological validity), field (natural setting, lower control), natural (IV not manipulated), quasi (pre-existing groups). | Key Fact: Observations record behaviour without manipulation. Naturalistic: in a natural setting with no intervention. Controlled: some variables regulated. Covert: participants unaware. Overt: participants aware. Participant: researcher joins the group. Non-participant: researcher observes from outside. | Key Fact: Correlations measure the relationship between two variables without establishing causation. Positive correlation: both variables increase together. Negative:"
+  },
+  {
+   "id": "4researchmethods1-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the different types of experiment used in psychological research and evaluate their strengths and weaknesses. | Explain why correlation does not equal causation, using an example from psychology. | Compare random sampling with opportunity sampling, evaluating the strengths and limitations of each."
+  },
+  {
+   "id": "4researchmethods1-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the use of experiments and observations in psychological research, considering when each method is most appropriate. <div class=\""
+  },
+  {
+   "id": "4researchmethods1-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

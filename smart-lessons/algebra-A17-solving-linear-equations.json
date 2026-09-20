@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A17-solving-linear-equations",
+ "topicName": "solving linear equations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "17solvinglinearequations-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Linear equation: An equation where the highest power of the variable is 1. | Goal: Find the value of the unknown that makes the equation true. Use inverse operations to isolate the variable."
+  },
+  {
+   "id": "17solvinglinearequations-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Solve: x + 9 = 15 | Solve: 5x = 35 | Solve: 3x - 7 = 11"
+  },
+  {
+   "id": "17solvinglinearequations-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A rectangle has length (2x + 1) cm and width (x + 3) cm. The perimeter equals the area. (a) Write an equation. (b) Solve to find x. (c) Find the dimensions of the rectangle. <div class=\""
+  },
+  {
+   "id": "17solvinglinearequations-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Linear equation, Goal, and one past-paper question."
+  }
+ ]
+}

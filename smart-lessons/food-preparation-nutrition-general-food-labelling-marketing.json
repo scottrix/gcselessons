@@ -1,0 +1,20 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "food-labelling-marketing",
+ "topicName": "food labelling & marketing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "foodlabellingmarketing-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Food labels are legally required to provide: name of the food, ingredients list (in descending order of weight), allergen information, net quantity, use-by or best-before date, storage instructions, and name/address of the manufacturer. | Key Fact: The traffic light labelling system uses colour coding: green (low — healthier choice), amber (moderate), red (high — eat in smaller amounts or less often) for fat, saturated fat, sugars, and salt. | Key Fact: Use-by dates are about safety: food should NOT be eaten after its use-by date, even if it looks and smells fine (particularly for high-risk foods like meat and dairy). | Key Fact: Best-before dates are about quality: food is at its best before this date but is usually still safe to eat afterwards (e.g. dried pasta, tinned goods)."
+  },
+  {
+   "id": "foodlabellingmarketing-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from food labelling &amp; marketing, and one past-paper question."
+  }
+ ]
+}

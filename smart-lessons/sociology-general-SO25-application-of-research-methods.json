@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO25-application-of-research-methods",
+ "topicName": "application of research methods",
+ "version": 1,
+ "steps": [
+  {
+   "id": "25applicationofresearchmethods-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Studying families: sensitive topics (divorce, domestic violence). Questionnaires miss depth; interviews capture experiences but may distress; observations are intrusive. Official statistics provide marriage/divorce rates. | Key Fact: Studying education: access requires permission (gatekeepers). Questionnaires survey many quickly; interviews explore experiences; observations see classroom dynamics (Hawthorne effect); statistics show exam results; documents include Ofsted reports. | Key Fact: Studying crime: victim surveys capture unreported crime; self-report studies reveal hidden offending; observations study deviant subcultures (ethical issues); statistics are readily available but distorted; field experiments test discrimination. | Key Fact: Choosing methods: practical (time, m"
+  },
+  {
+   "id": "25applicationofresearchmethods-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "A researcher wants to study the impact of divorce on children. Evaluate which method would be most appropriate. | Compare the practical and ethical issues of researching crime vs education. | Evaluate whether triangulation always produces better research than a single method."
+  },
+  {
+   "id": "25applicationofresearchmethods-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the factors sociologists should consider when choosing a research method. <div class=\""
+  },
+  {
+   "id": "25applicationofresearchmethods-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

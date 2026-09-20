@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "R15-instantaneous-rate-change",
+ "topicName": "instantaneous rate of change",
+ "version": 1,
+ "steps": [
+  {
+   "id": "15instantaneousratechange-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Higher Tier Only: The instantaneous rate of change at a point on a curve is the gradient of the tangent to the curve at that point."
+  },
+  {
+   "id": "15instantaneousratechange-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "A tangent at (4, 12) on a curve passes through (2, 4) and (6, 20). Find the gradient. | On a distance-time graph, the tangent at t = 5s has gradient 8. What is the instantaneous speed? | A tangent is drawn at (2, 9). If the tangent passes through (0, 1), what is the gradient?"
+  },
+  {
+   "id": "15instantaneousratechange-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Water is poured into a cone. The volume of water V cm³ after t seconds is shown on a V-t graph that curves upwards. At t = 4, V = 30. A tangent drawn at this point passes through (2, 12) and (6, 60). (a) Find the instantaneous rate of change at t = 4. (b) The average rate of change from t = 0 to t = 4 is 7.5 cm³/s. Is the instantaneous rate at t = 4 greater or less than the average? What does this tell you about the graph? (c) Explain why the rate of change increases over time for water filling a cone. <div class=\""
+  },
+  {
+   "id": "15instantaneousratechange-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Higher Tier Only, and one past-paper question."
+  }
+ ]
+}

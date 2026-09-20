@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS21-addiction",
+ "topicName": "addiction",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21addiction-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Addiction is a chronic disorder characterised by compulsive engagement in rewarding stimuli despite harmful consequences. Physical dependence: body needs the substance to function normally (withdrawal symptoms without it). Psychological dependence: emotional/mental need (craving, inability to cope without it). | Key Fact: Biological explanation: the mesolimbic dopamine pathway (reward pathway). Addictive substances and behaviours cause dopamine release in the nucleus accumbens, producing pleasure. Repeated use reduces natural dopamine response, requiring more of the substance to achieve the same effect (tolerance). Genetic vulnerability: inherited differences in dopamine receptor genes. | Key Fact: Learning theory explanation: classical conditioning - environmental cues become as"
+  },
+  {
+   "id": "21addiction-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how the dopamine reward pathway contributes to addiction. | Compare biological and learning theory explanations of addiction. | Evaluate treatments for addiction, considering both biological and psychological approaches."
+  },
+  {
+   "id": "21addiction-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether biological or learning theory provides a better explanation of addiction. <div class=\""
+  },
+  {
+   "id": "21addiction-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

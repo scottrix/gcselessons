@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "international-film-movements",
+ "topicName": "international film movements",
+ "version": 1,
+ "steps": [
+  {
+   "id": "internationalfilmmovements-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Film movements are coherent groups of filmmakers who share aesthetic principles, production methods and ideological commitments during a specific historical period. | Key Fact: Italian Neo-Realism emerged after World War II, rejecting studio artificiality in favour of location shooting, non-professional actors and stories about working-class struggle. | Key Fact: The French New Wave of the late 1950s and 1960s challenged mainstream French cinema with location filming, handheld camera, jump cuts and self-reflexive storytelling. | Key Fact: German Expressionism of the 1920s used distorted set design, exaggerated shadows and stylised performance to convey psychological turmoil and social anxiety in post-World War I Germany."
+  },
+  {
+   "id": "internationalfilmmovements-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How did the social and historical context of post-World War I Germany shape the visual style of German Expressionist cinema? <div class=\""
+  },
+  {
+   "id": "internationalfilmmovements-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from international film movements, and one past-paper question."
+  }
+ ]
+}

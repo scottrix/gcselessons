@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS16-converting-number-bases",
+ "topicName": "converting number bases",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16convertingnumberbases-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "You need to be able to convert between all three number bases: decimal (base 10), binary (base 2), and hexadecimal (base 16). There are six possible conversions to master. | Method: Write out the binary place values above each bit. Add up all the place values where there is a 1. Ignore positions with a 0. | Method: Repeatedly divide the decimal number by 2. Record the remainder each time (it will always be 0 or 1). Read the remainders from bottom to top to get the binary number. | Method: Find the largest power of 2 that fits into the number. Subtract it and put a 1 in that position. Repeat with the remainder. Put 0s in positions where the power doesn't fit."
+  },
+  {
+   "id": "16convertingnumberbases-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Convert binary 11001010 to decimal. | Convert decimal 200 to binary (8 bits). | Convert hex A5 to decimal."
+  },
+  {
+   "id": "16convertingnumberbases-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Convert the hexadecimal number 3F to binary and then to decimal. Show all working. [3 marks] <div class=\""
+  },
+  {
+   "id": "16convertingnumberbases-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Method, Method, Method, and one past-paper question."
+  }
+ ]
+}

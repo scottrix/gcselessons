@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS10-data-structures",
+ "topicName": "data structures",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10datastructures-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Data structures: are ways of organising and storing data so it can be accessed and modified efficiently. At GCSE, you need to know about arrays (1D and 2D) and records. | A 1D array: is an indexed collection of items of the same data type stored under one name. Each item is called an element and is accessed using its index (position number). Arrays are zero-indexed in most languages - the first element is at index 0. | A 2D array: is an array of arrays - a grid with rows and columns. Each element is accessed using two indices: the row index and the column index. Think of it like a table or spreadsheet. | A record: is a data structure that groups related fields of different data types under one name. Each field has a name and can hold a different type of data. Records are ideal for represen"
+  },
+  {
+   "id": "10datastructures-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Write pseudo-code to declare an array of 5 temperatures and output the third temperature. | Write pseudo-code that finds the sum of all elements in the array [10, 20, 30, 40, 50]. | A 2D array represents a 3x3 tic-tac-toe board. How would you access the centre square?"
+  },
+  {
+   "id": "10datastructures-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A program needs to store the names and test scores of 5 students. Explain why a record is more suitable than two separate arrays, and write pseudo-code to declare and use this data structure. [5 marks] <div class=\""
+  },
+  {
+   "id": "10datastructures-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Data structures, A 1D array, A 2D array, and one past-paper question."
+  }
+ ]
+}

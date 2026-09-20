@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g6-minerals-their-properties",
+ "topicName": "minerals &amp; their properties",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g6mineralstheirproperties-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A mineral is a naturally occurring, inorganic solid with a definite chemical composition and crystalline structure | Key Fact: Silicates (containing SiO4 tetrahedra) are the most common mineral group, making up ~90% of Earth's crust | Key Fact: Key properties for mineral identification: hardness (Mohs scale 1-10), cleavage, fracture, lustre, colour, streak, density and crystal habit | Key Fact: Common rock-forming minerals: quartz, feldspar, mica, calcite, olivine, pyroxene, amphibole"
+  },
+  {
+   "id": "g6mineralstheirproperties-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from minerals &amp;amp; their properties, and one past-paper question."
+  }
+ ]
+}

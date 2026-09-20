@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "statistical-enquiry-cycle-practice",
+ "topicName": "statistical enquiry cycle in practice",
+ "version": 1,
+ "steps": [
+  {
+   "id": "statisticalenquirycyclepractic-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Statistical Enquiry Cycle has four stages: (1) Plan (hypothesis and strategy), (2) Collect (obtain data), (3) Process (calculate and represent), (4) Interpret (analyse and conclude) | Key Fact: Exam questions often ask you to identify which stage a given task belongs to or to describe what happens at each stage | Key Fact: Planning includes: writing a clear hypothesis, identifying the population, choosing a sampling method, deciding what data to collect and how to collect it | Key Fact: Data collection includes: designing data collection sheets, pilot studies, dealing with non-response, and ensuring data is reliable and unbiased"
+  },
+  {
+   "id": "statisticalenquirycyclepractic-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A researcher investigates the hypothesis: ‘People who walk to work have lower blood pressure than people who drive to work.’ They take a random sample of 50 walkers and 50 drivers from a city and measure their blood pressure. (a) Describe the data collection stage. (b) Write a conclusion if the median blood pressure for walkers is 120/78 and for drivers is 134/86. <div class=\""
+  },
+  {
+   "id": "statisticalenquirycyclepractic-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from statistical enquiry cycle in practice, and one past-paper question."
+  }
+ ]
+}

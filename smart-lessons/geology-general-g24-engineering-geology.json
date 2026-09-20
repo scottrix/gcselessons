@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g24-engineering-geology",
+ "topicName": "engineering geology",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g24engineeringgeology-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Engineering geology applies geological knowledge to civil engineering: site investigation, rock properties, and hazard assessment | Key Fact: Site investigation: desk study, walkover survey, boreholes, trial pits, geophysical surveys, and laboratory testing | Key Fact: Key rock properties: strength, permeability, porosity, discontinuities (joints, faults), and weathering grade | Key Fact: Foundation design depends on bearing capacity: strong bedrock supports heavy structures; weak clay requires deep foundations"
+  },
+  {
+   "id": "g24engineeringgeology-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from engineering geology, and one past-paper question."
+  }
+ ]
+}

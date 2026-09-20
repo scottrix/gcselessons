@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "boolean-algebra",
+ "topicName": "boolean algebra",
+ "version": 1,
+ "steps": [
+  {
+   "id": "booleanalgebra-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Boolean algebra uses variables with values 0 or 1; operations are AND (·), OR (+) and NOT (overbar). | Key Fact: Identity laws: A + 0 = A, A · 1 = A; null element laws: A + 1 = 1, A · 0 = 0. | Key Fact: Idempotent laws: A + A = A, A · A = A; complement laws: A + Ā = 1, A · Ā = 0. | Key Fact: Commutative: A + B = B + A, A · B = B · A; Associative: (A + B) + C = A + (B + C)."
+  },
+  {
+   "id": "booleanalgebra-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response State De Morgan's laws and show how they can be used to convert an AND-OR logic circuit into an equivalent circuit using only NAND gates. <div class=\""
+  },
+  {
+   "id": "booleanalgebra-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from boolean algebra, and one past-paper question."
+  }
+ ]
+}

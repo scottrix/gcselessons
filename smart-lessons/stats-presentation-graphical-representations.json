@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "graphical-representations",
+ "topicName": "graphical representations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "graphicalrepresentations-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A bar chart uses rectangular bars to represent frequencies; the height of each bar is proportional to the frequency of the category. | Key Fact: A dual (comparative) bar chart shows two datasets side by side for each category, allowing direct comparison between groups. | Key Fact: A compound (stacked) bar chart stacks sub-categories within each bar; the total bar height shows the overall total for each category. | Key Fact: Bar charts are used for discrete or qualitative data; the bars should have equal width and gaps between them."
+  },
+  {
+   "id": "graphicalrepresentations-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response The grouped frequency table shows the marks of 40 students in a test. Draw a cumulative frequency curve and use it to find the median and interquartile range. 0–20: 4, 20–40: 8, 40–60: 16, 60–80: 8, 80–100: 4 <div class=\""
+  },
+  {
+   "id": "graphicalrepresentations-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from graphical representations, and one past-paper question."
+  }
+ ]
+}

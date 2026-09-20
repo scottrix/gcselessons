@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE21-warm-up-cool-down",
+ "topicName": "warm up and cool down",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21warmupcooldown-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A warm up is a period of light exercise that prepares the body for more strenuous activity. It gradually increases heart rate, body temperature and blood flow to working muscles. | Exam Tip: Dynamic stretching is recommended for warm ups. Static stretching is more appropriate for cool downs. Make sure you know the difference. | Definition: A cool down is a period of light exercise after strenuous activity that allows the body to gradually return to its resting state. It helps remove waste products and speeds up recovery. | EPOC (Excess Post-exercise Oxygen Consumption): The elevated oxygen intake after exercise that helps repay the oxygen debt and supports the breakdown of lactic acid. An active cool down supports EPOC more effectively than complete rest."
+  },
+  {
+   "id": "21warmupcooldown-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name the four phases of a warm up in the correct order. | Explain how a pulse raiser reduces the risk of injury during exercise. | Why is dynamic stretching preferred over static stretching in a warm up?"
+  },
+  {
+   "id": "21warmupcooldown-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exam Tip, PE Exam Tips — Warm Up and Cool Down, and one past-paper question."
+  }
+ ]
+}

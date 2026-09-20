@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS5-media-contexts",
+ "topicName": "media contexts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5mediacontexts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Media contexts are the social, cultural, political, historical, and economic circumstances in which media products are produced and consumed. Context shapes meaning. | Key Fact: Social context: the social issues and attitudes at the time of production — e.g. changing attitudes to gender, race, and sexuality are reflected in media representations. | Key Fact: Cultural context: the shared values, beliefs, and practices of a society or group — media products both reflect and shape culture. British media has distinct cultural codes different from American. | Key Fact: Political context: the political environment affects media — regulation, funding, government policy, and political events all shape what media is produced and how. Public service broadcasting exists because of political"
+  },
+  {
+   "id": "5mediacontexts-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain how social and cultural contexts have influenced the representations in one of your CSPs. [12 marks] <div class=\""
+  },
+  {
+   "id": "5mediacontexts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from media contexts, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "statistical-enquiry-cycle",
+ "topicName": "statistical enquiry cycle",
+ "version": 1,
+ "steps": [
+  {
+   "id": "statisticalenquirycycle-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Statistical Enquiry Cycle (SEC) is a structured approach to carrying out a statistical investigation. | Key Fact: The five/six stages are: Plan, Collect, Process, Present, Interpret and Evaluate. | Key Fact: Some specifications list five stages (combining Interpret and Evaluate); others list six. | Key Fact: Plan: Define the hypothesis, identify variables, decide on methods and sample."
+  },
+  {
+   "id": "statisticalenquirycycle-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A student investigates whether taller people have larger shoe sizes. They collect heights and shoe sizes from 30 classmates, calculate the mean for each group, draw a scatter graph and conclude the hypothesis is supported. Identify the stage for each action. <div class=\""
+  },
+  {
+   "id": "statisticalenquirycycle-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from statistical enquiry cycle, and one past-paper question."
+  }
+ ]
+}

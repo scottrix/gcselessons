@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "P2-conservation-and-efficiency",
+ "topicName": "p2 conservation and efficiency",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2conservationandefficiency-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Conservation of energy: Energy can be transferred usefully, stored or dissipated, but it can never be created or destroyed. | Efficiency: A measure of how much of the total energy input to a device is transferred usefully. The greater the proportion of useful energy, the more efficient the device. | Useful energy: Energy transferred to the output store that is the intended purpose of the device. | Wasted energy: Energy that is transferred to stores other than the useful output — usually the thermal store of the surroundings."
+  },
+  {
+   "id": "2conservationandefficiency-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation A device has a total energy input of 1000 J. The useful energy output is 700 J. Calculate the efficiency as a percentage. | Foundation State why no machine can be 100% efficient (except an electric heater). | Foundation A motor has an input power of 400 W and an efficiency of 75%. Calculate the useful output power."
+  },
+  {
+   "id": "2conservationandefficiency-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain why no device (except an electric heater) can be 100% efficient, and describe two ways to improve the efficiency of a machine with moving parts. <div class=\""
+  },
+  {
+   "id": "2conservationandefficiency-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Conservation of energy, Efficiency, Useful energy, and one past-paper question."
+  }
+ ]
+}

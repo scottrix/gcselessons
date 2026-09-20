@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS10-language-and-thought",
+ "topicName": "language & thought",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10languageandthought-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Sapir-Whorf hypothesis (linguistic relativity): the language we speak shapes how we think. Strong version (linguistic determinism): language completely determines thought. Weak version (linguistic relativity): language influences thought but doesn't completely determine it. | Key Fact: Piaget's view: thought precedes language. Children must understand a concept before they can use the word for it (e.g. they must understand conservation before they can talk about it). Language reflects cognitive development rather than driving it. | Key Fact: Vygotsky's view: language enables thought. Inner speech (talking to yourself) develops from social speech and helps organise thinking. Language and thought initially develop separately, then merge around age 2 - language becomes a tool fo"
+  },
+  {
+   "id": "10languageandthought-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the Sapir-Whorf hypothesis and evaluate the strong and weak versions. | Compare Piaget's and Vygotsky's views on the relationship between language and thought. | Evaluate whether language determines how we think, using research evidence."
+  },
+  {
+   "id": "10languageandthought-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether language shapes the way we think, or whether thought is independent of language. <div class=\""
+  },
+  {
+   "id": "10languageandthought-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

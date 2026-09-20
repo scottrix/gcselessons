@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO24-data-and-interpretation",
+ "topicName": "data & interpretation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24dataandinterpretation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Quantitative data: numerical, can be statistically analysed. Strengths: objective, easy to compare, identifies patterns. Limitations: lacks depth, doesn't explain WHY. Qualitative data: words, rich, detailed. Strengths: captures meaning. Limitations: subjective, hard to generalise. | Key Fact: Primary data: collected by the researcher. Strengths: designed for the question, up-to-date. Limitations: time-consuming. Secondary data: collected by others. Strengths: free, large-scale. Limitations: may lack what's needed. | Key Fact: Correlation does NOT prove causation: two variables change together but a third variable may explain both. Example: poverty and crime rates correlate but deprivation may cause both. | Key Fact: Evaluating evidence: consider source (bias?), sample (represent"
+  },
+  {
+   "id": "24dataandinterpretation-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between quantitative and qualitative data, evaluating when each is most useful. | Explain why correlation does not prove causation. | A newspaper reports 'crime is rising' based on police statistics. Evaluate this evidence."
+  },
+  {
+   "id": "24dataandinterpretation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the importance of using both quantitative and qualitative data in sociological research. <div class=\""
+  },
+  {
+   "id": "24dataandinterpretation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

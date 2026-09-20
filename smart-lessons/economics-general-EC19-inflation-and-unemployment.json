@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC19-inflation-and-unemployment",
+ "topicName": "inflation and unemployment",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19inflationandunemployment-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Inflation is a sustained rise in the general price level, measured by the Consumer Price Index (CPI). The UK target is 2% CPI inflation. | Key Fact: Demand-pull inflation: too much demand chasing too few goods (e.g. booming economy). Cost-push inflation: rising production costs push prices up (e.g. higher oil prices, wage increases). | Key Fact: Unemployment is when people able and willing to work cannot find jobs. Types: cyclical (recession), structural (skills mismatch), frictional (between jobs), seasonal (tourism, agriculture). | Key Fact: Consequences of inflation: reduces purchasing power (especially for those on fixed incomes), savers lose value, uncertainty discourages investment, and UK exports become less competitive."
+  },
+  {
+   "id": "19inflationandunemployment-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between demand-pull and cost-push inflation, giving a cause of each. | Describe three types of unemployment and explain what causes each. | Evaluate why there may be a trade-off between inflation and unemployment in the short run."
+  },
+  {
+   "id": "19inflationandunemployment-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the government should prioritise reducing inflation or reducing unemployment. <div class=\""
+  },
+  {
+   "id": "19inflationandunemployment-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

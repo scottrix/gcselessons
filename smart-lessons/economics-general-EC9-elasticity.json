@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC9-elasticity",
+ "topicName": "price elasticity",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9elasticity-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: PED = % change in quantity demanded / % change in price. |PED| > 1 = elastic; |PED| < 1 = inelastic. | Key Fact: Factors affecting PED: substitutes (more = more elastic), necessity vs luxury (necessities = inelastic), proportion of income (larger = more elastic), time (more elastic long-term). | Key Fact: PES = % change in quantity supplied / % change in price. PES > 1 = elastic supply; PES < 1 = inelastic. More elastic with spare capacity, easy switching, and longer time. | Key Fact: If demand is inelastic, raising price increases revenue (petrol, cigarettes). If elastic, raising price reduces revenue."
+  },
+  {
+   "id": "9elasticity-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Calculate PED if price rises from £10 to £12 and quantity falls from 100 to 80. Is demand elastic or inelastic? | Explain three factors that make demand price inelastic. | Evaluate why understanding PED is important for a business setting pricing strategy."
+  },
+  {
+   "id": "9elasticity-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a government should tax goods with inelastic demand or elastic demand to raise the most revenue. <div class=\""
+  },
+  {
+   "id": "9elasticity-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

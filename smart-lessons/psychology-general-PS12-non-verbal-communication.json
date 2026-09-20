@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS12-non-verbal-communication",
+ "topicName": "non-verbal communication",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12nonverbalcommunication-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Non-verbal communication (NVC) conveys meaning without words: body language (posture, gestures), facial expressions (emotions), eye contact (interest, honesty), proxemics (use of personal space), and paralinguistics (tone, pitch, speed of voice). | Key Fact: Facial expressions: Ekman found six basic emotions expressed universally across cultures - happiness, sadness, anger, fear, surprise, disgust. This suggests facial expressions are innate (supporting nature). However, display rules (cultural rules about when to show emotions) affect how freely people express them. | Key Fact: Eye contact: signals interest and attention. Too little suggests dishonesty or disinterest; too much can feel threatening. Cultural differences: in some cultures, direct eye contact with authority is resp"
+  },
+  {
+   "id": "12nonverbalcommunication-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the key types of non-verbal communication and explain how each conveys meaning. | Evaluate whether facial expressions are universal or culturally specific, using research evidence. | Explain how proxemics can affect social interactions, referring to Hall's zones of personal space."
+  },
+  {
+   "id": "12nonverbalcommunication-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the claim that non-verbal communication is more important than verbal communication in social interaction. <div class=\""
+  },
+  {
+   "id": "12nonverbalcommunication-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

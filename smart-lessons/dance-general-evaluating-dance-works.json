@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "evaluating-dance-works",
+ "topicName": "evaluating dance works",
+ "version": 1,
+ "steps": [
+  {
+   "id": "evaluatingdanceworks-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Evaluation means making informed judgements about how effectively a dance communicates its intention | Key Fact: Effective evaluation requires clear criteria — such as how well movement, structure and design serve the intention | Key Fact: Evaluation builds on description and analysis — you must first understand what happens and how it works | Key Fact: A judgement must always be supported with specific evidence from the dance"
+  },
+  {
+   "id": "evaluatingdanceworks-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from evaluating dance works, and one past-paper question."
+  }
+ ]
+}

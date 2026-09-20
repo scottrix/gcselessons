@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "nea-task-1-food-investigation",
+ "topicName": "nea task 1: food investigation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "neatask1foodinvestigation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: NEA Task 1 is a food investigation worth 15% of the total GCSE grade (AQA 8585). It is completed in controlled conditions over approximately 10 hours. | Key Fact: The investigation assesses students' understanding of the working characteristics, functional properties, and chemical processes of ingredients. | Key Fact: Task 1 involves: researching the given brief, conducting practical experiments, recording results, and writing a scientific report (1,500–2,000 words plus supporting evidence). | Key Fact: A typical Task 1 brief might ask you to investigate how different raising agents affect the volume and texture of a sponge cake, or how different fats affect pastry shortness."
+  },
+  {
+   "id": "neatask1foodinvestigation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response You are investigating how different raising agents affect the volume and texture of a sponge cake. Describe how you would conduct this investigation, including variables and how you would ensure reliable results. (8 marks) <div class=\""
+  },
+  {
+   "id": "neatask1foodinvestigation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from nea task 1: food investigation, and one past-paper question."
+  }
+ ]
+}

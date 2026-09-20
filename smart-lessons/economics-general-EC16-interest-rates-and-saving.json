@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC16-interest-rates-and-saving",
+ "topicName": "interest rates, saving and borrowing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16interestratesandsaving-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: An interest rate is the cost of borrowing or the reward for saving, expressed as a percentage of the amount. | Key Fact: Higher interest rates: encourage saving (better returns), discourage borrowing (more expensive loans), reduce spending (mortgages cost more, less disposable income), and reduce business investment (borrowing costs rise). | Key Fact: Lower interest rates: discourage saving, encourage borrowing and spending, stimulate investment, and can lead to inflation if demand grows too fast. | Key Fact: The Bank of England sets the base interest rate to control inflation — raising rates to cool the economy, lowering to stimulate it."
+  },
+  {
+   "id": "16interestratesandsaving-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how a rise in interest rates affects consumers' decisions to save, borrow, and spend. | Explain how a fall in interest rates might affect a firm's decision to invest in new equipment. | Evaluate whether the Bank of England should raise interest rates when inflation is rising."
+  },
+  {
+   "id": "16interestratesandsaving-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the impact of a significant rise in interest rates on first-time homebuyers and on pensioners with savings. <div class=\""
+  },
+  {
+   "id": "16interestratesandsaving-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

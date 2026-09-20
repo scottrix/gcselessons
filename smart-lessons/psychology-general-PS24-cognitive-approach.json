@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS24-cognitive-approach",
+ "topicName": "the cognitive approach",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24cognitiveapproach-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The cognitive approach focuses on internal mental processes: perception, memory, thinking, problem-solving, attention, and language. It treats the mind like a computer: input (sensory information) -> processing (thinking) -> output (behaviour). | Key Fact: Schemas: mental frameworks that organise knowledge and expectations. They help us process information quickly but can lead to biases and errors. Schemas develop through experience and affect how we interpret new information (e.g. Bartlett's 'War of the Ghosts' study showed participants distorted a story to fit their cultural schemas). | Key Fact: Cognitive biases: systematic errors in thinking that affect decisions and judgements. Confirmation bias: seeking information that confirms existing beliefs. Anchoring: relying too heav"
+  },
+  {
+   "id": "24cognitiveapproach-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the key assumptions of the cognitive approach and explain how schemas influence behaviour. | Evaluate the cognitive approach, comparing it with the biological approach. | Explain how cognitive biases affect decision-making, giving examples."
+  },
+  {
+   "id": "24cognitiveapproach-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the cognitive approach as an explanation for human behaviour, comparing it with the biological approach. <div class=\""
+  },
+  {
+   "id": "24cognitiveapproach-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

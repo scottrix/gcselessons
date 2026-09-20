@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "us-film-narrative",
+ "topicName": "us film narrative",
+ "version": 1,
+ "steps": [
+  {
+   "id": "usfilmnarrative-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Classical Hollywood narrative is the dominant storytelling model in US cinema, characterised by cause-and-effect logic, goal-oriented protagonists, narrative closure and invisible filmmaking style. | Key Fact: The three-act structure divides the narrative into setup (establishing characters and conflict), confrontation (complications and obstacles) and resolution (climax and closure). | Key Fact: Cause-and-effect logic means that events in the narrative are driven by character decisions and actions rather than coincidence, creating a sense of narrative necessity and coherence. | Key Fact: The protagonist in classical Hollywood is typically an active, goal-driven individual whose desires define the narrative trajectory and whose actions propel the plot forward."
+  },
+  {
+   "id": "usfilmnarrative-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does your chosen US film use narrative structure to create meaning for the audience? <div class=\""
+  },
+  {
+   "id": "usfilmnarrative-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from us film narrative, and one past-paper question."
+  }
+ ]
+}

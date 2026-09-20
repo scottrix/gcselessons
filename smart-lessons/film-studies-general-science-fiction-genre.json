@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "science-fiction-genre",
+ "topicName": "science fiction genre",
+ "version": 1,
+ "steps": [
+  {
+   "id": "sciencefictiongenre-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Science fiction is a genre that explores imagined futures, alternative realities and the consequences of scientific and technological advancement. | Key Fact: Core sci-fi themes include the relationship between humanity and technology, encounters with the alien or other, dystopian societies and the limits of knowledge. | Key Fact: Sci-fi iconography includes spaceships, futuristic cityscapes, advanced technology interfaces, alien creatures, robots and space suits. | Key Fact: Sci-fi settings range from deep space and alien planets to near-future Earth, dystopian cities and virtual reality environments."
+  },
+  {
+   "id": "sciencefictiongenre-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does your chosen science fiction film use genre conventions to explore ideas about humanity? <div class=\""
+  },
+  {
+   "id": "sciencefictiongenre-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from science fiction genre, and one past-paper question."
+  }
+ ]
+}

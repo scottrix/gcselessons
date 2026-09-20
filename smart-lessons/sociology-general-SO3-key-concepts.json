@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO3-key-concepts",
+ "topicName": "key concepts in sociology",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3keyconcepts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Socialisation is the process through which individuals learn the norms, values and culture of their society. Primary socialisation (0-5 years): family teaches basic norms, language, and values. Secondary socialisation (5+ years): school, peers, media and religion reinforce and extend social learning. | Key Fact: Norms are social rules that guide behaviour (e.g. queuing, shaking hands). Values are broad beliefs about what is good and desirable (e.g. democracy, equality, achievement). Norms are specific; values are general. Norms enforce values through sanctions (positive: praise; negative: disapproval). | Key Fact: Status: a social position within a group. Ascribed status: given at birth (gender, ethnicity, royal family). Achieved status: earned through effort (qualifications, car"
+  },
+  {
+   "id": "3keyconcepts-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between primary and secondary socialisation, with examples. | Describe the relationship between norms, values and sanctions. | Evaluate whether socialisation determines our identity or whether we have free choice."
+  },
+  {
+   "id": "3keyconcepts-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the importance of socialisation in shaping human behaviour. <div class=\""
+  },
+  {
+   "id": "3keyconcepts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from key concepts in sociology, and one past-paper question."
+  }
+ ]
+}

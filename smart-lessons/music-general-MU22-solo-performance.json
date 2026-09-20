@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU22-solo-performance",
+ "topicName": "solo performance",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22soloperformance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: AO1 assesses: technical control (accuracy, fluency, intonation), expression (dynamics, phrasing, articulation), and interpretation (stylistic understanding, communication). | Key Fact: Choose a piece that shows your STRENGTHS — difficulty alone does not guarantee marks if you cannot perform it accurately and expressively. | Key Fact: Practice strategies: slow practice, sectional rehearsal, recording and self-evaluation, gradual tempo increase, focused work on difficult passages. | Key Fact: Minimum duration is 1 minute per piece — but quality matters more than length. A well-performed shorter piece can score higher than a poorly performed long one."
+  },
+  {
+   "id": "22soloperformance-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how solo performance are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use solo performance. Explain the effect in each case. | How could you use solo performance in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "22soloperformance-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Select a solo piece appropriate for your ability. Explain your choice and outline a practice plan showing how you would prepare it for performance, addressing technical, expressive and interpretative aspects. <div class=\""
+  },
+  {
+   "id": "22soloperformance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

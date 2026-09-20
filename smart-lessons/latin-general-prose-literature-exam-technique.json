@@ -1,0 +1,20 @@
+{
+ "subject": "latin",
+ "topic": "prose-literature-exam-technique",
+ "topicName": "prose literature exam technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "proseliteratureexamtechnique-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Prose literature exams typically test three skills: translation (accurate rendering of the Latin), analysis (identifying language and style features), and evaluation (discussing themes, context, and the author's purpose). | Key Fact: Translation questions require precise, idiomatic English that captures the exact meaning of the Latin. Avoid over-literal or over-free translations. | Key Fact: For analysis questions, name the stylistic feature, quote the Latin, and explain the effect: 'Caesar uses tricolon (lines 4-5) to build a sense of overwhelming force'. | Key Fact: Evaluation questions (8-10 marks) require a structured argument with introduction, multiple points supported by textual evidence, and a conclusion."
+  },
+  {
+   "id": "proseliteratureexamtechnique-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from prose literature exam technique, and one past-paper question."
+  }
+ ]
+}

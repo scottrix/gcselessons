@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as21-observing-techniques",
+ "topicName": "observing techniques",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as21observingtechniques-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Star hopping uses easily recognisable patterns (like the Plough) to locate fainter objects | Key Fact: A planisphere is a rotating star map that shows which constellations are visible at a given date and time | Key Fact: Angular separation can be estimated using hand measurements: little finger at arm's length ≈ 1°, fist ≈ 10° | Key Fact: Seeing conditions depend on atmospheric turbulence, light pollution and transparency"
+  },
+  {
+   "id": "as21observingtechniques-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from observing techniques, and one past-paper question."
+  }
+ ]
+}

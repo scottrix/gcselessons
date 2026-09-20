@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "surface-finishing-treatment",
+ "topicName": "surface finishing &amp; treatment",
+ "version": 1,
+ "steps": [
+  {
+   "id": "surfacefinishingtreatment-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Heat treatment alters material properties through controlled heating and cooling cycles without changing the shape. | Key Fact: Annealing heats metal above its critical temperature then cools it slowly (in the furnace) to soften and increase ductility. | Key Fact: Hardening heats steel above its critical temperature then quenches rapidly (in water or oil) to produce a hard, brittle martensitic structure. | Key Fact: Tempering reheats hardened steel to a lower temperature then cools it; reduces brittleness while retaining most of the hardness."
+  },
+  {
+   "id": "surfacefinishingtreatment-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from surface finishing &amp;amp; treatment, and one past-paper question."
+  }
+ ]
+}

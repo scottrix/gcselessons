@@ -1,0 +1,26 @@
+{
+ "subject": "religious-studies",
+ "topic": "RS16-angels",
+ "topicName": "angels",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16angels-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Muslims believe angels (mala'ikah) are created from light and serve as God's messengers. They have no free will — they always obey Allah. Belief in angels is one of the Six Articles of Faith in Sunni Islam. | RS Exam Tips — Angels: 1. For Angels questions, always include specific scriptural or source references where relevant 2. Explain both religious and non-religious viewpoints 3. Use specialist vocabulary precisely (e.g. terms from the specification) 4. Evaluate by analysing strengths and weaknesses of different views before reaching your conclusion 5. Link your discussion of Angels to its real-world impact on believers and society | UK Context: In the UK, the concept of guardian angels provides comfort to many British Muslims. The belief that two angels record all deeds motiv"
+  },
+  {
+   "id": "16angels-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two Muslim beliefs about angels. | \"Belief in angels is not important for Muslims today.\" Evaluate this statement."
+  },
+  {
+   "id": "16angels-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on RS Exam Tips — Angels, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

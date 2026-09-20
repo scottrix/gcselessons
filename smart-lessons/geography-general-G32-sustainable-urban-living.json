@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G32-sustainable-urban-living",
+ "topicName": "sustainable urban living",
+ "version": 1,
+ "steps": [
+  {
+   "id": "32sustainableurbanliving-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Sustainable urban living means meeting the needs of the present population without compromising the ability of future generations to meet their own needs. It involves reducing resource consumption, minimising waste and pollution, and creating cities that are environmentally, socially and economically viable long-term. | Key Concept: Water conservation is essential in urban areas because growing populations, climate change and ageing infrastructure put increasing pressure on water supplies. UK cities could face water shortages by 2050 if consumption is not reduced. | Key Concept: Urban areas consume approximately 75% of global energy and produce over 70% of CO₂ emissions. Reducing energy consumption and transitioning to renewable sources is essential for sustainable cities and m"
+  },
+  {
+   "id": "32sustainableurbanliving-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two ways that water can be conserved in urban areas. (4 marks) | Describe the environmental benefits of urban green spaces. (4 marks) | Assess the effectiveness of strategies to create sustainable urban transport. (6 marks)"
+  },
+  {
+   "id": "32sustainableurbanliving-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Key Concept, Key Concept, and one past-paper question."
+  }
+ ]
+}

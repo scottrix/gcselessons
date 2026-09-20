@@ -1,0 +1,26 @@
+{
+ "subject": "chemistry",
+ "topic": "C23-earth-s-atmosphere",
+ "topicName": "earth's atmosphere",
+ "version": 1,
+ "steps": [
+  {
+   "id": "23earthsatmosphere-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": ": The Earth's early atmosphere was formed by intense volcanic activity . It contained large amounts of carbon dioxide and water vapour , with nitrogen and small amounts of ammonia and methane . There was little or no oxygen . | : The atmosphere changed over billions of years through several key processes: condensation of water vapour , dissolving of CO₂ in oceans , and photosynthesis by plants and algae . | Algae and plants: evolved and carried out photosynthesis . This removed CO₂ from the atmosphere and produced oxygen . Over time, oxygen built up in the atmosphere. | : As oxygen levels increased, some oxygen formed ozone (O₃) in the upper atmosphere. The ozone layer shields the Earth's surface from harmful UV radiation , allowing more complex organisms to evolve and survive on land."
+  },
+  {
+   "id": "23earthsatmosphere-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Describe how the Earth's atmosphere has changed from its early composition to its current composition. Explain the processes that caused these changes. <div class=\""
+  },
+  {
+   "id": "23earthsatmosphere-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Algae and plants, Answers, and one past-paper question."
+  }
+ ]
+}

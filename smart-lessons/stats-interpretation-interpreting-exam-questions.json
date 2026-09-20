@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "interpreting-exam-questions",
+ "topicName": "interpreting exam questions",
+ "version": 1,
+ "steps": [
+  {
+   "id": "interpretingexamquestions-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Describe: state what the data shows using numbers and features (e.g. ‘The median is 45 and the IQR is 12’); do not explain why | Key Fact: Explain: give reasons for what the data shows (e.g. ‘The median is higher because older participants had more experience’); link to context | Key Fact: Compare: state similarities and differences between groups, using comparative language and specific data values from each group | Key Fact: Evaluate: weigh up strengths and weaknesses, or assess the usefulness/validity of a method or result; reach a balanced judgement"
+  },
+  {
+   "id": "interpretingexamquestions-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A question shows a grouped frequency table of marks for two classes and asks: ‘Compare the performance of Class 1 and Class 2.’ The median for Class 1 is 54 and for Class 2 is 47. The IQR for Class 1 is 18 and for Class 2 is 22. Write a full answer. <div class=\""
+  },
+  {
+   "id": "interpretingexamquestions-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from interpreting exam questions, and one past-paper question."
+  }
+ ]
+}

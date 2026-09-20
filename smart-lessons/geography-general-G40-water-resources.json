@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G40-water-resources",
+ "topicName": "water resources",
+ "version": 1,
+ "steps": [
+  {
+   "id": "40waterresources-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: 97.5% of Earth's water is saltwater. Of the 2.5% that is freshwater, 70% is locked in ice and glaciers. Only 0.3% of all water on Earth is accessible freshwater in rivers, lakes, and aquifers. | Key Point: Water surplus and deficit are not just about rainfall - they depend on the balance between water supply (from precipitation, rivers, aquifers) and water demand (from population, agriculture, industry). Canada has a surplus because its high rainfall combines with low population density. The Middle East has a deficit because very low rainfall combines with high population and water-intensive agriculture. | Definition: A dam blocks a river to create a reservoir (artificial lake) that stores water for use during dry periods. It also generates hydroelectric power and controls floodi"
+  },
+  {
+   "id": "40waterresources-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why some areas of the world have water surplus while others have water deficit. | Describe three factors that affect water consumption in different countries. | Using the Lesotho Highlands Water Project, evaluate the advantages and disadvantages of water transfer schemes."
+  },
+  {
+   "id": "40waterresources-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Point, Background, Key Concept, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "german",
+ "topic": "GM30-word-order-and-conjunctions",
+ "topicName": "word order and conjunctions",
+ "version": 1,
+ "steps": [
+  {
+   "id": "30wordorderandconjunctions-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Whatever comes first in the sentence, the conjugated verb MUST be second. If something other than the subject comes first, the subject swaps places with the verb (verb-subject inversion). | Exam Tip: When a subordinate clause comes FIRST in the sentence, the main clause that follows has VERB-FIRST-SUBJECT order: \"Weil ich krank bin, bleibe ich zu Hause\" (NOT \"ich bleibe\"). The subordinate clause counts as position 1, so the verb of the main clause must be in position 2. | German Exam Tips — Word Order and Conjunctions: 1. For Word Order and Conjunctions, use a range of vocabulary and complex grammatical structures to access higher marks 2. Check verb tenses, agreements and word order carefully in your written work 3. In translation tasks, translate meaning rather than word-for-wo"
+  },
+  {
+   "id": "30wordorderandconjunctions-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Writing task: Write about main clause word order; subordinate clauses (verb to end); coordinating vs subordinating conjunctions; dass, weil, wenn, obwohl. <div class=\""
+  },
+  {
+   "id": "30wordorderandconjunctions-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exam Tip, and one past-paper question."
+  }
+ ]
+}

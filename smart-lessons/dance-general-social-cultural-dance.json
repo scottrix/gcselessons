@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "social-cultural-dance",
+ "topicName": "social &amp; cultural influences on dance",
+ "version": 1,
+ "steps": [
+  {
+   "id": "socialculturaldance-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Dance reflects the society in which it is created, responding to political, economic and social conditions | Key Fact: Cultural traditions shape dance vocabulary, from Bharatanatyam's Hindu storytelling to Flamenco's Romani heritage | Key Fact: Technology has expanded dance through lighting, projection, digital music and motion capture | Key Fact: Gender roles in dance have evolved — from male-only court ballet to challenging stereotypes in contemporary work"
+  },
+  {
+   "id": "socialculturaldance-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from social &amp;amp; cultural influences on dance, and one past-paper question."
+  }
+ ]
+}

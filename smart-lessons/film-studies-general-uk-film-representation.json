@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "uk-film-representation",
+ "topicName": "representation in uk film",
+ "version": 1,
+ "steps": [
+  {
+   "id": "ukfilmrepresentation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Representation in UK film is shaped by the specific social, cultural and political dynamics of British society, where class, region, ethnicity and national identity intersect in distinctive ways. | Key Fact: Class representation is central to British cinema in ways that have no direct equivalent in Hollywood, with social realism making working-class experience a primary rather than marginal subject. | Key Fact: Regional identity representation challenges the London-centric bias of British media, giving voice to the cultures, dialects and experiences of Scotland, Wales, Northern Ireland and England's regions. | Key Fact: Ethnic representation in UK film has evolved from near-invisibility through stereotyping towards greater complexity, though significant under-representation and t"
+  },
+  {
+   "id": "ukfilmrepresentation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does your chosen UK film represent British identity, and what meaning does this create? <div class=\""
+  },
+  {
+   "id": "ukfilmrepresentation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from representation in uk film, and one past-paper question."
+  }
+ ]
+}

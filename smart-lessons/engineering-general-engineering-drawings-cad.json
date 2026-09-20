@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "engineering-drawings-cad",
+ "topicName": "engineering drawings &amp; cad/cam",
+ "version": 1,
+ "steps": [
+  {
+   "id": "engineeringdrawingscad-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Engineering drawings communicate design intent precisely using standardised conventions and symbols. | Key Fact: Orthographic projection shows multiple 2D views: front elevation, plan and side elevation. | Key Fact: Third angle projection places views in the orientation seen from that direction (the UK standard). | Key Fact: Isometric drawing shows a 3D view at 30 degrees with no perspective distortion; all axes at true scale."
+  },
+  {
+   "id": "engineeringdrawingscad-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from engineering drawings &amp;amp; cad/cam, and one past-paper question."
+  }
+ ]
+}

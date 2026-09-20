@@ -1,0 +1,20 @@
+{
+ "subject": "engineering",
+ "topic": "practical-assessment-technique",
+ "topicName": "practical assessment technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "practicalassessmenttechnique-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The NEA (Non-Exam Assessment) is a practical project that typically contributes 25-40% of the GCSE grade. | Key Fact: AQA Engineering NEA (40%): students produce engineering drawings, a working prototype and a portfolio. | Key Fact: WJEC Eduqas has two NEA units: Manufacturing Engineering Products (Unit 1) and Designing Engineering Products (Unit 2). | Key Fact: The portfolio must show clear progression through research, design, planning, manufacture and evaluation stages."
+  },
+  {
+   "id": "practicalassessmenttechnique-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from practical assessment technique, and one past-paper question."
+  }
+ ]
+}

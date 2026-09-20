@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "exam-command-words",
+ "topicName": "command words &amp; question types",
+ "version": 1,
+ "steps": [
+  {
+   "id": "examcommandwords-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: OCR J280 uses specific command words that determine the depth and type of response required | Key Fact: 'Describe' means give an account of what happened or what something was like | Key Fact: 'Explain' requires giving reasons or causes — show how and why something happened | Key Fact: 'Explain the significance' demands you show both what happened and why it mattered"
+  },
+  {
+   "id": "examcommandwords-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain why understanding command words is essential for success in OCR J280 Classical Civilisation (8 marks) <div class=\""
+  },
+  {
+   "id": "examcommandwords-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from command words &amp;amp; question types, and one past-paper question."
+  }
+ ]
+}

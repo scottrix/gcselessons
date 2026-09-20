@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT10-ferrous-and-non-ferrous-metals",
+ "topicName": "ferrous and non-ferrous metals",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10ferrousandnonferrousmetals-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Ferrous metals contain iron - magnetic, prone to rust (except stainless). Mild steel: low carbon, ductile, weldable. Stainless steel: chromium content prevents corrosion - cutlery, medical instruments. | Key Fact: Cast iron: high carbon (2-4%), excellent compressive strength, self-lubricating - engine blocks, manhole covers. | Key Fact: Aluminium: lightweight (1/3 steel's density), corrosion-resistant (oxide layer), excellent conductor - aircraft, cans, window frames. | Key Fact: Copper: excellent electrical and thermal conductor, ductile, malleable, antimicrobial - wiring, plumbing, PCBs."
+  },
+  {
+   "id": "10ferrousandnonferrousmetals-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why stainless steel is used for surgical instruments whereas mild steel is not, despite both being ferrous metals. | Justify the use of aluminium rather than steel for aircraft fuselage construction. | A product designer needs a gold-coloured, corrosion-resistant material for a door handle. Compare brass and gold-anodised aluminium."
+  },
+  {
+   "id": "10ferrousandnonferrousmetals-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A company is designing a lightweight camping stove. Compare aluminium and mild steel for the main body, justifying your recommendation with reference to at least four properties. <div class=\""
+  },
+  {
+   "id": "10ferrousandnonferrousmetals-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

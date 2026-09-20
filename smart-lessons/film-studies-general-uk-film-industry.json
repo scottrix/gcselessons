@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "uk-film-industry",
+ "topicName": "uk film industry",
+ "version": 1,
+ "steps": [
+  {
+   "id": "ukfilmindustry-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The UK film industry operates on a significantly smaller scale than Hollywood, with lower budgets, fewer productions and greater dependence on public funding and international co-productions. | Key Fact: The British Film Institute (BFI) is the lead organisation for film in the UK, distributing National Lottery funding to support film production, distribution, education and cultural exhibition. | Key Fact: National Lottery funding has been crucial to British film production, financing films that commercial investors would consider too risky, culturally specific or unlikely to generate mass returns. | Key Fact: UK film production frequently relies on co-production deals with US studios or international partners, providing access to larger budgets but potentially compromising creati"
+  },
+  {
+   "id": "ukfilmindustry-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does the structure of the UK film industry affect the kinds of films that are produced and the audiences that see them? <div class=\""
+  },
+  {
+   "id": "ukfilmindustry-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from uk film industry, and one past-paper question."
+  }
+ ]
+}

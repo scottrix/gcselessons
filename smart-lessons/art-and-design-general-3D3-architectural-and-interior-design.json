@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "3D3-architectural-and-interior-design",
+ "topicName": "architectural and interior design",
+ "version": 1,
+ "steps": [
+  {
+   "id": "33architecturalandinteriordesi-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Spatial planning considers how people move through and use spaces — function, flow and atmosphere are key. | Key Fact: Scale drawing uses set ratios (1:50, 1:100) to represent spaces accurately; orthographic projection shows plan, elevation and section. | Key Fact: Architectural models communicate 3D ideas that drawings cannot — they reveal spatial relationships, light and material qualities. | Key Fact: Responding to site means understanding the context: existing structures, landscape, climate, culture and community."
+  },
+  {
+   "id": "33architecturalandinteriordesi-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring architectural and interior design. Annotate your process. | Research an artist or designer who works with architectural and interior design. Write a critical analysis of their approach and explain how it has in | Evaluate the effectiveness of your experiments with architectural and interior design. Which approaches were most successful and why?"
+  },
+  {
+   "id": "33architecturalandinteriordesi-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Design a small space (e.g. a pavilion, studio or room) for a specific site and purpose. Show plans, elevations, a scale model and a written rationale explaining how your design responds to its context. <div class=\""
+  },
+  {
+   "id": "33architecturalandinteriordesi-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Three-Dimensional Design Exam Tips, and one past-paper question."
+  }
+ ]
+}

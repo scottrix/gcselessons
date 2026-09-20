@@ -1,0 +1,26 @@
+{
+ "subject": "combined-science",
+ "topic": "B9-pathogens-and-disease",
+ "topicName": "b9 pathogens and disease",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9pathogensanddisease-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Pathogens: are microorganisms that cause disease. They are also called communicable (infectious) diseases because they can be passed from one person to another. | : Not all microorganisms are pathogens. Many bacteria and fungi are harmless or even beneficial. Pathogens are the ones that cause disease . | : Pathogens can be spread in four main ways: water , air , direct contact , and vectors . | : The spread of pathogens can be reduced or prevented by: hygiene , vaccination , destroying vectors , and isolating infected individuals ."
+  },
+  {
+   "id": "9pathogensanddisease-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Compare how bacteria and viruses cause disease. <div class=\""
+  },
+  {
+   "id": "9pathogensanddisease-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Pathogens, Salmonella, Gonorrhoea, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO15-crime-statistics-and-patterns",
+ "topicName": "crime statistics & patterns",
+ "version": 1,
+ "steps": [
+  {
+   "id": "15crimestatisticsandpatterns-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Official statistics: recorded by the police and published by the Home Office. They show that working-class people, men, young people and some ethnic minorities are over-represented. However, official statistics have major limitations: the 'dark figure of crime' (unreported and unrecorded crime) means they significantly underestimate true crime rates. | Key Fact: The dark figure of crime: only about 40% of crime is reported to the police. Reasons: too trivial, police can't do anything, fear of retaliation, embarrassment. Of reported crime, only about 30% is recorded. The real crime rate is much higher than official statistics suggest. | Key Fact: Self-report studies: anonymous surveys asking people what crimes they have committed. Show that middle-class people commit more crime th"
+  },
+  {
+   "id": "15crimestatisticsandpatterns-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why official statistics may not provide an accurate picture of crime. | Evaluate explanations for why men commit more crime than women. | Assess whether ethnic differences in crime statistics reflect real differences in criminality."
+  },
+  {
+   "id": "15crimestatisticsandpatterns-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the usefulness of official statistics for understanding patterns of crime. <div class=\""
+  },
+  {
+   "id": "15crimestatisticsandpatterns-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

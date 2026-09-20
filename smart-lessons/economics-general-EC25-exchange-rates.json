@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC25-exchange-rates",
+ "topicName": "exchange rates",
+ "version": 1,
+ "steps": [
+  {
+   "id": "25exchangerates-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: An exchange rate is the price of one currency in terms of another — e.g. £1 = $1.25. Determined by supply and demand in the foreign exchange market. | Key Fact: Appreciation: pound becomes stronger (buys more foreign currency). Depreciation: pound becomes weaker (buys less). | Key Fact: Appreciation: imports cheaper (good for consumers), exports more expensive (bad for UK exporters), overseas holidays cheaper. | Key Fact: Depreciation: imports more expensive (inflationary), exports cheaper (boosting export demand), overseas holidays cost more."
+  },
+  {
+   "id": "25exchangerates-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how an exchange rate is determined through supply and demand. | Analyse how a depreciation of the pound would affect UK exporters and consumers buying imports. | Evaluate whether a strong pound is good for the UK economy."
+  },
+  {
+   "id": "25exchangerates-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the impact of a significant depreciation of the pound on the UK economy. <div class=\""
+  },
+  {
+   "id": "25exchangerates-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

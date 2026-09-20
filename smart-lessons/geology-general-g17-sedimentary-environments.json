@@ -1,0 +1,20 @@
+{
+ "subject": "geology",
+ "topic": "g17-sedimentary-environments",
+ "topicName": "sedimentary environments",
+ "version": 1,
+ "steps": [
+  {
+   "id": "g17sedimentaryenvironments-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A sedimentary environment is a geographic setting where sediment is deposited, with characteristic processes and features | Key Fact: Fluvial (river) environments: channels, floodplains, meanders; produce cross-bedded sandstones, laminated mudstones, channel structures | Key Fact: Aeolian (wind) environments: deserts, dunes; produce well-sorted, cross-bedded sandstones (e.g. Old Red Sandstone) | Key Fact: Shallow marine environments: beaches, tidal flats, shelves; produce well-sorted sandstones, bioclastic limestones, ripple marks"
+  },
+  {
+   "id": "g17sedimentaryenvironments-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from sedimentary environments, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS14-culture-and-communication",
+ "topicName": "culture & communication",
+ "version": 1,
+ "steps": [
+  {
+   "id": "14cultureandcommunication-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Individualist cultures (e.g. USA, UK) prioritise personal goals, independence and individual rights. Collectivist cultures (e.g. Japan, China) prioritise group harmony, interdependence and social obligations. These values affect communication styles, conformity and self-concept. | Key Fact: High-context cultures (e.g. Japan, Arab nations) rely heavily on NVC, context and shared understanding - much is left unsaid. Low-context cultures (e.g. Germany, USA) rely on explicit, direct verbal communication - meaning is in the words. | Key Fact: Cultural differences in conformity: collectivist cultures show higher conformity rates (Smith & Bond's meta-analysis). This reflects different values - conformity is seen positively as maintaining group harmony in collectivist cultures, but negat"
+  },
+  {
+   "id": "14cultureandcommunication-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between individualist and collectivist cultures and how this affects communication. | Describe how culture influences conformity, referring to Smith & Bond's meta-analysis. | Evaluate whether psychological research based on WEIRD samples can be generalised to all cultures."
+  },
+  {
+   "id": "14cultureandcommunication-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the importance of considering culture in psychological research, discussing the limitations of WEIRD samples. <div class=\""
+  },
+  {
+   "id": "14cultureandcommunication-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

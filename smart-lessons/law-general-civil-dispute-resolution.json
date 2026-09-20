@@ -1,0 +1,26 @@
+{
+ "subject": "law",
+ "topic": "civil-dispute-resolution",
+ "topicName": "civil dispute resolution",
+ "version": 1,
+ "steps": [
+  {
+   "id": "civildisputeresolution-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Civil disputes arise between individuals or organisations over rights, obligations or property — unlike criminal cases, they involve private parties rather than the state prosecuting | Key Fact: The civil courts in England and Wales are: the County Court (most civil claims), the High Court (higher-value or complex claims), the Court of Appeal (Civil Division) and the Supreme Court | Key Fact: The County Court deals with the majority of civil cases including contract and tort claims, landlord and tenant disputes and personal injury under a certain value | Key Fact: The Civil Procedure Rules 1998 govern civil litigation and require parties to follow the Overriding Objective: dealing with cases justly and at proportionate cost"
+  },
+  {
+   "id": "civildisputeresolution-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far does Alternative Dispute Resolution provide a better method of resolving civil disputes than court proceedings? (15 marks) <div class=\""
+  },
+  {
+   "id": "civildisputeresolution-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from civil dispute resolution, and one past-paper question."
+  }
+ ]
+}

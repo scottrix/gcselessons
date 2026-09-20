@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI24-consumer-rights",
+ "topicName": "consumer rights",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24consumerrights-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Consumer Rights Act 2015 is the main law protecting consumers. It applies to goods, services, and digital content purchased in the UK. | Key Fact: Three key rights for goods: they must be as described (match their description), fit for purpose (do what the buyer reasonably expects), and of satisfactory quality (meet the standard a reasonable person would accept). | Key Fact: If goods are faulty: within 30 days — full refund; after 30 days but within 6 months — repair or replacement (retailer chooses); if repair/replacement fails — refund (with deduction for use after 6 months). | Key Fact: Services must be performed with reasonable care and skill, at a reasonable price, and within a reasonable time. If not, the consumer is entitled to a repeat performance or price reduction."
+  },
+  {
+   "id": "24consumerrights-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the effectiveness of consumer protection in the UK. [12 marks] <div class=\""
+  },
+  {
+   "id": "24consumerrights-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from consumer rights, and one past-paper question."
+  }
+ ]
+}

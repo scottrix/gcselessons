@@ -1,0 +1,26 @@
+{
+ "subject": "law",
+ "topic": "exam-command-words-law",
+ "topicName": "command words &amp; question types",
+ "version": 1,
+ "steps": [
+  {
+   "id": "examcommandwordslaw-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Command words tell you exactly what the examiner expects — misreading them is the most common reason for losing marks | Key Fact: 'Describe' requires a straightforward account of what something is or how it works — give factual detail without analysis or evaluation | Key Fact: 'Explain' requires you to give reasons or show how something works — go beyond description by showing causes, effects or the reasoning behind a legal principle | Key Fact: 'Analyse' requires you to break down a topic into its component parts and examine the relationship between them — identify strengths and weaknesses"
+  },
+  {
+   "id": "examcommandwordslaw-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How should you approach a 'how far' question in a GCSE Law exam? (15 marks) <div class=\""
+  },
+  {
+   "id": "examcommandwordslaw-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from command words &amp;amp; question types, and one past-paper question."
+  }
+ ]
+}

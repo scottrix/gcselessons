@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A9-straight-line-graphs",
+ "topicName": "straight line graphs",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9straightlinegraphs-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Linear equation: An equation of the form y = mx + c produces a straight line graph."
+  },
+  {
+   "id": "9straightlinegraphs-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "State the gradient and y-intercept of y = 4x - 3. | Find the gradient of the line passing through (2, 1) and (5, 10). | Find the equation of the line with gradient -2 and y-intercept 5."
+  },
+  {
+   "id": "9straightlinegraphs-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Line A passes through (0, 4) and (6, 0). (a) Find the equation of Line A. (b) Line B is perpendicular to Line A and passes through (3, 7). Find the equation of Line B. (c) Find the coordinates where Line A and Line B intersect. <div class=\""
+  },
+  {
+   "id": "9straightlinegraphs-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Linear equation, and one past-paper question."
+  }
+ ]
+}

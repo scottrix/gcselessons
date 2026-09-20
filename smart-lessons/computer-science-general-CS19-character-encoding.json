@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS19-character-encoding",
+ "topicName": "character encoding",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19characterencoding-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Character encoding: is a system that assigns a unique numeric code to each character. Computers can only process numbers, so every letter, digit, and symbol must be represented by a number. The two main encoding systems are ASCII and Unicode. | ASCII: (American Standard Code for Information Interchange) is a 7-bit character encoding system that represents 128 different characters. It was designed for English-language text and includes letters, digits, punctuation, and control characters. | Pattern to remember: Uppercase letters: 'A' = 65 to 'Z' = 90 (26 letters) Lowercase letters: 'a' = 97 to 'z' = 122 (26 letters) Digits: '0' = 48 to '9' = 57 (10 digits) The difference between 'a' and 'A' is always 32 (add 32 to convert upper to lower) | Unicode: is a character encoding standard that supp"
+  },
+  {
+   "id": "19characterencoding-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What is the ASCII code for the letter 'M'? | How many characters can 7-bit ASCII represent? | Give two advantages of Unicode over ASCII."
+  },
+  {
+   "id": "19characterencoding-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain why Unicode was developed as an alternative to ASCII, and discuss one advantage and one disadvantage of using Unicode. [4 marks] <div class=\""
+  },
+  {
+   "id": "19characterencoding-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Character encoding, ASCII, Pattern to remember, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "circuit-diagram-questions",
+ "topicName": "circuit diagram questions",
+ "version": 1,
+ "steps": [
+  {
+   "id": "circuitdiagramquestions-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Every component has a standard symbol: resistor (zigzag or rectangle), capacitor (parallel lines), diode (triangle with bar), transistor (arrow on emitter). | Key Fact: Wires without a junction dot do not connect; wires that cross with a dot at the intersection are connected. | Key Fact: Draw circuit diagrams with the signal flowing from left to right and power rails at the top (positive) and bottom (0 V / ground). | Key Fact: Label all components with their values (e.g. R1 = 10 kΩ, C1 = 100 μF) and reference designators."
+  },
+  {
+   "id": "circuitdiagramquestions-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the conventions used when drawing and reading circuit diagrams, and describe how to systematically interpret an unfamiliar circuit. <div class=\""
+  },
+  {
+   "id": "circuitdiagramquestions-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from circuit diagram questions, and one past-paper question."
+  }
+ ]
+}

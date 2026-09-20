@@ -1,0 +1,32 @@
+{
+ "subject": "statistics",
+ "topic": "S2-charts-diagrams",
+ "topicName": "s2 charts diagrams",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2chartsdiagrams-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Charts and diagrams are visual representations of data that make it easier to understand patterns, trends, and comparisons."
+  },
+  {
+   "id": "2chartsdiagrams-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Calculate the angle for a pie chart sector representing 15 students out of a total of 60. | A pictogram uses ⭐ = 6 points. How many stars are needed to represent 27 points? | In a bar chart, what should be the height of the \"Blue\" bar if 24 people chose blue out of 120 surveyed?"
+  },
+  {
+   "id": "2chartsdiagrams-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: The table shows monthly sales for a shop over two years: Month Jan Feb Mar Apr May Jun 2024 12 14 18 22 26 30 2025 15 17 21 25 29 33 (a) Draw a time series graph showing both years. (b) Describe the trend and compare 2024 with 2025. (c) Estimate sales for August 2025, giving a reason for your estimate. <div class=\""
+  },
+  {
+   "id": "2chartsdiagrams-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from s2 charts diagrams, and one past-paper question."
+  }
+ ]
+}

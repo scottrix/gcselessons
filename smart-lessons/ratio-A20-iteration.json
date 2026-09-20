@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A20-iteration",
+ "topicName": "iteration",
+ "version": 1,
+ "steps": [
+  {
+   "id": "20iteration-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Iteration: A method for finding approximate solutions to equations by repeatedly applying a formula. | Recursive formula: Uses previous values to find new values. Written with suffix notation: x₁, x₂, x₃, etc."
+  },
+  {
+   "id": "20iteration-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Rearrange x² + 2x - 4 = 0 into the form x = √(4 - 2x). | Use x n+1 = 4 ⁄ x n - 2 with x₁ = 1. Find x₂ and x₃. | Use x n+1 = √(x n + 2) with x₁ = 2. Find x₂, x₃, x₄."
+  },
+  {
+   "id": "20iteration-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: The equation x² + 2x - 5 = 0 has a root between 1 and 2. (a) Show that x = √(5 - 2x) is a rearrangement. (b) Use the iterative formula x n+1 = √(5 - 2x n ) with x₁ = 1.5 to find x₂, x₃, x₄, x₅. (c) Find the root correct to 2 decimal places. <div class=\""
+  },
+  {
+   "id": "20iteration-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Iteration, Recursive formula, and one past-paper question."
+  }
+ ]
+}

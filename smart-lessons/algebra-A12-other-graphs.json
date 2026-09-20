@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A12-other-graphs",
+ "topicName": "other graphs",
+ "version": 1,
+ "steps": [
+  {
+   "id": "12othergraphs-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Types of graphs: Different equations produce different shaped graphs. Being able to recognise these shapes is essential."
+  },
+  {
+   "id": "12othergraphs-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What shape is the graph of y = x³ - 2x? | Where are the asymptotes on y = 2 ⁄ x ? | What point does y = 3 x pass through?"
+  },
+  {
+   "id": "12othergraphs-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Match each equation to its graph description: (i) y = x³ - 3x, (ii) y = 4 ⁄ x , (iii) y = 3 x , (iv) y = sin x. A: Wave between -1 and 1, B: Two branches in opposite quadrants, C: S-curve crossing x-axis 3 times, D: Curve passing through (0,1) increasing rapidly. <div class=\""
+  },
+  {
+   "id": "12othergraphs-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Types of graphs, and one past-paper question."
+  }
+ ]
+}

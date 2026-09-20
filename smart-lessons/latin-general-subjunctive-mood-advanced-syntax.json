@@ -1,0 +1,26 @@
+{
+ "subject": "latin",
+ "topic": "subjunctive-mood-advanced-syntax",
+ "topicName": "subjunctive mood & advanced syntax",
+ "version": 1,
+ "steps": [
+  {
+   "id": "subjunctivemoodadvancedsyntax-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The subjunctive mood expresses possibility, purpose, wish, or subordinate action — unlike the indicative, which states facts. | Key Fact: Present subjunctive is formed by changing the stem vowel: 1st conjugation changes -a- to -e- (muset), 2nd changes -e- to -ea- (moneas), 3rd/4th change to -a- (ducamus, audiamus). | Key Fact: Imperfect subjunctive is formed by adding -re to the infinitive: laudarem (I would praise / I might praise). | Key Fact: Purpose clauses: ut + subjunctive = 'in order to' (positive); ne + subjunctive = 'in order not to' (negative). Example: venit ut pater videret (he came in order that his father might see)."
+  },
+  {
+   "id": "subjunctivemoodadvancedsyntax-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the main uses of the subjunctive mood in Latin subordinate clauses, giving examples of purpose, result, and cum clauses. (8 marks) <div class=\""
+  },
+  {
+   "id": "subjunctivemoodadvancedsyntax-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from subjunctive mood &amp; advanced syntax, and one past-paper question."
+  }
+ ]
+}

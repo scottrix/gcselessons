@@ -1,0 +1,32 @@
+{
+ "subject": "drama",
+ "topic": "DR22-context-and-social-historical-influences",
+ "topicName": "context and social/historical influences",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22contextandsocialhistoricalin-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Context: the social, cultural, historical and political circumstances in which a play was written AND in which it is performed. | Key Fact: Original context shapes the play's meaning — An Inspector Calls (1945, set 1912) uses dramatic irony about world wars the audience knew had happened. | Key Fact: Modern production context: a director may reset a play in a different period to make contemporary connections — this changes the meaning. | Key Fact: Social influences: class, gender, race, power structures — these are reflected in and critiqued by drama."
+  },
+  {
+   "id": "22contextandsocialhistoricalin-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Why is it important to understand the social and historical context of a play when analysing it? | How might a modern production of a classic play change the meaning through its context? Give an example. | Explain how the original performance context of a play you have studied affects its meaning."
+  },
+  {
+   "id": "22contextandsocialhistoricalin-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain how the social and historical context of a play you have studied shapes its meaning. How might a modern production use context to make the play relevant to a contemporary audience? <div class=\""
+  },
+  {
+   "id": "22contextandsocialhistoricalin-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Drama Exam Tips, and one past-paper question."
+  }
+ ]
+}

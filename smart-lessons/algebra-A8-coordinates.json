@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A8-coordinates",
+ "topicName": "coordinates",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8coordinates-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Coordinates: Pairs of numbers (x, y) that specify a position on a grid. The x-coordinate comes first, then y. | Remember: \"Along the corridor, up the stairs\" - x first, then y."
+  },
+  {
+   "id": "8coordinates-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "In which quadrant is the point (-4, 3)? | What are the coordinates of a point 3 units right of (-2, 5)? | Find the midpoint of (4, 2) and (10, 8)."
+  },
+  {
+   "id": "8coordinates-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A(2, 3) and B(8, 7) are opposite vertices of a rectangle with sides parallel to the axes. (a) Find the other two vertices C and D. (b) Find the midpoint of the diagonal AB. (c) Find the area of the rectangle. <div class=\""
+  },
+  {
+   "id": "8coordinates-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Coordinates, and one past-paper question."
+  }
+ ]
+}

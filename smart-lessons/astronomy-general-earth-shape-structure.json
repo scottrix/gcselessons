@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "earth-shape-structure",
+ "topicName": "earth&#x27;s shape &amp; structure",
+ "version": 1,
+ "steps": [
+  {
+   "id": "earthshapestructure-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Earth is an oblate spheroid: slightly flattened at the poles and bulging at the equator due to rotation. Its polar diameter is about 12,714 km and equatorial diameter about 12,756 km. | Key Fact: Evidence for a spherical Earth: ships disappear hull-first over the horizon; circular shadow on the Moon during a lunar eclipse; different constellations visible at different latitudes; photographs from space. | Key Fact: Eratosthenes (c.240 BC) estimated Earth's circumference by measuring the angle of the Sun at different latitudes and using the distance between them, obtaining a value close to 40,000 km. | Key Fact: The Earth's internal structure: inner core (solid iron-nickel, ~5,150 km depth), outer core (liquid iron-nickel, ~2,890 km), mantle (semi-solid silicate rock, ~35 km), "
+  },
+  {
+   "id": "earthshapestructure-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from earth&amp;#x27;s shape &amp;amp; structure, and one past-paper question."
+  }
+ ]
+}

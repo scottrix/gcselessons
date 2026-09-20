@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "index-numbers-population-estimation",
+ "topicName": "index numbers &amp; population estimation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "indexnumberspopulationestimati-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: An index number measures how a quantity changes relative to a base period; the base value is always 100 | Key Fact: Index number = (current value ÷ base value) × 100; an index of 120 means a 20% increase from the base period | Key Fact: RPI (Retail Prices Index) measures the change in cost of a basket of goods and services including mortgage interest payments | Key Fact: CPI (Consumer Prices Index) is similar to RPI but excludes mortgage interest and housing costs; CPI is used for the government’s inflation target"
+  },
+  {
+   "id": "indexnumberspopulationestimati-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A health researcher compares two towns. Town X has a crude death rate of 14 per 1000. Town Y has a crude death rate of 9 per 1000. After standardising for age, Town X has a standardised rate of 10 per 1000 and Town Y has a standardised rate of 11 per 1000. Explain these results. <div class=\""
+  },
+  {
+   "id": "indexnumberspopulationestimati-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from index numbers &amp;amp; population estimation, and one past-paper question."
+  }
+ ]
+}

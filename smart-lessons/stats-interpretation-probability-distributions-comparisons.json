@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "probability-distributions-comparisons",
+ "topicName": "probability distributions &amp; comparisons",
+ "version": 1,
+ "steps": [
+  {
+   "id": "probabilitydistributionscompar-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A probability distribution lists all possible outcomes with their associated probabilities; the total probability always sums to 1 | Key Fact: Binomial distribution models the number of successes in n independent trials, each with the same probability p of success; P(X = r) = ²ⁿCᵣ × pʳ × (1−p)ⁿʻʳ where X~B(n, p) | Key Fact: For a binomial distribution: mean = np and variance = np(1−p); these are the expected value and spread | Key Fact: The normal distribution is a continuous bell-shaped curve, fully defined by its mean (μ) and standard deviation (σ); notation X~N(μ, σ²)"
+  },
+  {
+   "id": "probabilitydistributionscompar-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response The masses of apples from Farm A are normally distributed with mean 150 g and standard deviation 12 g. The masses of apples from Farm B are normally distributed with mean 160 g and standard deviation 20 g. An apple from Farm A has mass 174 g and an apple from Farm B has mass 180 g. Which apple is relatively heavier? Show your working. <div class=\""
+  },
+  {
+   "id": "probabilitydistributionscompar-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from probability distributions &amp;amp; comparisons, and one past-paper question."
+  }
+ ]
+}

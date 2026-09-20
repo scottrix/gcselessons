@@ -1,0 +1,20 @@
+{
+ "subject": "latin",
+ "topic": "prose-set-texts",
+ "topicName": "prose set texts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "prosesettexts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: GCSE Latin prose set texts are prescribed by each exam board and change every two years. You must check which texts are current for your year of examination. | Key Fact: Common prose authors include Caesar (De Bello Gallico), Cicero (speeches and letters), Tacitus (Annales), Pliny the Younger (Letters), and Livy (Ab Urbe Condita). | Key Fact: Caesar's De Bello Gallico describes his conquest of Gaul (58-50 BC): key themes include Roman imperialism, leadership, and the clash between Roman and barbarian cultures. | Key Fact: Cicero's works include political speeches (In Catilinam against Catiline) and personal letters that reveal late Republican politics and daily life."
+  },
+  {
+   "id": "prosesettexts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Latin Exam Tips — Prose Set Texts, and one past-paper question."
+  }
+ ]
+}

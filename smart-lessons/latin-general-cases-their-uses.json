@@ -1,0 +1,26 @@
+{
+ "subject": "latin",
+ "topic": "cases-their-uses",
+ "topicName": "cases & their uses",
+ "version": 1,
+ "steps": [
+  {
+   "id": "casestheiruses-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Latin has six cases: nominative, vocative, accusative, genitive, dative, and ablative. Each case signals a different grammatical function. | Key Fact: Nominative: subject of the verb and complement after verbs like sum (e.g. puella currit — the girl runs; puella est Regina — the girl is queen). | Key Fact: Vocative: used for direct address (e.g. O puella! — O girl!). It is usually identical to the nominative except in second declension masculine singular (e.g. Marce, not Marcus). | Key Fact: Accusative: direct object of a transitive verb, and object of many prepositions (e.g. puellam video — I see the girl; ad villam — to the villa)."
+  },
+  {
+   "id": "casestheiruses-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the six Latin cases and their main functions, giving an example for each. (8 marks) <div class=\""
+  },
+  {
+   "id": "casestheiruses-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from cases &amp; their uses, and one past-paper question."
+  }
+ ]
+}

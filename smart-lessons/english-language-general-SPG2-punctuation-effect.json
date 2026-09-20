@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "SPG2-punctuation-effect",
+ "topicName": "punctuation for effect",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2punctuationeffect-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "AO6 Requirement: Accurate and effective punctuation isn't just about correctness - it's about using punctuation deliberately to create effects and control your reader's experience. | Tip: The colon acts like a spotlight, directing attention to what comes next. Use it to make important statements stand out. | Think of it this way: A semi-colon is stronger than a comma but weaker than a full stop. It shows ideas are connected but distinct. | Dash Tip: An em dash (—) is longer than a hyphen (-). In exams, you can use two hyphens (--) if you can't make an em dash."
+  },
+  {
+   "id": "2punctuationeffect-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Rewrite this sentence using a colon for emphasis: \"She wanted one thing only, revenge.\" | Rewrite using a semi-colon: \"The door slammed. She jumped.\" | Add a dash for dramatic effect: \"He opened the box and saw something unexpected.\""
+  },
+  {
+   "id": "2punctuationeffect-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on AO6 Requirement, Tip, Think of it this way, and one past-paper question."
+  }
+ ]
+}

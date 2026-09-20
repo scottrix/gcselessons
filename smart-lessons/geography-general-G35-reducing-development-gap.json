@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G35-reducing-development-gap",
+ "topicName": "reducing the development gap",
+ "version": 1,
+ "steps": [
+  {
+   "id": "35reducingdevelopmentgap-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: The development gap is the difference in levels of wealth and standard of living between the richest and poorest countries in the world. Reducing this gap requires strategies that address economic, social, and political inequality. | Definition: Investment is when money is put into a country's economy to generate future returns. This can come from foreign direct investment (FDI), governments, or international organisations. | Key Point: Countries typically develop through the Clark-Fisher model: primary sector (farming, mining) → secondary sector (manufacturing) → tertiary sector (services) → quaternary sector (research, IT). Moving up this chain increases GNI per head. | Definition: Tourism is travel for pleasure or business. It is one of the world's largest industries and ca"
+  },
+  {
+   "id": "35reducingdevelopmentgap-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how tourism can help reduce the development gap. Use a named example. | What is intermediate technology? Give two examples and explain how they help development. | Discuss the advantages and disadvantages of using aid to reduce the development gap."
+  },
+  {
+   "id": "35reducingdevelopmentgap-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Key Point, Advantages of Aid, and one past-paper question."
+  }
+ ]
+}

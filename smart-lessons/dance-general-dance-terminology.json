@@ -1,0 +1,20 @@
+{
+ "subject": "dance",
+ "topic": "dance-terminology",
+ "topicName": "dance terminology &amp; action words",
+ "version": 1,
+ "steps": [
+  {
+   "id": "danceterminology-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Dance terminology is the specialist vocabulary used to describe, analyse and evaluate movement accurately | Key Fact: Action content refers to what the body does: travel, turn, jump, gesture, stillness, transfer of weight | Key Fact: Dynamic content describes how the body moves: fast/slow, sudden/sustained, strong/light, direct/indirect | Key Fact: Spatial content describes where the body moves: levels, directions, pathways, formations, personal and general space"
+  },
+  {
+   "id": "danceterminology-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from dance terminology &amp;amp; action words, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "roman-conquest-britain",
+ "topicName": "the roman conquest of britain",
+ "version": 1,
+ "steps": [
+  {
+   "id": "romanconquestbritain-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Julius Caesar raided Britain in 55 and 54 BCE but did not establish permanent occupation | Key Fact: Emperor Claudius invaded Britain in 43 CE to gain military prestige and legitimise his reign | Key Fact: Caractacus led British resistance but was defeated and taken to Rome in chains | Key Fact: Boudica of the Iceni led a major revolt in 60-61 CE after Roman brutality towards her family"
+  },
+  {
+   "id": "romanconquestbritain-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far did the Roman conquest benefit Britain? (15 marks) <div class=\""
+  },
+  {
+   "id": "romanconquestbritain-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the roman conquest of britain, and one past-paper question."
+  }
+ ]
+}

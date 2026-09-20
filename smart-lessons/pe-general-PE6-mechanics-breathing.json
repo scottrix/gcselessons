@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE6-mechanics-breathing",
+ "topicName": "mechanics of breathing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6mechanicsbreathing-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Principle: Breathing (ventilation) works on the basis of pressure differences . Air always moves from an area of high pressure to an area of low pressure. By changing the volume of the thorax (chest cavity), the body changes the pressure inside the lungs, causing air to move in or out. | Inspiration is an ACTIVE process: - it requires muscle contraction. | Quiet expiration at rest is a PASSIVE process: - it does not require muscle contraction. It relies on the elastic recoil of the lungs and the relaxation of the inspiratory muscles. | Forced expiration during exercise is an ACTIVE process.: The internal intercostal muscles contract to pull the ribs down and in more forcefully. The abdominal muscles also contract, pushing the diaphragm up and compressing the lungs to expel air more qui"
+  },
+  {
+   "id": "6mechanicsbreathing-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the role of the diaphragm during inspiration. | Explain why quiet expiration at rest is described as a passive process. | How does forced expiration during exercise differ from quiet expiration at rest?"
+  },
+  {
+   "id": "6mechanicsbreathing-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Principle, Inspiration is an ACTIVE process, and one past-paper question."
+  }
+ ]
+}

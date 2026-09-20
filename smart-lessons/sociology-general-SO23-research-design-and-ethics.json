@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO23-research-design-and-ethics",
+ "topicName": "research design & ethics",
+ "version": 1,
+ "steps": [
+  {
+   "id": "23researchdesignandethics-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Sampling: random (equal chance, unbiased but hard), systematic (every nth, simple but may bias), stratified (proportional, representative but complex), opportunity (available, quick but biased), volunteer (self-selected, motivated but unrepresentative). | Key Fact: Reliability: consistency - repeat study, same results. Improved by: standardised procedures, clear operationalisation. Validity: accuracy - measures what it claims. Improved by: ecological validity, triangulation. | Key Fact: Operationalisation: defining concepts precisely so they can be measured. Example: 'social class' must be operationalised as specific categories. Good operationalisation improves both reliability and validity. | Key Fact: Ethical principles (BSA): informed consent, confidentiality, right to withdra"
+  },
+  {
+   "id": "23researchdesignandethics-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe different sampling methods and evaluate when each would be most appropriate. | Explain the difference between reliability and validity. | A sociologist wants to study domestic violence. Evaluate the ethical issues."
+  },
+  {
+   "id": "23researchdesignandethics-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the importance of ethical guidelines in sociological research. <div class=\""
+  },
+  {
+   "id": "23researchdesignandethics-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

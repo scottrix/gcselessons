@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "N11-fractions-ratio",
+ "topicName": "fractions in ratio problems",
+ "version": 1,
+ "steps": [
+  {
+   "id": "11fractionsratio-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Ratio: Compares two or more quantities in order. Written as a:b or a:b:c | Fractions and Ratios: A ratio can be expressed as fractions of the total. In ratio a:b, the first part is a/(a+b) of the total."
+  },
+  {
+   "id": "11fractionsratio-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "A ratio is 5:3. What fraction does the first part represent? | A drink is made from juice and water in ratio 1:4. What fraction is juice? | £120 is shared in ratio 3:1. How much does the smaller share receive?"
+  },
+  {
+   "id": "11fractionsratio-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A business divides its profit between three departments in the ratio 2:3:5. (a) What fraction of the profit does the largest department receive? (b) The smallest department receives £24,000. Find the total profit. (c) The following year, the total profit increases by 20%. The largest department's fraction increases to 6/15. Has the largest department received more money than the previous year? Show working. <div class=\""
+  },
+  {
+   "id": "11fractionsratio-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Ratio, Fractions and Ratios, and one past-paper question."
+  }
+ ]
+}

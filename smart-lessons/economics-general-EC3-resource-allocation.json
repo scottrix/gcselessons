@@ -1,0 +1,32 @@
+{
+ "subject": "economics",
+ "topic": "EC3-resource-allocation",
+ "topicName": "resource allocation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3resourceallocation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A market is any opportunity for buyers and sellers to interact to establish price — physical or virtual. | Key Fact: Factor markets trade factors of production (labour market, capital market). Product markets trade finished goods and services to consumers. | Key Fact: The price mechanism allocates resources: rising prices signal shortage, attracting producers; falling prices signal surplus, driving producers away. Functions: signalling, rationing, incentivising. | Key Fact: Primary sector extracts raw materials (farming). Secondary manufactures goods (factories). Tertiary provides services (retail, finance). The UK is ~80% tertiary."
+  },
+  {
+   "id": "3resourceallocation-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between factor markets and product markets, giving an example of each. | Describe the three functions of the price mechanism in allocating resources. | Analyse why the UK economy has shifted from secondary to tertiary sector dominance."
+  },
+  {
+   "id": "3resourceallocation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the price mechanism is the best way to allocate resources in an economy. <div class=\""
+  },
+  {
+   "id": "3resourceallocation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Economics Exam Tips, and one past-paper question."
+  }
+ ]
+}

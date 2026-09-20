@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "component-2-technique-elec",
+ "topicName": "component 2 technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "component2techniqueelec-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Component 2 is the applications paper that tests knowledge in real-world contexts and scenario-based problems. | Key Fact: Extended-response questions require structured answers with clear paragraphs, each making a distinct point linked to the scenario. | Key Fact: Design tasks ask you to propose a circuit or system solution; include a labelled diagram, component values and a brief explanation of operation. | Key Fact: Context-based questions present a real-world scenario (e.g. greenhouse control, alarm system); apply your knowledge to the specific context."
+  },
+  {
+   "id": "component2techniqueelec-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe how to approach a Component 2 design question that asks you to design an electronic system for a given real-world application. <div class=\""
+  },
+  {
+   "id": "component2techniqueelec-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from component 2 technique, and one past-paper question."
+  }
+ ]
+}

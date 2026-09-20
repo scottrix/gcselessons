@@ -1,0 +1,32 @@
+{
+ "subject": "english-literature",
+ "topic": "S3-shakespearean-dramatic-techniques",
+ "topicName": "shakespearean dramatic techniques",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3shakespeareandramatictechniqu-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Audience Complicity: Dramatic irony makes the audience feel involved - we know secrets, we anticipate outcomes, we're emotionally invested. | Why Off-Stage?: Some violence too extreme for stage; imagination more powerful; focuses on psychological aftermath rather than physical act. | Banquo as Foil: He shows what Macbeth could have been - the alternative path. His murder marks Macbeth's descent into true tyranny. | Dramatic Techniques Strategy: Focus on what the AUDIENCE experiences. Ask: \"What does the audience know that characters don't? What can the audience see that characters can't? How does Shakespeare control what we feel and when?\" Analyse dramatic irony, soliloquies, entrances/exits, and on-stage vs off-stage action. Always link technique to audience effect."
+  },
+  {
+   "id": "3shakespeareandramatictechniqu-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What is dramatic irony and give an example from \"Macbeth\". | How does Shakespeare use the supernatural to create tension? | What is the function of Banquo as a foil to Macbeth?"
+  },
+  {
+   "id": "3shakespeareandramatictechniqu-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response 25 marks: \"How does Shakespeare use dramatic irony to engage the audience in Macbeth?\" <div class=\""
+  },
+  {
+   "id": "3shakespeareandramatictechniqu-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Audience Complicity, Why Off-Stage?, Banquo as Foil, and one past-paper question."
+  }
+ ]
+}

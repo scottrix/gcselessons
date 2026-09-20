@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "uk-film-narrative",
+ "topicName": "uk film narrative",
+ "version": 1,
+ "steps": [
+  {
+   "id": "ukfilmnarrative-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: British film narrative has distinctive traditions that differ from Hollywood's classical model, often prioritising social observation, character study and realism over goal-driven plot mechanics. | Key Fact: Social realism is a defining tradition in British cinema, presenting working-class life with authenticity, political awareness and a commitment to representing experiences that mainstream cinema typically ignores. | Key Fact: The kitchen sink tradition of the late 1950s and 1960s brought working-class domestic life to British screens with unprecedented frankness, challenging the middle-class conventions of earlier British cinema. | Key Fact: British narratives often resist the classical Hollywood drive towards resolution, instead favouring open endings, unresolved conflicts a"
+  },
+  {
+   "id": "ukfilmnarrative-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does your chosen UK film use narrative to create specifically British meanings? <div class=\""
+  },
+  {
+   "id": "ukfilmnarrative-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from uk film narrative, and one past-paper question."
+  }
+ ]
+}

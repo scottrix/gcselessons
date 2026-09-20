@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT5-mechanical-devices",
+ "topicName": "mechanical devices",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5mechanicaldevices-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: First-class lever: fulcrum between effort and load — e.g. seesaw, scissors. Can provide mechanical advantage or change direction of force. | Key Fact: Second-class lever: load between fulcrum and effort — e.g. wheelbarrow, nutcracker. Always provides mechanical advantage (force multiplier). | Key Fact: Third-class lever: effort between fulcrum and load — e.g. tweezers, human forearm. Provides range of motion, NOT mechanical advantage (speed multiplier). | Key Fact: Gears: toothed wheels transmitting rotary motion — gear ratio = driven/driver. A small driver turning a large driven gear reduces speed but increases torque."
+  },
+  {
+   "id": "5mechanicaldevices-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Calculate the mechanical advantage of a wheelbarrow where the load is 500 N, the effort is 100 N, and the load is 0.4 m from the fulcrum with effort a | A driver gear has 10 teeth and drives a gear with 40 teeth. Calculate the gear ratio and explain what happens to speed and torque. | Explain why third-class levers do not provide mechanical advantage, using the human arm as an example."
+  },
+  {
+   "id": "5mechanicaldevices-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A designer is creating a hand-operated can crusher. Using your knowledge of levers, explain which class of lever would be most suitable and justify your choice with calculations and diagrams. <div class=\""
+  },
+  {
+   "id": "5mechanicaldevices-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

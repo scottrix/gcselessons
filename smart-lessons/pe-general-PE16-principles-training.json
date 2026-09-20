@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE16-principles-training",
+ "topicName": "principles of training",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16principlestraining-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "The five principles of training are known as SPORT: S pecificity, P rogressive Overload, O verload, R eversibility, T edium | Definition: Training should be matched to the needs of the sport and the individual. The training must be relevant to the activities and components of fitness required by the performer's sport. | Definition: Gradually increasing the demands of training over time so the body continues to adapt and improve. If training stays the same, the body will plateau and no further improvements will occur. | Definition: Making the body work harder than normal to cause adaptation. The body must be stressed beyond its current capability for training adaptations to occur."
+  },
+  {
+   "id": "16principlestraining-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the principle of specificity and give a sporting example. | What is progressive overload and why is it necessary? | Explain the principle of reversibility and how it affects an injured athlete."
+  },
+  {
+   "id": "16principlestraining-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on PE Exam Tips — Principles of Training, and one past-paper question."
+  }
+ ]
+}

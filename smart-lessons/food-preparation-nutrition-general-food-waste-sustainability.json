@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "food-waste-sustainability",
+ "topicName": "food waste & sustainability",
+ "version": 1,
+ "steps": [
+  {
+   "id": "foodwastesustainability-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The UK produces approximately 9.5 million tonnes of food waste per year; about 70% of this was intended for human consumption and could have been eaten. | Key Fact: Food waste occurs at every stage: production (crops left in fields), processing (trimming, quality rejection), retail (overstocking, past display dates), and consumer (over-buying, cooking too much, not using leftovers). | Key Fact: Households produce the most food waste (around 70% of the UK total), mainly from buying too much, not using food before it spoils, and cooking larger portions than needed. | Key Fact: When food waste goes to landfill, it decomposes anaerobically, producing methane — a greenhouse gas 25 times more potent than carbon dioxide."
+  },
+  {
+   "id": "foodwastesustainability-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the environmental impact of food waste and discuss strategies that can be used at consumer and retailer levels to reduce it. (8 marks) <div class=\""
+  },
+  {
+   "id": "foodwastesustainability-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from food waste &amp; sustainability, and one past-paper question."
+  }
+ ]
+}

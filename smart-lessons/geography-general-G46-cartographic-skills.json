@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G46-cartographic-skills",
+ "topicName": "cartographic skills",
+ "version": 1,
+ "steps": [
+  {
+   "id": "46cartographicskills-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Atlas maps show large areas (continents, countries, regions) at small scales. They display general patterns such as climate zones, population density, biomes, and political boundaries. | Exam Tip: When describing patterns on atlas maps, always use the language of distribution: \"concentrated in...\", \"sparse in...\", \"follows the coastline...\", \"clusters around...\", \"increases from north to south...\" Always use named places and compass directions. | Key Fact: Ordnance Survey (OS) maps are the standard mapping used in GCSE Geography exams. The most common scales are 1:50,000 (Landranger - covers a larger area, less detail) and 1:25,000 (Explorer - covers a smaller area, more detail). | Rule: \"Along the corridor, then up the stairs\" - always read the easting (horizontal number along"
+  },
+  {
+   "id": "46cartographicskills-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how to give a 6-figure grid reference. | On a 1:25,000 OS map, two points are 7.2 cm apart. What is the actual distance between them in kilometres? | Describe the contour pattern you would expect to see for (a) a steep slope, (b) a valley, (c) a summit."
+  },
+  {
+   "id": "46cartographicskills-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exam Tip, Rule, Rule, and one past-paper question."
+  }
+ ]
+}

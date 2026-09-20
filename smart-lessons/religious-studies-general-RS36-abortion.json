@@ -1,0 +1,26 @@
+{
+ "subject": "religious-studies",
+ "topic": "RS36-abortion",
+ "topicName": "abortion",
+ "version": 1,
+ "steps": [
+  {
+   "id": "36abortion-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Abortion is the deliberate termination of a pregnancy. In the UK, abortion is legal up to 24 weeks (or later in specific circumstances). Religious views focus on the sanctity of life vs quality of life debate and when life begins. | RS Exam Tips — Abortion: 1. For Abortion questions, always include specific scriptural or source references where relevant 2. Explain both religious and non-religious viewpoints 3. Use specialist vocabulary precisely (e.g. terms from the specification) 4. Evaluate by analysing strengths and weaknesses of different views before reaching your conclusion 5. Link your discussion of Abortion to its real-world impact on believers and society | UK Context: In the UK, debates about often involve both religious and secular voices. Parliament considers evidence"
+  },
+  {
+   "id": "36abortion-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain contrasting Christian and Muslim views on abortion."
+  },
+  {
+   "id": "36abortion-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on RS Exam Tips — Abortion, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

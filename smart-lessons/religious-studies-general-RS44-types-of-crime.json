@@ -1,0 +1,26 @@
+{
+ "subject": "religious-studies",
+ "topic": "RS44-types-of-crime",
+ "topicName": "types of crime",
+ "version": 1,
+ "steps": [
+  {
+   "id": "44typesofcrime-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: GCSE RS focuses on three types of crime: hate crimes, theft and murder. You need to understand religious responses to each type and whether people who break the law for moral reasons should be punished. | RS Exam Tips — Types of Crime: 1. For Types of Crime questions, always include specific scriptural or source references where relevant 2. Explain both religious and non-religious viewpoints 3. Use specialist vocabulary precisely (e.g. terms from the specification) 4. Evaluate by analysing strengths and weaknesses of different views before reaching your conclusion 5. Link your discussion of Types of Crime to its real-world impact on believers and society | UK Context: In the UK, debates about often involve both religious and secular voices. Parliament considers evidence from fait"
+  },
+  {
+   "id": "44typesofcrime-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two religious responses to hate crime."
+  },
+  {
+   "id": "44typesofcrime-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on RS Exam Tips — Types of Crime, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

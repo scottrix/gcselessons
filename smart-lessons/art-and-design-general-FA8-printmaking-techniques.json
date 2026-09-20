@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "FA8-printmaking-techniques",
+ "topicName": "printmaking techniques",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8printmakingtechniques-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Relief printing (linocut, woodcut) cuts away negative space; the raised surface is inked and printed. | Key Fact: Intaglio (drypoint, etching) holds ink in incised lines below the surface; the plate surface is wiped clean. | Key Fact: Screen printing forces ink through a mesh stencil; monoprinting creates one unique print from a painted surface. | Key Fact: Editioning means producing multiple identical prints; registration ensures colours align in multi-plate prints."
+  },
+  {
+   "id": "8printmakingtechniques-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring printmaking techniques. Annotate your process. | Research an artist or designer who works with printmaking techniques. Write a critical analysis of their approach and explain how it has informed your | Evaluate the effectiveness of your experiments with printmaking techniques. Which approaches were most successful and why?"
+  },
+  {
+   "id": "8printmakingtechniques-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Produce a series of prints using at least two different printmaking techniques. Annotate each print explaining the process, how you achieved different effects, and what you learned from comparing techniques. <div class=\""
+  },
+  {
+   "id": "8printmakingtechniques-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Fine Art Exam Tips, and one past-paper question."
+  }
+ ]
+}

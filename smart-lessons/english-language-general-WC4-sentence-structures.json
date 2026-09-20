@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "WC4-sentence-structures",
+ "topicName": "sentence structures",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4sentencestructures-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Point: Sentence variety is essential for AO6 marks. Writing that uses only one sentence type feels monotonous and shows limited technical control. Varied sentences create rhythm, pace, and impact. | Short Sentences = Impact: A short sentence after several long ones stands out. It hits the reader harder because it's surrounded by more complex structures. | FANBOYS - Coordinating Conjunctions: For, And, Nor, But, Or, Yet, So | Subordinating Conjunctions: Because, although, when, while, if, since, before, after, unless, as, though, whereas"
+  },
+  {
+   "id": "4sentencestructures-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What is the difference between a simple, compound, and complex sentence? | Name three ways to vary sentence openings. | When would you use short sentences in your writing?"
+  },
+  {
+   "id": "4sentencestructures-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Point, Short Sentences = Impact, FANBOYS - Coordinating Conjunctions, and one past-paper question."
+  }
+ ]
+}

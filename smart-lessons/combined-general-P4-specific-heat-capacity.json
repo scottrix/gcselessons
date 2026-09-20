@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "P4-specific-heat-capacity",
+ "topicName": "p4 specific heat capacity",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4specificheatcapacity-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Specific heat capacity (c): The amount of energy needed to change the temperature of 1 kg of a substance by 1 °C. Measured in joules per kilogram per degree Celsius (J/kg°C). | Key idea: Different substances need different amounts of energy to change their temperature by the same amount. A substance with a high SHC takes a lot of energy to heat up, but also stores a lot of energy. | Rearranging the equation: c = ΔE / (m x ΔT). m = ΔE / (c x ΔT). ΔT = ΔE / (m x c). | Water has a very high SHC: — it takes 4200 J to heat 1 kg of water by 1 °C. This means water stores a lot of thermal energy, which is why it is used in central heating systems and as a coolant."
+  },
+  {
+   "id": "4specificheatcapacity-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Define specific heat capacity and state its unit. | Foundation Calculate the energy needed to heat 3 kg of water from 15 °C to 85 °C. c = 4200 J/kg°C. | Foundation Explain why water is used in central heating systems rather than oil."
+  },
+  {
+   "id": "4specificheatcapacity-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Describe how you would investigate the specific heat capacity of a metal block in the laboratory. Explain your method and evaluate the main sources of error and how they affect the result. <div class=\""
+  },
+  {
+   "id": "4specificheatcapacity-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Specific heat capacity (c), Rearranging the equation, Water has a very high SHC, and one past-paper question."
+  }
+ ]
+}

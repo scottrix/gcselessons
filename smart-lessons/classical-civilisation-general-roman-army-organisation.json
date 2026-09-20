@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "roman-army-organisation",
+ "topicName": "the roman army",
+ "version": 1,
+ "steps": [
+  {
+   "id": "romanarmyorganisation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Roman army was the most effective military force in the ancient world, enabling Rome's imperial expansion | Key Fact: A legion consisted of approximately 5,000-6,000 soldiers divided into ten cohorts | Key Fact: Each cohort had six centuries of 80 men commanded by a centurion | Key Fact: Legionaries were Roman citizens who served 25 years; auxiliaries were non-citizens who gained citizenship on discharge"
+  },
+  {
+   "id": "romanarmyorganisation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far was Roman military success due to organisation rather than tactics? (15 marks) <div class=\""
+  },
+  {
+   "id": "romanarmyorganisation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the roman army, and one past-paper question."
+  }
+ ]
+}

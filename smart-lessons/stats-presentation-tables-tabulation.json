@@ -1,0 +1,26 @@
+{
+ "subject": "statistics",
+ "topic": "tables-tabulation",
+ "topicName": "tables &amp; tabulation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "tablestabulation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A tally chart uses strokes to record data count, with every fifth stroke crossing the previous four for easy counting. | Key Fact: A frequency table lists each data value or class alongside its frequency (count of occurrences). | Key Fact: Grouped frequency tables organise continuous data into class intervals; each interval has a lower and upper boundary. | Key Fact: Class width is the difference between the upper and lower class boundaries; all classes in a table may have equal or unequal widths."
+  },
+  {
+   "id": "tablestabulation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A survey of 60 households recorded the number of pets owned. The results are shown in the grouped frequency table below. Estimate the mean number of pets. Class intervals: 0–2 (f=22), 2–4 (f=18), 4–6 (f=12), 6–8 (f=8) <div class=\""
+  },
+  {
+   "id": "tablestabulation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from tables &amp;amp; tabulation, and one past-paper question."
+  }
+ ]
+}

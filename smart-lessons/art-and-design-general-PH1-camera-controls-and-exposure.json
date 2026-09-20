@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "PH1-camera-controls-and-exposure",
+ "topicName": "camera controls and exposure",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1cameracontrolsandexposure-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The exposure triangle: aperture (f-stop), shutter speed and ISO work together — changing one affects the others. | Key Fact: Aperture controls depth of field: wide aperture (f/1.8) = shallow DoF; narrow aperture (f/16) = deep DoF. | Key Fact: Shutter speed controls motion: fast (1/1000s) freezes action; slow (1/15s) creates blur and sense of movement. | Key Fact: ISO controls sensor sensitivity: low ISO (100) = clean image; high ISO (3200+) = noisy/grainy but usable in low light."
+  },
+  {
+   "id": "1cameracontrolsandexposure-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring camera controls and exposure. Annotate your process. | Research an artist or designer who works with camera controls and exposure. Write a critical analysis of their approach and explain how it has informe | Evaluate the effectiveness of your experiments with camera controls and exposure. Which approaches were most successful and why?"
+  },
+  {
+   "id": "1cameracontrolsandexposure-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Photograph the same subject using three different aperture settings and three different shutter speeds. Create a contact sheet showing all exposures. Annotate the creative effect of each setting. <div class=\""
+  },
+  {
+   "id": "1cameracontrolsandexposure-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Photography Exam Tips, and one past-paper question."
+  }
+ ]
+}

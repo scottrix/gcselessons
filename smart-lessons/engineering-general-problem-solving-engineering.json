@@ -1,0 +1,26 @@
+{
+ "subject": "engineering",
+ "topic": "problem-solving-engineering",
+ "topicName": "problem-solving in engineering",
+ "version": 1,
+ "steps": [
+  {
+   "id": "problemsolvingengineering-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Engineering problem-solving follows a systematic process: define, research, develop, test, evaluate, iterate. | Key Fact: The design brief defines the problem, requirements, constraints and criteria for success. | Key Fact: A specification translates the brief into measurable technical requirements: dimensions, materials, performance targets. | Key Fact: Research gathers information about existing solutions, materials, processes, user needs and relevant standards."
+  },
+  {
+   "id": "problemsolvingengineering-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A company needs a portable tablet stand for site engineers that is stable on uneven ground, folds flat and costs under 15 pounds to manufacture. Describe the problem-solving process from brief to final design. [8 marks] <div class=\""
+  },
+  {
+   "id": "problemsolvingengineering-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from problem-solving in engineering, and one past-paper question."
+  }
+ ]
+}

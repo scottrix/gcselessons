@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "FN2-micronutrients",
+ "topicName": "micronutrients: vitamins & minerals",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2micronutrients-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Vitamins are organic compounds needed in small amounts for metabolic processes. Minerals are inorganic elements needed for structural and regulatory functions. | Key Fact: Fat-soluble vitamins (A, D, E, K) are stored in the liver and fatty tissues. They can accumulate to toxic levels if consumed in excess. They are absorbed with dietary fat. | Key Fact: Water-soluble vitamins (B complex, C) are not stored in the body — excess is excreted in urine. They must be consumed regularly. They can be destroyed by heat, light, and water during cooking. | Key Fact: Vitamin A: function — vision (especially night vision), skin health, immune function. Sources — liver, carrots, sweet potatoes, spinach. Deficiency — night blindness."
+  },
+  {
+   "id": "2micronutrients-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain why micronutrient deficiencies remain a public health concern in the UK. [12 marks] <div class=\""
+  },
+  {
+   "id": "2micronutrients-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from micronutrients: vitamins &amp; minerals, and one past-paper question."
+  }
+ ]
+}

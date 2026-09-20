@@ -1,0 +1,32 @@
+{
+ "subject": "english-language",
+ "topic": "R1-retrieval",
+ "topicName": "retrieval & literal comprehension",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1retrieval-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Retrieval means finding information that is directly stated in the text. You don't need to guess or interpret - the answer is right there in black and white. | : Top Tips: Write in your own words where possible (but keep close to the text) You can use bullet points or numbered lists Each point should be a complete idea Don't repeat the same point in different words | Examiner's Tip: This is one of the easiest questions on the paper. Don't overthink it - just find four things and write them down. Aim to complete this in about 5 minutes. | Retrieval Exam Strategy: This is the easiest question on the paper - don't overcomplicate it. For AQA Paper 1 Q1 (4 marks), spend no more than 5 minutes. Read the question carefully, note any line references, scan for keywords, then write four "
+  },
+  {
+   "id": "1retrieval-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "When answering a \"List four things\" question, should you use your own words or copy the text exactly? | What's the difference between retrieval and inference? | How long should you spend on AQA Paper 1 Q1?"
+  },
+  {
+   "id": "1retrieval-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response 4 marks: Look in detail at lines 1-8. List four things you learn about the setting from this part of the source. <div class=\""
+  },
+  {
+   "id": "1retrieval-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Examiner&#x27;s Tip, Retrieval Exam Strategy, and one past-paper question."
+  }
+ ]
+}

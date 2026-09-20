@@ -1,0 +1,32 @@
+{
+ "subject": "sociology",
+ "topic": "SO22-sociological-research-methods",
+ "topicName": "sociological research methods",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22sociologicalresearchmethods-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Questionnaires: written questions (closed or open). Strengths: large samples, cheap, anonymous, replicable. Limitations: low response rate, social desirability bias, inflexible. | Key Fact: Interviews: structured, semi-structured, unstructured. Strengths: depth, follow-up, rapport. Limitations: interviewer bias, time-consuming, small samples. | Key Fact: Observations: participant vs non-participant, covert vs overt. Strengths: natural behaviour, ecological validity. Limitations: observer bias, ethical issues, time-consuming. Example: Patrick's Glasgow gang study. | Key Fact: Experiments: lab (rare in sociology), field experiments (e.g. Wood's CV study). Strengths: cause and effect, controlled. Limitations: artificial, ethical issues (deception)."
+  },
+  {
+   "id": "22sociologicalresearchmethods-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Compare questionnaires and interviews, evaluating strengths and limitations of each. | Explain why a sociologist might choose participant observation, and evaluate its ethical implications. | A researcher wants to study whether employers discriminate against ethnic minority applicants. Which method is most appropriate?"
+  },
+  {
+   "id": "22sociologicalresearchmethods-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the strengths and limitations of using questionnaires in sociological research. <div class=\""
+  },
+  {
+   "id": "22sociologicalresearchmethods-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sociology Exam Tips, UK Context, UK Context, and one past-paper question."
+  }
+ ]
+}

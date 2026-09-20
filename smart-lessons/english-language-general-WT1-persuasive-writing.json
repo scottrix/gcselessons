@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "WT1-persuasive-writing",
+ "topicName": "persuasive writing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1persuasivewriting-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Persuasive writing aims to convince the reader to agree with your viewpoint or take a specific action. It uses a range of techniques to appeal to logic, emotion, and credibility. | : Introduction: Hook the reader with a striking opening State your viewpoint clearly Outline what you'll discuss | : Main Body: Present your strongest argument first Support each point with evidence Use a new paragraph for each point Address counter-arguments | : Conclusion: Summarise your main points Reinforce your viewpoint End with a powerful call to action"
+  },
+  {
+   "id": "1persuasivewriting-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name three persuasive techniques and explain how each works. | Why is it important to address counter-arguments in persuasive writing? | Write an opening paragraph persuading your school to introduce a healthy eating policy."
+  },
+  {
+   "id": "1persuasivewriting-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Useful phrases for counter-arguments, Examiner&#x27;s Tip, Persuasive Writing Exam Strategy, and one past-paper question."
+  }
+ ]
+}

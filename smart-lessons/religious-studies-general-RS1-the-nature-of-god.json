@@ -1,0 +1,20 @@
+{
+ "subject": "religious-studies",
+ "topic": "RS1-the-nature-of-god",
+ "topicName": "the nature of god",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1thenatureofgod-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The problem of evil and suffering challenges the idea of an omnipotent, loving God. If God is all-powerful and all-loving, why does suffering exist? This is a key philosophical debate in GCSE RS. | Exam Tip: The word \"Trinity\" comes from \"tri\" meaning three and \"unity\" meaning one. The doctrine was formally established at the Council of Nicaea in 325 CE. The Trinity is not explicitly mentioned in the Bible but is inferred from passages like Matthew 28:19. | RS Exam Tips — The Nature of God: 1. For The Nature of God questions, always include specific scriptural or source references where relevant 2. Explain both religious and non-religious viewpoints 3. Use specialist vocabulary precisely (e.g. terms from the specification) 4. Evaluate by analysing strengths and weaknesses of diff"
+  },
+  {
+   "id": "1thenatureofgod-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exam Tip, RS Exam Tips — The Nature of God, and one past-paper question."
+  }
+ ]
+}

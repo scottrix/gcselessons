@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS17-brain-structure-and-function",
+ "topicName": "brain structure & function",
+ "version": 1,
+ "steps": [
+  {
+   "id": "17brainstructureandfunction-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The brain has four lobes: Frontal (planning, decision-making, personality, motor control), Parietal (sensory processing, spatial awareness), Temporal (hearing, language comprehension, memory), Occipital (visual processing). Each lobe has specialised functions (localisation of function). | Key Fact: The cerebral cortex is the outer layer of the brain responsible for higher-order functions: thinking, language, memory, perception and consciousness. It is divided into two hemispheres connected by the corpus callosum. | Key Fact: Language areas: Broca's area (left frontal lobe) - speech production. Damage causes Broca's aphasia (slow, non-fluent speech but comprehension is intact). Wernicke's area (left temporal lobe) - language comprehension. Damage causes Wernicke's aphasia (fluent "
+  },
+  {
+   "id": "17brainstructureandfunction-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the functions of the four lobes of the cerebral cortex. | Explain the difference between Broca's aphasia and Wernicke's aphasia, and what this tells us about localisation of function. | Evaluate whether the brain is best understood through localisation or holism."
+  },
+  {
+   "id": "17brainstructureandfunction-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the evidence for localisation of function in the brain. <div class=\""
+  },
+  {
+   "id": "17brainstructureandfunction-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

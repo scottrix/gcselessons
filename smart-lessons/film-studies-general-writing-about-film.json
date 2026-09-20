@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "writing-about-film",
+ "topicName": "writing about film",
+ "version": 1,
+ "steps": [
+  {
+   "id": "writingaboutfilm-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Analytical writing about film moves beyond personal opinion to sustained, evidence-based argument about how meaning is constructed. | Key Fact: Every claim in a film essay must be supported by specific evidence from the film: name the technique, describe its use and explain its effect. | Key Fact: Evaluative writing requires you to make a judgement and justify it, weighing evidence and considering alternative interpretations before reaching a conclusion. | Key Fact: Structure is essential: an introduction establishing your argument, focused body paragraphs each making one point, and a conclusion that synthesises your reasoning."
+  },
+  {
+   "id": "writingaboutfilm-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How can you ensure your film studies writing is analytical rather than merely descriptive? <div class=\""
+  },
+  {
+   "id": "writingaboutfilm-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from writing about film, and one past-paper question."
+  }
+ ]
+}

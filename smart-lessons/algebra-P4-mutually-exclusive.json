@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "P4-mutually-exclusive",
+ "topicName": "mutually exclusive events",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4mutuallyexclusive-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Two events are mutually exclusive if they cannot happen at the same time. If one happens, the other cannot."
+  },
+  {
+   "id": "4mutuallyexclusive-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "A dice is rolled. Are \"rolling an even number\" and \"rolling a 6\" mutually exclusive? | A bag has 5 red, 3 blue and 2 yellow balls. Find P(red or yellow). | P(A) = 0.4, P(B) = 0.35. If A and B are mutually exclusive, find P(A or B)."
+  },
+  {
+   "id": "4mutuallyexclusive-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A dice is rolled. Let A = \"even number\" and B = \"number greater than 4\". (a) Are A and B mutually exclusive? Justify your answer. (b) Find P(A), P(B), and P(A ∩ B). (c) Use the formula P(A ∪ B) = P(A) + P(B) − P(A ∩ B) to find P(A or B). <div class=\""
+  },
+  {
+   "id": "4mutuallyexclusive-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from mutually exclusive events, and one past-paper question."
+  }
+ ]
+}

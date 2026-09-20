@@ -1,0 +1,20 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "food-spoilage-microorganisms",
+ "topicName": "food spoilage & microorganisms",
+ "version": 1,
+ "steps": [
+  {
+   "id": "foodspoilagemicroorganisms-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Food spoilage is caused by microorganisms (bacteria, yeasts, moulds) breaking down food. | Key Fact: Bacteria are the most common cause of food spoilage and food-borne illness. | Key Fact: Yeasts cause fermentation, producing alcohol and carbon dioxide — useful in bread-making but spoilage in other foods. | Key Fact: Moulds grow as visible fuzzy patches and can produce harmful mycotoxins."
+  },
+  {
+   "id": "foodspoilagemicroorganisms-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from food spoilage &amp; microorganisms, and one past-paper question."
+  }
+ ]
+}

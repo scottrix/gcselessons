@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE31-technology-sport",
+ "topicName": "technology in sport",
+ "version": 1,
+ "steps": [
+  {
+   "id": "31technologysport-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Technology in sport: The use of scientific and digital innovations to improve officiating decisions, enhance performance, advance equipment design, and increase safety. Technology has transformed sport at every level, from grassroots to elite competition. | Balanced View: Technology has significantly improved accuracy, safety and performance in sport. However, it has also introduced new problems including cost inequality, delays and a diminished human element. The key challenge is finding the right balance between using technology to support sport and allowing it to dominate sport. | PE Exam Tips — Technology in Sport: 1. For Technology in Sport questions, use subject-specific terminology precisely 2. Support every point with specific evidence or examples 3. Show balanced analysis — consid"
+  },
+  {
+   "id": "31technologysport-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two positive impacts of technology on officials in sport. | How can technology create inequality in sport? Give specific examples. | Describe how VAR works in football and evaluate its impact on the game."
+  },
+  {
+   "id": "31technologysport-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Technology in sport, Balanced View, PE Exam Tips — Technology in Sport, and one past-paper question."
+  }
+ ]
+}

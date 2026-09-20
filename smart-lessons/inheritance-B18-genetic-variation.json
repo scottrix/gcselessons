@@ -1,0 +1,32 @@
+{
+ "subject": "biology",
+ "topic": "B18-genetic-variation",
+ "topicName": "genetic variation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "18geneticvariation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Genetic Variation: Variation exists between individuals of the same species due to genetic and environmental factors. Mutations create new alleles. Genetic engineering and selective breeding allow humans to modify organisms for specific purposes."
+  },
+  {
+   "id": "18geneticvariation-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between continuous and discontinuous variation, giving one example of each. | Describe what a mutation is and explain why most mutations have no effect on the phenotype. | Describe the process of genetic engineering used to produce human insulin in bacteria, naming the enzymes involved at each step."
+  },
+  {
+   "id": "18geneticvariation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Evaluate the advantages and disadvantages of genetic engineering. <div class=\""
+  },
+  {
+   "id": "18geneticvariation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Genetic Variation, and one past-paper question."
+  }
+ ]
+}

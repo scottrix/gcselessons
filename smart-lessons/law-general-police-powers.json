@@ -1,0 +1,26 @@
+{
+ "subject": "law",
+ "topic": "police-powers",
+ "topicName": "police powers &amp; civil liberties",
+ "version": 1,
+ "steps": [
+  {
+   "id": "policepowers-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Police and Criminal Evidence Act 1984 (PACE) is the primary statute governing police powers in England and Wales, balancing effective law enforcement with the protection of individual rights | Key Fact: Stop and search under PACE section 1 requires reasonable suspicion that the person has stolen or prohibited articles; the officer must state their name, station and the grounds for the search | Key Fact: Reasonable suspicion must be based on objective factors — it cannot be based solely on a person's race, age or appearance (PACE Code A) | Key Fact: An arrest without warrant under PACE section 24 requires reasonable suspicion that the person is about to commit, is committing or has committed an offence, and the arrest must be necessary"
+  },
+  {
+   "id": "policepowers-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response To what extent are police powers of stop and search balanced with the civil liberties of individuals? (15 marks) <div class=\""
+  },
+  {
+   "id": "policepowers-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from police powers &amp;amp; civil liberties, and one past-paper question."
+  }
+ ]
+}

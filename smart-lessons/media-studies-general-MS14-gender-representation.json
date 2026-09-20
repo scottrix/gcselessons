@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS14-gender-representation",
+ "topicName": "gender representation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "14genderrepresentation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Gender representation has been a central concern of media studies because media products both reflect and shape cultural attitudes about masculinity and femininity. | Key Fact: Laura Mulvey's 'male gaze' (1975): mainstream cinema positions audiences to view women through a heterosexual male perspective, objectifying their bodies for visual pleasure. | Key Fact: Traditional female stereotypes: damsel in distress, sex object, nagging wife, career woman (as threat), mother/housewife, femme fatale. These reduce complex identities to simple traits. | Key Fact: Traditional male stereotypes: action hero, family man, buffoon (in sitcoms), businessman, villain, lad. Masculinity is often linked to physical strength, stoicism, and control."
+  },
+  {
+   "id": "14genderrepresentation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the view that media representations of gender are becoming more progressive. Refer to your CSPs. [15 marks] <div class=\""
+  },
+  {
+   "id": "14genderrepresentation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from gender representation, and one past-paper question."
+  }
+ ]
+}

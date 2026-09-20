@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "TD2-knitting-weaving-and-crochet",
+ "topicName": "knitting weaving and crochet",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2knittingweavingandcrochet-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Knitting and crochet create fabric from yarn through interlocking loops — knit/purl for knitting; chain, double crochet, treble for crochet. | Key Fact: Tension/gauge determines fabric density — always make a tension square before starting a project to ensure correct sizing. | Key Fact: Weaving interlaces warp (lengthwise) and weft (crosswise) threads — tabby (plain) weave and twill weave are fundamental structures. | Key Fact: Colour work techniques (Fair Isle, intarsia) create patterns within knitted fabric through colour changes."
+  },
+  {
+   "id": "2knittingweavingandcrochet-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring knitting weaving and crochet. Annotate your process. | Research an artist or designer who works with knitting weaving and crochet. Write a critical analysis of their approach and explain how it has informe | Evaluate the effectiveness of your experiments with knitting weaving and crochet. Which approaches were most successful and why?"
+  },
+  {
+   "id": "2knittingweavingandcrochet-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Create samples using at least two construction techniques (knitting, weaving, crochet). Annotate each sample explaining the technique, its properties and how it could be developed in your project. <div class=\""
+  },
+  {
+   "id": "2knittingweavingandcrochet-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Textile Design Exam Tips, and one past-paper question."
+  }
+ ]
+}

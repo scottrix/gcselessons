@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "WT2-letters",
+ "topicName": "letters",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2letters-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Two main types: Formal letters (to officials, businesses, newspapers) and Informal letters (to friends and family). The exam usually requires formal letters. | Salutations: Dear Mr/Mrs/Ms [Surname] - if you know the name Dear Sir/Madam - if you don't know the name To the Editor - for letters to newspapers | Sign-offs: \"Yours sincerely\" - if you used a name (Dear Mr Smith) \"Yours faithfully\" - if you used Dear Sir/Madam | Top Tip: In exams, you're almost always asked to write a formal letter. Avoid contractions and slang. Use sophisticated vocabulary appropriately."
+  },
+  {
+   "id": "2letters-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "When should you use \"Yours faithfully\" versus \"Yours sincerely\"? | What is the correct order for a formal letter's components? | Write the opening of a letter to your local council about litter in your area."
+  },
+  {
+   "id": "2letters-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Two main types, Salutations, Sign-offs, and one past-paper question."
+  }
+ ]
+}

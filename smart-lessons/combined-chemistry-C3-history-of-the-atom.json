@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "C3-history-of-the-atom",
+ "topicName": "c3 history of the atom",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3historyoftheatom-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Atomic model: A representation of the structure of an atom. Our understanding of the atom has changed over time as new evidence was discovered. | Nucleus: The tiny, dense centre of an atom containing protons and neutrons. It has a positive charge due to the protons. | Electron shell: A fixed energy level at a set distance from the nucleus in which electrons orbit the nucleus. | Isotope: Atoms of the same element that have the same number of protons but a different number of neutrons. They have the same atomic number but different mass numbers."
+  },
+  {
+   "id": "3historyoftheatom-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Describe the plum pudding model and explain how the alpha scattering experiment disproved it. | Foundation A boron atom has atomic number 5 and mass number 11. Calculate the number of protons, neutrons and electrons. | Foundation Write the electron configuration for: (a) nitrogen (atomic number 7), (b) magnesium (atomic number 12), (c) potassium (atomic number 19)."
+  },
+  {
+   "id": "3historyoftheatom-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Describe how the atomic model has changed over time. Name the key scientist at each stage. <div class=\""
+  },
+  {
+   "id": "3historyoftheatom-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Atomic model, Nucleus, Electron shell, and one past-paper question."
+  }
+ ]
+}

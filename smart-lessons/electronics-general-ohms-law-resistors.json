@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "ohms-law-resistors",
+ "topicName": "ohm&#x27;s law &amp; resistor networks",
+ "version": 1,
+ "steps": [
+  {
+   "id": "ohmslawresistors-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: In series, total resistance R_total = R1 + R2 + R3; the same current flows through each resistor. | Key Fact: In parallel, 1/R_total = 1/R1 + 1/R2 + 1/R3; the same voltage is across each resistor. | Key Fact: For two resistors in parallel: R_total = (R1 × R2)/(R1 + R2). | Key Fact: A potential divider uses two series resistors to produce a fraction of the supply voltage: V_out = V_in × R2/(R1 + R2)."
+  },
+  {
+   "id": "ohmslawresistors-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain how to calculate the total resistance of a mixed series-parallel resistor network, and describe how a potential divider works. <div class=\""
+  },
+  {
+   "id": "ohmslawresistors-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from ohm&amp;#x27;s law &amp;amp; resistor networks, and one past-paper question."
+  }
+ ]
+}

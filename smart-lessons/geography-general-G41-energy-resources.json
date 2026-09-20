@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G41-energy-resources",
+ "topicName": "energy resources",
+ "version": 1,
+ "steps": [
+  {
+   "id": "41energyresources-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Global energy consumption is extremely uneven. The USA (4% of world population) consumes approximately 17% of global energy. Sub-Saharan Africa (14% of world population) consumes only 4% of global energy. The average American uses 77,000 kWh per year; the average Nigerian uses just 150 kWh. | Definition: Non-renewable resources exist in finite quantities and cannot be replenished within a human lifetime. They include fossil fuels (coal, oil, natural gas) and nuclear fuels (uranium). | Energy Security: Countries dependent on imported fossil fuels are vulnerable to supply disruptions and price shocks. The 2022 Russia-Ukraine war caused European gas prices to increase by over 400%, demonstrating the risks of energy import dependence. | Definition: Renewable resources can be replenis"
+  },
+  {
+   "id": "41energyresources-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why global energy consumption is unevenly distributed. | Compare the advantages and disadvantages of coal and wind power as energy sources. | What is energy security? Why is it a concern for many countries?"
+  },
+  {
+   "id": "41energyresources-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Energy Security, Key Concept, Geography Exam Tips — Energy Resources, and one past-paper question."
+  }
+ ]
+}

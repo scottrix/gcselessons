@@ -1,0 +1,20 @@
+{
+ "subject": "latin",
+ "topic": "verbs-conjugations",
+ "topicName": "verbs & conjugations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "verbsconjugations-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Latin verbs are conjugated (change form) to show person (1st, 2nd, 3rd), number (singular, plural), tense (when), voice (active/passive), and mood (indicative/subjunctive). | Key Fact: There are four conjugations, identified by the characteristic vowel in the present stem: 1st (-a-), 2nd (-e-), 3rd (short -e- or consonant), 4th (-i-). | Key Fact: Every Latin verb has four principal parts that must be memorised: e.g. laudo, laudare, laudavi, laudatus (I praise, to praise, I praised, praised). | Key Fact: Present tense personal endings: -o/m (I), -s (you), -t (he/she/it), -mus (we), -tis (you pl.), -nt (they)."
+  },
+  {
+   "id": "verbsconjugations-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from verbs &amp; conjugations, and one past-paper question."
+  }
+ ]
+}

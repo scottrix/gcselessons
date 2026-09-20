@@ -1,0 +1,26 @@
+{
+ "subject": "german",
+ "topic": "GM29-cases-nominative-accusative-dative-and-genitive",
+ "topicName": "cases: nominative, accusative, dative and genitive",
+ "version": 1,
+ "steps": [
+  {
+   "id": "29casesnominativeaccusativedat-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: German has four cases that show the role of a noun in a sentence. Each case affects the articles (der/die/das), adjectives and pronouns. | Exam Tip: Two-way prepositions: movement towards = ACCUSATIVE (Wohin?); location/position = DATIVE (Wo?). \"Ich gehe in die Stadt\" (acc — movement) vs \"Ich bin in der Stadt\" (dat — location). | German Exam Tips — Cases: Nominative, Accusative, Dative and Genitive: 1. For Cases: Nominative, Accusative, Dative and Genitive, use a range of vocabulary and complex grammatical structures to access higher marks 2. Check verb tenses, agreements and word order carefully in your written work 3. In translation tasks, translate meaning rather than word-for-word 4. When writing about Cases: Nominative, Accusative, Dative and Genitive, include opinions and j"
+  },
+  {
+   "id": "29casesnominativeaccusativedat-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Writing task: Write about the four german cases; when to use each; definite and indefinite articles in all cases; prepositions taking specific cases. <div class=\""
+  },
+  {
+   "id": "29casesnominativeaccusativedat-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exam Tip, and one past-paper question."
+  }
+ ]
+}

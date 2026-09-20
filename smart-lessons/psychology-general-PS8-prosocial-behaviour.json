@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS8-prosocial-behaviour",
+ "topicName": "prosocial behaviour",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8prosocialbehaviour-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Prosocial behaviour is any act that benefits others. Altruism is helping with no expectation of personal gain - the debate is whether true altruism exists or whether all helping is ultimately self-serving. | Key Fact: The bystander effect: people are less likely to help when others are present. Latane & Darley's (1968) smoke experiment: 75% helped when alone vs 10-38% when in a group. | Key Fact: Diffusion of responsibility: in a group, each person assumes someone else will help. This was famously linked to the murder of Kitty Genovese (1964), where 38 witnesses allegedly did nothing - though later accounts question this version. | Key Fact: The cost-reward model (Piliavin): people weigh up the costs of helping against the rewards. If costs outweigh rewards, people are less likel"
+  },
+  {
+   "id": "8prosocialbehaviour-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the bystander effect and explain why the presence of others reduces helping behaviour. | Evaluate whether true altruism exists, using psychological research. | Explain how the cost-reward model accounts for prosocial behaviour and evaluate its limitations."
+  },
+  {
+   "id": "8prosocialbehaviour-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the validity of the bystander effect as an explanation for failing to help in emergencies. <div class=\""
+  },
+  {
+   "id": "8prosocialbehaviour-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

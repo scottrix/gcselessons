@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS8-the-economic-climate",
+ "topicName": "the economic climate",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8theeconomicclimate-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Interest rates set by the Bank of England affect borrowing costs: higher rates = more expensive loans and mortgages, reducing consumer spending and business investment. | Key Fact: Inflation is the general rise in prices over time: high inflation erodes purchasing power and increases business costs, but low stable inflation (2% target) indicates a healthy economy. | Key Fact: Exchange rates affect import/export prices: a stronger pound makes imports cheaper but exports more expensive, hurting UK exporters but helping importers. | Key Fact: The business cycle has four stages: boom (high growth, low unemployment), recession (negative growth, rising unemployment), recovery (growth returns), and slowdown."
+  },
+  {
+   "id": "8theeconomicclimate-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain how a rise in interest rates from 2% to 5% might affect a business that has a large bank loan. | Analyse how a strengthening of the pound against the euro would affect a UK business that exports to France. | Evaluate whether a recession is always bad for businesses."
+  },
+  {
+   "id": "8theeconomicclimate-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate how a recession might affect a budget clothing retailer compared to a luxury fashion brand. <div class=\""
+  },
+  {
+   "id": "8theeconomicclimate-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "us-independent-film",
+ "topicName": "us independent film",
+ "version": 1,
+ "steps": [
+  {
+   "id": "usindependentfilm-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: US independent film is produced outside the major Hollywood studio system, typically with lower budgets, creative freedom and alternative approaches to narrative, representation and style. | Key Fact: Independent filmmaking often prioritises personal vision, artistic experimentation and social relevance over commercial considerations and mass audience appeal. | Key Fact: Key indie aesthetics include naturalistic performance, location shooting, handheld cinematography, non-linear narratives and ambiguous endings that challenge mainstream conventions. | Key Fact: The Sundance Film Festival, founded by Robert Redford in 1978, became the premier showcase for American independent film and a launchpad for indie careers and distribution."
+  },
+  {
+   "id": "usindependentfilm-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How does the independent status of your chosen US film shape its narrative, representations and visual style? <div class=\""
+  },
+  {
+   "id": "usindependentfilm-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from us independent film, and one past-paper question."
+  }
+ ]
+}

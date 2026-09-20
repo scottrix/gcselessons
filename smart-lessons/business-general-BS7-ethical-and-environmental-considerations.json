@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS7-ethical-and-environmental-considerations",
+ "topicName": "ethical and environmental considerations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7ethicalandenvironmentalconsid-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Corporate social responsibility (CSR) means businesses consider their impact on society and the environment, not just profit. | Key Fact: Ethical issues include: fair pay and working conditions, avoiding sweatshops, honest advertising, paying fair taxes, and sourcing materials responsibly. | Key Fact: Environmental considerations include: reducing carbon footprint, recycling, sustainable sourcing, minimising waste, and complying with environmental laws. | Key Fact: Pressure groups can influence business behaviour through campaigns, boycotts, and negative publicity - e.g. Greenpeace targeting companies with poor environmental records."
+  },
+  {
+   "id": "7ethicalandenvironmentalconsid-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain what is meant by corporate social responsibility and give two examples of how a business might demonstrate it. | Analyse how pressure groups can influence a business's decisions. | Evaluate whether a clothing retailer should switch to using only fair trade cotton, even though it will increase costs by 15%."
+  },
+  {
+   "id": "7ethicalandenvironmentalconsid-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a coffee shop chain should commit to using only Fairtrade coffee beans. <div class=\""
+  },
+  {
+   "id": "7ethicalandenvironmentalconsid-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS20-production-distribution",
+ "topicName": "production & distribution",
+ "version": 1,
+ "steps": [
+  {
+   "id": "20productiondistribution-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Media production involves three stages: pre-production (planning, scripting, storyboarding, casting, financing), production (filming, recording, creating), and post-production (editing, effects, sound mixing, grading). | Key Fact: Financing: media products are funded through various models — studio investment, licence fee (BBC), advertising, subscription, crowdfunding, and government grants. | Key Fact: Distribution is how media products reach audiences — cinema release, broadcast, streaming, physical media, print, and digital download. Each channel has different economics and audience reach. | Key Fact: Marketing strategies include: trailers, posters, social media campaigns, press junkets, premiere events, viral marketing, influencer partnerships, and merchandising."
+  },
+  {
+   "id": "20productiondistribution-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how digital technology has changed the production and distribution of media products. [15 marks] <div class=\""
+  },
+  {
+   "id": "20productiondistribution-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from production &amp; distribution, and one past-paper question."
+  }
+ ]
+}

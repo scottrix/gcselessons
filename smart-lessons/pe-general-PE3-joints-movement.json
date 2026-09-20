@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE3-joints-movement",
+ "topicName": "joints and movement",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3jointsmovement-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: A joint is where two or more bones meet. Most joints in the body allow movement, and these are called synovial joints . | Hinge Joint: Allows movement in one plane only - flexion and extension. Like a door hinge, it opens and closes in one direction. | Ball-and-Socket Joint: Allows movement in all three planes - the rounded head of one bone fits into the cup-shaped socket of another. This allows the widest range of movement of any joint type. | Key Concept: The type of joint determines which movements are possible. Hinge joints only allow flexion and extension (sagittal plane). Ball-and-socket joints allow all types of movement including rotation and circumduction."
+  },
+  {
+   "id": "3jointsmovement-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name the six key structures of a synovial joint and state the function of each. | Compare the range of movement possible at a hinge joint and a ball-and-socket joint. | What is the difference between a tendon and a ligament?"
+  },
+  {
+   "id": "3jointsmovement-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Hinge Joint, Ball-and-Socket Joint, Key Concept, and one past-paper question."
+  }
+ ]
+}

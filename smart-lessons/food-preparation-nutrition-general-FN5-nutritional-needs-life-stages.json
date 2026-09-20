@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "FN5-nutritional-needs-life-stages",
+ "topicName": "nutritional needs across life stages",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5nutritionalneedslifestages-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Nutritional needs change throughout life due to growth, development, activity levels, and physiological changes. Understanding these changes is essential for meal planning and public health advice. | Key Fact: Pregnancy: increased energy (200 kcal/day in third trimester), folate (prevents neural tube defects — 400μg supplement recommended pre-conception and first 12 weeks), iron (expanded blood volume), calcium and vitamin D (fetal bone development). Avoid: unpasteurised cheese, raw eggs, high-mercury fish, excess vitamin A. | Key Fact: Infancy (0-12 months): breast milk or formula provides all nutrients for first 6 months. Weaning (introducing solid foods) begins around 6 months — iron-rich foods are priority as iron stores deplete. Avoid: honey (botulism risk), salt, added suga"
+  },
+  {
+   "id": "5nutritionalneedslifestages-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare the nutritional needs of a pregnant woman and an elderly person, explaining why their requirements differ. [12 marks] <div class=\""
+  },
+  {
+   "id": "5nutritionalneedslifestages-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from nutritional needs across life stages, and one past-paper question."
+  }
+ ]
+}

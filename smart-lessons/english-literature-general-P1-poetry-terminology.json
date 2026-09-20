@@ -1,0 +1,26 @@
+{
+ "subject": "english-literature",
+ "topic": "P1-poetry-terminology",
+ "topicName": "poetry terminology",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1poetryterminology-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Why write a sonnet?: Traditionally about love. Using sonnet form signals: this is serious, this is about love, this connects to poetic tradition. | Golden Rule: Naming a technique scores zero marks. You must explain its EFFECT. | Top Tip: In poetry analysis questions, AO2 (language, form, structure) typically carries 30-36 marks. Name the technique, quote precisely, then explain the effect — this three-step sequence is the minimum for each analytical point. Aim for 3-4 developed technique discussions in a 30-mark response."
+  },
+  {
+   "id": "1poetryterminology-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What is enjambment and what effect can it create? | What's the difference between a caesura and an end-stopped line? | What are the features of a Shakespearean sonnet?"
+  },
+  {
+   "id": "1poetryterminology-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Why write a sonnet?, Golden Rule, Top Tip, and one past-paper question."
+  }
+ ]
+}

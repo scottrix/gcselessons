@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G22-coastal-landforms",
+ "topicName": "coastal landforms",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22coastallandforms-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Principle: Erosional landforms are created where the coastline is being worn back by wave action. The type of landform depends on the geology (hard vs soft rock), the wave energy, and the existing shape of the coastline. | Discordant vs Concordant: A discordant coastline has rock bands at right angles to the sea (headlands and bays). A concordant coastline has rock bands running parallel to the sea (like the Dorset coast with Lulworth Cove). | Key Principle: Depositional landforms form where wave energy decreases and sediment is deposited. They are made from sand, shingle and other sediment transported by longshore drift and currents. | Definition: A spit is a long, narrow ridge of sand and shingle that extends from the coast into the sea, formed by longshore drift depositing sediment "
+  },
+  {
+   "id": "22coastallandforms-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the formation of a wave-cut platform. (4 marks) | Explain the sequence from cave to stump on a headland. (4 marks) | Using a named example, explain how a spit forms. (4 marks)"
+  },
+  {
+   "id": "22coastallandforms-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Principle, Discordant vs Concordant, Key Principle, and one past-paper question."
+  }
+ ]
+}

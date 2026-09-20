@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "time-zones-coordinates",
+ "topicName": "time zones &amp; celestial coordinates",
+ "version": 1,
+ "steps": [
+  {
+   "id": "timezonescoordinates-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Time zones divide the Earth into 24 roughly 15°-wide zones, each one hour apart. The Prime Meridian (0°, Greenwich) defines Greenwich Mean Time (GMT) / Universal Time (UT). | Key Fact: Moving east: add 1 hour per 15° of longitude. Moving west: subtract 1 hour. The International Date Line (roughly 180°) is where the calendar date changes by one day. | Key Fact: British Summer Time (BST) = GMT+1, used from the last Sunday in March to the last Sunday in October. | Key Fact: The equatorial coordinate system fixes objects on the celestial sphere using right ascension (RA) and declination (Dec), analogous to longitude and latitude on Earth."
+  },
+  {
+   "id": "timezonescoordinates-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from time zones &amp;amp; celestial coordinates, and one past-paper question."
+  }
+ ]
+}

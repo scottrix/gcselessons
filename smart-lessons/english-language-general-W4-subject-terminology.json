@@ -1,0 +1,32 @@
+{
+ "subject": "english-language",
+ "topic": "W4-subject-terminology",
+ "topicName": "subject terminology",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4subjectterminology-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Important: Terminology helps you discuss WHAT writers do. But don't just name techniques - always explain their EFFECT. | Don't overuse terminology: A strong essay doesn't name every technique. Use terminology when it helps you explain HOW a writer creates effect. | Top Tip: AO2 specifically rewards \"relevant subject terminology where appropriate\" — the keyword is \"appropriate.\" A Grade 9 response uses terminology surgically: name the technique, then immediately explain its effect. Never list terms. An essay that names three techniques with precise effect analysis will always outscore one that names ten techniques with no explanation."
+  },
+  {
+   "id": "4subjectterminology-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What's the difference between a metaphor and a simile? | What is a soliloquy and why is it useful for playwrights? | What does dramatic irony mean?"
+  },
+  {
+   "id": "4subjectterminology-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response 30 marks: How does Shakespeare use language, form, and structure to present Macbeth's psychological deterioration? <div class=\""
+  },
+  {
+   "id": "4subjectterminology-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Don&#x27;t overuse terminology, Top Tip, and one past-paper question."
+  }
+ ]
+}

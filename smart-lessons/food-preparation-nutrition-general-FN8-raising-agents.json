@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "FN8-raising-agents",
+ "topicName": "raising agents & aeration",
+ "version": 1,
+ "steps": [
+  {
+   "id": "8raisingagents-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Raising agents introduce gas into mixtures, creating bubbles that expand during cooking, making products light and airy. There are three types: mechanical, chemical, and biological. | Key Fact: Mechanical aeration: physically incorporating air — whisking (eggs + sugar in sponge), creaming (butter + sugar in cakes), folding (retaining air when adding flour), rolling (puff pastry layers). | Key Fact: Steam: water turns to steam at 100°C, expanding dramatically (1700x volume). Steam raises Yorkshire puddings, choux pastry, and puff pastry. The initial burst of high heat creates rapid steam production. | Key Fact: Chemical raising agents: bicarbonate of soda (NaHCO₃) and baking powder (bicarbonate + cream of tartar). They produce carbon dioxide gas when activated."
+  },
+  {
+   "id": "8raisingagents-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare chemical and biological raising agents, explaining how they work and when each is used. [12 marks] <div class=\""
+  },
+  {
+   "id": "8raisingagents-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from raising agents &amp; aeration, and one past-paper question."
+  }
+ ]
+}

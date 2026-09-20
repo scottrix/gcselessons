@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS14-organisational-structures",
+ "topicName": "organisational structures",
+ "version": 1,
+ "steps": [
+  {
+   "id": "14organisationalstructures-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A hierarchical structure has many layers of management: clear chain of command but slow decision-making and communication can be distorted through layers. | Key Fact: A flat structure has few management layers: faster communication and decision-making, more responsibility for employees, but managers have wider spans of control (more direct reports). | Key Fact: Span of control is the number of subordinates a manager directly supervises: narrow span = closer supervision but more management layers; wide span = less supervision, fewer layers. | Key Fact: Chain of command is the line of authority from top to bottom: in a hierarchy, instructions flow down and reports flow up. Delayering removes middle management layers to speed up communication."
+  },
+  {
+   "id": "14organisationalstructures-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain two advantages and two disadvantages of a flat organisational structure. | Describe the difference between centralisation and decentralisation, and give one benefit of each. | Evaluate whether a large business should delayer its hierarchical structure."
+  },
+  {
+   "id": "14organisationalstructures-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a rapidly growing tech startup should change from a flat structure to a hierarchical one as it expands from 20 to 200 employees. <div class=\""
+  },
+  {
+   "id": "14organisationalstructures-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

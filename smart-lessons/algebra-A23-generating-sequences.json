@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A23-generating-sequences",
+ "topicName": "generating sequences",
+ "version": 1,
+ "steps": [
+  {
+   "id": "23generatingsequences-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Sequence: An ordered list of numbers. Each number is called a term. | Two types of rules: Term-to-term: How to get from one term to the next Position-to-term: Formula for the nth term"
+  },
+  {
+   "id": "23generatingsequences-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Generate the first 5 terms starting at 2, adding 4 each time. | Generate the first 4 terms starting at 1, multiplying by 2 each time. | Find the first 5 terms where uₙ = 3n - 1."
+  },
+  {
+   "id": "23generatingsequences-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A sequence has nth term 5n + 3. (a) Find the 1st, 10th and 100th terms. (b) Is 2023 in the sequence? Show working. (c) Two consecutive terms add to 73. Which two terms are they? <div class=\""
+  },
+  {
+   "id": "23generatingsequences-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Sequence, Two types of rules, and one past-paper question."
+  }
+ ]
+}

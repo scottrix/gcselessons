@@ -1,0 +1,26 @@
+{
+ "subject": "law",
+ "topic": "elements-crime",
+ "topicName": "elements of crime",
+ "version": 1,
+ "steps": [
+  {
+   "id": "elementscrime-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A crime requires two elements: actus reus (the guilty act) and mens rea (the guilty mind) | Key Fact: Actus reus can be a positive act, a failure to act (omission) or a state of affairs | Key Fact: Omissions generally do not create criminal liability unless there is a duty to act (e.g. parent–child, contract) | Key Fact: Causation requires both factual causation ('but for' test) and legal causation (proximate cause)"
+  },
+  {
+   "id": "elementscrime-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far is it justified to impose criminal liability for omissions? (15 marks) <div class=\""
+  },
+  {
+   "id": "elementscrime-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Law Exam Tips — Elements of Crime, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS17-events-issues-representation",
+ "topicName": "events & issues representation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "17eventsissuesrepresentation-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Media doesn't just report events — it constructs them through selection, framing, and emphasis, shaping how audiences understand social issues. | Key Fact: Agenda setting: the media doesn't tell people what to think, but it tells them what to think about. By choosing which stories to cover, media sets the public agenda. | Key Fact: Framing: how a story is presented (the angle, language, images) shapes its meaning. The same event can be framed as a 'protest' or a 'riot', a 'freedom fighter' or a 'terrorist'. | Key Fact: Moral panics (Stanley Cohen): when the media defines a group or behaviour as a threat to social values, creating public fear and demanding action. E.g. mods and rockers, video nasties, knife crime."
+  },
+  {
+   "id": "17eventsissuesrepresentation-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the role of media in constructing moral panics. [12 marks] <div class=\""
+  },
+  {
+   "id": "17eventsissuesrepresentation-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from events &amp; issues representation, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS21-global-media",
+ "topicName": "global media",
+ "version": 1,
+ "steps": [
+  {
+   "id": "21globalmedia-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Global media refers to media products and companies that operate across national boundaries, distributing content to worldwide audiences. | Key Fact: Cultural imperialism: the theory that Western (particularly American) media dominates global markets, overwhelming local cultures and imposing Western values. Hollywood films and American TV are distributed worldwide. | Key Fact: Glocalisation: global media products are adapted for local markets — e.g. McDonald's menus varying by country, or Netflix commissioning local-language content (Squid Game, Money Heist). | Key Fact: Transnational media companies: corporations that operate across multiple countries — e.g. Disney, Netflix, Sony. They produce and distribute content globally, but adapt strategies for local markets."
+  },
+  {
+   "id": "21globalmedia-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the impact of globalisation on media industries and audiences. [15 marks] <div class=\""
+  },
+  {
+   "id": "21globalmedia-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Media Studies Exam Tips — Global Media, and one past-paper question."
+  }
+ ]
+}

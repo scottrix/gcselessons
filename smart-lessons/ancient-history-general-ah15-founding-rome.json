@@ -1,0 +1,20 @@
+{
+ "subject": "ancient-history",
+ "topic": "ah15-founding-rome",
+ "topicName": "the founding of rome &amp; early kings",
+ "version": 1,
+ "steps": [
+  {
+   "id": "ah15foundingrome-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Roman legend traced Rome's origins to Aeneas (Trojan refugee) and the founding by Romulus and Remus (753 BC) | Key Fact: The seven kings ruled Rome from its founding until the overthrow of Tarquin the Proud (Superbus) in 509 BC | Key Fact: The last king, Tarquin Superbus, was a tyrant whose son Sextus raped Lucretia, triggering the rebellion led by Brutus | Key Fact: The Republic (res publica = 'public thing') replaced the monarchy: power was held by elected magistrates and the Senate"
+  },
+  {
+   "id": "ah15foundingrome-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the founding of rome &amp;amp; early kings, and one past-paper question."
+  }
+ ]
+}

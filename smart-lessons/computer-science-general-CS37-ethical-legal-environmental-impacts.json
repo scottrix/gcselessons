@@ -1,0 +1,26 @@
+{
+ "subject": "computer-science",
+ "topic": "CS37-ethical-legal-environmental-impacts",
+ "topicName": "ethical, legal & environmental impacts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "37ethicallegalenvironmentalimp-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Concept: Technology has wide-ranging impacts beyond just technical considerations. As computing professionals and informed citizens, we need to understand the ethical, legal, environmental, and cultural effects of technology on individuals and society. | The Debate: Should governments and organisations be able to collect and monitor personal data to improve security? This creates a conflict between individual privacy and collective security. | The Issue: As technology advances, many jobs are being automated (performed by machines or software instead of people). This raises ethical questions about unemployment, retraining, and economic inequality. | The Issue: AI systems can reflect and amplify human biases. If training data contains biases, the AI will produce biased results, potential"
+  },
+  {
+   "id": "37ethicallegalenvironmentalimp-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the ethical concerns around AI bias. Give an example. | What is the purpose of the Data Protection Act 2018? State three rights it gives to individuals. | Describe the three main offences under the Computer Misuse Act 1990."
+  },
+  {
+   "id": "37ethicallegalenvironmentalimp-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, The Debate, The Issue, and one past-paper question."
+  }
+ ]
+}

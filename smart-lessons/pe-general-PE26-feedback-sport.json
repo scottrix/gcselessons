@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE26-feedback-sport",
+ "topicName": "feedback in sport",
+ "version": 1,
+ "steps": [
+  {
+   "id": "26feedbacksport-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Feedback: Information received by a performer about the outcome of their action or the quality of their performance. Feedback is essential for learning and improvement as it completes the information processing loop. | Positive Feedback: Feedback that focuses on what the performer did correctly. It reinforces good technique and encourages the performer to repeat successful actions. | Negative Feedback: Feedback that identifies what the performer did incorrectly. It highlights errors and suggests corrections to improve future performance. It is NOT criticism - it is constructive information about what went wrong. | Exam Tip: \"Negative feedback\" does NOT mean telling someone they are bad. It means identifying what went wrong and providing constructive correction. If a coach just says \"that w"
+  },
+  {
+   "id": "26feedbacksport-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between knowledge of results and knowledge of performance, using a sporting example. | Why is positive feedback particularly important for beginners? | Describe the difference between extrinsic and intrinsic feedback and explain when each is most effective."
+  },
+  {
+   "id": "26feedbacksport-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Feedback, Positive Feedback, Negative Feedback, and one past-paper question."
+  }
+ ]
+}

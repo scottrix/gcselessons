@@ -1,0 +1,32 @@
+{
+ "subject": "english-literature",
+ "topic": "N3-gothic-literature",
+ "topicName": "gothic literature",
+ "version": 1,
+ "steps": [
+  {
+   "id": "3gothicliterature-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Gothic Definition: A genre that combines horror, death, romance and the supernatural. It explores what lies beneath the surface of civilization - our fears, desires and secrets. | Scientific Supernatural: Victorian Gothic often uses science to explain supernatural events. This reflects Victorian anxiety about science going too far - creating horrors through knowledge. | The Secret as Society: Gothic secrets reflect Victorian society's secrets - what respectable families hid behind closed doors. The secret reveals the hypocrisy beneath the surface. | Gothic Analysis Strategy: When writing about Gothic elements, the highest marks come from treating Gothic conventions as meaningful choices, not decorative features. Every Gothic element has an intellectual purpose: to explore anxiety, reveal r"
+  },
+  {
+   "id": "3gothicliterature-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Why were Victorians fascinated by Gothic literature despite their scientific progress? | How does Stevenson create terror before horror in \"Jekyll and Hyde\"? | What does the duality of Jekyll and Hyde reveal about Victorian society?"
+  },
+  {
+   "id": "3gothicliterature-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response 30 marks: How does Stevenson use Gothic conventions to explore Victorian fears in \"The Strange Case of Dr Jekyll and Mr Hyde\"? Write about: Stevenson's use of setting; Stevenson's use of the doppelganger; how Stevenson uses terror and horror. <div class=\""
+  },
+  {
+   "id": "3gothicliterature-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Gothic Definition, Scientific Supernatural, The Secret as Society, and one past-paper question."
+  }
+ ]
+}

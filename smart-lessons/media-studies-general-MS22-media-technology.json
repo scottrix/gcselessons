@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS22-media-technology",
+ "topicName": "media & technology",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22mediatechnology-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Technology has always shaped media — from the printing press to broadcast radio to the internet. Each technological shift transforms how media is produced, distributed, and consumed. | Key Fact: Digital transformation: the shift from analogue to digital has affected every media form — digital cameras, non-linear editing, streaming, online publishing, and social media. | Key Fact: Convergence: smartphones combine multiple media forms (camera, music player, social media, web browser, TV). This has changed audience behaviour — we carry entire media libraries in our pockets. | Key Fact: Streaming revolution: Netflix, Amazon Prime, Disney+ have disrupted cinema, broadcast TV, and physical media. Content is available on demand, anywhere, on any device."
+  },
+  {
+   "id": "22mediatechnology-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate the impact of digital technology on media audiences. [15 marks] <div class=\""
+  },
+  {
+   "id": "22mediatechnology-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from media &amp; technology, and one past-paper question."
+  }
+ ]
+}

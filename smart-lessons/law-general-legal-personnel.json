@@ -1,0 +1,26 @@
+{
+ "subject": "law",
+ "topic": "legal-personnel",
+ "topicName": "legal personnel",
+ "version": 1,
+ "steps": [
+  {
+   "id": "legalpersonnel-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Judges are appointed by the King on the advice of the Prime Minister and Lord Chancellor — they must be independent | Key Fact: The principle of judicial independence means judges are free from political pressure and cannot be removed easily | Key Fact: Judges are appointed through the Judicial Appointments Commission (JAC) based on merit through open competition | Key Fact: Magistrates are unpaid volunteers — around 12,000 sit in England and Wales, hearing 95% of criminal cases"
+  },
+  {
+   "id": "legalpersonnel-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How far does the legal profession provide effective representation for all? (15 marks) <div class=\""
+  },
+  {
+   "id": "legalpersonnel-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Law Exam Tips — Legal Personnel, and one past-paper question."
+  }
+ ]
+}

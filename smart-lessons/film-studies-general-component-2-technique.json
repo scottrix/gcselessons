@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "component-2-technique",
+ "topicName": "component 2 technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "component2technique-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Component 2 examines Global Film, requiring knowledge of set non-English language films and the ability to analyse and compare them. | Key Fact: Section A focuses on a non-English language European film, testing analysis of film language, representation and cultural context. | Key Fact: Section B focuses on a second non-English language film from outside Europe, testing similar skills with additional emphasis on global contexts. | Key Fact: Comparative analysis is central to Component 2: you must be able to discuss similarities and differences between your two set global films."
+  },
+  {
+   "id": "component2technique-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How should you approach a comparative question about two global films in Component 2? <div class=\""
+  },
+  {
+   "id": "component2technique-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from component 2 technique, and one past-paper question."
+  }
+ ]
+}

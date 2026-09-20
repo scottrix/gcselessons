@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "C1-atoms-and-elements",
+ "topicName": "c1 atoms and elements",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1atomsandelements-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Atom: The smallest particle of an element that can still be recognised as that element. Atoms are the building blocks of all matter. | Element: A substance made up of only one type of atom. Each element has a unique atomic number and is listed on the Periodic Table. | Compound: A substance made from two or more elements that are chemically combined in fixed proportions. Compounds can only be separated into their elements by chemical reactions. | Mixture: Two or more substances that are mixed together but are not chemically combined. Mixtures can be separated by physical methods such as filtration, distillation or chromatography."
+  },
+  {
+   "id": "1atomsandelements-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Define the term compound and give one example. | Foundation Explain the difference between a mixture and a compound. | Foundation Balance the following equation: H₂ + O₂ → H₂O"
+  },
+  {
+   "id": "1atomsandelements-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain the differences between elements, compounds and mixtures. <div class=\""
+  },
+  {
+   "id": "1atomsandelements-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Atom, Element, Compound, and one past-paper question."
+  }
+ ]
+}

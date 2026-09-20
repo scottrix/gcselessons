@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE1-skeletal-system",
+ "topicName": "the skeletal system",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1skeletalsystem-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The adult human skeleton is made up of 206 bones . At birth, humans have around 270 bones, but many fuse together as the body grows. | Exam Tip: The pectoral girdle (shoulder) and pelvic girdle (hip) are part of the appendicular skeleton, not the axial. A common mistake is thinking the pelvis belongs to the axial skeleton because it's in the centre of the body. | You must know all five functions: Support, Protection, Movement, Mineral Storage, Blood Cell Production. | The vertebral column: consists of 33 vertebrae stacked on top of each other, separated by intervertebral discs that act as shock absorbers."
+  },
+  {
+   "id": "1skeletalsystem-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name the five functions of the skeleton. | How many bones make up the axial skeleton? | Give one example each of a long bone, a short bone, a flat bone and an irregular bone."
+  },
+  {
+   "id": "1skeletalsystem-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Exam Tip, You must know all five functions, The vertebral column, and one past-paper question."
+  }
+ ]
+}

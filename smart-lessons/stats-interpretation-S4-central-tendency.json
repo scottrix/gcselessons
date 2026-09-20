@@ -1,0 +1,32 @@
+{
+ "subject": "statistics",
+ "topic": "S4-central-tendency",
+ "topicName": "s4 central tendency",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4centraltendency-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Measures of central tendency identify the \"average\" or \"typical\" value in a set of data. The three main measures are mean, median, and mode."
+  },
+  {
+   "id": "4centraltendency-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Find the mean, median, and mode of: 4, 6, 8, 6, 5, 6, 9 | The mean of 5 numbers is 12. Four of the numbers are 10, 15, 8, 14. Find the fifth number. | Find the range: 23, 45, 12, 67, 34, 89, 56"
+  },
+  {
+   "id": "4centraltendency-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Two classes take the same test. Class A: 25 students, mean = 62, range = 35. Class B: 30 students, mean = 58, range = 50. (a) Calculate the combined mean for all 55 students. (b) Compare the performance of the two classes, commenting on both average and spread. (c) A new student joins Class A and scores 95. Explain the effect on the mean and median of Class A. <div class=\""
+  },
+  {
+   "id": "4centraltendency-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from s4 central tendency, and one past-paper question."
+  }
+ ]
+}

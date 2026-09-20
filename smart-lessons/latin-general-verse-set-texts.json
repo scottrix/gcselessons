@@ -1,0 +1,26 @@
+{
+ "subject": "latin",
+ "topic": "verse-set-texts",
+ "topicName": "verse set texts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "versesettexts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: GCSE Latin verse set texts are prescribed by each exam board and change every two years. Check which texts are current for your exam year. | Key Fact: Common verse authors include Virgil (Aeneid), Ovid (Metamorphoses), Catullus (poems), and Horace (Odes and Satires). | Key Fact: Virgil's Aeneid is the national epic of Rome, telling how Aeneas fled Troy and founded the Roman race in Italy. Key themes: pietas, fate, the cost of empire. | Key Fact: Ovid's Metamorphoses tells myths of transformation, often with wit, irony, and playful subversion of epic conventions."
+  },
+  {
+   "id": "versesettexts-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare how Virgil and Ovid approach the theme of power in their verse set texts. (8 marks) <div class=\""
+  },
+  {
+   "id": "versesettexts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Latin Exam Tips — Verse Set Texts, and one past-paper question."
+  }
+ ]
+}

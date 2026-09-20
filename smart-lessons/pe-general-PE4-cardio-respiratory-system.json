@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE4-cardio-respiratory-system",
+ "topicName": "the cardio-respiratory system",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4cardiorespiratorysystem-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Sequence: Air travels through the respiratory system in this exact order: Nose → Pharynx → Larynx → Trachea → Bronchi → Bronchioles → Alveoli | Definition: Gaseous exchange is the diffusion of gases between the alveoli and the blood in the surrounding capillaries. Oxygen moves from the alveoli into the blood, and carbon dioxide moves from the blood into the alveoli. | Features that make alveoli efficient for gaseous exchange: Large surface area - approximately 70m² (roughly the size of a tennis court) Thin walls - alveoli and capillary walls are each one cell thick, creating a very short diffusion distance Moist lining - gases dissolve in the moisture before diffusing Dense capillary network - ensures constant blood flow for efficient exchange Good ventilation - constant supply of fres"
+  },
+  {
+   "id": "4cardiorespiratorysystem-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the pathway of air from the nose to the alveoli. | Explain three features of alveoli that make them efficient for gaseous exchange. | Why does the left ventricle have a thicker muscular wall than the right ventricle?"
+  },
+  {
+   "id": "4cardiorespiratorysystem-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Sequence, The heart, Key Concept, and one past-paper question."
+  }
+ ]
+}

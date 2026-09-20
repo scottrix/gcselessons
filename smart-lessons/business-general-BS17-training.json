@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS17-training",
+ "topicName": "training",
+ "version": 1,
+ "steps": [
+  {
+   "id": "17training-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Induction training introduces new employees to the business: health and safety, company culture, policies, and basic procedures. It helps new starters settle in quickly and feel valued. | Key Fact: On-the-job training: learning by doing the actual job, guided by an experienced colleague or mentor. It's practical, relevant, and cheap, but the trainer may pass on bad habits and production may slow during training. | Key Fact: Off-the-job training: learning away from the workplace (college courses, workshops, online programmes). It provides broader skills and professional qualifications, but is more expensive and may not be directly relevant to the specific job. | Key Fact: Training benefits: improved skills and productivity, better quality, fewer mistakes and accidents, increased m"
+  },
+  {
+   "id": "17training-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between on-the-job and off-the-job training, giving one advantage and one disadvantage of each. | Analyse how training can improve a business's competitiveness. | Evaluate whether a business should train its existing staff or recruit new employees who already have the required skills."
+  },
+  {
+   "id": "17training-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether a small catering business should send its chefs on an expensive off-the-job training course or train them on-the-job through mentoring by the head chef. <div class=\""
+  },
+  {
+   "id": "17training-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

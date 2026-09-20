@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "C9-chemical-calculations",
+ "topicName": "c9 chemical calculations",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9chemicalcalculations-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Relative atomic mass (A r ): The average mass of an atom of an element relative to 1/12th the mass of a carbon-12 atom. It is the number on the periodic table. | Relative formula mass (M r ): The sum of all the relative atomic masses of the atoms in a formula. Sometimes called relative molecular mass for molecules. | Mole: The amount of substance containing 6.02 × 10²³ particles (Avogadro's constant). One mole of any substance has a mass in grams equal to its relative formula mass. | Law of conservation of mass: In a chemical reaction, the total mass of the reactants equals the total mass of the products. No atoms are created or destroyed."
+  },
+  {
+   "id": "9chemicalcalculations-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Calculate the relative formula mass of MgCl₂. (A r : Mg = 24, Cl = 35.5) | Foundation How many moles are there in 20 g of NaOH? (A r : Na = 23, O = 16, H = 1) | Higher In the reaction Fe₂O₃ + 3CO → 2Fe + 3CO₂, calculate the mass of iron produced from 160 g of Fe₂O₃. (A r : Fe = 56, O = 16, C = 12)"
+  },
+  {
+   "id": "9chemicalcalculations-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Explain how to calculate the mass of product from a balanced symbol equation. <div class=\""
+  },
+  {
+   "id": "9chemicalcalculations-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Relative atomic mass (A r ), Relative formula mass (M r ), Mole, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G37-economic-change-uk",
+ "topicName": "economic change in the uk",
+ "version": 1,
+ "steps": [
+  {
+   "id": "37economicchangeuk-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: De-industrialisation is the decline in the importance of the secondary sector (manufacturing) in a country's economy, measured by output or employment. | Definition: A post-industrial economy is one where the service sector (tertiary) and knowledge-based industries (quaternary) dominate, having replaced manufacturing as the main source of employment and GDP. | Key Concept: Science parks are located near universities and focus on research and high-tech industries. Business parks are developments offering modern office space for service-sector companies. Both are typically located on the edge of cities where land is cheaper and transport links are good. | Key Concept: The north-south divide refers to the perceived economic and cultural differences between southern England (wealth"
+  },
+  {
+   "id": "37economicchangeuk-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the causes of de-industrialisation in the UK. | Describe the characteristics of a post-industrial economy using the UK as an example. | What is the north-south divide? Describe two ways the government has tried to reduce it."
+  },
+  {
+   "id": "37economicchangeuk-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Concept, Key Concept, Post-Brexit Challenges, and one past-paper question."
+  }
+ ]
+}

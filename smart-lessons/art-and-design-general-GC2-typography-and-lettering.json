@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "GC2-typography-and-lettering",
+ "topicName": "typography and lettering",
+ "version": 1,
+ "steps": [
+  {
+   "id": "2typographyandlettering-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Type anatomy: baseline, x-height, ascenders, descenders, cap height — understanding these helps you choose and use type effectively. | Key Fact: Serif fonts have decorative strokes; sans-serif are cleaner and more modern; script fonts suggest elegance or informality. | Key Fact: Typographic hierarchy uses size, weight, colour and position to guide the reader through information in order of importance. | Key Fact: Kerning (space between letters), tracking (overall letter spacing) and leading (line spacing) dramatically affect readability."
+  },
+  {
+   "id": "2typographyandlettering-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring typography and lettering. Annotate your process. | Research an artist or designer who works with typography and lettering. Write a critical analysis of their approach and explain how it has informed yo | Evaluate the effectiveness of your experiments with typography and lettering. Which approaches were most successful and why?"
+  },
+  {
+   "id": "2typographyandlettering-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Design a typographic poster using only letterforms (no images). Use typography to communicate a specific message, mood or theme. Annotate explaining your font choices, hierarchy and layout decisions. <div class=\""
+  },
+  {
+   "id": "2typographyandlettering-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Graphic Communication Exam Tips, and one past-paper question."
+  }
+ ]
+}

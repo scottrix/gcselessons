@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "film-scene-analysis",
+ "topicName": "film scene analysis",
+ "version": 1,
+ "steps": [
+  {
+   "id": "filmsceneanalysis-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Film scene analysis requires systematic examination of how micro features including cinematography, mise-en-scene, editing and sound create meaning and generate response. | Key Fact: Begin by watching the extract at least twice: first for overall impression and narrative content, then for detailed identification of specific film language techniques. | Key Fact: Cinematography analysis covers shot type, camera angle, camera movement, composition, focus and lighting, each of which contributes to meaning and audience positioning. | Key Fact: Mise-en-scene analysis examines setting, props, costume, performance, hairstyle and makeup, considering how each element has been deliberately chosen to communicate meaning."
+  },
+  {
+   "id": "filmsceneanalysis-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How should you analyse a film extract to demonstrate understanding of how micro features create meaning? <div class=\""
+  },
+  {
+   "id": "filmsceneanalysis-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from film scene analysis, and one past-paper question."
+  }
+ ]
+}

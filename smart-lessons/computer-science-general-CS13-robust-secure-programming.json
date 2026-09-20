@@ -1,0 +1,32 @@
+{
+ "subject": "computer-science",
+ "topic": "CS13-robust-secure-programming",
+ "topicName": "robust &amp; secure programming",
+ "version": 1,
+ "steps": [
+  {
+   "id": "13robustsecureprogramming-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Validation: is the process of checking that input data is reasonable, sensible, and within acceptable limits before it is processed. Validation does NOT check if data is accurate - only that it is acceptable. | Validation vs Verification: Validation checks if data is reasonable. Verification checks if data is correct (e.g. double-entry where you type the data twice to confirm it). They are different processes! | Authentication: is the process of verifying a user's identity. The most common method is a username and password system. Authentication ensures that only authorised users can access a system. | Testing: is the process of running a program with various inputs to check it works correctly. Good testing uses a range of test data to find errors."
+  },
+  {
+   "id": "13robustsecureprogramming-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Name three types of validation check and give an example of each. | A program asks for a test score between 0 and 100. Give examples of normal, boundary, and erroneous test data. | Explain the difference between a syntax error and a logic error."
+  },
+  {
+   "id": "13robustsecureprogramming-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A program asks a user to enter their age (1-120). Describe three different validation checks that should be applied, and explain the difference between validation and verification. [5 marks] <div class=\""
+  },
+  {
+   "id": "13robustsecureprogramming-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Validation, Validation vs Verification, Authentication, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS26-issues-and-debates",
+ "topicName": "issues & debates in psychology",
+ "version": 1,
+ "steps": [
+  {
+   "id": "26issuesanddebates-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Nature vs nurture: nature argues behaviour is determined by inherited genes and biology; nurture argues behaviour is determined by experience and environment. Modern view: interactionism - both contribute. Epigenetics shows environmental factors can switch genes on/off, demonstrating that nature and nurture interact. | Key Fact: Free will vs determinism: free will argues people have conscious control over their choices; determinism argues behaviour is caused by factors beyond our control. Biological determinism (genes/neurochemistry), environmental determinism (conditioning), and psychic determinism (unconscious drives). Soft determinism (Bandura): some freedom within determined constraints. | Key Fact: Reductionism vs holism: reductionism explains behaviour by breaking it down i"
+  },
+  {
+   "id": "26issuesanddebates-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the nature-nurture debate and evaluate whether behaviour is determined by nature or nurture. | Describe the difference between free will and determinism, giving examples of each from psychological research. | Evaluate whether psychological research suffers from ethnocentric and gender bias, and explain how this can be addressed."
+  },
+  {
+   "id": "26issuesanddebates-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the nature-nurture debate has been resolved by modern psychology. <div class=\""
+  },
+  {
+   "id": "26issuesanddebates-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

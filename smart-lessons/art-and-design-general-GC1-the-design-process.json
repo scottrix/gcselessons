@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "GC1-the-design-process",
+ "topicName": "the design process",
+ "version": 1,
+ "steps": [
+  {
+   "id": "1thedesignprocess-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A design brief defines the problem — who is the audience, what is the message, what are the constraints. | Key Fact: The design process is iterative: research, ideas, development, refinement, feedback, revision. | Key Fact: Mind-mapping and mood boards help generate and organise ideas visually at the start of a project. | Key Fact: Presenting to a client requires clear rationale — explain design decisions, not just show finished work."
+  },
+  {
+   "id": "1thedesignprocess-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring the design process. Annotate your process. | Research an artist or designer who works with the design process. Write a critical analysis of their approach and explain how it has informed your own | Evaluate the effectiveness of your experiments with the design process. Which approaches were most successful and why?"
+  },
+  {
+   "id": "1thedesignprocess-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Respond to a design brief for a music festival poster. Show your complete design process from initial research and mood boards through idea generation to final design. Annotate each stage. <div class=\""
+  },
+  {
+   "id": "1thedesignprocess-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Graphic Communication Exam Tips, and one past-paper question."
+  }
+ ]
+}

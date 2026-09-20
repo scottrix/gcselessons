@@ -1,0 +1,26 @@
+{
+ "subject": "media-studies",
+ "topic": "MS9-advertising-marketing",
+ "topicName": "advertising & marketing",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9advertisingmarketing-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Advertising is a paid form of persuasive communication that aims to promote products, services, or ideas to target audiences through various media platforms. | Key Fact: Marketing encompasses the broader strategy of identifying, anticipating, and satisfying customer requirements profitably — advertising is one tool within the marketing mix. | Key Fact: Persuasive techniques include: emotional appeal, fear, humour, celebrity endorsement, bandwagon (everyone's doing it), testimonials, rhetorical questions, and superlatives ('the best'). | Key Fact: AIDA model: Attention (grab the audience), Interest (hold it), Desire (create want), Action (prompt purchase). Most adverts follow this structure."
+  },
+  {
+   "id": "9advertisingmarketing-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse how one of your advertising CSPs targets and appeals to its audience. [15 marks] <div class=\""
+  },
+  {
+   "id": "9advertisingmarketing-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from advertising &amp; marketing, and one past-paper question."
+  }
+ ]
+}

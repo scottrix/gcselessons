@@ -1,0 +1,26 @@
+{
+ "subject": "law",
+ "topic": "consumer-rights",
+ "topicName": "consumer rights",
+ "version": 1,
+ "steps": [
+  {
+   "id": "consumerrights-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The Consumer Rights Act 2015 is the main law protecting consumers in contracts with businesses | Key Fact: Goods must be of satisfactory quality, fit for purpose and as described — if not, the consumer has rights to reject, repair or replacement | Key Fact: For faulty goods, the consumer has 30 days to reject for a full refund; after 30 days, they can request repair or replacement | Key Fact: If a repair or replacement fails, the consumer is entitled to a refund (which may be reduced for use)"
+  },
+  {
+   "id": "consumerrights-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How effectively does the Consumer Rights Act 2015 protect consumers? (15 marks) <div class=\""
+  },
+  {
+   "id": "consumerrights-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on GCSE Law Exam Tips — Consumer Rights, and one past-paper question."
+  }
+ ]
+}

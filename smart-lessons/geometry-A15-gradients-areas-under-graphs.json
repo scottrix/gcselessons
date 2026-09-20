@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A15-gradients-areas-under-graphs",
+ "topicName": "gradients & areas under graphs",
+ "version": 1,
+ "steps": [
+  {
+   "id": "15gradientsareasundergraphs-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Gradient of a graph: The rate of change. Calculated by finding the change in y divided by the change in x. | Area under a graph: Can represent important quantities in real contexts (e.g., distance for velocity-time graphs)."
+  },
+  {
+   "id": "15gradientsareasundergraphs-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "On a distance-time graph, what does the gradient represent? | On a velocity-time graph, what does the gradient represent? | On a velocity-time graph, what does the area under the graph represent?"
+  },
+  {
+   "id": "15gradientsareasundergraphs-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: A car accelerates uniformly from rest to 25 m/s in 10 seconds, maintains 25 m/s for 30 seconds, then decelerates uniformly to rest in 5 seconds. (a) Calculate the acceleration. (b) Calculate the total distance. (c) If the speed limit is 60 km/h, is the car breaking the limit? Show working. <div class=\""
+  },
+  {
+   "id": "15gradientsareasundergraphs-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Gradient of a graph, Area under a graph, and one past-paper question."
+  }
+ ]
+}

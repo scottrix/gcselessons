@@ -1,0 +1,26 @@
+{
+ "subject": "citizenship-studies",
+ "topic": "CI4-the-role-of-the-media",
+ "topicName": "the role of the media",
+ "version": 1,
+ "steps": [
+  {
+   "id": "4theroleofthemedia-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: A free press is essential for democracy: it holds power to account (investigative journalism exposed the MPs' expenses scandal), informs citizens (enabling informed voting), and provides a platform for debate. Freedom of the press is protected under Article 10 of the ECHR (freedom of expression). | Key Fact: Media regulation: Ofcom regulates broadcasting (TV, radio) - can impose fines and revoke licences. IPSO (Independent Press Standards Organisation) regulates newspapers - handles complaints but cannot impose fines. Some argue regulation should be stronger (Leveson Inquiry after phone-hacking scandal recommended statutory regulation of the press, but this was not fully implemented). | Key Fact: Media bias: all media has some bias - editorial choices about what to cover and how "
+  },
+  {
+   "id": "4theroleofthemedia-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the UK media supports or undermines democracy. <div class=\""
+  },
+  {
+   "id": "4theroleofthemedia-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the role of the media, and one past-paper question."
+  }
+ ]
+}

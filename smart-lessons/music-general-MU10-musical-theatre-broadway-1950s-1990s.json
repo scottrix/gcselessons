@@ -1,0 +1,32 @@
+{
+ "subject": "music",
+ "topic": "MU10-musical-theatre-broadway-1950s-1990s",
+ "topicName": "musical theatre: broadway 1950s-1990s",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10musicaltheatrebroadway1950s1-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Musical theatre combines drama, music and dance — songs advance the plot and reveal character, not just provide entertainment. | Key Fact: Leitmotifs (recurring musical themes) represent characters, places or ideas — used extensively in musicals to create associations. | Key Fact: Broadway orchestration combines classical instruments with rhythm section and amplification — the pit orchestra balances with sung text. | Key Fact: Singing styles: belt (powerful chest voice for emotional climaxes), legit (classical head voice for lyrical moments), mix (blend of both for versatility)."
+  },
+  {
+   "id": "10musicaltheatrebroadway1950s1-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe how musical theatre: broadway 1950s-1990s are used in a piece of music you have studied. Use musical vocabulary. | Compare how two different pieces use musical theatre: broadway 1950s-1990s. Explain the effect in each case. | How could you use musical theatre: broadway 1950s-1990s in your own composition or performance? Explain your choices."
+  },
+  {
+   "id": "10musicaltheatrebroadway1950s1-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Analyse a song from a musical, identifying how the musical elements support the dramatic situation. Use at least six terms from the AQA elements list. <div class=\""
+  },
+  {
+   "id": "10musicaltheatrebroadway1950s1-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Music Exam Tips, and one past-paper question."
+  }
+ ]
+}

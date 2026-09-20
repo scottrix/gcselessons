@@ -1,0 +1,26 @@
+{
+ "subject": "history",
+ "topic": "H29-education-elizabethan-world",
+ "topicName": "education and the elizabethan world",
+ "version": 1,
+ "steps": [
+  {
+   "id": "29educationelizabethanworld-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Context: The Elizabethan era saw a significant expansion in education, driven by the Renaissance emphasis on learning and the growing need for educated administrators, lawyers, and clergy. However, education was still limited by class and gender: most children received no formal education, and opportunities for girls were extremely restricted. | The Purpose of Education: Education in Elizabethan England was not about developing the individual - it was about producing trained men who could serve the state as administrators, diplomats, lawyers, and clergy. A knowledge of Latin was essential for all official and academic communication. The emphasis on classical learning meant that students were immersed in the values and ideas of ancient Rome and Greece, which shaped their worldview and p"
+  },
+  {
+   "id": "29educationelizabethanworld-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Describe the education a boy would receive at a grammar school in Elizabethan England. (4 marks) | Explain why education for girls was so limited in Elizabethan England. (4 marks) | Why did the Elizabethan theatre flourish? (8 marks)"
+  },
+  {
+   "id": "29educationelizabethanworld-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Context, The Purpose of Education, The Irony of Elizabeth&#x27;s Reign, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "engineering",
+ "topic": "engineering-ethics-sustainability",
+ "topicName": "engineering ethics &amp; sustainability",
+ "version": 1,
+ "steps": [
+  {
+   "id": "engineeringethicssustainabilit-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Engineering ethics guides decision-making when commercial, safety and environmental interests conflict. | Key Fact: The 6 Rs of sustainability: Rethink, Refuse, Reduce, Reuse, Recycle, Repair - applied in order of preference. | Key Fact: Cradle-to-grave analysis considers environmental impact from raw material extraction to final disposal. | Key Fact: Cradle-to-cradle (circular economy) design aims for products to be fully recycled or composted, eliminating waste."
+  },
+  {
+   "id": "engineeringethicssustainabilit-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response An engineer discovers a company is using non-certified material in safety-critical components. The manager says it is good enough and instructs the engineer to sign off the parts. Discuss the ethical issues and recommend action. [8 marks] <div class=\""
+  },
+  {
+   "id": "engineeringethicssustainabilit-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from engineering ethics &amp;amp; sustainability, and one past-paper question."
+  }
+ ]
+}

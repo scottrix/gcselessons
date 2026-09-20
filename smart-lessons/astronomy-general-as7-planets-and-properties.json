@@ -1,0 +1,20 @@
+{
+ "subject": "astronomy",
+ "topic": "as7-planets-and-properties",
+ "topicName": "planets &amp; their properties",
+ "version": 1,
+ "steps": [
+  {
+   "id": "as7planetsandproperties-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Mercury is the smallest planet, closest to the Sun, with no atmosphere and extreme temperature variations | Key Fact: Venus has a thick CO2 atmosphere causing a runaway greenhouse effect; it rotates retrograde | Key Fact: Earth is the only planet known to support life, with liquid water and a nitrogen-oxygen atmosphere | Key Fact: Mars has a thin CO2 atmosphere, the largest volcano (Olympus Mons) and canyon (Valles Marineris) in the Solar System"
+  },
+  {
+   "id": "as7planetsandproperties-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from planets &amp;amp; their properties, and one past-paper question."
+  }
+ ]
+}

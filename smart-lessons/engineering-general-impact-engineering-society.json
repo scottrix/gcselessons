@@ -1,0 +1,26 @@
+{
+ "subject": "engineering",
+ "topic": "impact-engineering-society",
+ "topicName": "impact of engineering on society",
+ "version": 1,
+ "steps": [
+  {
+   "id": "impactengineeringsociety-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Engineering creates both positive and negative impacts on society, the economy and the environment. | Key Fact: Positive social impacts: improved infrastructure, medical devices, communication technology and housing. | Key Fact: Negative social impacts: noise pollution, traffic congestion, community displacement and digital divide. | Key Fact: Positive economic impacts: job creation, export revenue, technology spin-offs and improved productivity."
+  },
+  {
+   "id": "impactengineeringsociety-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A company plans to build a large wind farm on agricultural land. Discuss the social, economic and environmental impacts. [8 marks] <div class=\""
+  },
+  {
+   "id": "impactengineeringsociety-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from impact of engineering on society, and one past-paper question."
+  }
+ ]
+}

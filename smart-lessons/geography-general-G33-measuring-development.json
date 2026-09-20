@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G33-measuring-development",
+ "topicName": "measuring development",
+ "version": 1,
+ "steps": [
+  {
+   "id": "33measuringdevelopment-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Development is the process of improvement in a country's economic and social conditions. It involves changes in wealth, health, education, and standard of living. | Definition: GNI per head is the total value of goods and services produced by a country in a year, plus income from abroad, divided by the population. It is measured in US dollars. | Key Link: Social and economic indicators are closely connected. Higher GNI means more money for healthcare and education, which leads to lower infant mortality, higher life expectancy, and better literacy rates. | Definition: The HDI is a composite indicator created by the United Nations that combines three measures of development: GNI per head (PPP), life expectancy at birth, and mean years of schooling."
+  },
+  {
+   "id": "33measuringdevelopment-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define the term 'GNI per head'. | Describe two limitations of using GNI per head as a measure of development. | Explain why the HDI is considered a better measure of development than GNI alone."
+  },
+  {
+   "id": "33measuringdevelopment-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Key Link, Exam Tip, Key Point, and one past-paper question."
+  }
+ ]
+}

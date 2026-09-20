@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A7-functions",
+ "topicName": "functions",
+ "version": 1,
+ "steps": [
+  {
+   "id": "7functions-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Function: A rule that takes an input (x) and gives exactly one output. Written as f(x), g(x), etc. | Key terms: Domain: All possible input values Range: All possible output values"
+  },
+  {
+   "id": "7functions-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Given f(x) = 4x - 3, find f(5) and f(-2). | Given g(x) = x² - 1, find g(3) and g(x + 1). | Find the inverse of f(x) = 2x - 7."
+  },
+  {
+   "id": "7functions-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: f(x) = 3x - 5 and g(x) = x + 2 ⁄ 4 . (a) Find f⁻¹(x). (b) Find gf(3). (c) Show that fg(x) ≠ gf(x) by finding both expressions. <div class=\""
+  },
+  {
+   "id": "7functions-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Function, Key terms, and one past-paper question."
+  }
+ ]
+}

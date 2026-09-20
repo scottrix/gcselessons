@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "P5-circuit-basics",
+ "topicName": "p5 circuit basics",
+ "version": 1,
+ "steps": [
+  {
+   "id": "5circuitbasics-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Electric current: The rate of flow of charge. Measured in amperes (A) using an ammeter connected in series. Current is the same in all parts of a series circuit. | Potential difference (voltage): The energy transferred per unit charge passing between two points. Measured in volts (V) using a voltmeter connected in parallel across the component. | Resistance: The opposition to the flow of current. Measured in ohms (Ω). Higher resistance means less current for a given voltage. | Ohm's Law: The current through a resistor at constant temperature is directly proportional to the potential difference across it. This means V = I x R."
+  },
+  {
+   "id": "5circuitbasics-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Foundation Name the component that measures current and state how it is connected in a circuit. | Foundation A resistor has 8 V across it and a current of 2 A flows through it. Calculate its resistance. | Foundation Describe the difference between the I-V graph of a resistor and a filament lamp."
+  },
+  {
+   "id": "5circuitbasics-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: Compare the I-V characteristics of a resistor, a filament lamp and a diode. Include descriptions of the graph shapes and explanations for each. <div class=\""
+  },
+  {
+   "id": "5circuitbasics-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Electric current, Potential difference (voltage), Resistance, and one past-paper question."
+  }
+ ]
+}

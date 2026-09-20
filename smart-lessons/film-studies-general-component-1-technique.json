@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "component-1-technique",
+ "topicName": "component 1 technique",
+ "version": 1,
+ "steps": [
+  {
+   "id": "component1technique-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Component 1 examines Key Films in US and UK cinema, testing your ability to analyse and evaluate film language, representation and context. | Key Fact: Section A focuses on US film, requiring detailed knowledge of your set US film including its production context, genre conventions and representations. | Key Fact: Section B focuses on UK film, requiring understanding of your set UK film including its social context, institutional background and cultural significance. | Key Fact: Both sections include extract-based questions where you analyse a sequence using precise film language terminology and connect techniques to meaning."
+  },
+  {
+   "id": "component1technique-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How should you approach an extended question about representation in Component 1? <div class=\""
+  },
+  {
+   "id": "component1technique-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from component 1 technique, and one past-paper question."
+  }
+ ]
+}

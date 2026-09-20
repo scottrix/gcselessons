@@ -1,0 +1,32 @@
+{
+ "subject": "business",
+ "topic": "BS20-price-and-place",
+ "topicName": "price and place",
+ "version": 1,
+ "steps": [
+  {
+   "id": "20priceandplace-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Cost-plus pricing: adds a mark-up percentage to the cost of production. Simple and ensures profit, but ignores customer willingness to pay and competitor prices. | Key Fact: Penetration pricing: set a low price to gain market share quickly, then raise it once established. Good for new products in competitive markets, but may create a 'cheap' image and low initial margins. | Key Fact: Price skimming: set a high initial price (skim the most willing customers), then lower it over time. Used for innovative products with no competition (e.g. new iPhone), but attracts competitors once they see the high margins. | Key Fact: Promotional pricing: temporary discounts, BOGOF, seasonal sales. Creates urgency and boosts short-term sales, but may train customers to wait for deals and reduces p"
+  },
+  {
+   "id": "20priceandplace-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between penetration pricing and price skimming, and when each would be appropriate. | Describe two advantages and two disadvantages of selling through a wholesaler rather than directly to retailers. | Evaluate whether a new premium coffee brand should use penetration pricing or price skimming when entering the UK market."
+  },
+  {
+   "id": "20priceandplace-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether an independent bookshop should focus on competitive pricing or differentiation when competing with Amazon. <div class=\""
+  },
+  {
+   "id": "20priceandplace-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Business Exam Tips, and one past-paper question."
+  }
+ ]
+}

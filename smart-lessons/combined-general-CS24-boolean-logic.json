@@ -1,0 +1,32 @@
+{
+ "subject": "combined-science",
+ "topic": "CS24-boolean-logic",
+ "topicName": "boolean logic",
+ "version": 1,
+ "steps": [
+  {
+   "id": "24booleanlogic-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Boolean logic is a form of algebra where all values are either TRUE (1) or FALSE (0). It is named after mathematician George Boole and forms the basis of how computers make decisions. | NOT gate: Takes a single input and produces the opposite (inverted) output. If input is 1, output is 0. If input is 0, output is 1. Also called an inverter. | AND gate: Takes two inputs and outputs 1 (TRUE) only if BOTH inputs are 1. If either or both inputs are 0, the output is 0. | OR gate: Takes two inputs and outputs 1 (TRUE) if EITHER or BOTH inputs are 1. The output is 0 only when both inputs are 0."
+  },
+  {
+   "id": "24booleanlogic-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Draw the truth table for Q = A . B | A circuit has the expression Q = (A OR B) AND NOT C. Draw the full truth table. | What is the difference between OR and XOR? Give a real-world example of each."
+  },
+  {
+   "id": "24booleanlogic-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Draw and complete the truth table for the following logic circuit: A AND B is fed into a NOT gate. Then explain what type of gate this combination produces. [4 marks] <div class=\""
+  },
+  {
+   "id": "24booleanlogic-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on NOT gate, AND gate, OR gate, and one past-paper question."
+  }
+ ]
+}

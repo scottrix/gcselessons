@@ -1,0 +1,32 @@
+{
+ "subject": "psychology",
+ "topic": "PS19-mental-health-introduction",
+ "topicName": "mental health: an introduction",
+ "version": 1,
+ "steps": [
+  {
+   "id": "19mentalhealthintroduction-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Mental health: a state of wellbeing where a person can cope with normal stresses, work productively, and contribute to their community (WHO definition). Mental health exists on a continuum - it is not simply 'healthy' or 'ill'. | Key Fact: Mental illness: a condition that affects thinking, feeling or behaviour, causing significant distress. The medical model views mental illness as a disease with biological causes (chemical imbalances, genetics, brain damage) treatable with medication. | Key Fact: The biopsychosocial model (Engel): mental illness results from biological factors (genes, neurotransmitters), psychological factors (cognitions, trauma, learned behaviour), and social factors (poverty, discrimination, social isolation). This is more comprehensive than the medical model "
+  },
+  {
+   "id": "19mentalhealthintroduction-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Compare the medical model with the biopsychosocial model of mental illness. | Explain how cultural factors can affect the diagnosis of mental health problems. | Evaluate whether the medical model is the best approach to understanding mental illness."
+  },
+  {
+   "id": "19mentalhealthintroduction-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Evaluate whether the medical model or the biopsychosocial model provides a better understanding of mental health problems. <div class=\""
+  },
+  {
+   "id": "19mentalhealthintroduction-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Psychology Exam Tips, and one past-paper question."
+  }
+ ]
+}

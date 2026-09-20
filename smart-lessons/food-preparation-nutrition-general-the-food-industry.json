@@ -1,0 +1,26 @@
+{
+ "subject": "food-preparation-nutrition",
+ "topic": "the-food-industry",
+ "topicName": "the food industry",
+ "version": 1,
+ "steps": [
+  {
+   "id": "thefoodindustry-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: The food industry encompasses all stages from farm to fork: production, processing, manufacturing, distribution, retail, and food service. | Key Fact: Primary production: farming (arable, pastoral, mixed), fishing, and aquaculture (fish farming). | Key Fact: Food manufacturing transforms raw ingredients into processed products; the UK food manufacturing sector is the largest manufacturing sector by employment. | Key Fact: Distribution includes transport (road, rail, sea, air), cold chain logistics (refrigerated transport and storage), and warehousing."
+  },
+  {
+   "id": "thefoodindustry-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Describe the journey of food from farm to fork, explaining the role of each stage in the supply chain. Discuss one environmental impact of the food industry. (8 marks) <div class=\""
+  },
+  {
+   "id": "thefoodindustry-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from the food industry, and one past-paper question."
+  }
+ ]
+}

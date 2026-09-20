@@ -1,0 +1,26 @@
+{
+ "subject": "geography",
+ "topic": "G44-fieldwork-data-collection",
+ "topicName": "fieldwork: data collection and presentation",
+ "version": 1,
+ "steps": [
+  {
+   "id": "44fieldworkdatacollection-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Primary Data: Data collected firsthand by the researcher specifically for their enquiry. It is original, specific to the study, and up-to-date. Secondary Data: Data collected by someone else, previously, for a different purpose. It provides wider context and comparison. | Key Concept: Sampling means selecting a subset of the total population or area to study. You cannot measure everything, so you take a representative sample. The sampling method determines how representative and unbiased your data is. | Definition: Systematic sampling collects data at regular, predetermined intervals. For example, measuring river characteristics every 500 metres downstream, or surveying every 5th house on a street. | Definition: Random sampling selects points entirely by chance, with no pattern or preferen"
+  },
+  {
+   "id": "44fieldworkdatacollection-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain the difference between primary and secondary data, giving two examples of each from fieldwork. | Compare systematic and random sampling. When might each be the better choice? | Explain what stratified sampling is and why it might be used in an urban fieldwork study."
+  },
+  {
+   "id": "44fieldworkdatacollection-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Primary Data, Key Concept, Key Principle, and one past-paper question."
+  }
+ ]
+}

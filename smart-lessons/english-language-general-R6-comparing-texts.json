@@ -1,0 +1,26 @@
+{
+ "subject": "english-language",
+ "topic": "R6-comparing-texts",
+ "topicName": "comparing texts",
+ "version": 1,
+ "steps": [
+  {
+   "id": "6comparingtexts-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Definition: Comparison involves identifying similarities and differences between texts, considering perspectives, methods, and how writers convey their viewpoints. | : Write about both texts in each paragraph, using comparative connectives to link them. | Examiner's Tip: You must compare BOTH perspectives AND methods. Use evidence from both texts equally. Spend about 20-25 minutes on this question. | Comparison Exam Strategy: This is AQA Paper 2 Q4 (16 marks) - spend 20-25 minutes. You must compare BOTH perspectives AND methods. Use an integrated approach: write about both texts in every paragraph, using comparative connectives (however, similarly, whereas, in contrast). Read both texts first and annotate them side by side. Identify each writer's viewpoint, then find 2-3 points of comparis"
+  },
+  {
+   "id": "6comparingtexts-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "What are the two main things you should compare between texts? | What is the difference between an integrated approach and writing about texts separately? | Name three comparative connectives for showing differences."
+  },
+  {
+   "id": "6comparingtexts-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Examiner&#x27;s Tip, Comparison Exam Strategy, and one past-paper question."
+  }
+ ]
+}

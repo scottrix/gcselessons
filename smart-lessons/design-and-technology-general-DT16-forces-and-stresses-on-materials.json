@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT16-forces-and-stresses-on-materials",
+ "topicName": "forces and stresses on materials",
+ "version": 1,
+ "steps": [
+  {
+   "id": "16forcesandstressesonmaterials-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Tension: pulling force that stretches - ropes, cables, bridge wires. Compression: pushing force that squashes - columns, arches, foam packaging. | Key Fact: Bending: combines tension (outer surface stretches) and compression (inner surface squashes) - I-beams concentrate material at flanges where forces are greatest. | Key Fact: Shear: forces in opposite directions parallel to a surface - scissors, bolted joints. Torsion: twisting force - drive shafts, screwdrivers. | Key Fact: Stress = Force / Area (N/m2). Strain = Change in length / Original length. Young's Modulus = Stress / Strain (measures stiffness)."
+  },
+  {
+   "id": "16forcesandstressesonmaterials-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "A shelf supports books. Explain where tension and compression occur in the shelf when loaded. | Explain why an I-beam is more efficient than a solid rectangular beam of the same weight. | A crane cable has UTS of 800 MPa and working stress of 200 MPa. Calculate the factor of safety and explain whether this is appropriate."
+  },
+  {
+   "id": "16forcesandstressesonmaterials-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A designer is creating a lightweight folding chair. Explain how tension, compression and bending act on the chair, and justify the material choices for the frame and seat. <div class=\""
+  },
+  {
+   "id": "16forcesandstressesonmaterials-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

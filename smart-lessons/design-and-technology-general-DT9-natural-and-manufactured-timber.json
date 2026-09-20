@@ -1,0 +1,32 @@
+{
+ "subject": "design-and-technology",
+ "topic": "DT9-natural-and-manufactured-timber",
+ "topicName": "natural and manufactured timber",
+ "version": 1,
+ "steps": [
+  {
+   "id": "9naturalandmanufacturedtimber-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Hardwoods: broad-leaved deciduous trees - dense, strong, durable, slow-growing (30-100 years). Oak (furniture, flooring), mahogany (boat building), ash (tool handles, sports equipment). | Key Fact: Softwoods: coniferous evergreen trees - less dense, faster growing (10-30 years), easier to work. Pine (construction, furniture), cedar (outdoor, rot-resistant), spruce (structural, instruments). | Key Fact: Plywood: thin veneers glued with grain alternating at 90 degrees - prevents warping, strong in all directions. | Key Fact: MDF: wood fibres bonded with resin - smooth, uniform, no grain direction, takes paint well, but dust is hazardous when cutting."
+  },
+  {
+   "id": "9naturalandmanufacturedtimber-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Explain why plywood is less likely to warp than solid timber of the same thickness. | A designer is making a kitchen worktop. Compare solid oak and MDF, justifying your recommendation. | Discuss the environmental advantages and disadvantages of using hardwoods in product design."
+  },
+  {
+   "id": "9naturalandmanufacturedtimber-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response A furniture designer must choose between solid ash and plywood for a curved dining chair seat. Evaluate both materials and justify your selection. <div class=\""
+  },
+  {
+   "id": "9naturalandmanufacturedtimber-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on D&amp;T Exam Tips, and one past-paper question."
+  }
+ ]
+}

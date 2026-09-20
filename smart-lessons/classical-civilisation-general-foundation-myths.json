@@ -1,0 +1,26 @@
+{
+ "subject": "classical-civilisation",
+ "topic": "foundation-myths",
+ "topicName": "foundation myths",
+ "version": 1,
+ "steps": [
+  {
+   "id": "foundationmyths-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Foundation myths (aetiological myths) explained how cities, customs and natural features came to exist | Key Fact: Cadmus founded Thebes after following a cow to its resting place and sowing dragon's teeth to create warriors | Key Fact: Theseus was the legendary founder of Athens who united Attica (synoecism) and slew the Minotaur | Key Fact: Romulus and Remus founded Rome after being suckled by a she-wolf — Romulus killed Remus over the city walls"
+  },
+  {
+   "id": "foundationmyths-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Explain the importance of foundation myths to the ancient Greeks and Romans. (12 marks) <div class=\""
+  },
+  {
+   "id": "foundationmyths-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from foundation myths, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "subject": "electronics",
+ "topic": "control-systems",
+ "topicName": "control systems &amp; microcontrollers",
+ "version": 1,
+ "steps": [
+  {
+   "id": "controlsystems-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: An open-loop control system has no feedback; the output is not checked against the desired value, so errors are not corrected automatically. | Key Fact: A closed-loop (feedback) control system measures the output and compares it with the set point, adjusting the input to reduce any error. | Key Fact: Closed-loop control uses a sensor to measure the output, a comparator to find the error, and a controller to correct it. | Key Fact: A microcontroller is a single-chip computer containing a processor, memory and input/output peripherals for embedded control."
+  },
+  {
+   "id": "controlsystems-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Compare open-loop and closed-loop control systems, and explain how a microcontroller can implement a closed-loop temperature control system. <div class=\""
+  },
+  {
+   "id": "controlsystems-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from control systems &amp;amp; microcontrollers, and one past-paper question."
+  }
+ ]
+}

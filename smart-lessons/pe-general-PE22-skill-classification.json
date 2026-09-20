@@ -1,0 +1,26 @@
+{
+ "subject": "pe",
+ "topic": "PE22-skill-classification",
+ "topicName": "skill classification",
+ "version": 1,
+ "steps": [
+  {
+   "id": "22skillclassification-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Skill: A learned action with a predetermined result that can be reproduced consistently with minimum effort and time. Skills are developed through practice and experience. | Ability: An innate, inherited trait that underpins skilled performance. Abilities are the building blocks of skills and are largely genetically determined. | Exam Tip: Most skills fall somewhere between the two extremes. A netball chest pass is basic, but adding a defender and deciding when to pass makes it more complex. Context matters. | Key Principle: The more open and externally paced a skill is, the more decision-making is required. Practice should therefore include game-like situations. Closed, self-paced skills can be practised in isolated, repetitive drills."
+  },
+  {
+   "id": "22skillclassification-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Define the terms 'skill' and 'ability' and explain the relationship between them. | Using a named sporting example, explain the difference between an open skill and a closed skill. | Classify a golf drive using all four skill classification continua."
+  },
+  {
+   "id": "22skillclassification-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Skill, Ability, Exam Tip, and one past-paper question."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "subject": "art-and-design",
+ "topic": "FA10-artists-and-art-movements",
+ "topicName": "artists and art movements",
+ "version": 1,
+ "steps": [
+  {
+   "id": "10artistsandartmovements-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Researching artists means understanding their CONTEXT — when, where and why they worked, not just what they made. | Key Fact: Critical analysis involves describing, analysing, interpreting and evaluating — move beyond I like it because it looks nice. | Key Fact: Key movements: Renaissance (realism, perspective), Impressionism (light, colour), Cubism (multiple viewpoints), Surrealism (dreams, subconscious), Abstract Expressionism (gesture, emotion), Pop Art (popular culture). | Key Fact: Your artist research should DIRECTLY inform your own work — do not just copy, respond and develop ideas."
+  },
+  {
+   "id": "10artistsandartmovements-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Create a series of experimental studies exploring artists and art movements. Annotate your process. | Research an artist or designer who works with artists and art movements. Write a critical analysis of their approach and explain how it has informed y | Evaluate the effectiveness of your experiments with artists and art movements. Which approaches were most successful and why?"
+  },
+  {
+   "id": "10artistsandartmovements-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response Research two artists from different movements. Write a critical analysis comparing their approaches, explaining their contexts, and showing how each has influenced the development of your personal project. <div class=\""
+  },
+  {
+   "id": "10artistsandartmovements-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Fine Art Exam Tips, and one past-paper question."
+  }
+ ]
+}

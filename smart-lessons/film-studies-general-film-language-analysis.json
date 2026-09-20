@@ -1,0 +1,26 @@
+{
+ "subject": "film-studies",
+ "topic": "film-language-analysis",
+ "topicName": "film language analysis",
+ "version": 1,
+ "steps": [
+  {
+   "id": "filmlanguageanalysis-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Key Fact: Film language analysis requires examining how cinematography, mise-en-scene, editing and sound work together to create meaning rather than treating each element in isolation. | Key Fact: A micro-feature is any individual element of film language — a specific shot type, a costume choice, an editing technique or a sound design decision. | Key Fact: Meaning in film is typically created through the interaction of multiple micro-features working in combination within a single sequence. | Key Fact: Denotation refers to the literal content of what is shown and heard; connotation refers to the suggested or associated meanings that arise from those elements."
+  },
+  {
+   "id": "filmlanguageanalysis-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Full-Mark Response How do the film language elements work together to create meaning for the audience in the extract? <div class=\""
+  },
+  {
+   "id": "filmlanguageanalysis-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on key terms from film language analysis, and one past-paper question."
+  }
+ ]
+}

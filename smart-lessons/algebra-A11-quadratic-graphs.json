@@ -1,0 +1,32 @@
+{
+ "subject": "mathematics",
+ "topic": "A11-quadratic-graphs",
+ "topicName": "quadratic graphs",
+ "version": 1,
+ "steps": [
+  {
+   "id": "11quadraticgraphs-l2",
+   "kind": "learn",
+   "title": "Lesson 2: Core Concepts",
+   "body": "Quadratic graph: A U-shaped curve called a parabola. The equation is y = ax² + bx + c. | Key features: Roots (x-intercepts): Where the curve crosses the x-axis (y = 0) y-intercept: Where the curve crosses the y-axis (x = 0) Turning point: The vertex (minimum or maximum point) Line of symmetry: Vertical line through the turning point"
+  },
+  {
+   "id": "11quadraticgraphs-l3",
+   "kind": "try",
+   "title": "Lesson 3: Application",
+   "body": "Find the y-intercept of y = x² - 4x + 3. | Find the roots of y = x² - 9. | Find the roots of y = x² - 5x + 6."
+  },
+  {
+   "id": "11quadraticgraphs-l4",
+   "kind": "check",
+   "title": "Lesson 4: Exam Practice",
+   "body": "Extended Answer 6 marks: y = x² - 6x + 5. (a) Find the y-intercept. (b) Find the roots. (c) Find the coordinates of the turning point. (d) Sketch the curve, labelling all key points. <div class=\""
+  },
+  {
+   "id": "11quadraticgraphs-hw",
+   "kind": "review",
+   "title": "Homework & Consolidation",
+   "body": "Consolidation, retrieval on Quadratic graph, Key features, and one past-paper question."
+  }
+ ]
+}
